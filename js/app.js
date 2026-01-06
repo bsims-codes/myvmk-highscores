@@ -289,25 +289,38 @@ function renderLeaderboard(gameId, data, searchQuery = '') {
   // Clear existing content
   leaderboardEl.innerHTML = '';
 
-  // Render avatar
+  const scores = data?.scores || [];
+  const topPlayer = scores[0];
+  const searchLower = searchQuery.toLowerCase();
+
+  // Render top player section with avatar and info
   if (avatarEl) {
-    if (data?.topAvatar) {
-      avatarEl.innerHTML = `<img src="data/avatars/${data.topAvatar}" alt="Top Player" onerror="this.parentElement.innerHTML='<div class=\\'avatar-placeholder\\'></div>'">`;
+    if (topPlayer) {
+      const isHighlighted = searchQuery && topPlayer.username.toLowerCase().includes(searchLower);
+      const avatarImg = data?.topAvatar
+        ? `<img src="data/avatars/${data.topAvatar}" alt="${escapeHtml(topPlayer.username)}" onerror="this.outerHTML='<div class=\\'avatar-placeholder\\'></div>'">`
+        : '<div class="avatar-placeholder"></div>';
+
+      avatarEl.innerHTML = `
+        ${avatarImg}
+        <div class="top-player-info${isHighlighted ? ' highlighted' : ''}">
+          <span class="top-player-rank">#1</span>
+          <span class="top-player-name">${escapeHtml(topPlayer.username)}</span>
+          <span class="top-player-score">${topPlayer.score.toLocaleString()}</span>
+        </div>
+      `;
     } else {
-      avatarEl.innerHTML = '<div class="avatar-placeholder"></div>';
+      avatarEl.innerHTML = '<div class="avatar-placeholder"></div><div class="top-player-info"><span class="top-player-name">No data</span></div>';
     }
   }
 
-  // Render scores
-  const scores = data?.scores || [];
-  if (scores.length === 0) {
-    leaderboardEl.innerHTML = '<li class="empty-state">No scores available</li>';
+  // Render scores 2-10 in leaderboard
+  if (scores.length <= 1) {
+    leaderboardEl.innerHTML = '<li class="empty-state">No additional scores</li>';
     return;
   }
 
-  const searchLower = searchQuery.toLowerCase();
-
-  for (const entry of scores) {
+  for (const entry of scores.slice(1)) {
     const li = document.createElement('li');
     const isHighlighted = searchQuery && entry.username.toLowerCase().includes(searchLower);
 

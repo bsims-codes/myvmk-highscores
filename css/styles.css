@@ -338,7 +338,7 @@ body::before {
   padding: 20px;
   text-align: center;
   position: relative;
-  min-height: 90px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -389,25 +389,58 @@ body::before {
 /* ===== Top Player Avatar ===== */
 .top-player {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  gap: 15px;
   margin-bottom: 20px;
+  padding: 10px;
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 215, 0, 0.02));
+  border-radius: 10px;
+  border: 1px solid rgba(255, 215, 0, 0.2);
 }
 
 .top-player img {
-  max-width: 100px;
-  max-height: 120px;
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  object-position: center top;
   border: 3px solid var(--color-gold);
   border-radius: 8px;
-  box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
   background: var(--color-bg-purple);
+  flex-shrink: 0;
+}
+
+.top-player-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.top-player-rank {
+  font-size: 0.8rem;
+  color: var(--color-gold);
+  font-weight: 600;
+}
+
+.top-player-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.top-player-score {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--color-gold-light);
 }
 
 .avatar-placeholder {
-  width: 80px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   border-radius: 8px;
   border: 3px solid var(--color-card-border);
   background: linear-gradient(135deg, var(--color-bg-purple), var(--color-bg-blue));
+  flex-shrink: 0;
 }
 
 /* ===== Leaderboard ===== */
@@ -576,24 +609,18 @@ body::before {
   margin-bottom: 8px;
 }
 
-.footer .last-updated {
-  color: var(--color-primary-light);
-  font-size: 0.85rem;
-  margin-top: 15px;
-}
-
 .footer .created-by {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
-  margin-top: 25px;
-  padding-top: 20px;
-  border-top: 1px solid var(--color-card-border);
+  gap: 15px;
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--color-card-border);
 }
 
 .footer .created-by img {
-  width: 50px;
+  width: 60px;
   height: auto;
   border-radius: 6px;
   border: 2px solid var(--color-gold);
@@ -602,8 +629,20 @@ body::before {
 
 .footer .created-by span {
   font-family: var(--font-display);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: var(--color-gold);
+}
+
+.footer .disclaimers p {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.footer .disclaimers .last-updated {
+  color: var(--color-primary-light);
+  font-size: 0.85rem;
+  margin-top: 15px;
 }
 
 /* ===== Responsive ===== */
