@@ -582,6 +582,30 @@ body::before {
   margin-top: 15px;
 }
 
+.footer .created-by {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid var(--color-card-border);
+}
+
+.footer .created-by img {
+  width: 50px;
+  height: auto;
+  border-radius: 6px;
+  border: 2px solid var(--color-gold);
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+}
+
+.footer .created-by span {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--color-gold);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
   .header {
