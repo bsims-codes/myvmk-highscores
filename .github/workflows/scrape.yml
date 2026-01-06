@@ -1,0 +1,48 @@
+name: Scrape High Scores
+
+on:
+  schedule:
+    # Run at 4am Eastern Time daily
+    # Note: GitHub Actions uses UTC. 4am EST = 9am UTC, 4am EDT = 8am UTC
+    # We schedule for both to ensure it runs at 4am Eastern year-round
+    - cron: '0 8 * * *'  # 4am EDT (summer)
+    - cron: '0 9 * * *'  # 4am EST (winter)
+  workflow_dispatch:  # Allow manual trigger for testing
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: node scripts/scraper.js
+        env:
+          TZ: America/New_York
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update scores for $(TZ=America/Los_Angeles date +%Y-%m-%d)"
+            git push
+          fi

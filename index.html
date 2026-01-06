@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MyVMK High Scores Tracker</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/png" href="https://download.myvmk.com/home/favicon-32x32.png">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="stars"></div>
+  <div class="sparkles"></div>
+
+  <header class="header">
+    <div class="header-content">
+      <h1 class="title">MyVMK High Scores</h1>
+      <p class="subtitle">Historical Score Tracking</p>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <!-- Search Bar -->
+    <div class="search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">&#128269;</span>
+        <input
+          type="text"
+          id="searchInput"
+          class="search-input"
+          placeholder="Search by username..."
+          autocomplete="off"
+        >
+        <button id="clearSearch" class="clear-search" style="display: none;">&#10005;</button>
+      </div>
+    </div>
+
+    <!-- Period Tabs -->
+    <nav class="period-tabs">
+      <button class="period-tab active" data-period="yesterday">Yesterday</button>
+      <button class="period-tab" data-period="week">This Week</button>
+      <button class="period-tab" data-period="month">This Month</button>
+      <button class="period-tab" data-period="alltime">All-Time</button>
+    </nav>
+
+    <!-- Loading State -->
+    <div id="loadingState" class="loading-state">
+      <div class="loading-spinner"></div>
+      <p>Loading scores...</p>
+    </div>
+
+    <!-- Error State -->
+    <div id="errorState" class="error-state" style="display: none;">
+      <p>Failed to load scores. Please try again later.</p>
+      <button onclick="location.reload()">Retry</button>
+    </div>
+
+    <!-- Games Grid -->
+    <div id="gamesGrid" class="games-grid" style="display: none;">
+      <!-- Castle Fireworks -->
+      <section class="game-card fireworks">
+        <div class="game-header">
+          <h2>Castle Fireworks Remixed</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="castle-fireworks-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="castle-fireworks-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- Pirates of the Caribbean -->
+      <section class="game-card pirates">
+        <div class="game-header">
+          <h2>Pirates of the Caribbean</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="pirates-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="pirates-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- Haunted Mansion -->
+      <section class="game-card haunted">
+        <div class="game-header">
+          <h2>Haunted Mansion</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="haunted-mansion-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="haunted-mansion-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- Jungle Cruise -->
+      <section class="game-card jungle">
+        <div class="game-header">
+          <h2>Jungle Cruise</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="jungle-cruise-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="jungle-cruise-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+    </div>
+
+    <!-- Historical Trends -->
+    <section id="trendsSection" class="trends-section" style="display: none;">
+      <h2 class="trends-title">Historical Trends</h2>
+      <p class="trends-subtitle">Top scores over time</p>
+      <div class="trends-grid">
+        <div class="trend-card">
+          <h3>Castle Fireworks Remixed</h3>
+          <canvas id="chart-castle-fireworks"></canvas>
+        </div>
+        <div class="trend-card">
+          <h3>Pirates of the Caribbean</h3>
+          <canvas id="chart-pirates"></canvas>
+        </div>
+        <div class="trend-card">
+          <h3>Haunted Mansion</h3>
+          <canvas id="chart-haunted-mansion"></canvas>
+        </div>
+        <div class="trend-card">
+          <h3>Jungle Cruise</h3>
+          <canvas id="chart-jungle-cruise"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- User History (shown when searching) -->
+    <section id="userHistorySection" class="user-history-section" style="display: none;">
+      <h2 class="user-history-title">Score History for <span id="searchedUsername"></span></h2>
+      <div class="user-history-grid">
+        <div class="user-history-card">
+          <h3>Castle Fireworks Remixed</h3>
+          <canvas id="user-chart-castle-fireworks"></canvas>
+        </div>
+        <div class="user-history-card">
+          <h3>Pirates of the Caribbean</h3>
+          <canvas id="user-chart-pirates"></canvas>
+        </div>
+        <div class="user-history-card">
+          <h3>Haunted Mansion</h3>
+          <canvas id="user-chart-haunted-mansion"></canvas>
+        </div>
+        <div class="user-history-card">
+          <h3>Jungle Cruise</h3>
+          <canvas id="user-chart-jungle-cruise"></canvas>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>This is a fan-made score tracker. Not affiliated with MyVMK or Disney.</p>
+    <p>Scores are scraped daily and preserved for historical tracking.</p>
+    <p class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

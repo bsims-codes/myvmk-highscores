@@ -1,0 +1,16 @@
+{
+  "name": "myvmk-high-scores",
+  "version": "1.0.0",
+  "description": "MyVMK High Scores Tracker - Daily scraping and historical tracking",
+  "main": "scripts/scraper.js",
+  "scripts": {
+    "scrape": "node scripts/scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.6.0",
+    "date-fns-tz": "^3.1.3",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
