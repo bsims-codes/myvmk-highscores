@@ -318,6 +318,8 @@ body::before {
 
 /* ===== Game Card ===== */
 .game-card {
+  display: flex;
+  flex-direction: column;
   background: var(--color-card-bg);
   border: 2px solid var(--color-card-border);
   border-radius: 20px;
@@ -336,6 +338,10 @@ body::before {
   padding: 20px;
   text-align: center;
   position: relative;
+  min-height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .game-header::after {
@@ -388,19 +394,18 @@ body::before {
 }
 
 .top-player img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
+  max-width: 100px;
+  max-height: 120px;
   border: 3px solid var(--color-gold);
+  border-radius: 8px;
   box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
-  object-fit: cover;
   background: var(--color-bg-purple);
 }
 
 .avatar-placeholder {
   width: 80px;
-  height: 80px;
-  border-radius: 50%;
+  height: 100px;
+  border-radius: 8px;
   border: 3px solid var(--color-card-border);
   background: linear-gradient(135deg, var(--color-bg-purple), var(--color-bg-blue));
 }
