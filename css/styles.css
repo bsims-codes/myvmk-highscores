@@ -177,7 +177,7 @@ body::before {
 /* ===== Search Bar ===== */
 .search-container {
   max-width: 500px;
-  margin: 0 auto 30px;
+  margin: 40px auto 30px;
 }
 
 .search-wrapper {
