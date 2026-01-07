@@ -72,7 +72,7 @@
     <!-- Games Grid -->
     <div id="gamesGrid" class="games-grid" style="display: none;">
       <!-- Castle Fireworks -->
-      <section class="game-card fireworks">
+      <section class="game-card fireworks" data-game="castle-fireworks">
         <div class="game-header">
           <h2>Castle Fireworks Remixed</h2>
         </div>
@@ -87,7 +87,7 @@
       </section>
 
       <!-- Pirates of the Caribbean -->
-      <section class="game-card pirates">
+      <section class="game-card pirates" data-game="pirates">
         <div class="game-header">
           <h2>Pirates of the Caribbean</h2>
         </div>
@@ -102,7 +102,7 @@
       </section>
 
       <!-- Haunted Mansion -->
-      <section class="game-card haunted">
+      <section class="game-card haunted" data-game="haunted-mansion">
         <div class="game-header">
           <h2>Haunted Mansion</h2>
         </div>
@@ -117,7 +117,7 @@
       </section>
 
       <!-- Jungle Cruise -->
-      <section class="game-card jungle">
+      <section class="game-card jungle" data-game="jungle-cruise">
         <div class="game-header">
           <h2>Jungle Cruise</h2>
         </div>
@@ -126,6 +126,84 @@
             <div class="avatar-placeholder"></div>
           </div>
           <ol class="leaderboard" id="jungle-cruise-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+    </div>
+
+    <!-- Period Grid (for By Game view) -->
+    <div id="periodGrid" class="games-grid" style="display: none;">
+      <!-- Today -->
+      <section class="game-card" data-period="today">
+        <div class="game-header">
+          <h2>Today</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="period-today-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="period-today-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- Yesterday -->
+      <section class="game-card" data-period="yesterday">
+        <div class="game-header">
+          <h2>Yesterday</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="period-yesterday-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="period-yesterday-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- This Week -->
+      <section class="game-card" data-period="week">
+        <div class="game-header">
+          <h2>This Week</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="period-week-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="period-week-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- This Month -->
+      <section class="game-card" data-period="month">
+        <div class="game-header">
+          <h2>This Month</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="period-month-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="period-month-leaderboard">
+            <!-- Populated by JS -->
+          </ol>
+        </div>
+      </section>
+
+      <!-- All-Time -->
+      <section class="game-card" data-period="alltime">
+        <div class="game-header">
+          <h2>All-Time</h2>
+        </div>
+        <div class="game-content">
+          <div class="top-player" id="period-alltime-avatar">
+            <div class="avatar-placeholder"></div>
+          </div>
+          <ol class="leaderboard" id="period-alltime-leaderboard">
             <!-- Populated by JS -->
           </ol>
         </div>

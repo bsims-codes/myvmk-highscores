@@ -20,6 +20,8 @@ let userCharts = new Map();
 const loadingState = document.getElementById('loadingState');
 const errorState = document.getElementById('errorState');
 const gamesGrid = document.getElementById('gamesGrid');
+const periodGrid = document.getElementById('periodGrid');
+const periodTabs = document.querySelector('.period-tabs');
 const trendsSection = document.getElementById('trendsSection');
 const userHistorySection = document.getElementById('userHistorySection');
 const searchInput = document.getElementById('searchInput');
@@ -373,39 +375,94 @@ function escapeHtml(text) {
  * Render all leaderboards for current period
  */
 async function renderAllLeaderboards() {
-  const data = await getScoresForPeriod(currentPeriod);
+  if (currentViewMode === 'single') {
+    // Single game view - show all periods for selected game
+    gamesGrid.style.display = 'none';
+    periodGrid.style.display = 'grid';
 
-  if (!data) {
-    // Show empty state for all games
-    for (const gameId of GAMES) {
-      renderLeaderboard(gameId, null, currentSearchQuery);
+    const periods = ['today', 'yesterday', 'week', 'month', 'alltime'];
+    for (const period of periods) {
+      const data = await getScoresForPeriod(period);
+      const gameData = data?.[currentGame];
+
+      renderPeriodLeaderboard(period, currentGame, gameData, currentSearchQuery);
     }
+  } else {
+    // All games view - show all games for current period
+    gamesGrid.style.display = 'grid';
+    periodGrid.style.display = 'none';
+
+    const data = await getScoresForPeriod(currentPeriod);
+
+    if (!data) {
+      // Show empty state for all games
+      for (const gameId of GAMES) {
+        renderLeaderboard(gameId, null, currentSearchQuery);
+      }
+      return;
+    }
+
+    for (const gameId of GAMES) {
+      renderLeaderboard(gameId, data[gameId], currentSearchQuery);
+    }
+  }
+}
+
+/**
+ * Render a leaderboard for a specific period (used in single game view)
+ */
+function renderPeriodLeaderboard(period, gameId, data, searchQuery = '') {
+  const leaderboardEl = document.getElementById(`period-${period}-leaderboard`);
+  const avatarEl = document.getElementById(`period-${period}-avatar`);
+
+  if (!leaderboardEl) return;
+
+  // Clear existing content
+  leaderboardEl.innerHTML = '';
+
+  const scores = data?.scores || [];
+  const topPlayer = scores[0];
+  const searchLower = searchQuery.toLowerCase();
+
+  // Render top player section with avatar and info
+  if (avatarEl) {
+    if (topPlayer) {
+      const isHighlighted = searchQuery && topPlayer.username.toLowerCase().includes(searchLower);
+      const avatarImg = data?.topAvatar
+        ? `<img src="data/avatars/${data.topAvatar}" alt="${escapeHtml(topPlayer.username)}" onerror="this.outerHTML='<div class=\\'avatar-placeholder\\'></div>'">`
+        : '<div class="avatar-placeholder"></div>';
+
+      avatarEl.innerHTML = `
+        ${avatarImg}
+        <div class="top-player-info${isHighlighted ? ' highlighted' : ''}">
+          <span class="top-player-rank">#1</span>
+          <span class="top-player-name">${escapeHtml(topPlayer.username)}</span>
+          <span class="top-player-score">${topPlayer.score.toLocaleString()}</span>
+        </div>
+      `;
+    } else {
+      avatarEl.innerHTML = '<div class="avatar-placeholder"></div><div class="top-player-info"><span class="top-player-name">No data</span></div>';
+    }
+  }
+
+  // Render scores 2-10 in leaderboard
+  if (scores.length <= 1) {
+    leaderboardEl.innerHTML = '<li class="empty-state">No additional scores</li>';
     return;
   }
 
-  // Show/hide games based on view mode
-  if (currentViewMode === 'single') {
-    // Single game view - show only the selected game
-    gamesGrid.classList.add('single-game-view');
-    for (const gameId of GAMES) {
-      const gameCard = document.querySelector(`.game-card.${getGameClass(gameId)}`);
-      if (gameCard) {
-        gameCard.style.display = gameId === currentGame ? 'flex' : 'none';
-      }
-      if (gameId === currentGame) {
-        renderLeaderboard(gameId, data[gameId], currentSearchQuery);
-      }
-    }
-  } else {
-    // All games view - show all games
-    gamesGrid.classList.remove('single-game-view');
-    for (const gameId of GAMES) {
-      const gameCard = document.querySelector(`.game-card.${getGameClass(gameId)}`);
-      if (gameCard) {
-        gameCard.style.display = 'flex';
-      }
-      renderLeaderboard(gameId, data[gameId], currentSearchQuery);
-    }
+  for (const entry of scores.slice(1)) {
+    const li = document.createElement('li');
+    const isHighlighted = searchQuery && entry.username.toLowerCase().includes(searchLower);
+
+    li.className = `rank-${entry.rank}${isHighlighted ? ' highlighted' : ''}`;
+    li.innerHTML = `
+      <span class="rank">${entry.rank}</span>
+      <span class="username">${escapeHtml(entry.username)}</span>
+      <span class="score">${entry.score.toLocaleString()}</span>
+    `;
+
+    leaderboardEl.appendChild(li);
   }
 }
 
@@ -707,12 +764,14 @@ function handleViewModeChange(viewMode) {
     btn.classList.toggle('active', btn.dataset.view === viewMode);
   });
 
-  // Show/hide game selector
+  // Show/hide game selector and period tabs
   const gameSelector = document.querySelector('.game-selector');
   if (viewMode === 'single') {
     gameSelector.style.display = 'flex';
+    periodTabs.style.display = 'none';
   } else {
     gameSelector.style.display = 'none';
+    periodTabs.style.display = 'flex';
   }
 
   renderAllLeaderboards();
