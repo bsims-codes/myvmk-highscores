@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MyVMK High Scores Tracker</title>
-  <link rel="stylesheet" href="css/styles.css?v=5">
+  <link rel="stylesheet" href="css/styles.css?v=6">
   <link rel="icon" type="image/png" href="https://download.myvmk.com/home/favicon-32x32.png">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -75,6 +75,24 @@
         <button class="period-tab" data-period="alltime">All-Time</button>
       </nav>
       <button class="period-tabs-arrow right" aria-label="Scroll right">&#8250;</button>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">&#128269;</span>
+        <input
+          type="text"
+          id="searchInput"
+          class="search-input"
+          placeholder="Search by username..."
+          autocomplete="off"
+        >
+        <button id="clearSearch" class="clear-search" style="display: none;">&#10005;</button>
+        <div id="autocompleteDropdown" class="autocomplete-dropdown" style="display: none;"></div>
+      </div>
+      <!-- Inline User Cards -->
+      <div id="userCardsInline" class="user-cards-inline" style="display: none;"></div>
     </div>
 
     <!-- Loading State -->
@@ -230,21 +248,6 @@
       </section>
     </div>
 
-    <!-- Search Bar -->
-    <div class="search-container">
-      <div class="search-wrapper">
-        <span class="search-icon">&#128269;</span>
-        <input
-          type="text"
-          id="searchInput"
-          class="search-input"
-          placeholder="Search by username..."
-          autocomplete="off"
-        >
-        <button id="clearSearch" class="clear-search" style="display: none;">&#10005;</button>
-      </div>
-    </div>
-
     <!-- Historical Trends -->
     <section id="trendsSection" class="trends-section" style="display: none;">
       <h2 class="trends-title">Historical Trends</h2>
@@ -315,6 +318,6 @@
     </div>
   </footer>
 
-  <script src="js/app.js?v=6"></script>
+  <script src="js/app.js?v=8"></script>
 </body>
 </html>

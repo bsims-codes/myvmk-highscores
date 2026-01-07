@@ -219,7 +219,7 @@ body::before {
 
 /* ===== Search Bar ===== */
 .search-container {
-  max-width: 500px;
+  max-width: 700px;
   margin: 40px auto 30px;
 }
 
@@ -1027,6 +1027,305 @@ body::before {
 
   .score {
     font-size: 0.9rem;
+  }
+}
+
+/* ===== Autocomplete Dropdown ===== */
+.autocomplete-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--color-card-bg);
+  border: 2px solid var(--color-card-border);
+  border-top: none;
+  border-radius: 0 0 20px 20px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+.autocomplete-item {
+  padding: 12px 20px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: var(--color-text);
+}
+
+.autocomplete-item:hover,
+.autocomplete-item.selected {
+  background: rgba(107, 76, 230, 0.3);
+  color: var(--color-gold-light);
+}
+
+.autocomplete-item:last-child {
+  border-radius: 0 0 18px 18px;
+}
+
+/* ===== Inline User Cards ===== */
+.user-cards-inline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.user-cards-inline .user-card {
+  animation: cardSlideIn 0.3s ease;
+}
+
+@keyframes cardSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.user-card-remove {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 77, 77, 0.2);
+  border: 1px solid rgba(255, 77, 77, 0.4);
+  border-radius: 50%;
+  color: #ff6b6b;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-card-remove:hover {
+  background: rgba(255, 77, 77, 0.4);
+  border-color: #ff4d4d;
+  color: #fff;
+}
+
+/* ===== User Card Modal ===== */
+.user-card-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.user-card-modal.active {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-card-modal-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+}
+
+.user-card-modal-content {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 30px;
+  background: linear-gradient(135deg, var(--color-bg-dark) 0%, var(--color-bg-purple) 100%);
+  border: 2px solid var(--color-primary);
+  border-radius: 20px;
+  box-shadow: 0 0 50px rgba(107, 76, 230, 0.4);
+  animation: modalSlideIn 0.3s ease;
+}
+
+@keyframes modalSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.user-card-modal-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 36px;
+  height: 36px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid var(--color-card-border);
+  border-radius: 50%;
+  color: var(--color-text-muted);
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-card-modal-close:hover {
+  background: rgba(255, 77, 77, 0.3);
+  border-color: #ff4d4d;
+  color: #ff4d4d;
+}
+
+.user-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+/* ===== User Card ===== */
+.user-card {
+  position: relative;
+  width: 320px;
+  background: var(--color-card-bg);
+  border: 2px solid var(--color-card-border);
+  border-radius: 16px;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+}
+
+.user-card-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 215, 0, 0.02));
+  border-bottom: 1px solid var(--color-card-border);
+}
+
+.user-card-avatar {
+  width: 70px;
+  height: 125px;
+  object-fit: contain;
+  object-position: center top;
+  border: 3px solid var(--color-gold);
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+  background: var(--color-bg-purple);
+  flex-shrink: 0;
+}
+
+.user-avatar-placeholder {
+  width: 70px;
+  height: 125px;
+  border-radius: 8px;
+  border: 3px solid var(--color-card-border);
+  background: linear-gradient(135deg, var(--color-bg-purple), var(--color-bg-blue));
+  flex-shrink: 0;
+}
+
+.user-card-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.user-card-name {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--color-gold);
+  margin-bottom: 5px;
+  word-break: break-word;
+}
+
+.user-card-subtitle {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.user-card-games {
+  padding: 15px;
+}
+
+.user-game-row {
+  display: grid;
+  grid-template-columns: 30px 1fr auto auto;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 8px;
+  margin-bottom: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+.user-game-row:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.user-game-row:last-child {
+  margin-bottom: 0;
+}
+
+.user-game-icon {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.user-game-name {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.user-game-score {
+  font-weight: 700;
+  color: var(--color-gold-light);
+  font-variant-numeric: tabular-nums;
+}
+
+.user-game-context {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  text-align: right;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .user-card-modal-content {
+    padding: 20px;
+    max-width: 95vw;
+  }
+
+  .user-card {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .user-game-row {
+    grid-template-columns: 28px 1fr auto;
+  }
+
+  .user-game-context {
+    grid-column: 2 / -1;
+    text-align: left;
+    margin-top: -5px;
   }
 }
 

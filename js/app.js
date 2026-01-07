@@ -10,6 +10,8 @@ const PACIFIC_TZ = 'America/Los_Angeles';
 let allTimeData = null;
 let dailyDataCache = new Map();
 let doubleCreditDays = new Set();
+let userIndex = new Map(); // username -> { avatar, lastSeen, games: { gameId: { bestScore, date, rank } } }
+let allUsernames = []; // sorted list of all usernames for autocomplete
 let currentPeriod = 'today';
 let currentSearchQuery = '';
 let currentViewMode = 'all'; // 'all' or 'single'
@@ -138,6 +140,98 @@ async function loadDoubleCreditDays() {
     doubleCreditDays = new Set(data.dates);
   }
   return doubleCreditDays;
+}
+
+/**
+ * Build user index from all available data
+ */
+async function buildUserIndex() {
+  userIndex.clear();
+
+  // Load last 60 days of data to build comprehensive index
+  const dates = getLastNDays(60);
+  const dailyData = await loadMultipleDays(dates);
+
+  // Process each day's data
+  for (const dayData of dailyData) {
+    if (!dayData?.games) continue;
+    const date = dayData.date;
+
+    for (const gameId of GAMES) {
+      const gameData = dayData.games[gameId];
+      if (!gameData) continue;
+
+      // Process all score periods (yesterday, today, highscores)
+      for (const period of ['yesterday', 'today', 'highscores']) {
+        const scores = gameData[period]?.scores || [];
+        const topAvatar = gameData[period]?.topAvatar;
+
+        scores.forEach((entry, idx) => {
+          const username = entry.username;
+          const score = entry.score;
+          const rank = entry.rank || idx + 1;
+
+          // Initialize user if not exists
+          if (!userIndex.has(username)) {
+            userIndex.set(username, {
+              avatar: null,
+              lastSeen: null,
+              games: {}
+            });
+          }
+
+          const user = userIndex.get(username);
+
+          // Update avatar if this is #1 and we have avatar
+          if (rank === 1 && topAvatar) {
+            user.avatar = topAvatar;
+          }
+
+          // Update last seen date
+          if (!user.lastSeen || date > user.lastSeen) {
+            user.lastSeen = date;
+          }
+
+          // Initialize game if not exists
+          if (!user.games[gameId]) {
+            user.games[gameId] = { bestScore: 0, date: null, rank: null };
+          }
+
+          // Update best score if this is better
+          if (score > user.games[gameId].bestScore) {
+            user.games[gameId].bestScore = score;
+            user.games[gameId].date = date;
+            user.games[gameId].rank = rank;
+          }
+        });
+      }
+    }
+  }
+
+  // Check all-time data for rankings
+  if (allTimeData?.games) {
+    for (const gameId of GAMES) {
+      const scores = allTimeData.games[gameId]?.scores || [];
+      scores.forEach((entry, idx) => {
+        const username = entry.username;
+        const rank = idx + 1;
+
+        if (userIndex.has(username)) {
+          const user = userIndex.get(username);
+          if (user.games[gameId]) {
+            user.games[gameId].allTimeRank = rank;
+          }
+        }
+      });
+    }
+  }
+
+  // Build sorted username list for autocomplete
+  allUsernames = Array.from(userIndex.keys()).sort((a, b) =>
+    a.toLowerCase().localeCompare(b.toLowerCase())
+  );
+
+  console.log(`Built user index with ${allUsernames.length} users`);
 }
 
 /**
@@ -908,6 +1002,9 @@ async function init() {
     const yesterdayDate = getYesterdayPacific();
     await loadDailyData(yesterdayDate);
 
+    // Build user index for autocomplete and user cards
+    await buildUserIndex();
+
     // Update last updated time (use daily data's scrapedAt for more precise time)
     const todayData = dailyDataCache.get(todayDate);
     if (todayData?.scrapedAt) {
@@ -962,6 +1059,225 @@ function formatDateTime(isoString) {
   });
 }
 
+// ===== Autocomplete =====
+let autocompleteVisible = false;
+let selectedAutocompleteIndex = -1;
+
+function showAutocomplete(query) {
+  const dropdown = document.getElementById('autocompleteDropdown');
+  if (!dropdown) return;
+
+  if (!query || query.length < 1) {
+    hideAutocomplete();
+    return;
+  }
+
+  // Get the last term being typed (for comma-separated input)
+  const terms = query.split(',').map(t => t.trim());
+  const currentTerm = terms[terms.length - 1].toLowerCase();
+
+  if (!currentTerm) {
+    hideAutocomplete();
+    return;
+  }
+
+  // Filter usernames
+  const matches = allUsernames
+    .filter(name => name.toLowerCase().includes(currentTerm))
+    .slice(0, 8);
+
+  if (matches.length === 0) {
+    hideAutocomplete();
+    return;
+  }
+
+  // Build dropdown HTML
+  dropdown.innerHTML = matches.map((name, idx) => `
+    <div class="autocomplete-item${idx === selectedAutocompleteIndex ? ' selected' : ''}" data-username="${escapeHtml(name)}">
+      ${escapeHtml(name)}
+    </div>
+  `).join('');
+
+  dropdown.style.display = 'block';
+  autocompleteVisible = true;
+}
+
+function hideAutocomplete() {
+  const dropdown = document.getElementById('autocompleteDropdown');
+  if (dropdown) {
+    dropdown.style.display = 'none';
+  }
+  autocompleteVisible = false;
+  selectedAutocompleteIndex = -1;
+}
+
+function selectAutocompleteItem(username) {
+  addUserCard(username);
+  searchInput.focus();
+}
+
+// ===== Inline User Cards =====
+const GAME_ICONS = {
+  'castle-fireworks': '🎆',
+  'pirates': '🏴‍☠️',
+  'haunted-mansion': '👻',
+  'jungle-cruise': '🌴'
+};
+
+const GAME_NAMES = {
+  'castle-fireworks': 'Fireworks',
+  'pirates': 'POTC',
+  'haunted-mansion': 'Haunted Mansion',
+  'jungle-cruise': 'Jungle Cruise'
+};
+
+// Track displayed user cards
+let displayedUsers = new Set();
+
+function createUserCardHtml(name, includeRemoveBtn = true) {
+  const user = userIndex.get(name);
+  const removeBtn = includeRemoveBtn
+    ? `<button class="user-card-remove" data-username="${escapeHtml(name)}" aria-label="Remove">&times;</button>`
+    : '';
+
+  if (!user) {
+    return `
+      <div class="user-card" data-username="${escapeHtml(name)}">
+        ${removeBtn}
+        <div class="user-card-header">
+          <div class="user-avatar-placeholder"></div>
+          <div class="user-card-info">
+            <h3 class="user-card-name">${escapeHtml(name)}</h3>
+            <p class="user-card-subtitle">User not found</p>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  const avatarHtml = user.avatar
+    ? `<img src="data/avatars/${user.avatar}" alt="${escapeHtml(name)}" class="user-card-avatar" onerror="this.outerHTML='<div class=\\'user-avatar-placeholder\\'></div>'">`
+    : '<div class="user-avatar-placeholder"></div>';
+
+  const lastSeenFormatted = user.lastSeen
+    ? formatDateShort(user.lastSeen)
+    : 'Unknown';
+
+  const gamesHtml = GAMES.map(gameId => {
+    const gameData = user.games[gameId];
+    if (!gameData || !gameData.bestScore) {
+      return `
+        <div class="user-game-row">
+          <span class="user-game-icon">${GAME_ICONS[gameId]}</span>
+          <span class="user-game-name">${GAME_NAMES[gameId]}</span>
+          <span class="user-game-score">—</span>
+          <span class="user-game-context">No data</span>
+        </div>
+      `;
+    }
+
+    let context = '';
+    if (gameData.allTimeRank && gameData.allTimeRank <= 10) {
+      context = `#${gameData.allTimeRank} All-Time`;
+    } else if (gameData.date && gameData.rank) {
+      context = `Top ${gameData.rank} • ${formatDateShort(gameData.date)}`;
+    }
+
+    return `
+      <div class="user-game-row">
+        <span class="user-game-icon">${GAME_ICONS[gameId]}</span>
+        <span class="user-game-name">${GAME_NAMES[gameId]}</span>
+        <span class="user-game-score">${gameData.bestScore.toLocaleString()}</span>
+        <span class="user-game-context">${context}</span>
+      </div>
+    `;
+  }).join('');
+
+  return `
+    <div class="user-card" data-username="${escapeHtml(name)}">
+      ${removeBtn}
+      <div class="user-card-header">
+        ${avatarHtml}
+        <div class="user-card-info">
+          <h3 class="user-card-name">${escapeHtml(name)}</h3>
+          <p class="user-card-subtitle">Last seen: ${lastSeenFormatted}</p>
+        </div>
+      </div>
+      <div class="user-card-games">
+        ${gamesHtml}
+      </div>
+    </div>
+  `;
+}
+
+function addUserCard(username) {
+  // Find exact match (case-insensitive)
+  const exactMatch = allUsernames.find(u => u.toLowerCase() === username.toLowerCase());
+  const name = exactMatch || username;
+
+  // Don't add duplicate
+  if (displayedUsers.has(name.toLowerCase())) {
+    return;
+  }
+
+  displayedUsers.add(name.toLowerCase());
+
+  const container = document.getElementById('userCardsInline');
+  if (!container) return;
+
+  // Add the card
+  const cardHtml = createUserCardHtml(name);
+  container.insertAdjacentHTML('beforeend', cardHtml);
+  container.style.display = 'flex';
+
+  // Clear search input and hide autocomplete
+  searchInput.value = '';
+  hideAutocomplete();
+
+  // Show clear button when cards are displayed
+  clearSearchBtn.style.display = 'block';
+}
+
+function removeUserCard(username) {
+  const lowerName = username.toLowerCase();
+  displayedUsers.delete(lowerName);
+
+  const container = document.getElementById('userCardsInline');
+  if (!container) return;
+
+  const card = container.querySelector(`.user-card[data-username="${username}"]`);
+  if (card) {
+    card.remove();
+  }
+
+  // Hide container and clear button if empty
+  if (displayedUsers.size === 0) {
+    container.style.display = 'none';
+    if (!searchInput.value) {
+      clearSearchBtn.style.display = 'none';
+    }
+  }
+}
+
+function clearAllUserCards() {
+  displayedUsers.clear();
+  const container = document.getElementById('userCardsInline');
+  if (container) {
+    container.innerHTML = '';
+    container.style.display = 'none';
+  }
+}
+
+// Handle remove button clicks
+document.addEventListener('click', (e) => {
+  if (e.target.classList.contains('user-card-remove')) {
+    const username = e.target.dataset.username;
+    if (username) {
+      removeUserCard(username);
+    }
+  }
+});
+
 // Event Listeners
 document.querySelectorAll('.view-toggle-btn').forEach(btn => {
   btn.addEventListener('click', () => handleViewModeChange(btn.dataset.view));
@@ -975,11 +1291,77 @@ document.querySelectorAll('.period-tab').forEach(tab => {
   tab.addEventListener('click', () => handlePeriodChange(tab.dataset.period));
 });
 
-searchInput.addEventListener('input', (e) => handleSearch(e.target.value));
+searchInput.addEventListener('input', (e) => {
+  handleSearch(e.target.value);
+  showAutocomplete(e.target.value);
+});
+
+searchInput.addEventListener('keydown', (e) => {
+  if (autocompleteVisible) {
+    const items = document.querySelectorAll('.autocomplete-item');
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      selectedAutocompleteIndex = Math.min(selectedAutocompleteIndex + 1, items.length - 1);
+      updateAutocompleteSelection(items);
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      selectedAutocompleteIndex = Math.max(selectedAutocompleteIndex - 1, -1);
+      updateAutocompleteSelection(items);
+    } else if (e.key === 'Enter' && selectedAutocompleteIndex >= 0) {
+      e.preventDefault();
+      const selectedItem = items[selectedAutocompleteIndex];
+      if (selectedItem) {
+        selectAutocompleteItem(selectedItem.dataset.username);
+      }
+    } else if (e.key === 'Escape') {
+      hideAutocomplete();
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      // Try to add a card if there's an exact match
+      const query = searchInput.value.trim();
+      if (query) {
+        const match = allUsernames.find(u => u.toLowerCase() === query.toLowerCase());
+        if (match) {
+          addUserCard(match);
+        }
+      }
+      hideAutocomplete();
+    }
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    const query = searchInput.value.trim();
+    if (query) {
+      const match = allUsernames.find(u => u.toLowerCase() === query.toLowerCase());
+      if (match) {
+        addUserCard(match);
+      }
+    }
+  }
+});
+
+searchInput.addEventListener('blur', () => {
+  // Delay to allow click events on dropdown items
+  setTimeout(hideAutocomplete, 150);
+});
+
+// Autocomplete dropdown click handling
+document.addEventListener('click', (e) => {
+  if (e.target.classList.contains('autocomplete-item')) {
+    selectAutocompleteItem(e.target.dataset.username);
+  }
+});
+
+function updateAutocompleteSelection(items) {
+  items.forEach((item, idx) => {
+    item.classList.toggle('selected', idx === selectedAutocompleteIndex);
+  });
+}
 
 clearSearchBtn.addEventListener('click', () => {
   searchInput.value = '';
   handleSearch('');
+  hideAutocomplete();
+  clearAllUserCards();
 });
 
 // Game selector carousel arrow functionality
