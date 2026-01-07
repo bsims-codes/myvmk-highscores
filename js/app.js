@@ -198,13 +198,19 @@ function aggregateScores(dailyDataArray, scoreType = 'yesterday') {
 
 /**
  * Find avatar for a user from daily data
+ * @param {boolean} prioritizeHighscores - If true, check highscores first (for all-time lookups)
  */
-function findAvatarForUser(dailyDataArray, gameId, username) {
+function findAvatarForUser(dailyDataArray, gameId, username, prioritizeHighscores = false) {
+  // For all-time scores, prioritize highscores period since that's where all-time records live
+  const periods = prioritizeHighscores
+    ? ['highscores', 'yesterday', 'today']
+    : ['yesterday', 'today', 'highscores'];
+
   for (const dayData of dailyDataArray) {
     const gameData = dayData.games?.[gameId];
     if (!gameData) continue;
 
-    for (const period of ['yesterday', 'today', 'highscores']) {
+    for (const period of periods) {
       if (gameData[period]?.scores?.[0]?.username === username) {
         return gameData[period].topAvatar;
       }
@@ -299,9 +305,9 @@ async function getScoresForPeriod(period) {
         const scores = gameData?.scores?.slice(0, 10) || [];
         const topPlayer = scores[0];
 
-        // Find the correct avatar for the #1 player from daily data
+        // Find the correct avatar for the #1 player from daily data, prioritizing highscores
         const topAvatar = topPlayer && dailyData.length > 0
-          ? findAvatarForUser(dailyData, gameId, topPlayer.username)
+          ? findAvatarForUser(dailyData, gameId, topPlayer.username, true)
           : gameData?.topAvatar; // fallback to data file avatar if no daily data
 
         result[gameId] = {
