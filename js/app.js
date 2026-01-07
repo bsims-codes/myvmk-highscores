@@ -1016,3 +1016,41 @@ if (document.readyState === 'loading') {
 } else {
   init();
 }
+
+// ===== Twinkling Stars Background =====
+function createStars() {
+  const container = document.querySelector('.stars');
+  if (!container) return;
+
+  // Clear existing stars
+  container.innerHTML = '';
+
+  // Generate stars based on screen size
+  const count = Math.floor(window.innerWidth * window.innerHeight / 6000);
+
+  for (let i = 0; i < count; i++) {
+    const star = document.createElement('div');
+    star.className = 'star';
+    star.style.left = Math.random() * 100 + '%';
+    star.style.top = Math.random() * 100 + '%';
+    star.style.setProperty('--delay', Math.random() * 4 + 's');
+    star.style.setProperty('--duration', (2 + Math.random() * 3) + 's');
+
+    // Vary star sizes
+    const size = Math.random() < 0.3 ? 3 : Math.random() < 0.6 ? 2 : 1;
+    star.style.width = size + 'px';
+    star.style.height = size + 'px';
+
+    container.appendChild(star);
+  }
+}
+
+// Initialize stars
+createStars();
+
+// Regenerate stars on resize (debounced)
+let starsResizeTimeout;
+window.addEventListener('resize', () => {
+  clearTimeout(starsResizeTimeout);
+  starsResizeTimeout = setTimeout(createStars, 250);
+});

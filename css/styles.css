@@ -62,7 +62,7 @@ body::before {
   z-index: 0;
 }
 
-/* ===== Sparkle Effects ===== */
+/* ===== Starfield Background ===== */
 .stars {
   position: fixed;
   top: 0;
@@ -74,45 +74,32 @@ body::before {
   overflow: hidden;
 }
 
-.stars::before,
-.stars::after {
-  content: '';
+.star {
   position: absolute;
   width: 2px;
   height: 2px;
-  background: white;
+  background: #fff;
   border-radius: 50%;
-  box-shadow:
-    100px 50px 0 white,
-    200px 150px 0 white,
-    300px 80px 0 white,
-    400px 200px 0 white,
-    500px 100px 0 white,
-    600px 250px 0 white,
-    700px 50px 0 white,
-    800px 180px 0 white,
-    150px 300px 0 white,
-    350px 400px 0 white,
-    550px 350px 0 white,
-    750px 450px 0 white,
-    50px 500px 0 white,
-    250px 550px 0 white,
-    450px 480px 0 white,
-    650px 520px 0 white,
-    850px 400px 0 white,
-    950px 300px 0 white;
-  animation: twinkle 4s ease-in-out infinite;
+  opacity: 0;
+  animation: twinkle var(--duration, 3s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
 }
 
-.stars::after {
-  animation-delay: 2s;
-  left: 50px;
-  top: 30px;
+.star::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 6px;
+  height: 6px;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.8) 0%, transparent 70%);
+  border-radius: 50%;
 }
 
 @keyframes twinkle {
-  0%, 100% { opacity: 0.3; }
-  50% { opacity: 1; }
+  0%, 100% { opacity: 0.2; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
 }
 
 .sparkles {
