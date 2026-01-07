@@ -288,12 +288,25 @@ async function getScoresForPeriod(period) {
 
     case 'alltime': {
       if (!allTimeData) return null;
+
+      // Load recent daily data to find correct avatars
+      const dates = getLastNDays(7);
+      const dailyData = await loadMultipleDays(dates);
+
       const result = {};
       for (const gameId of GAMES) {
         const gameData = allTimeData.games?.[gameId];
+        const scores = gameData?.scores?.slice(0, 10) || [];
+        const topPlayer = scores[0];
+
+        // Find the correct avatar for the #1 player from daily data
+        const topAvatar = topPlayer && dailyData.length > 0
+          ? findAvatarForUser(dailyData, gameId, topPlayer.username)
+          : gameData?.topAvatar; // fallback to data file avatar if no daily data
+
         result[gameId] = {
-          scores: gameData?.scores?.slice(0, 10) || [],
-          topAvatar: gameData?.topAvatar
+          scores,
+          topAvatar
         };
       }
       return result;
@@ -380,8 +393,18 @@ async function renderAllLeaderboards() {
     gamesGrid.style.display = 'none';
     periodGrid.style.display = 'grid';
 
+    // Apply game-specific class to period cards for styling
+    const gameClass = getGameClass(currentGame);
     const periods = ['today', 'yesterday', 'week', 'month', 'alltime'];
     for (const period of periods) {
+      const periodCard = document.querySelector(`.game-card[data-period="${period}"]`);
+      if (periodCard) {
+        // Remove all game classes
+        periodCard.classList.remove('fireworks', 'pirates', 'haunted', 'jungle');
+        // Add current game class
+        periodCard.classList.add(gameClass);
+      }
+
       const data = await getScoresForPeriod(period);
       const gameData = data?.[currentGame];
 
