@@ -20,6 +20,34 @@
   </header>
 
   <main class="main-content">
+    <!-- View Mode Toggle -->
+    <div class="view-toggle-container">
+      <div class="view-toggle">
+        <button class="view-toggle-btn active" data-view="all">All Games</button>
+        <button class="view-toggle-btn" data-view="single">By Game</button>
+      </div>
+    </div>
+
+    <!-- Game Selector (hidden by default, shown when "By Game" is active) -->
+    <nav class="game-selector" style="display: none;">
+      <button class="game-selector-btn active" data-game="castle-fireworks">
+        <span class="game-icon">🎆</span>
+        <span class="game-name">Fireworks</span>
+      </button>
+      <button class="game-selector-btn" data-game="pirates">
+        <span class="game-icon">🏴‍☠️</span>
+        <span class="game-name">Pirates</span>
+      </button>
+      <button class="game-selector-btn" data-game="haunted-mansion">
+        <span class="game-icon">👻</span>
+        <span class="game-name">Mansion</span>
+      </button>
+      <button class="game-selector-btn" data-game="jungle-cruise">
+        <span class="game-icon">🌴</span>
+        <span class="game-name">Jungle</span>
+      </button>
+    </nav>
+
     <!-- Period Tabs -->
     <nav class="period-tabs">
       <button class="period-tab active" data-period="today">Today</button>

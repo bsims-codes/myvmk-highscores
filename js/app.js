@@ -11,6 +11,8 @@ let allTimeData = null;
 let dailyDataCache = new Map();
 let currentPeriod = 'today';
 let currentSearchQuery = '';
+let currentViewMode = 'all'; // 'all' or 'single'
+let currentGame = 'castle-fireworks'; // current game when in single view mode
 let trendCharts = new Map();
 let userCharts = new Map();
 
@@ -381,9 +383,43 @@ async function renderAllLeaderboards() {
     return;
   }
 
-  for (const gameId of GAMES) {
-    renderLeaderboard(gameId, data[gameId], currentSearchQuery);
+  // Show/hide games based on view mode
+  if (currentViewMode === 'single') {
+    // Single game view - show only the selected game
+    gamesGrid.classList.add('single-game-view');
+    for (const gameId of GAMES) {
+      const gameCard = document.querySelector(`.game-card.${getGameClass(gameId)}`);
+      if (gameCard) {
+        gameCard.style.display = gameId === currentGame ? 'flex' : 'none';
+      }
+      if (gameId === currentGame) {
+        renderLeaderboard(gameId, data[gameId], currentSearchQuery);
+      }
+    }
+  } else {
+    // All games view - show all games
+    gamesGrid.classList.remove('single-game-view');
+    for (const gameId of GAMES) {
+      const gameCard = document.querySelector(`.game-card.${getGameClass(gameId)}`);
+      if (gameCard) {
+        gameCard.style.display = 'flex';
+      }
+      renderLeaderboard(gameId, data[gameId], currentSearchQuery);
+    }
   }
+}
+
+/**
+ * Get CSS class name for a game
+ */
+function getGameClass(gameId) {
+  const classMap = {
+    'castle-fireworks': 'fireworks',
+    'pirates': 'pirates',
+    'haunted-mansion': 'haunted',
+    'jungle-cruise': 'jungle'
+  };
+  return classMap[gameId] || gameId;
 }
 
 /**
@@ -661,6 +697,42 @@ function handleSearch(query) {
 }
 
 /**
+ * Handle view mode change
+ */
+function handleViewModeChange(viewMode) {
+  currentViewMode = viewMode;
+
+  // Update active view toggle button
+  document.querySelectorAll('.view-toggle-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.view === viewMode);
+  });
+
+  // Show/hide game selector
+  const gameSelector = document.querySelector('.game-selector');
+  if (viewMode === 'single') {
+    gameSelector.style.display = 'flex';
+  } else {
+    gameSelector.style.display = 'none';
+  }
+
+  renderAllLeaderboards();
+}
+
+/**
+ * Handle game selection (in single game view)
+ */
+function handleGameSelection(gameId) {
+  currentGame = gameId;
+
+  // Update active game selector button
+  document.querySelectorAll('.game-selector-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.game === gameId);
+  });
+
+  renderAllLeaderboards();
+}
+
+/**
  * Initialize the application
  */
 async function init() {
@@ -731,6 +803,14 @@ function formatDateTime(isoString) {
 }
 
 // Event Listeners
+document.querySelectorAll('.view-toggle-btn').forEach(btn => {
+  btn.addEventListener('click', () => handleViewModeChange(btn.dataset.view));
+});
+
+document.querySelectorAll('.game-selector-btn').forEach(btn => {
+  btn.addEventListener('click', () => handleGameSelection(btn.dataset.game));
+});
+
 document.querySelectorAll('.period-tab').forEach(tab => {
   tab.addEventListener('click', () => handlePeriodChange(tab.dataset.period));
 });

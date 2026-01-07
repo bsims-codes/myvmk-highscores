@@ -233,6 +233,94 @@ body::before {
   color: var(--color-text);
 }
 
+/* ===== View Toggle ===== */
+.view-toggle-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.view-toggle {
+  display: inline-flex;
+  background: var(--color-card-bg);
+  border: 2px solid var(--color-card-border);
+  border-radius: 30px;
+  padding: 4px;
+  backdrop-filter: blur(10px);
+}
+
+.view-toggle-btn {
+  padding: 10px 30px;
+  font-size: 1rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  background: transparent;
+  border: none;
+  border-radius: 26px;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.view-toggle-btn:hover {
+  color: var(--color-text);
+}
+
+.view-toggle-btn.active {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  color: var(--color-text);
+  box-shadow: 0 2px 10px rgba(107, 76, 230, 0.4);
+}
+
+/* ===== Game Selector ===== */
+.game-selector {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.game-selector-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  padding: 15px 20px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  background: var(--color-card-bg);
+  border: 2px solid var(--color-card-border);
+  border-radius: 15px;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  min-width: 100px;
+}
+
+.game-selector-btn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-text);
+  transform: translateY(-2px);
+}
+
+.game-selector-btn.active {
+  background: linear-gradient(135deg, rgba(107, 76, 230, 0.3), rgba(157, 122, 255, 0.2));
+  border-color: var(--color-primary);
+  color: var(--color-text);
+  box-shadow: 0 4px 20px rgba(107, 76, 230, 0.3);
+}
+
+.game-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.game-name {
+  font-size: 0.9rem;
+}
+
 /* ===== Period Tabs ===== */
 .period-tabs {
   display: flex;
@@ -314,6 +402,17 @@ body::before {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
   margin-bottom: 60px;
+}
+
+/* Single Game View */
+.games-grid.single-game-view {
+  display: flex;
+  justify-content: center;
+}
+
+.games-grid.single-game-view .game-card {
+  width: 100%;
+  max-width: 600px;
 }
 
 /* ===== Game Card ===== */
