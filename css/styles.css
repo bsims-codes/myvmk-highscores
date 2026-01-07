@@ -400,7 +400,7 @@ body::before {
 
 .top-player img {
   width: 70px;
-  height: 70px;
+  height: 125px;
   object-fit: contain;
   object-position: center top;
   border: 3px solid var(--color-gold);
@@ -436,7 +436,7 @@ body::before {
 
 .avatar-placeholder {
   width: 70px;
-  height: 70px;
+  height: 125px;
   border-radius: 8px;
   border: 3px solid var(--color-card-border);
   background: linear-gradient(135deg, var(--color-bg-purple), var(--color-bg-blue));
