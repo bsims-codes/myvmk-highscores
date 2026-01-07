@@ -9,7 +9,7 @@ const PACIFIC_TZ = 'America/Los_Angeles';
 // State
 let allTimeData = null;
 let dailyDataCache = new Map();
-let currentPeriod = 'yesterday';
+let currentPeriod = 'today';
 let currentSearchQuery = '';
 let trendCharts = new Map();
 let userCharts = new Map();
@@ -214,6 +214,21 @@ function findAvatarForUser(dailyDataArray, gameId, username) {
  */
 async function getScoresForPeriod(period) {
   switch (period) {
+    case 'today': {
+      const todayDate = getPacificDate();
+      const data = await loadDailyData(todayDate);
+      if (!data) return null;
+      const result = {};
+      for (const gameId of GAMES) {
+        const gameData = data.games?.[gameId];
+        result[gameId] = {
+          scores: gameData?.today?.scores || [],
+          topAvatar: gameData?.today?.topAvatar
+        };
+      }
+      return result;
+    }
+
     case 'yesterday': {
       const yesterdayDate = getYesterdayPacific();
       const data = await loadDailyData(yesterdayDate);
@@ -653,8 +668,12 @@ async function init() {
     const yesterdayDate = getYesterdayPacific();
     await loadDailyData(yesterdayDate);
 
-    // Update last updated time
-    if (allTimeData?.lastUpdated) {
+    // Update last updated time (use daily data's scrapedAt for more precise time)
+    const todayDate = getPacificDate();
+    const todayData = dailyDataCache.get(todayDate);
+    if (todayData?.scrapedAt) {
+      lastUpdatedEl.textContent = formatDateTime(todayData.scrapedAt);
+    } else if (allTimeData?.lastUpdated) {
       lastUpdatedEl.textContent = formatDate(allTimeData.lastUpdated);
     } else {
       lastUpdatedEl.textContent = 'Not available';
@@ -687,6 +706,20 @@ function formatDate(dateStr) {
     year: 'numeric',
     month: 'long',
     day: 'numeric'
+  });
+}
+
+/**
+ * Format date and time for display
+ */
+function formatDateTime(isoString) {
+  const date = new Date(isoString);
+  return date.toLocaleString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+    hour12: true
   });
 }
 

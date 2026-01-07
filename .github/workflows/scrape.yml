@@ -2,11 +2,8 @@ name: Scrape High Scores
 
 on:
   schedule:
-    # Run at 4am Eastern Time daily
-    # Note: GitHub Actions uses UTC. 4am EST = 9am UTC, 4am EDT = 8am UTC
-    # We schedule for both to ensure it runs at 4am Eastern year-round
-    - cron: '0 8 * * *'  # 4am EDT (summer)
-    - cron: '0 9 * * *'  # 4am EST (winter)
+    # Run every 3 hours to keep "today" leaderboard fresh
+    - cron: '0 */3 * * *'
   workflow_dispatch:  # Allow manual trigger for testing
 
 jobs:
