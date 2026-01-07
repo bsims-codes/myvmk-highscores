@@ -216,8 +216,16 @@ async function getScoresForPeriod(period) {
   switch (period) {
     case 'today': {
       const todayDate = getPacificDate();
-      const data = await loadDailyData(todayDate);
+      let data = await loadDailyData(todayDate);
+
+      // If today's file doesn't exist yet, try yesterday's file as fallback
+      if (!data) {
+        const yesterdayDate = getYesterdayPacific();
+        data = await loadDailyData(yesterdayDate);
+      }
+
       if (!data) return null;
+
       const result = {};
       for (const gameId of GAMES) {
         const gameData = data.games?.[gameId];
@@ -669,7 +677,6 @@ async function init() {
     await loadDailyData(yesterdayDate);
 
     // Update last updated time (use daily data's scrapedAt for more precise time)
-    const todayDate = getPacificDate();
     const todayData = dailyDataCache.get(todayDate);
     if (todayData?.scrapedAt) {
       lastUpdatedEl.textContent = formatDateTime(todayData.scrapedAt);
