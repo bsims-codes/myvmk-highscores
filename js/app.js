@@ -296,7 +296,9 @@ async function getScoresForPeriod(period) {
       if (!allTimeData) return null;
 
       // Load recent daily data to find correct avatars
-      const dates = getLastNDays(7);
+      // Search through 30 days to ensure we find the user even if they haven't played recently
+      // The 'highscores' section in daily files contains all-time records, so this should work
+      const dates = getLastNDays(30);
       const dailyData = await loadMultipleDays(dates);
 
       const result = {};
