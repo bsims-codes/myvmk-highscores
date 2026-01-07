@@ -826,7 +826,43 @@ body::before {
 .trends-subtitle {
   text-align: center;
   color: var(--color-text-muted);
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+}
+
+/* ===== Chart Legend ===== */
+.chart-legend {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.legend-marker {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+}
+
+.legend-star {
+  background: #ffd700;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.legend-triangle {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 14px solid #ff4757;
 }
 
 .trends-grid,

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MyVMK High Scores Tracker</title>
-  <link rel="stylesheet" href="css/styles.css?v=2">
+  <link rel="stylesheet" href="css/styles.css?v=3">
   <link rel="icon" type="image/png" href="https://download.myvmk.com/home/favicon-32x32.png">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -237,6 +237,16 @@
     <section id="trendsSection" class="trends-section" style="display: none;">
       <h2 class="trends-title">Historical Trends</h2>
       <p class="trends-subtitle">Top scores over time</p>
+      <div class="chart-legend">
+        <div class="legend-item">
+          <span class="legend-marker legend-star"></span>
+          <span>Double Credit Day</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-marker legend-triangle"></span>
+          <span>Low Participation (&lt;10)</span>
+        </div>
+      </div>
       <div class="trends-grid">
         <div class="trend-card">
           <h3>Castle Fireworks Remixed</h3>
@@ -293,6 +303,6 @@
     </div>
   </footer>
 
-  <script src="js/app.js?v=2"></script>
+  <script src="js/app.js?v=3"></script>
 </body>
 </html>

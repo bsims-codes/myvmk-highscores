@@ -9,6 +9,7 @@ const PACIFIC_TZ = 'America/Los_Angeles';
 // State
 let allTimeData = null;
 let dailyDataCache = new Map();
+let doubleCreditDays = new Set();
 let currentPeriod = 'today';
 let currentSearchQuery = '';
 let currentViewMode = 'all'; // 'all' or 'single'
@@ -126,6 +127,17 @@ async function fetchJSON(url) {
 async function loadAllTimeData() {
   allTimeData = await fetchJSON('data/all-time.json');
   return allTimeData;
+}
+
+/**
+ * Load double credit days data
+ */
+async function loadDoubleCreditDays() {
+  const data = await fetchJSON('data/double-credit-days.json');
+  if (data?.dates) {
+    doubleCreditDays = new Set(data.dates);
+  }
+  return doubleCreditDays;
 }
 
 /**
@@ -523,6 +535,44 @@ function createTrendChart(gameId, data) {
   }
 
   const ctx = canvas.getContext('2d');
+  const gameColor = getGameColor(gameId);
+
+  // Build per-point styling arrays
+  const pointStyles = [];
+  const pointColors = [];
+  const pointBorderColors = [];
+  const pointRadii = [];
+
+  for (let i = 0; i < data.scores.length; i++) {
+    const isDouble = data.isDoubleCreditDay?.[i];
+    const isLow = data.isLowParticipation?.[i];
+
+    if (isDouble && isLow) {
+      // Both: star with orange color
+      pointStyles.push('star');
+      pointColors.push('#ff9500');
+      pointBorderColors.push('#ff6600');
+      pointRadii.push(7);
+    } else if (isDouble) {
+      // Double credit day: gold star
+      pointStyles.push('star');
+      pointColors.push('#ffd700');
+      pointBorderColors.push('#ffaa00');
+      pointRadii.push(7);
+    } else if (isLow) {
+      // Low participation: red triangle
+      pointStyles.push('triangle');
+      pointColors.push('#ff4757');
+      pointBorderColors.push('#ff3344');
+      pointRadii.push(5);
+    } else {
+      // Normal day: circle
+      pointStyles.push('circle');
+      pointColors.push(gameColor);
+      pointBorderColors.push(gameColor);
+      pointRadii.push(3);
+    }
+  }
 
   const chart = new Chart(ctx, {
     type: 'line',
@@ -531,12 +581,15 @@ function createTrendChart(gameId, data) {
       datasets: [{
         label: 'Top Score',
         data: data.scores,
-        borderColor: getGameColor(gameId),
+        borderColor: gameColor,
         backgroundColor: getGameColor(gameId, 0.1),
         fill: true,
         tension: 0.4,
-        pointRadius: 3,
-        pointHoverRadius: 6
+        pointStyle: pointStyles,
+        pointBackgroundColor: pointColors,
+        pointBorderColor: pointBorderColors,
+        pointRadius: pointRadii,
+        pointHoverRadius: 8
       }]
     },
     options: {
@@ -548,7 +601,17 @@ function createTrendChart(gameId, data) {
         },
         tooltip: {
           callbacks: {
-            label: (context) => `Score: ${context.parsed.y.toLocaleString()}`
+            label: (context) => {
+              const idx = context.dataIndex;
+              const lines = [`Score: ${context.parsed.y.toLocaleString()}`];
+              if (data.isDoubleCreditDay?.[idx]) {
+                lines.push('Double Credit Day');
+              }
+              if (data.isLowParticipation?.[idx]) {
+                lines.push('Low Participation (<10 players)');
+              }
+              return lines;
+            }
           }
         }
       },
@@ -608,17 +671,23 @@ async function loadTrendCharts() {
   for (const gameId of GAMES) {
     const chartData = {
       labels: [],
-      scores: []
+      scores: [],
+      rawDates: [],
+      isDoubleCreditDay: [],
+      isLowParticipation: []
     };
 
     for (const dayData of dailyData.sort((a, b) => a.date.localeCompare(b.date))) {
       const gameData = dayData.games?.[gameId];
-      const topScore = gameData?.yesterday?.scores?.[0]?.score ||
-                       gameData?.highscores?.scores?.[0]?.score || 0;
+      const scores = gameData?.yesterday?.scores || gameData?.highscores?.scores || [];
+      const topScore = scores[0]?.score || 0;
 
       if (topScore > 0) {
         chartData.labels.push(formatDateShort(dayData.date));
         chartData.scores.push(topScore);
+        chartData.rawDates.push(dayData.date);
+        chartData.isDoubleCreditDay.push(doubleCreditDays.has(dayData.date));
+        chartData.isLowParticipation.push(scores.length < 10);
       }
     }
 
@@ -827,8 +896,9 @@ function handleGameSelection(gameId) {
  */
 async function init() {
   try {
-    // Load all-time data first
+    // Load all-time data and double credit days
     await loadAllTimeData();
+    await loadDoubleCreditDays();
 
     // Load today's data to get "yesterday" scores
     const todayDate = getPacificDate();
