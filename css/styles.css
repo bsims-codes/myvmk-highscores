@@ -127,6 +127,62 @@ body::before {
               radial-gradient(ellipse at 80% 70%, rgba(107, 76, 230, 0.08) 0%, transparent 50%);
 }
 
+/* ===== Top Navigation Buttons ===== */
+.top-nav-buttons {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  display: flex;
+  gap: 10px;
+  z-index: 100;
+}
+
+.top-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  background: rgba(20, 15, 35, 0.95);
+  border: 2px solid rgba(255, 215, 0, 0.4);
+  border-radius: 25px;
+  color: var(--color-gold);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.top-nav-btn:hover {
+  background: rgba(255, 215, 0, 0.15);
+  border-color: var(--color-gold);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.2);
+}
+
+.top-nav-icon {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .top-nav-buttons {
+    top: 10px;
+    right: 10px;
+    gap: 6px;
+  }
+
+  .top-nav-btn {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+
+  .top-nav-btn span:not(.top-nav-icon) {
+    display: none;
+  }
+}
+
 /* ===== Header ===== */
 .header {
   position: relative;
