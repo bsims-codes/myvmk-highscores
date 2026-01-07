@@ -1019,20 +1019,20 @@ if (document.readyState === 'loading') {
 
 // ===== Twinkling Stars Background =====
 function createStars() {
-  const container = document.querySelector('.stars');
+  const container = document.getElementById('stars');
   if (!container) return;
 
   // Clear existing stars
   container.innerHTML = '';
 
   // Generate stars based on screen size
-  const count = Math.floor(window.innerWidth * window.innerHeight / 6000);
+  const count = Math.floor(window.innerWidth * window.innerHeight / 5000);
 
   for (let i = 0; i < count; i++) {
     const star = document.createElement('div');
     star.className = 'star';
-    star.style.left = Math.random() * 100 + '%';
-    star.style.top = Math.random() * 100 + '%';
+    star.style.left = Math.random() * 100 + 'vw';
+    star.style.top = Math.random() * 100 + 'vh';
     star.style.setProperty('--delay', Math.random() * 4 + 's');
     star.style.setProperty('--duration', (2 + Math.random() * 3) + 's');
 
