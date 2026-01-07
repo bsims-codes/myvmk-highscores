@@ -21,7 +21,7 @@ const loadingState = document.getElementById('loadingState');
 const errorState = document.getElementById('errorState');
 const gamesGrid = document.getElementById('gamesGrid');
 const periodGrid = document.getElementById('periodGrid');
-const periodTabs = document.querySelector('.period-tabs');
+const periodTabsWrapper = document.querySelector('.period-tabs-wrapper');
 const trendsSection = document.getElementById('trendsSection');
 const userHistorySection = document.getElementById('userHistorySection');
 const searchInput = document.getElementById('searchInput');
@@ -795,14 +795,14 @@ function handleViewModeChange(viewMode) {
     btn.classList.toggle('active', btn.dataset.view === viewMode);
   });
 
-  // Show/hide game selector and period tabs
-  const gameSelector = document.querySelector('.game-selector');
+  // Show/hide game selector wrapper and period tabs wrapper
+  const gameSelectorWrapper = document.querySelector('.game-selector-wrapper');
   if (viewMode === 'single') {
-    gameSelector.style.display = 'flex';
-    periodTabs.style.display = 'none';
+    gameSelectorWrapper.style.display = 'block';
+    periodTabsWrapper.style.display = 'none';
   } else {
-    gameSelector.style.display = 'none';
-    periodTabs.style.display = 'flex';
+    gameSelectorWrapper.style.display = 'none';
+    periodTabsWrapper.style.display = 'block';
   }
 
   renderAllLeaderboards();
@@ -911,6 +911,34 @@ clearSearchBtn.addEventListener('click', () => {
   searchInput.value = '';
   handleSearch('');
 });
+
+// Game selector carousel arrow functionality
+const gameSelector = document.querySelector('.game-selector');
+const gameSelectorLeftArrow = document.querySelector('.game-selector-arrow.left');
+const gameSelectorRightArrow = document.querySelector('.game-selector-arrow.right');
+
+if (gameSelectorLeftArrow && gameSelectorRightArrow && gameSelector) {
+  gameSelectorLeftArrow.addEventListener('click', () => {
+    gameSelector.scrollBy({ left: -100, behavior: 'smooth' });
+  });
+  gameSelectorRightArrow.addEventListener('click', () => {
+    gameSelector.scrollBy({ left: 100, behavior: 'smooth' });
+  });
+}
+
+// Period tabs carousel arrow functionality
+const periodTabs = document.querySelector('.period-tabs');
+const periodTabsLeftArrow = document.querySelector('.period-tabs-arrow.left');
+const periodTabsRightArrow = document.querySelector('.period-tabs-arrow.right');
+
+if (periodTabsLeftArrow && periodTabsRightArrow && periodTabs) {
+  periodTabsLeftArrow.addEventListener('click', () => {
+    periodTabs.scrollBy({ left: -120, behavior: 'smooth' });
+  });
+  periodTabsRightArrow.addEventListener('click', () => {
+    periodTabs.scrollBy({ left: 120, behavior: 'smooth' });
+  });
+}
 
 // Initialize on DOM ready
 if (document.readyState === 'loading') {
