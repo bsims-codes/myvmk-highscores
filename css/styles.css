@@ -15,7 +15,7 @@
   --color-primary-light: #9d7aff;
   --color-gold: #ffd700;
   --color-gold-light: #ffed4a;
-  --color-silver: #c0c0c0;
+  --color-silver: #e0e0e0;
   --color-bronze: #cd7f32;
   --color-text: #ffffff;
   --color-text-muted: #a0a0c0;
@@ -502,8 +502,8 @@ body::before {
 }
 
 .leaderboard li.rank-2 {
-  background: linear-gradient(135deg, rgba(192, 192, 192, 0.12), rgba(192, 192, 192, 0.04));
-  border: 1px solid rgba(192, 192, 192, 0.25);
+  background: linear-gradient(135deg, rgba(224, 224, 224, 0.18), rgba(224, 224, 224, 0.08));
+  border: 1px solid rgba(224, 224, 224, 0.4);
 }
 
 .leaderboard li.rank-2 .rank {
