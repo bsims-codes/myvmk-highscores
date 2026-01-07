@@ -369,6 +369,7 @@ async function updateUsersIndex(games, date) {
           users[username] = {
             avatar: null,
             lastSeen: null,
+            lastAppearance: null,
             games: {}
           };
         }
@@ -380,9 +381,13 @@ async function updateUsersIndex(games, date) {
           user.avatar = topAvatar;
         }
 
-        // Update last seen date
+        // Update last seen date and last appearance
         if (!user.lastSeen || date > user.lastSeen) {
           user.lastSeen = date;
+          user.lastAppearance = { game: gameId, rank, date };
+        } else if (date === user.lastSeen && rank < (user.lastAppearance?.rank || 999)) {
+          // Same day but better rank
+          user.lastAppearance = { game: gameId, rank, date };
         }
 
         // Initialize game stats if not exists

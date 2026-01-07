@@ -1092,9 +1092,15 @@ function createUserCardHtml(name, includeRemoveBtn = true) {
     ? `<img src="data/avatars/${user.avatar}" alt="${escapeHtml(name)}" class="user-card-avatar" onerror="this.outerHTML='<div class=\\'user-avatar-placeholder\\'></div>'">`
     : '<div class="user-avatar-placeholder"></div>';
 
-  const lastSeenFormatted = user.lastSeen
-    ? formatDateShort(user.lastSeen)
-    : 'Unknown';
+  // Format last appearance info
+  let lastAppearanceText = 'No recent activity';
+  if (user.lastAppearance) {
+    const gameIcon = GAME_ICONS[user.lastAppearance.game] || '';
+    const dateFormatted = formatDateShort(user.lastAppearance.date);
+    lastAppearanceText = `${gameIcon} #${user.lastAppearance.rank} on ${dateFormatted}`;
+  } else if (user.lastSeen) {
+    lastAppearanceText = `Last seen: ${formatDateShort(user.lastSeen)}`;
+  }
 
   const gamesHtml = GAMES.map(gameId => {
     const gameData = user.games[gameId];
@@ -1133,7 +1139,7 @@ function createUserCardHtml(name, includeRemoveBtn = true) {
         ${avatarHtml}
         <div class="user-card-info">
           <h3 class="user-card-name">${escapeHtml(name)}</h3>
-          <p class="user-card-subtitle">Last seen: ${lastSeenFormatted}</p>
+          <p class="user-card-subtitle">${lastAppearanceText}</p>
         </div>
       </div>
       <div class="user-card-games">
