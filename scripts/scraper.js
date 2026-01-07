@@ -269,9 +269,33 @@ async function updateAllTimeScores(games, date) {
     sortedScores.forEach((s, i) => s.rank = i + 1);
 
     existing.scores = sortedScores;
-    existing.topAvatar = sortedScores[0]?.achievedOn === date
-      ? (gameData.today.topAvatar || gameData.highscores.topAvatar || existing.topAvatar)
-      : existing.topAvatar;
+
+    // Always try to get the latest avatar for the #1 player
+    // Check if they're currently #1 in any of today's sections to capture their avatar
+    // This ensures we have a permanent record even if the source website resets
+    const topPlayer = sortedScores[0];
+    if (topPlayer) {
+      let avatarFound = null;
+
+      // Check today's #1 spot first (most recent avatar)
+      if (gameData.today.scores[0]?.username === topPlayer.username) {
+        avatarFound = gameData.today.topAvatar;
+      }
+      // Then check highscores #1 spot (likely to match all-time #1)
+      else if (gameData.highscores.scores[0]?.username === topPlayer.username) {
+        avatarFound = gameData.highscores.topAvatar;
+      }
+      // Then check yesterday's #1 spot
+      else if (gameData.yesterday.scores[0]?.username === topPlayer.username) {
+        avatarFound = gameData.yesterday.topAvatar;
+      }
+
+      // Update avatar if we found one, otherwise keep existing
+      // This preserves avatars even after source resets, as long as we captured it once
+      if (avatarFound) {
+        existing.topAvatar = avatarFound;
+      }
+    }
   }
 
   allTime.lastUpdated = date;
