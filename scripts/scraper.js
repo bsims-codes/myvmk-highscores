@@ -11,6 +11,7 @@ const ROOT_DIR = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT_DIR, 'data');
 const DAILY_DIR = path.join(DATA_DIR, 'daily');
 const AVATARS_DIR = path.join(DATA_DIR, 'avatars');
+const USERS_FILE = path.join(DATA_DIR, 'users.json');
 
 const HIGHSCORES_URL = 'https://www.myvmk.com/highscores';
 const PACIFIC_TZ = 'America/Los_Angeles';
@@ -325,6 +326,109 @@ async function downloadAllAvatars(games) {
 }
 
 /**
+ * Update the persistent users index
+ * This stores all users ever seen with their best scores and avatars
+ */
+async function updateUsersIndex(games, date) {
+  let usersData;
+  try {
+    const existing = await fs.readFile(USERS_FILE, 'utf-8');
+    usersData = JSON.parse(existing);
+  } catch {
+    // Initialize if doesn't exist
+    usersData = {
+      lastUpdated: date,
+      users: {}
+    };
+  }
+
+  const users = usersData.users;
+  const GAME_IDS = GAMES.map(g => g.id);
+
+  // Process each game's scores
+  for (const gameConfig of GAMES) {
+    const gameId = gameConfig.id;
+    const gameData = games[gameId];
+    if (!gameData) continue;
+
+    // Process all score periods
+    for (const period of ['today', 'yesterday', 'highscores']) {
+      const periodData = gameData[period];
+      if (!periodData?.scores) continue;
+
+      const scores = periodData.scores;
+      const topAvatar = periodData.topAvatar;
+
+      scores.forEach((entry, idx) => {
+        const username = entry.username;
+        const score = entry.score;
+        const rank = entry.rank || idx + 1;
+
+        // Initialize user if not exists
+        if (!users[username]) {
+          users[username] = {
+            avatar: null,
+            lastSeen: null,
+            games: {}
+          };
+        }
+
+        const user = users[username];
+
+        // Update avatar if this user is #1 and we have an avatar
+        if (rank === 1 && topAvatar) {
+          user.avatar = topAvatar;
+        }
+
+        // Update last seen date
+        if (!user.lastSeen || date > user.lastSeen) {
+          user.lastSeen = date;
+        }
+
+        // Initialize game stats if not exists
+        if (!user.games[gameId]) {
+          user.games[gameId] = { bestScore: 0, date: null, rank: null };
+        }
+
+        // Update best score if this is better
+        if (score > user.games[gameId].bestScore) {
+          user.games[gameId].bestScore = score;
+          user.games[gameId].date = date;
+          user.games[gameId].rank = rank;
+        }
+      });
+    }
+  }
+
+  // Update all-time rankings from all-time.json
+  try {
+    const allTimeData = await fs.readFile(path.join(DATA_DIR, 'all-time.json'), 'utf-8');
+    const allTime = JSON.parse(allTimeData);
+
+    for (const gameId of GAME_IDS) {
+      const scores = allTime.games?.[gameId]?.scores || [];
+      scores.forEach((entry, idx) => {
+        const username = entry.username;
+        const rank = idx + 1;
+
+        if (users[username] && users[username].games[gameId]) {
+          users[username].games[gameId].allTimeRank = rank;
+        }
+      });
+    }
+  } catch (error) {
+    console.warn('Could not update all-time rankings:', error.message);
+  }
+
+  usersData.lastUpdated = date;
+  usersData.userCount = Object.keys(users).length;
+
+  await fs.writeFile(USERS_FILE, JSON.stringify(usersData, null, 2));
+  console.log(`Updated users.json with ${usersData.userCount} users`);
+  return usersData;
+}
+
+/**
  * Main scraper function
  */
 async function main() {
@@ -358,6 +462,9 @@ async function main() {
 
     // Update all-time scores
     await updateAllTimeScores(games, pacificDate);
+
+    // Update persistent users index
+    await updateUsersIndex(games, pacificDate);
 
     console.log('=== Scrape completed successfully ===');
   } catch (error) {

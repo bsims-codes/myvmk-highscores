@@ -143,87 +143,20 @@ async function loadDoubleCreditDays() {
 }
 
 /**
- * Build user index from all available data
+ * Load persistent user index from users.json
  */
-async function buildUserIndex() {
+async function loadUserIndex() {
   userIndex.clear();
 
-  // Load last 60 days of data to build comprehensive index
-  const dates = getLastNDays(60);
-  const dailyData = await loadMultipleDays(dates);
-
-  // Process each day's data
-  for (const dayData of dailyData) {
-    if (!dayData?.games) continue;
-    const date = dayData.date;
-
-    for (const gameId of GAMES) {
-      const gameData = dayData.games[gameId];
-      if (!gameData) continue;
-
-      // Process all score periods (yesterday, today, highscores)
-      for (const period of ['yesterday', 'today', 'highscores']) {
-        const scores = gameData[period]?.scores || [];
-        const topAvatar = gameData[period]?.topAvatar;
-
-        scores.forEach((entry, idx) => {
-          const username = entry.username;
-          const score = entry.score;
-          const rank = entry.rank || idx + 1;
-
-          // Initialize user if not exists
-          if (!userIndex.has(username)) {
-            userIndex.set(username, {
-              avatar: null,
-              lastSeen: null,
-              games: {}
-            });
-          }
-
-          const user = userIndex.get(username);
-
-          // Update avatar if this is #1 and we have avatar
-          if (rank === 1 && topAvatar) {
-            user.avatar = topAvatar;
-          }
-
-          // Update last seen date
-          if (!user.lastSeen || date > user.lastSeen) {
-            user.lastSeen = date;
-          }
-
-          // Initialize game if not exists
-          if (!user.games[gameId]) {
-            user.games[gameId] = { bestScore: 0, date: null, rank: null };
-          }
-
-          // Update best score if this is better
-          if (score > user.games[gameId].bestScore) {
-            user.games[gameId].bestScore = score;
-            user.games[gameId].date = date;
-            user.games[gameId].rank = rank;
-          }
-        });
-      }
-    }
+  const usersData = await fetchJSON('data/users.json');
+  if (!usersData?.users) {
+    console.warn('No users.json found or empty');
+    return;
   }
 
-  // Check all-time data for rankings
-  if (allTimeData?.games) {
-    for (const gameId of GAMES) {
-      const scores = allTimeData.games[gameId]?.scores || [];
-      scores.forEach((entry, idx) => {
-        const username = entry.username;
-        const rank = idx + 1;
-
-        if (userIndex.has(username)) {
-          const user = userIndex.get(username);
-          if (user.games[gameId]) {
-            user.games[gameId].allTimeRank = rank;
-          }
-        }
-      });
-    }
+  // Convert object to Map
+  for (const [username, userData] of Object.entries(usersData.users)) {
+    userIndex.set(username, userData);
   }
 
   // Build sorted username list for autocomplete
@@ -231,7 +164,7 @@ async function buildUserIndex() {
     a.toLowerCase().localeCompare(b.toLowerCase())
   );
 
-  console.log(`Built user index with ${allUsernames.length} users`);
+  console.log(`Loaded user index with ${allUsernames.length} users`);
 }
 
 /**
@@ -1002,8 +935,8 @@ async function init() {
     const yesterdayDate = getYesterdayPacific();
     await loadDailyData(yesterdayDate);
 
-    // Build user index for autocomplete and user cards
-    await buildUserIndex();
+    // Load persistent user index for autocomplete and user cards
+    await loadUserIndex();
 
     // Update last updated time (use daily data's scrapedAt for more precise time)
     const todayData = dailyDataCache.get(todayDate);
