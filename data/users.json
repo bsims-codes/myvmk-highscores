@@ -59,7 +59,7 @@
       "lastSeen": "2026-01-08",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-01-08"
       },
       "games": {
@@ -131,7 +131,7 @@
           "bestScore": 42365,
           "date": "2026-01-07",
           "rank": 1,
-          "allTimeRank": 20
+          "allTimeRank": 21
         }
       }
     },
@@ -766,11 +766,11 @@
       }
     },
     "MissyKinz": {
-      "avatar": null,
+      "avatar": "728d7be07e127eef8a9a153d897d68d3.png",
       "lastSeen": "2026-01-08",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-01-08"
       },
       "games": {
@@ -779,6 +779,18 @@
           "date": "2026-01-06",
           "rank": 5,
           "allTimeRank": 7
+        },
+        "castle-fireworks": {
+          "bestScore": 5544,
+          "date": "2026-01-08",
+          "rank": 5,
+          "allTimeRank": 17
+        },
+        "jungle-cruise": {
+          "bestScore": 43516,
+          "date": "2026-01-08",
+          "rank": 1,
+          "allTimeRank": 20
         }
       }
     },
@@ -858,7 +870,7 @@
           "bestScore": 5142,
           "date": "2026-01-07",
           "rank": 5,
-          "allTimeRank": 17
+          "allTimeRank": 18
         }
       }
     },
@@ -999,7 +1011,7 @@
       }
     },
     "Retro": {
-      "avatar": "83a03f59bb8be8800a710cafc67d68f2.png",
+      "avatar": "a3fef3422e2e538b745a7e7761842566.png",
       "lastSeen": "2026-01-08",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -1170,7 +1182,7 @@
           "bestScore": 35556,
           "date": "2026-01-06",
           "rank": 3,
-          "allTimeRank": 24
+          "allTimeRank": 25
         }
       }
     },
@@ -1238,7 +1250,7 @@
           "bestScore": 2808,
           "date": "2026-01-07",
           "rank": 6,
-          "allTimeRank": 20
+          "allTimeRank": 21
         },
         "jungle-cruise": {
           "bestScore": 45778,
@@ -1380,7 +1392,7 @@
           "bestScore": 41935,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 21
+          "allTimeRank": 22
         }
       }
     },
@@ -1397,7 +1409,7 @@
           "bestScore": 41081,
           "date": "2026-01-07",
           "rank": 8,
-          "allTimeRank": 22
+          "allTimeRank": 23
         }
       }
     },
@@ -1414,7 +1426,7 @@
           "bestScore": 40137,
           "date": "2026-01-07",
           "rank": 10,
-          "allTimeRank": 23
+          "allTimeRank": 24
         }
       }
     },
@@ -1431,7 +1443,7 @@
           "bestScore": 3368,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 18
+          "allTimeRank": 19
         }
       }
     },
@@ -1448,7 +1460,7 @@
           "bestScore": 2372,
           "date": "2026-01-07",
           "rank": 9,
-          "allTimeRank": 21
+          "allTimeRank": 22
         }
       }
     },
@@ -1511,7 +1523,7 @@
           "bestScore": 3026,
           "date": "2026-01-07",
           "rank": 9,
-          "allTimeRank": 19
+          "allTimeRank": 20
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-08",
-  "scrapedAt": "2026-01-08T13:00:28.064Z",
+  "scrapedAt": "2026-01-08T15:33:41.678Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,13 +14,23 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 9318
+          },
+          {
+            "rank": 3,
             "username": "bellemeansbeauty",
             "score": 8016
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "JiminyC",
             "score": 6508
+          },
+          {
+            "rank": 5,
+            "username": "MissyKinz",
+            "score": 5544
           }
         ]
       },
@@ -449,17 +459,22 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "2f1eaed4c7123bb684f0ada3f04eda31.png",
+        "topAvatar": "728d7be07e127eef8a9a153d897d68d3.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissyKinz",
+            "score": 43516
+          },
+          {
+            "rank": 2,
             "username": "FlyingShinyGirl",
             "score": 42365
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "83a03f59bb8be8800a710cafc67d68f2.png",
+        "topAvatar": "a3fef3422e2e538b745a7e7761842566.png",
         "scores": [
           {
             "rank": 1,
