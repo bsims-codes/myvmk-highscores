@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-09",
-  "userCount": 106,
+  "userCount": 107,
   "users": {
     "kazino": {
       "avatar": "694a7e15b5cdcd8127bb8f96d8ca6f44.png",
@@ -125,7 +125,7 @@
           "bestScore": 36,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 43
+          "allTimeRank": 44
         },
         "jungle-cruise": {
           "bestScore": 42365,
@@ -916,7 +916,7 @@
           "bestScore": 44,
           "date": "2026-01-06",
           "rank": 5,
-          "allTimeRank": 39
+          "allTimeRank": 40
         }
       }
     },
@@ -933,7 +933,7 @@
           "bestScore": 41,
           "date": "2026-01-06",
           "rank": 6,
-          "allTimeRank": 40
+          "allTimeRank": 41
         }
       }
     },
@@ -950,7 +950,7 @@
           "bestScore": 37,
           "date": "2026-01-06",
           "rank": 7,
-          "allTimeRank": 41
+          "allTimeRank": 42
         }
       }
     },
@@ -967,7 +967,7 @@
           "bestScore": 36,
           "date": "2026-01-06",
           "rank": 8,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -984,7 +984,7 @@
           "bestScore": 28,
           "date": "2026-01-06",
           "rank": 10,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -1254,7 +1254,7 @@
       "lastSeen": "2026-01-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-01-09"
       },
       "games": {
@@ -1265,9 +1265,9 @@
           "allTimeRank": 21
         },
         "jungle-cruise": {
-          "bestScore": 46908,
-          "date": "2026-01-08",
-          "rank": 6,
+          "bestScore": 47110,
+          "date": "2026-01-09",
+          "rank": 3,
           "allTimeRank": 18
         }
       }
@@ -1362,7 +1362,7 @@
       "lastSeen": "2026-01-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-01-09"
       },
       "games": {
@@ -1756,7 +1756,7 @@
           "bestScore": 52,
           "date": "2026-01-07",
           "rank": 9,
-          "allTimeRank": 37
+          "allTimeRank": 38
         }
       }
     },
@@ -1959,6 +1959,23 @@
           "date": "2026-01-08",
           "rank": 3,
           "allTimeRank": 10
+        }
+      }
+    },
+    "shelbitb": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 59,
+          "date": "2026-01-09",
+          "rank": 10,
+          "allTimeRank": 37
         }
       }
     }
