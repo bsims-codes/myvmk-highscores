@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-09",
-  "userCount": 114,
+  "userCount": 119,
   "users": {
     "kazino": {
       "avatar": "694a7e15b5cdcd8127bb8f96d8ca6f44.png",
@@ -27,7 +27,7 @@
           "bestScore": 108,
           "date": "2026-01-07",
           "rank": 4,
-          "allTimeRank": 28
+          "allTimeRank": 29
         }
       }
     },
@@ -73,7 +73,7 @@
           "bestScore": 236,
           "date": "2026-01-06",
           "rank": 8,
-          "allTimeRank": 26
+          "allTimeRank": 28
         },
         "haunted-mansion": {
           "bestScore": 130,
@@ -110,8 +110,8 @@
       "avatar": "2f1eaed4c7123bb684f0ada3f04eda31.png",
       "lastSeen": "2026-01-09",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
+        "game": "haunted-mansion",
+        "rank": 4,
         "date": "2026-01-09"
       },
       "games": {
@@ -122,22 +122,22 @@
           "allTimeRank": 8
         },
         "haunted-mansion": {
-          "bestScore": 36,
-          "date": "2026-01-06",
-          "rank": 9,
-          "allTimeRank": 47
+          "bestScore": 112,
+          "date": "2026-01-09",
+          "rank": 4,
+          "allTimeRank": 26
         },
         "jungle-cruise": {
           "bestScore": 42365,
           "date": "2026-01-07",
           "rank": 1,
-          "allTimeRank": 25
+          "allTimeRank": 26
         },
         "pirates": {
-          "bestScore": 244,
-          "date": "2026-01-08",
-          "rank": 7,
-          "allTimeRank": 21
+          "bestScore": 250,
+          "date": "2026-01-09",
+          "rank": 6,
+          "allTimeRank": 20
         }
       }
     },
@@ -183,7 +183,7 @@
           "bestScore": 40159,
           "date": "2026-01-09",
           "rank": 7,
-          "allTimeRank": 29
+          "allTimeRank": 30
         }
       }
     },
@@ -223,7 +223,7 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 5,
-          "allTimeRank": 37
+          "allTimeRank": 41
         }
       }
     },
@@ -441,10 +441,10 @@
       },
       "games": {
         "pirates": {
-          "bestScore": 238,
+          "bestScore": 267,
           "date": "2026-01-09",
-          "rank": 1,
-          "allTimeRank": 23
+          "rank": 2,
+          "allTimeRank": 18
         }
       }
     },
@@ -461,7 +461,7 @@
           "bestScore": 236,
           "date": "2026-01-06",
           "rank": 7,
-          "allTimeRank": 25
+          "allTimeRank": 27
         }
       }
     },
@@ -478,7 +478,7 @@
           "bestScore": 236,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 27
+          "allTimeRank": 29
         }
       }
     },
@@ -512,7 +512,7 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 2,
-          "allTimeRank": 35
+          "allTimeRank": 39
         },
         "jungle-cruise": {
           "bestScore": 52428,
@@ -535,7 +535,7 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 3,
-          "allTimeRank": 36
+          "allTimeRank": 40
         }
       }
     },
@@ -569,7 +569,7 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 6,
-          "allTimeRank": 38
+          "allTimeRank": 42
         }
       }
     },
@@ -586,7 +586,7 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 7,
-          "allTimeRank": 34
+          "allTimeRank": 37
         }
       }
     },
@@ -603,13 +603,13 @@
           "bestScore": 200,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 39
+          "allTimeRank": 43
         },
         "haunted-mansion": {
           "bestScore": 60,
           "date": "2026-01-08",
           "rank": 7,
-          "allTimeRank": 39
+          "allTimeRank": 41
         }
       }
     },
@@ -631,7 +631,7 @@
       }
     },
     "Katana": {
-      "avatar": "2837de70da450e3c3d44cde7aa43556a.png",
+      "avatar": "b3df88817fb82fa3825e512db4d905b4.png",
       "lastSeen": "2026-01-09",
       "lastAppearance": {
         "game": "pirates",
@@ -665,7 +665,7 @@
       }
     },
     "Marie": {
-      "avatar": "e9bfc5d10e3f6805b9b58339f1230aeb.png",
+      "avatar": "71bdb3df7a6fd9e8e8c01e11592eecb1.png",
       "lastSeen": "2026-01-09",
       "lastAppearance": {
         "game": "pirates",
@@ -700,11 +700,11 @@
     },
     "Matt": {
       "avatar": null,
-      "lastSeen": "2026-01-08",
+      "lastSeen": "2026-01-09",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-01-08"
+        "rank": 8,
+        "date": "2026-01-09"
       },
       "games": {
         "pirates": {
@@ -808,7 +808,7 @@
           "bestScore": 43516,
           "date": "2026-01-08",
           "rank": 1,
-          "allTimeRank": 24
+          "allTimeRank": 25
         }
       }
     },
@@ -848,7 +848,7 @@
           "bestScore": 45215,
           "date": "2026-01-06",
           "rank": 1,
-          "allTimeRank": 22
+          "allTimeRank": 23
         }
       }
     },
@@ -922,7 +922,7 @@
           "bestScore": 44,
           "date": "2026-01-06",
           "rank": 5,
-          "allTimeRank": 43
+          "allTimeRank": 45
         }
       }
     },
@@ -939,7 +939,7 @@
           "bestScore": 41,
           "date": "2026-01-06",
           "rank": 6,
-          "allTimeRank": 44
+          "allTimeRank": 46
         }
       }
     },
@@ -956,7 +956,7 @@
           "bestScore": 37,
           "date": "2026-01-06",
           "rank": 7,
-          "allTimeRank": 45
+          "allTimeRank": 47
         }
       }
     },
@@ -973,7 +973,7 @@
           "bestScore": 36,
           "date": "2026-01-06",
           "rank": 8,
-          "allTimeRank": 46
+          "allTimeRank": 48
         }
       }
     },
@@ -990,7 +990,7 @@
           "bestScore": 28,
           "date": "2026-01-06",
           "rank": 10,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -1047,7 +1047,7 @@
           "bestScore": 221,
           "date": "2026-01-07",
           "rank": 10,
-          "allTimeRank": 33
+          "allTimeRank": 36
         }
       }
     },
@@ -1149,7 +1149,7 @@
           "bestScore": 49523,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 15
+          "allTimeRank": 16
         }
       }
     },
@@ -1166,7 +1166,7 @@
           "bestScore": 47921,
           "date": "2026-01-06",
           "rank": 10,
-          "allTimeRank": 17
+          "allTimeRank": 18
         }
       }
     },
@@ -1183,7 +1183,7 @@
           "bestScore": 46233,
           "date": "2026-01-08",
           "rank": 7,
-          "allTimeRank": 19
+          "allTimeRank": 20
         }
       }
     },
@@ -1200,7 +1200,7 @@
           "bestScore": 35556,
           "date": "2026-01-06",
           "rank": 3,
-          "allTimeRank": 31
+          "allTimeRank": 32
         }
       }
     },
@@ -1274,7 +1274,7 @@
           "bestScore": 47213,
           "date": "2026-01-09",
           "rank": 6,
-          "allTimeRank": 18
+          "allTimeRank": 19
         }
       }
     },
@@ -1291,7 +1291,7 @@
           "bestScore": 101,
           "date": "2026-01-07",
           "rank": 6,
-          "allTimeRank": 32
+          "allTimeRank": 34
         }
       }
     },
@@ -1308,7 +1308,7 @@
           "bestScore": 100,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 33
+          "allTimeRank": 35
         }
       }
     },
@@ -1325,7 +1325,7 @@
           "bestScore": 98,
           "date": "2026-01-07",
           "rank": 8,
-          "allTimeRank": 34
+          "allTimeRank": 36
         }
       }
     },
@@ -1342,7 +1342,7 @@
           "bestScore": 109,
           "date": "2026-01-08",
           "rank": 8,
-          "allTimeRank": 27
+          "allTimeRank": 28
         }
       }
     },
@@ -1376,7 +1376,7 @@
           "bestScore": 49465,
           "date": "2026-01-07",
           "rank": 3,
-          "allTimeRank": 16
+          "allTimeRank": 17
         }
       }
     },
@@ -1393,7 +1393,7 @@
           "bestScore": 45989,
           "date": "2026-01-07",
           "rank": 4,
-          "allTimeRank": 21
+          "allTimeRank": 22
         }
       }
     },
@@ -1410,7 +1410,7 @@
           "bestScore": 41935,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 26
+          "allTimeRank": 27
         }
       }
     },
@@ -1427,7 +1427,7 @@
           "bestScore": 41081,
           "date": "2026-01-07",
           "rank": 8,
-          "allTimeRank": 27
+          "allTimeRank": 28
         },
         "haunted-mansion": {
           "bestScore": 117,
@@ -1450,7 +1450,7 @@
           "bestScore": 40137,
           "date": "2026-01-07",
           "rank": 10,
-          "allTimeRank": 30
+          "allTimeRank": 31
         }
       }
     },
@@ -1490,7 +1490,7 @@
           "bestScore": 247,
           "date": "2026-01-08",
           "rank": 6,
-          "allTimeRank": 19
+          "allTimeRank": 22
         }
       }
     },
@@ -1507,7 +1507,7 @@
           "bestScore": 104,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 31
+          "allTimeRank": 33
         }
       }
     },
@@ -1530,13 +1530,13 @@
           "bestScore": 232,
           "date": "2026-01-07",
           "rank": 4,
-          "allTimeRank": 30
+          "allTimeRank": 32
         },
         "haunted-mansion": {
           "bestScore": 106,
           "date": "2026-01-07",
           "rank": 2,
-          "allTimeRank": 30
+          "allTimeRank": 32
         }
       }
     },
@@ -1621,7 +1621,7 @@
           "bestScore": 247,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 18
+          "allTimeRank": 21
         }
       }
     },
@@ -1638,7 +1638,7 @@
           "bestScore": 244,
           "date": "2026-01-07",
           "rank": 8,
-          "allTimeRank": 20
+          "allTimeRank": 23
         }
       }
     },
@@ -1655,7 +1655,7 @@
           "bestScore": 224,
           "date": "2026-01-07",
           "rank": 9,
-          "allTimeRank": 32
+          "allTimeRank": 35
         }
       }
     },
@@ -1694,7 +1694,7 @@
           "bestScore": 109,
           "date": "2026-01-08",
           "rank": 7,
-          "allTimeRank": 26
+          "allTimeRank": 27
         }
       }
     },
@@ -1711,7 +1711,7 @@
           "bestScore": 234,
           "date": "2026-01-07",
           "rank": 3,
-          "allTimeRank": 28
+          "allTimeRank": 30
         }
       }
     },
@@ -1728,7 +1728,7 @@
           "bestScore": 240,
           "date": "2026-01-08",
           "rank": 8,
-          "allTimeRank": 22
+          "allTimeRank": 24
         }
       }
     },
@@ -1745,7 +1745,7 @@
           "bestScore": 63,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 37
+          "allTimeRank": 39
         }
       }
     },
@@ -1762,7 +1762,7 @@
           "bestScore": 52,
           "date": "2026-01-07",
           "rank": 9,
-          "allTimeRank": 41
+          "allTimeRank": 43
         }
       }
     },
@@ -1779,7 +1779,7 @@
           "bestScore": 107,
           "date": "2026-01-08",
           "rank": 6,
-          "allTimeRank": 29
+          "allTimeRank": 31
         }
       }
     },
@@ -1813,7 +1813,7 @@
           "bestScore": 46007,
           "date": "2026-01-08",
           "rank": 8,
-          "allTimeRank": 20
+          "allTimeRank": 21
         }
       }
     },
@@ -1847,7 +1847,7 @@
           "bestScore": 44360,
           "date": "2026-01-08",
           "rank": 9,
-          "allTimeRank": 23
+          "allTimeRank": 24
         }
       }
     },
@@ -1864,7 +1864,7 @@
           "bestScore": 237,
           "date": "2026-01-08",
           "rank": 9,
-          "allTimeRank": 24
+          "allTimeRank": 26
         }
       }
     },
@@ -1930,7 +1930,8 @@
         "pirates": {
           "bestScore": 278,
           "date": "2026-01-08",
-          "rank": 7
+          "rank": 7,
+          "allTimeRank": 34
         }
       }
     },
@@ -1947,7 +1948,7 @@
           "bestScore": 96,
           "date": "2026-01-08",
           "rank": 4,
-          "allTimeRank": 35
+          "allTimeRank": 37
         }
       }
     },
@@ -1981,7 +1982,7 @@
           "bestScore": 59,
           "date": "2026-01-09",
           "rank": 10,
-          "allTimeRank": 40
+          "allTimeRank": 42
         }
       }
     },
@@ -1998,7 +1999,7 @@
           "bestScore": 66,
           "date": "2026-01-09",
           "rank": 8,
-          "allTimeRank": 36
+          "allTimeRank": 38
         }
       }
     },
@@ -2015,7 +2016,7 @@
           "bestScore": 61,
           "date": "2026-01-09",
           "rank": 9,
-          "allTimeRank": 38
+          "allTimeRank": 40
         }
       }
     },
@@ -2038,7 +2039,7 @@
           "bestScore": 8955,
           "date": "2026-01-09",
           "rank": 10,
-          "allTimeRank": 33
+          "allTimeRank": 34
         }
       }
     },
@@ -2061,7 +2062,7 @@
           "bestScore": 30658,
           "date": "2026-01-09",
           "rank": 9,
-          "allTimeRank": 32
+          "allTimeRank": 33
         }
       }
     },
@@ -2078,7 +2079,7 @@
           "bestScore": 6,
           "date": "2026-01-09",
           "rank": 4,
-          "allTimeRank": 40
+          "allTimeRank": 44
         }
       }
     },
@@ -2112,7 +2113,92 @@
           "bestScore": 40768,
           "date": "2026-01-09",
           "rank": 10,
-          "allTimeRank": 28
+          "allTimeRank": 29
+        }
+      }
+    },
+    "Diamond-K": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 5,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 252,
+          "date": "2026-01-09",
+          "rank": 5,
+          "allTimeRank": 19
+        }
+      }
+    },
+    "fatale": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 7,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 239,
+          "date": "2026-01-09",
+          "rank": 7,
+          "allTimeRank": 25
+        }
+      }
+    },
+    "TomSelleck": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 10,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 215,
+          "date": "2026-01-09",
+          "rank": 10,
+          "allTimeRank": 38
+        }
+      }
+    },
+    "KristiDB": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 108,
+          "date": "2026-01-09",
+          "rank": 7,
+          "allTimeRank": 30
+        }
+      }
+    },
+    "bsims": {
+      "avatar": null,
+      "lastSeen": "2026-01-09",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-01-09"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 49800,
+          "date": "2026-01-09",
+          "rank": 6,
+          "allTimeRank": 15
         }
       }
     }
