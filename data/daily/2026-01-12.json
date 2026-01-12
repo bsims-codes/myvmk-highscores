@@ -1,6 +1,6 @@
 {
   "date": "2026-01-12",
-  "scrapedAt": "2026-01-12T09:39:58.533Z",
+  "scrapedAt": "2026-01-12T13:01:36.715Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -21,6 +21,11 @@
             "rank": 3,
             "username": "PuffyOldDragon",
             "score": 1580
+          },
+          {
+            "rank": 4,
+            "username": "Fawn",
+            "score": 1260
           }
         ]
       },
@@ -335,23 +340,23 @@
           },
           {
             "rank": 7,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 68
+          },
+          {
+            "rank": 8,
             "username": "AstroVioletRose",
             "score": 64
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "awko-taco",
             "score": 64
           },
           {
-            "rank": 9,
-            "username": "Art",
-            "score": 53
-          },
-          {
             "rank": 10,
-            "username": "starwars",
-            "score": 48
+            "username": "Shadow_Rose",
+            "score": 57
           }
         ]
       },
@@ -400,12 +405,12 @@
           },
           {
             "rank": 9,
-            "username": "mikgriz",
+            "username": "Monsta",
             "score": 121
           },
           {
             "rank": 10,
-            "username": "Monsta",
+            "username": "mikgriz",
             "score": 121
           }
         ]
@@ -469,25 +474,30 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "e2661bb06bf6edb356b8089487535c69.png",
+        "topAvatar": "15da7ac422461f24a7c0ea2c75185fa3.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Pearl",
+            "score": 49743
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 47675
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Asheroni",
             "score": 46033
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Sucrette",
             "score": 40997
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "AtziriDayre",
             "score": 37426
           }
