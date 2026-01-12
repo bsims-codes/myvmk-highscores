@@ -1,29 +1,39 @@
 {
   "date": "2026-01-12",
-  "scrapedAt": "2026-01-12T15:33:34.622Z",
+  "scrapedAt": "2026-01-12T18:42:10.813Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "1787679659a9ff84333e14a1a0a022a6.png",
+        "topAvatar": "c459dc34fee04c705831f1d29740ec53.png",
         "scores": [
           {
             "rank": 1,
+            "username": "TheOhanaGryphoness",
+            "score": 7666
+          },
+          {
+            "rank": 2,
             "username": "MissAnnaNovang",
             "score": 7252
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "FISHkars",
+            "score": 6418
+          },
+          {
+            "rank": 4,
             "username": "Asheroni",
             "score": 5504
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "PuffyOldDragon",
             "score": 1580
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Fawn",
             "score": 1260
           }
@@ -193,7 +203,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "a273f6cd291469514cf3245680ddad29.png",
+        "topAvatar": "4b97fc36d4025457e747dcafb60a7167.png",
         "scores": [
           {
             "rank": 1,
@@ -395,12 +405,12 @@
           },
           {
             "rank": 7,
-            "username": "Art",
+            "username": "BluPirate",
             "score": 125
           },
           {
             "rank": 8,
-            "username": "BluPirate",
+            "username": "Art",
             "score": 125
           },
           {
@@ -488,21 +498,36 @@
           },
           {
             "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 49119
+          },
+          {
+            "rank": 4,
+            "username": "HoneyStar",
+            "score": 47923
+          },
+          {
+            "rank": 5,
             "username": "Rstar",
             "score": 47675
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Asheroni",
             "score": 46033
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "username": "FISHkars",
+            "score": 45794
+          },
+          {
+            "rank": 8,
             "username": "Sucrette",
             "score": 40997
           },
           {
-            "rank": 6,
+            "rank": 9,
             "username": "AtziriDayre",
             "score": 37426
           }
