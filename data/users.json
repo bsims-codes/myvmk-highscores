@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-13",
-  "userCount": 156,
+  "userCount": 157,
   "users": {
     "kazino": {
       "avatar": "863c555179a53b4ab76af08f97ed3b46.png",
@@ -428,11 +428,11 @@
       }
     },
     "Erie": {
-      "avatar": "7075a1d194ddf21407ccbac37e1383a1.png",
+      "avatar": "53519e16a6eb77bb68ebd8dd1faacf52.png",
       "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-01-13"
       },
       "games": {
@@ -1161,7 +1161,7 @@
       "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-01-13"
       },
       "games": {
@@ -1452,7 +1452,7 @@
       "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-01-13"
       },
       "games": {
@@ -1887,11 +1887,11 @@
     },
     "IreneAdler": {
       "avatar": null,
-      "lastSeen": "2026-01-12",
+      "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-01-12"
+        "rank": 3,
+        "date": "2026-01-13"
       },
       "games": {
         "jungle-cruise": {
@@ -2388,11 +2388,11 @@
     },
     "wildgirlpony": {
       "avatar": null,
-      "lastSeen": "2026-01-12",
+      "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-01-12"
+        "rank": 4,
+        "date": "2026-01-13"
       },
       "games": {
         "haunted-mansion": {
@@ -2851,7 +2851,7 @@
       "lastSeen": "2026-01-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-01-13"
       },
       "games": {
@@ -2993,6 +2993,22 @@
           "date": "2026-01-12",
           "rank": 2,
           "allTimeRank": 42
+        }
+      }
+    },
+    "Cool_Beanss": {
+      "avatar": null,
+      "lastSeen": "2026-01-13",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-01-13"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 70,
+          "date": "2026-01-13",
+          "rank": 9
         }
       }
     }
