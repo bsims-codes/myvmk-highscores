@@ -1,6 +1,6 @@
 {
   "date": "2026-01-13",
-  "scrapedAt": "2026-01-13T18:39:41.076Z",
+  "scrapedAt": "2026-01-13T21:28:37.017Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -34,7 +34,12 @@
           },
           {
             "rank": 6,
-            "username": "Guest10149138",
+            "username": "NikkiTink",
+            "score": 671
+          },
+          {
+            "rank": 7,
+            "username": "mpickle",
             "score": 158
           }
         ]
@@ -263,16 +268,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "53519e16a6eb77bb68ebd8dd1faacf52.png",
+        "topAvatar": "1a83b438ab66ef283d0ea17c1edf4559.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 2,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -350,12 +355,12 @@
           },
           {
             "rank": 6,
-            "username": "BluPirate",
+            "username": "AstroVioletRose",
             "score": 101
           },
           {
             "rank": 7,
-            "username": "AstroVioletRose",
+            "username": "BluPirate",
             "score": 101
           },
           {
@@ -420,12 +425,12 @@
           },
           {
             "rank": 9,
-            "username": "Mirk",
+            "username": "Inferno",
             "score": 106
           },
           {
             "rank": 10,
-            "username": "Inferno",
+            "username": "Mirk",
             "score": 106
           }
         ]

@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-13",
-  "userCount": 157,
+  "userCount": 159,
   "users": {
     "kazino": {
       "avatar": "863c555179a53b4ab76af08f97ed3b46.png",
@@ -1078,7 +1078,7 @@
           "bestScore": 236,
           "date": "2026-01-10",
           "rank": 6,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -2524,7 +2524,7 @@
           "bestScore": 665,
           "date": "2026-01-10",
           "rank": 6,
-          "allTimeRank": 40
+          "allTimeRank": 41
         }
       }
     },
@@ -2655,7 +2655,7 @@
           "bestScore": 642,
           "date": "2026-01-11",
           "rank": 9,
-          "allTimeRank": 41
+          "allTimeRank": 42
         },
         "jungle-cruise": {
           "bestScore": 38958,
@@ -2910,7 +2910,7 @@
           "bestScore": 158,
           "date": "2026-01-12",
           "rank": 2,
-          "allTimeRank": 43
+          "allTimeRank": 44
         }
       }
     },
@@ -3009,6 +3009,40 @@
           "bestScore": 70,
           "date": "2026-01-13",
           "rank": 9
+        }
+      }
+    },
+    "NikkiTink": {
+      "avatar": null,
+      "lastSeen": "2026-01-13",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-01-13"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 671,
+          "date": "2026-01-13",
+          "rank": 6,
+          "allTimeRank": 40
+        }
+      }
+    },
+    "mpickle": {
+      "avatar": null,
+      "lastSeen": "2026-01-13",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-01-13"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 158,
+          "date": "2026-01-13",
+          "rank": 7,
+          "allTimeRank": 45
         }
       }
     }
