@@ -1,29 +1,34 @@
 {
   "date": "2026-01-13",
-  "scrapedAt": "2026-01-13T09:35:16.007Z",
+  "scrapedAt": "2026-01-13T13:01:41.147Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "f371f29a26e57cd33acacc1441411edc.png",
+        "topAvatar": "2f6d7bb99779f589361638e171e6225b.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10783
+          },
+          {
+            "rank": 2,
             "username": "scortatia",
             "score": 8417
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "bellemeansbeauty",
             "score": 8264
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "MissAnnaNovang",
             "score": 7202
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10149138",
             "score": 158
           }
@@ -316,12 +321,12 @@
           {
             "rank": 1,
             "username": "Shadow_Rose",
-            "score": 96
+            "score": 105
           },
           {
             "rank": 2,
             "username": "Sandblasted_OctoNuggie",
-            "score": 81
+            "score": 91
           },
           {
             "rank": 3,
@@ -330,38 +335,38 @@
           },
           {
             "rank": 4,
+            "username": "AstroVioletRose",
+            "score": 55
+          },
+          {
+            "rank": 5,
             "username": "MissAnnaNovang",
             "score": 53
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "TrinaBoBina",
             "score": 47
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "waterfallglow",
             "score": 44
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "username": "JiminyC",
+            "score": 40
+          },
+          {
+            "rank": 9,
             "username": "BelleMarie",
             "score": 34
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "AmandaJeanne",
             "score": 34
-          },
-          {
-            "rank": 9,
-            "username": "FlyingShinyGirl",
-            "score": 32
-          },
-          {
-            "rank": 10,
-            "username": "Monsta",
-            "score": 31
           }
         ]
       },
