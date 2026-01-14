@@ -1,6 +1,6 @@
 {
   "date": "2026-01-14",
-  "scrapedAt": "2026-01-14T15:32:35.515Z",
+  "scrapedAt": "2026-01-14T18:42:29.936Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -24,6 +24,11 @@
           },
           {
             "rank": 4,
+            "username": "JiminyC",
+            "score": 6410
+          },
+          {
+            "rank": 5,
             "username": "awko-taco",
             "score": 2435
           }
@@ -279,23 +284,23 @@
           },
           {
             "rank": 7,
-            "username": "-Misty-",
-            "score": 56
+            "username": "Mirk",
+            "score": 74
           },
           {
             "rank": 8,
-            "username": "shelbitb",
-            "score": 55
+            "username": "-Misty-",
+            "score": 70
           },
           {
             "rank": 9,
-            "username": "starwars",
-            "score": 48
+            "username": "Cool_Beanss",
+            "score": 60
           },
           {
             "rank": 10,
-            "username": "-Hannah-",
-            "score": 48
+            "username": "Art",
+            "score": 57
           }
         ]
       },
@@ -329,12 +334,12 @@
           },
           {
             "rank": 6,
-            "username": "AstroVioletRose",
+            "username": "BluPirate",
             "score": 101
           },
           {
             "rank": 7,
-            "username": "BluPirate",
+            "username": "AstroVioletRose",
             "score": 101
           },
           {
@@ -355,7 +360,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "a1c228c26c3206e8459df1c1fb7518a0.png",
+        "topAvatar": "3f4f14c6887b2c60ef14ca88ce5b2ea7.png",
         "scores": [
           {
             "rank": 1,
@@ -427,28 +432,43 @@
           },
           {
             "rank": 3,
-            "username": "HoneyStar",
-            "score": 46960
+            "username": "BlueSorcerer",
+            "score": 48789
           },
           {
             "rank": 4,
+            "username": "HoneyStar",
+            "score": 47114
+          },
+          {
+            "rank": 5,
             "username": "Fotogirl",
             "score": 46639
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "Pearl",
+            "score": 43470
+          },
+          {
+            "rank": 7,
             "username": "awko-taco",
             "score": 39854
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "Sucrette",
             "score": 39355
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "AtziriDayre",
             "score": 36520
+          },
+          {
+            "rank": 10,
+            "username": "mpickle",
+            "score": 27102
           }
         ]
       },
