@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-14",
-  "userCount": 162,
+  "userCount": 163,
   "users": {
     "kazino": {
       "avatar": "863c555179a53b4ab76af08f97ed3b46.png",
@@ -882,7 +882,7 @@
       "lastSeen": "2026-01-14",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-01-14"
       },
       "games": {
@@ -1078,7 +1078,7 @@
           "bestScore": 236,
           "date": "2026-01-10",
           "rank": 6,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -1124,11 +1124,11 @@
     },
     "crimsonskies": {
       "avatar": null,
-      "lastSeen": "2026-01-11",
+      "lastSeen": "2026-01-14",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-01-11"
+        "rank": 2,
+        "date": "2026-01-14"
       },
       "games": {
         "jungle-cruise": {
@@ -1346,7 +1346,7 @@
           "bestScore": 3212,
           "date": "2026-01-09",
           "rank": 6,
-          "allTimeRank": 32
+          "allTimeRank": 33
         },
         "jungle-cruise": {
           "bestScore": 47923,
@@ -1557,7 +1557,7 @@
           "bestScore": 3368,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 29
+          "allTimeRank": 30
         }
       }
     },
@@ -1779,18 +1779,18 @@
     },
     "Sheer": {
       "avatar": "2589a46dea0aff5574cc9b2b4a1a9eff.png",
-      "lastSeen": "2026-01-13",
+      "lastSeen": "2026-01-14",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 1,
-        "date": "2026-01-13"
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-01-14"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4227,
-          "date": "2026-01-08",
-          "rank": 9,
-          "allTimeRank": 33
+          "bestScore": 4455,
+          "date": "2026-01-14",
+          "rank": 5,
+          "allTimeRank": 29
         },
         "haunted-mansion": {
           "bestScore": 128,
@@ -2057,7 +2057,7 @@
           "bestScore": 3295,
           "date": "2026-01-10",
           "rank": 2,
-          "allTimeRank": 30
+          "allTimeRank": 31
         },
         "jungle-cruise": {
           "bestScore": 43456,
@@ -2148,7 +2148,7 @@
           "bestScore": 3245,
           "date": "2026-01-09",
           "rank": 7,
-          "allTimeRank": 31
+          "allTimeRank": 32
         },
         "jungle-cruise": {
           "bestScore": 8955,
@@ -2231,9 +2231,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 41023,
-          "date": "2026-01-09",
-          "rank": 1,
+          "bestScore": 41470,
+          "date": "2026-01-14",
+          "rank": 8,
           "allTimeRank": 39
         }
       }
@@ -2922,7 +2922,7 @@
           "bestScore": 158,
           "date": "2026-01-12",
           "rank": 2,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
@@ -3054,7 +3054,7 @@
           "bestScore": 158,
           "date": "2026-01-13",
           "rank": 7,
-          "allTimeRank": 46
+          "allTimeRank": 47
         },
         "jungle-cruise": {
           "bestScore": 27102,
@@ -3077,6 +3077,12 @@
           "bestScore": 42,
           "date": "2026-01-13",
           "rank": 6
+        },
+        "castle-fireworks": {
+          "bestScore": 12,
+          "date": "2026-01-14",
+          "rank": 8,
+          "allTimeRank": 48
         }
       }
     },
@@ -3110,6 +3116,23 @@
           "date": "2026-01-14",
           "rank": 4,
           "allTimeRank": 29
+        }
+      }
+    },
+    "JWFIT": {
+      "avatar": null,
+      "lastSeen": "2026-01-14",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-01-14"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 462,
+          "date": "2026-01-14",
+          "rank": 7,
+          "allTimeRank": 44
         }
       }
     }
