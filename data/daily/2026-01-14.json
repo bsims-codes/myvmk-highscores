@@ -1,6 +1,6 @@
 {
   "date": "2026-01-14",
-  "scrapedAt": "2026-01-14T13:01:37.305Z",
+  "scrapedAt": "2026-01-14T15:32:35.515Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -245,57 +245,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "6dbb6ec2dd51f063cf74ff8154003120.png",
+        "topAvatar": "170236e131a9cc097d67a0b4b1ca2a96.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Niki2",
+            "score": 127
+          },
+          {
+            "rank": 2,
+            "username": "VMKNeec",
+            "score": 120
+          },
+          {
+            "rank": 3,
             "username": "AstroVioletRose",
             "score": 119
           },
           {
-            "rank": 2,
-            "username": "Niki2",
-            "score": 115
+            "rank": 4,
+            "username": "BuckyBarnes",
+            "score": 100
           },
           {
-            "rank": 3,
+            "rank": 5,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 86
+          },
+          {
+            "rank": 6,
             "username": "Shadow_Rose",
             "score": 81
           },
           {
-            "rank": 4,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 79
+            "rank": 7,
+            "username": "-Misty-",
+            "score": 56
           },
           {
-            "rank": 5,
+            "rank": 8,
+            "username": "shelbitb",
+            "score": 55
+          },
+          {
+            "rank": 9,
             "username": "starwars",
             "score": 48
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "-Hannah-",
             "score": 48
-          },
-          {
-            "rank": 7,
-            "username": "MissAnnaNovang",
-            "score": 47
-          },
-          {
-            "rank": 8,
-            "username": "Monsta",
-            "score": 42
-          },
-          {
-            "rank": 9,
-            "username": "22ghosts",
-            "score": 42
-          },
-          {
-            "rank": 10,
-            "username": "protozoa",
-            "score": 38
           }
         ]
       },
