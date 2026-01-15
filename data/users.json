@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-15",
-  "userCount": 171,
+  "userCount": 173,
   "users": {
     "kazino": {
       "avatar": "3f4c58597f13815dcefb5c1e016e94e6.png",
@@ -608,7 +608,7 @@
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 4,
         "date": "2026-01-15"
       },
       "games": {
@@ -836,7 +836,7 @@
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-01-15"
       },
       "games": {
@@ -2454,11 +2454,11 @@
       }
     },
     "cauliflower": {
-      "avatar": null,
+      "avatar": "d04b6657c1cfa6bf18c37843829f01fb.png",
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-01-15"
       },
       "games": {
@@ -3304,6 +3304,38 @@
           "bestScore": 52,
           "date": "2026-01-15",
           "rank": 7
+        }
+      }
+    },
+    "jray": {
+      "avatar": null,
+      "lastSeen": "2026-01-15",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-01-15"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 63,
+          "date": "2026-01-15",
+          "rank": 7
+        }
+      }
+    },
+    "Brickhouze": {
+      "avatar": null,
+      "lastSeen": "2026-01-15",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-01-15"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 59,
+          "date": "2026-01-15",
+          "rank": 9
         }
       }
     }
