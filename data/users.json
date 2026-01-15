@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-15",
-  "userCount": 170,
+  "userCount": 171,
   "users": {
     "kazino": {
       "avatar": "3f4c58597f13815dcefb5c1e016e94e6.png",
@@ -815,7 +815,7 @@
       }
     },
     "Niki2": {
-      "avatar": "170236e131a9cc097d67a0b4b1ca2a96.png",
+      "avatar": "f97695f713df01ad560f3f59f0b29ce2.png",
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -824,8 +824,8 @@
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 153,
-          "date": "2026-01-08",
+          "bestScore": 154,
+          "date": "2026-01-15",
           "rank": 1,
           "allTimeRank": 2
         }
@@ -1070,7 +1070,7 @@
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-01-15"
       },
       "games": {
@@ -1340,11 +1340,11 @@
       }
     },
     "HoneyStar": {
-      "avatar": null,
+      "avatar": "17cd01967fd9d1769917de1ef57fdb16.png",
       "lastSeen": "2026-01-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 1,
         "date": "2026-01-15"
       },
       "games": {
@@ -3288,6 +3288,22 @@
           "bestScore": 40,
           "date": "2026-01-14",
           "rank": 6
+        }
+      }
+    },
+    "Lou": {
+      "avatar": null,
+      "lastSeen": "2026-01-15",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-01-15"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 52,
+          "date": "2026-01-15",
+          "rank": 7
         }
       }
     }
