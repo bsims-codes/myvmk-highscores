@@ -1,19 +1,29 @@
 {
   "date": "2026-01-15",
-  "scrapedAt": "2026-01-15T09:35:17.642Z",
+  "scrapedAt": "2026-01-15T13:00:17.118Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "1787679659a9ff84333e14a1a0a022a6.png",
+        "topAvatar": "d3b7675c9e986da7b8ce2ae5d0353a4b.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10743
+          },
+          {
+            "rank": 2,
+            "username": "JustForFun",
+            "score": 9450
+          },
+          {
+            "rank": 3,
             "username": "MissAnnaNovang",
             "score": 7074
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 2635
           }
@@ -315,43 +325,43 @@
           },
           {
             "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 58
+          },
+          {
+            "rank": 4,
             "username": "-Misty-",
             "score": 54
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "PrinceGeminii",
             "score": 51
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "JiminyC",
+            "score": 50
+          },
+          {
+            "rank": 7,
             "username": "Nigel",
             "score": 49
           },
           {
-            "rank": 6,
+            "rank": 8,
+            "username": "SpideyxLei",
+            "score": 41
+          },
+          {
+            "rank": 9,
             "username": "Matty",
             "score": 40
           },
           {
-            "rank": 7,
+            "rank": 10,
             "username": "BelleMarie",
             "score": 35
-          },
-          {
-            "rank": 8,
-            "username": "goatduck",
-            "score": 33
-          },
-          {
-            "rank": 9,
-            "username": "TrinaBoBina",
-            "score": 31
-          },
-          {
-            "rank": 10,
-            "username": "IcyWifeyQueen",
-            "score": 31
           }
         ]
       },
