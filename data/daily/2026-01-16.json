@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "scrapedAt": "2026-01-16T09:33:55.985Z",
+  "scrapedAt": "2026-01-16T12:59:13.183Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,16 +14,21 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 9336
+          },
+          {
+            "rank": 3,
             "username": "airham",
             "score": 9287
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "TheOhanaGryphoness",
             "score": 6844
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "DoctorDewIt",
             "score": 4269
           }
@@ -311,7 +316,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "a93d85daf5934fd8b2c3d19c040fce0d.png",
+        "topAvatar": "173c6605151a99dd4dd18ce77e667a5c.png",
         "scores": [
           {
             "rank": 1,
@@ -345,23 +350,23 @@
           },
           {
             "rank": 7,
-            "username": "Shadow_Rose",
-            "score": 65
-          },
-          {
-            "rank": 8,
             "username": "awko-taco",
             "score": 65
           },
           {
-            "rank": 9,
+            "rank": 8,
             "username": "scortatia",
             "score": 65
           },
           {
+            "rank": 9,
+            "username": "Shadow_Rose",
+            "score": 65
+          },
+          {
             "rank": 10,
-            "username": "Inferno",
-            "score": 56
+            "username": "JustForFun",
+            "score": 64
           }
         ]
       },
@@ -395,12 +400,12 @@
           },
           {
             "rank": 6,
-            "username": "Kenneth123",
+            "username": "Sheer",
             "score": 120
           },
           {
             "rank": 7,
-            "username": "Sheer",
+            "username": "Kenneth123",
             "score": 120
           },
           {
@@ -455,12 +460,12 @@
           },
           {
             "rank": 7,
-            "username": "AstroVioletRose",
+            "username": "Nayru",
             "score": 143
           },
           {
             "rank": 8,
-            "username": "Nayru",
+            "username": "AstroVioletRose",
             "score": 143
           },
           {
