@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-17",
-  "userCount": 184,
+  "userCount": 185,
   "users": {
     "kazino": {
       "avatar": "041c27890410d77fd01e7d23775218b5.png",
@@ -146,7 +146,7 @@
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 2,
         "date": "2026-01-17"
       },
       "games": {
@@ -183,7 +183,7 @@
           "bestScore": 40159,
           "date": "2026-01-09",
           "rank": 7,
-          "allTimeRank": 45
+          "allTimeRank": 46
         },
         "pirates": {
           "bestScore": 279,
@@ -541,7 +541,7 @@
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-01-17"
       },
       "games": {
@@ -1071,7 +1071,7 @@
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-01-17"
       },
       "games": {
@@ -1367,7 +1367,7 @@
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 4,
         "date": "2026-01-17"
       },
       "games": {
@@ -1529,7 +1529,7 @@
           "bestScore": 41935,
           "date": "2026-01-07",
           "rank": 7,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -1569,7 +1569,7 @@
           "bestScore": 40137,
           "date": "2026-01-07",
           "rank": 10,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -2284,7 +2284,7 @@
           "bestScore": 41470,
           "date": "2026-01-14",
           "rank": 8,
-          "allTimeRank": 43
+          "allTimeRank": 44
         }
       }
     },
@@ -2421,7 +2421,7 @@
           "bestScore": 39854,
           "date": "2026-01-13",
           "rank": 3,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -2660,7 +2660,7 @@
           "bestScore": 40875,
           "date": "2026-01-15",
           "rank": 2,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -2740,7 +2740,7 @@
           "bestScore": 38958,
           "date": "2026-01-11",
           "rank": 3,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -3439,7 +3439,7 @@
           "bestScore": 39291,
           "date": "2026-01-17",
           "rank": 4,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -3586,6 +3586,23 @@
           "date": "2026-01-17",
           "rank": 4,
           "allTimeRank": 47
+        }
+      }
+    },
+    "Fleek": {
+      "avatar": null,
+      "lastSeen": "2026-01-17",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-01-17"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 41984,
+          "date": "2026-01-17",
+          "rank": 5,
+          "allTimeRank": 42
         }
       }
     }
