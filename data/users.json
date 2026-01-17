@@ -32,11 +32,11 @@
       }
     },
     "BRlTT": {
-      "avatar": "d3b7675c9e986da7b8ce2ae5d0353a4b.png",
+      "avatar": "84624f28553c337fb1d4674f87c5a73b.png",
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-01-17"
       },
       "games": {
@@ -51,6 +51,11 @@
           "date": "2026-01-06",
           "rank": 1,
           "allTimeRank": 3
+        },
+        "haunted-mansion": {
+          "bestScore": 66,
+          "date": "2026-01-17",
+          "rank": 9
         }
       }
     },
@@ -552,8 +557,8 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 52872,
-          "date": "2026-01-11",
+          "bestScore": 53007,
+          "date": "2026-01-17",
           "rank": 3,
           "allTimeRank": 10
         }
@@ -577,7 +582,7 @@
       }
     },
     "tizzi": {
-      "avatar": "18bf3bb0479862d0d115466f226ff5d7.png",
+      "avatar": "faacb70d57146151494914d26405764e.png",
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "pirates",
@@ -1481,7 +1486,7 @@
       "lastSeen": "2026-01-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 5,
         "date": "2026-01-17"
       },
       "games": {
