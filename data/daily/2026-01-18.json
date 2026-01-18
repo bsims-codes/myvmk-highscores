@@ -1,11 +1,11 @@
 {
   "date": "2026-01-18",
-  "scrapedAt": "2026-01-18T09:28:19.866Z",
+  "scrapedAt": "2026-01-18T12:53:23.403Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "e159b5a1db9b68080a815210726ef2e5.png",
+        "topAvatar": "4a9f7bfaec2cf028ed4a732d0e048aac.png",
         "scores": [
           {
             "rank": 1,
@@ -19,23 +19,38 @@
           },
           {
             "rank": 3,
+            "username": "JustForFun",
+            "score": 8722
+          },
+          {
+            "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 7648
+          },
+          {
+            "rank": 5,
+            "username": "TheOhanaGryphoness",
+            "score": 6808
+          },
+          {
+            "rank": 6,
             "username": "DoctorDewIt",
             "score": 6623
           },
           {
-            "rank": 4,
+            "rank": 7,
             "username": "JerichoSun",
             "score": 5615
           },
           {
-            "rank": 5,
+            "rank": 8,
             "username": "Blueclay",
             "score": 4552
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "e159b5a1db9b68080a815210726ef2e5.png",
+        "topAvatar": "4a9f7bfaec2cf028ed4a732d0e048aac.png",
         "scores": [
           {
             "rank": 1,
@@ -335,38 +350,38 @@
           },
           {
             "rank": 4,
+            "username": "Cool_Beanss",
+            "score": 57
+          },
+          {
+            "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 53
+          },
+          {
+            "rank": 6,
             "username": "AmandaJeanne",
             "score": 50
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "PrinceGeminii",
             "score": 48
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "FlyingShinyGirl",
             "score": 47
           },
           {
-            "rank": 7,
-            "username": "Nigel",
-            "score": 45
-          },
-          {
-            "rank": 8,
+            "rank": 9,
             "username": "starwars",
             "score": 45
           },
           {
-            "rank": 9,
-            "username": "horchadapls",
-            "score": 44
-          },
-          {
             "rank": 10,
-            "username": "Matrona",
-            "score": 37
+            "username": "Nigel",
+            "score": 45
           }
         ]
       },
