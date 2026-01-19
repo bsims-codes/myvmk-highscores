@@ -1,24 +1,29 @@
 {
   "date": "2026-01-19",
-  "scrapedAt": "2026-01-19T09:42:03.870Z",
+  "scrapedAt": "2026-01-19T13:04:33.239Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "27fc2b2edb6a24779b50d38dce35f9b9.png",
+        "topAvatar": "75a87e2ae0ac0e47d70037a1d8643fbd.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10802
+          },
+          {
+            "rank": 2,
             "username": "JustForFun",
             "score": 9560
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "DoctorDewIt",
-            "score": 6038
+            "score": 6436
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Blueclay",
             "score": 5037
           }
@@ -346,17 +351,17 @@
           {
             "rank": 8,
             "username": "Sandblasted_OctoNuggie",
-            "score": 59
+            "score": 65
           },
           {
             "rank": 9,
-            "username": "-Hannah-",
-            "score": 58
+            "username": "Shadow_Rose",
+            "score": 59
           },
           {
             "rank": 10,
-            "username": "FlyingShinyGirl",
-            "score": 57
+            "username": "-Hannah-",
+            "score": 58
           }
         ]
       },
@@ -405,12 +410,12 @@
           },
           {
             "rank": 9,
-            "username": "Monsta",
+            "username": "mikgriz",
             "score": 92
           },
           {
             "rank": 10,
-            "username": "mikgriz",
+            "username": "Monsta",
             "score": 92
           }
         ]
@@ -450,12 +455,12 @@
           },
           {
             "rank": 7,
-            "username": "Nayru",
+            "username": "AstroVioletRose",
             "score": 143
           },
           {
             "rank": 8,
-            "username": "AstroVioletRose",
+            "username": "Nayru",
             "score": 143
           },
           {
@@ -493,21 +498,31 @@
           },
           {
             "rank": 4,
+            "username": "Lou",
+            "score": 51281
+          },
+          {
+            "rank": 5,
+            "username": "JustForFun",
+            "score": 50818
+          },
+          {
+            "rank": 6,
             "username": "-Hannah-",
             "score": 49965
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Blueclay",
             "score": 40658
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "CutieGoldenLady",
             "score": 36590
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "AtziriDayre",
             "score": 33299
           }
