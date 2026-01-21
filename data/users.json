@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-21",
-  "userCount": 216,
+  "userCount": 219,
   "users": {
     "kazino": {
       "avatar": "34608cfa52e4bb17ea6b8fc7c351381e.png",
@@ -203,7 +203,7 @@
       "lastSeen": "2026-01-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 6,
         "date": "2026-01-21"
       },
       "games": {
@@ -486,7 +486,7 @@
           "bestScore": 267,
           "date": "2026-01-09",
           "rank": 2,
-          "allTimeRank": 36
+          "allTimeRank": 37
         }
       }
     },
@@ -945,8 +945,8 @@
       "avatar": null,
       "lastSeen": "2026-01-21",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
+        "game": "pirates",
+        "rank": 4,
         "date": "2026-01-21"
       },
       "games": {
@@ -955,6 +955,11 @@
           "date": "2026-01-06",
           "rank": 9,
           "allTimeRank": 22
+        },
+        "pirates": {
+          "bestScore": 197,
+          "date": "2026-01-21",
+          "rank": 4
         }
       }
     },
@@ -1143,6 +1148,11 @@
           "date": "2026-01-09",
           "rank": 10,
           "allTimeRank": 50
+        },
+        "haunted-mansion": {
+          "bestScore": 36,
+          "date": "2026-01-21",
+          "rank": 10
         }
       }
     },
@@ -1631,7 +1641,7 @@
           "bestScore": 247,
           "date": "2026-01-08",
           "rank": 6,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
@@ -1796,7 +1806,7 @@
           "bestScore": 244,
           "date": "2026-01-07",
           "rank": 8,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -1813,7 +1823,7 @@
           "bestScore": 269,
           "date": "2026-01-14",
           "rank": 4,
-          "allTimeRank": 35
+          "allTimeRank": 36
         }
       }
     },
@@ -2323,7 +2333,7 @@
           "bestScore": 252,
           "date": "2026-01-09",
           "rank": 5,
-          "allTimeRank": 41
+          "allTimeRank": 42
         }
       }
     },
@@ -2340,7 +2350,7 @@
           "bestScore": 239,
           "date": "2026-01-09",
           "rank": 7,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -2495,7 +2505,7 @@
           "bestScore": 253,
           "date": "2026-01-19",
           "rank": 8,
-          "allTimeRank": 40
+          "allTimeRank": 41
         }
       }
     },
@@ -2654,7 +2664,7 @@
           "bestScore": 249,
           "date": "2026-01-10",
           "rank": 9,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -2740,7 +2750,7 @@
           "bestScore": 250,
           "date": "2026-01-15",
           "rank": 10,
-          "allTimeRank": 43
+          "allTimeRank": 44
         },
         "jungle-cruise": {
           "bestScore": 40440,
@@ -3279,7 +3289,7 @@
           "bestScore": 264,
           "date": "2026-01-14",
           "rank": 1,
-          "allTimeRank": 37
+          "allTimeRank": 38
         }
       }
     },
@@ -3592,7 +3602,7 @@
           "bestScore": 246,
           "date": "2026-01-16",
           "rank": 8,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -3671,11 +3681,11 @@
     },
     "Blueclay": {
       "avatar": null,
-      "lastSeen": "2026-01-19",
+      "lastSeen": "2026-01-21",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 3,
-        "date": "2026-01-19"
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-01-21"
       },
       "games": {
         "castle-fireworks": {
@@ -3694,6 +3704,12 @@
           "date": "2026-01-18",
           "rank": 3,
           "allTimeRank": 50
+        },
+        "pirates": {
+          "bestScore": 270,
+          "date": "2026-01-21",
+          "rank": 2,
+          "allTimeRank": 35
         }
       }
     },
@@ -3766,7 +3782,7 @@
           "bestScore": 261,
           "date": "2026-01-17",
           "rank": 7,
-          "allTimeRank": 38
+          "allTimeRank": 39
         },
         "haunted-mansion": {
           "bestScore": 87,
@@ -3788,7 +3804,7 @@
           "bestScore": 244,
           "date": "2026-01-17",
           "rank": 9,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -3970,7 +3986,7 @@
           "bestScore": 251,
           "date": "2026-01-19",
           "rank": 6,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -4004,7 +4020,7 @@
           "bestScore": 254,
           "date": "2026-01-19",
           "rank": 6,
-          "allTimeRank": 39
+          "allTimeRank": 40
         }
       }
     },
@@ -4021,6 +4037,11 @@
           "bestScore": 103,
           "date": "2026-01-19",
           "rank": 8
+        },
+        "pirates": {
+          "bestScore": 88,
+          "date": "2026-01-21",
+          "rank": 7
         }
       }
     },
@@ -4212,6 +4233,54 @@
           "date": "2026-01-21",
           "rank": 2,
           "allTimeRank": 47
+        }
+      }
+    },
+    "eldercunningham": {
+      "avatar": null,
+      "lastSeen": "2026-01-21",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-01-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1079,
+          "date": "2026-01-21",
+          "rank": 6
+        }
+      }
+    },
+    "Guest10149218": {
+      "avatar": null,
+      "lastSeen": "2026-01-21",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-01-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 8,
+          "date": "2026-01-21",
+          "rank": 7
+        }
+      }
+    },
+    "beckbeck": {
+      "avatar": null,
+      "lastSeen": "2026-01-21",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 5,
+        "date": "2026-01-21"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 157,
+          "date": "2026-01-21",
+          "rank": 5
         }
       }
     }
