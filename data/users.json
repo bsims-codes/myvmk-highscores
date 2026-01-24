@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-24",
-  "userCount": 235,
+  "userCount": 238,
   "users": {
     "kazino": {
       "avatar": "f410e97de73e445da066b206df0a4d0b.png",
@@ -450,7 +450,7 @@
       "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-01-24"
       },
       "games": {
@@ -1011,17 +1011,17 @@
     },
     "AmandaJeanne": {
       "avatar": null,
-      "lastSeen": "2026-01-21",
+      "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-01-21"
+        "rank": 10,
+        "date": "2026-01-24"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 55,
-          "date": "2026-01-19",
-          "rank": 6,
+          "bestScore": 57,
+          "date": "2026-01-24",
+          "rank": 10,
           "allTimeRank": 49
         }
       }
@@ -1202,29 +1202,29 @@
       }
     },
     "Myth": {
-      "avatar": null,
-      "lastSeen": "2026-01-22",
+      "avatar": "bed3c62581f07b64799e34e038c0abe7.png",
+      "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-01-22"
+        "rank": 1,
+        "date": "2026-01-24"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 53252,
-          "date": "2026-01-21",
-          "rank": 3,
+          "bestScore": 53477,
+          "date": "2026-01-24",
+          "rank": 1,
           "allTimeRank": 11
         }
       }
     },
     "MiLadyMoon": {
       "avatar": "fb356338f1fc816d2f20d4ad0dc78a8c.png",
-      "lastSeen": "2026-01-22",
+      "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-01-22"
+        "rank": 7,
+        "date": "2026-01-24"
       },
       "games": {
         "jungle-cruise": {
@@ -1405,7 +1405,7 @@
       "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 7,
         "date": "2026-01-24"
       },
       "games": {
@@ -1524,7 +1524,7 @@
       "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-01-24"
       },
       "games": {
@@ -3102,17 +3102,17 @@
     },
     "BelleMarie": {
       "avatar": null,
-      "lastSeen": "2026-01-22",
+      "lastSeen": "2026-01-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-01-22"
+        "rank": 9,
+        "date": "2026-01-24"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 49,
-          "date": "2026-01-21",
-          "rank": 4
+          "bestScore": 57,
+          "date": "2026-01-24",
+          "rank": 9
         }
       }
     },
@@ -4590,6 +4590,54 @@
           "date": "2026-01-24",
           "rank": 7,
           "allTimeRank": 43
+        }
+      }
+    },
+    "Guest10149255": {
+      "avatar": null,
+      "lastSeen": "2026-01-24",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-01-24"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 494,
+          "date": "2026-01-24",
+          "rank": 5
+        }
+      }
+    },
+    "Guest10149253": {
+      "avatar": null,
+      "lastSeen": "2026-01-24",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-01-24"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 456,
+          "date": "2026-01-24",
+          "rank": 6
+        }
+      }
+    },
+    "Minniegirl": {
+      "avatar": null,
+      "lastSeen": "2026-01-24",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-01-24"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 61,
+          "date": "2026-01-24",
+          "rank": 8
         }
       }
     }
