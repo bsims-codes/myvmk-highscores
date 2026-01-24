@@ -1,6 +1,6 @@
 {
   "date": "2026-01-24",
-  "scrapedAt": "2026-01-24T09:27:39.610Z",
+  "scrapedAt": "2026-01-24T12:54:30.870Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -194,27 +194,52 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "894aa0d0e6c8ae1a907164b7fa5e7bca.png",
+        "topAvatar": "17e22f290122d2fbc5848559394e7b3e.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 58
+            "username": "AstroVioletRose",
+            "score": 132
           },
           {
             "rank": 2,
-            "username": "Shadow_Rose",
-            "score": 54
+            "username": "Niki2",
+            "score": 112
           },
           {
             "rank": 3,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 88
+          },
+          {
+            "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 86
+          },
+          {
+            "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 52
+          },
+          {
+            "rank": 6,
             "username": "JustForFun",
             "score": 43
           },
           {
-            "rank": 4,
+            "rank": 7,
+            "username": "Lou",
+            "score": 42
+          },
+          {
+            "rank": 8,
             "username": "FlyingShinyGirl",
             "score": 34
+          },
+          {
+            "rank": 9,
+            "username": "Inferno",
+            "score": 13
           }
         ]
       },
@@ -332,10 +357,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "f4b369b41a7fb801f6a5d3bc68f48586.png",
+        "topAvatar": "27fc2b2edb6a24779b50d38dce35f9b9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 51661
+          },
+          {
+            "rank": 2,
             "username": "CaitlinNoel",
             "score": 43779
           }
