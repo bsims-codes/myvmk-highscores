@@ -1,24 +1,29 @@
 {
   "date": "2026-01-25",
-  "scrapedAt": "2026-01-25T12:56:25.974Z",
+  "scrapedAt": "2026-01-25T15:27:25.347Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "132ef6b22b14c9664a665a39a3ec1d8d.png",
+        "topAvatar": "41a45c96785e389642156d5893f4b01a.png",
         "scores": [
           {
             "rank": 1,
-            "username": "MissyKinz",
-            "score": 5377
+            "username": "BRlTT",
+            "score": 10961
           },
           {
             "rank": 2,
+            "username": "MissyKinz",
+            "score": 6182
+          },
+          {
+            "rank": 3,
             "username": "blueFlame_forever",
             "score": 2988
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Guest10149260",
             "score": 1110
           }
@@ -355,7 +360,7 @@
           },
           {
             "rank": 10,
-            "username": "blueFlame_forever",
+            "username": "MissyKinz",
             "score": 61
           }
         ]
@@ -474,30 +479,40 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "8ea6c9495b34d44fc10bbf510b45f018.png",
+        "topAvatar": "f7891315ce023f82ab0cd73e3417c2a6.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Tinkfaniam",
+            "score": 52786
+          },
+          {
+            "rank": 2,
             "username": "CaitlinNoel",
             "score": 44874
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "SavageGuy",
+            "score": 44540
+          },
+          {
+            "rank": 4,
             "username": "LunarVeil",
             "score": 40940
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "AtziriDayre",
             "score": 38990
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "blueFlame_forever",
             "score": 38571
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Guest10149260",
             "score": 9767
           }
