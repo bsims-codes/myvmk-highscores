@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-01-25",
-  "userCount": 246,
+  "userCount": 249,
   "users": {
     "kazino": {
-      "avatar": "34608cfa52e4bb17ea6b8fc7c351381e.png",
+      "avatar": "da2f12598f570b51e1c546327b0a8917.png",
       "lastSeen": "2026-01-25",
       "lastAppearance": {
         "game": "pirates",
@@ -908,7 +908,7 @@
           "bestScore": 253,
           "date": "2026-01-25",
           "rank": 6,
-          "allTimeRank": 43
+          "allTimeRank": 44
         }
       }
     },
@@ -917,7 +917,7 @@
       "lastSeen": "2026-01-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 6,
         "date": "2026-01-25"
       },
       "games": {
@@ -1348,7 +1348,7 @@
       "lastSeen": "2026-01-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-01-25"
       },
       "games": {
@@ -1663,7 +1663,7 @@
           "bestScore": 247,
           "date": "2026-01-08",
           "rank": 6,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -1845,7 +1845,7 @@
           "bestScore": 269,
           "date": "2026-01-14",
           "rank": 4,
-          "allTimeRank": 38
+          "allTimeRank": 39
         }
       }
     },
@@ -1907,7 +1907,7 @@
           "bestScore": 270,
           "date": "2026-01-15",
           "rank": 10,
-          "allTimeRank": 35
+          "allTimeRank": 36
         }
       }
     },
@@ -2360,7 +2360,7 @@
           "bestScore": 252,
           "date": "2026-01-09",
           "rank": 5,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -2422,7 +2422,7 @@
       }
     },
     "bsims": {
-      "avatar": "7d6037f5f336588562e7d8ac56e19c77.png",
+      "avatar": "964eb53a24a3d2ded986b2b656e7c0c9.png",
       "lastSeen": "2026-01-25",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -2532,7 +2532,7 @@
           "bestScore": 253,
           "date": "2026-01-19",
           "rank": 8,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -2691,7 +2691,7 @@
           "bestScore": 249,
           "date": "2026-01-10",
           "rank": 9,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -2777,7 +2777,7 @@
           "bestScore": 250,
           "date": "2026-01-15",
           "rank": 10,
-          "allTimeRank": 46
+          "allTimeRank": 47
         },
         "jungle-cruise": {
           "bestScore": 40440,
@@ -2846,11 +2846,11 @@
     },
     "Supercatygirl": {
       "avatar": null,
-      "lastSeen": "2026-01-11",
+      "lastSeen": "2026-01-25",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-01-11"
+        "rank": 5,
+        "date": "2026-01-25"
       },
       "games": {
         "castle-fireworks": {
@@ -3323,7 +3323,7 @@
           "bestScore": 264,
           "date": "2026-01-14",
           "rank": 1,
-          "allTimeRank": 39
+          "allTimeRank": 40
         }
       }
     },
@@ -3642,7 +3642,7 @@
           "bestScore": 246,
           "date": "2026-01-16",
           "rank": 8,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -3749,7 +3749,7 @@
           "bestScore": 270,
           "date": "2026-01-21",
           "rank": 2,
-          "allTimeRank": 37
+          "allTimeRank": 38
         }
       }
     },
@@ -3822,7 +3822,7 @@
           "bestScore": 261,
           "date": "2026-01-17",
           "rank": 7,
-          "allTimeRank": 40
+          "allTimeRank": 41
         },
         "haunted-mansion": {
           "bestScore": 87,
@@ -4014,7 +4014,7 @@
           "bestScore": 270,
           "date": "2026-01-19",
           "rank": 4,
-          "allTimeRank": 36
+          "allTimeRank": 37
         }
       }
     },
@@ -4031,7 +4031,7 @@
           "bestScore": 251,
           "date": "2026-01-19",
           "rank": 6,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
@@ -4065,7 +4065,7 @@
           "bestScore": 254,
           "date": "2026-01-19",
           "rank": 6,
-          "allTimeRank": 41
+          "allTimeRank": 42
         }
       }
     },
@@ -4601,8 +4601,8 @@
       "avatar": null,
       "lastSeen": "2026-01-25",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 6,
+        "game": "pirates",
+        "rank": 4,
         "date": "2026-01-25"
       },
       "games": {
@@ -4616,6 +4616,12 @@
           "bestScore": 5986,
           "date": "2026-01-24",
           "rank": 6,
+          "allTimeRank": 35
+        },
+        "pirates": {
+          "bestScore": 272,
+          "date": "2026-01-25",
+          "rank": 4,
           "allTimeRank": 35
         }
       }
@@ -4819,6 +4825,54 @@
           "bestScore": 241,
           "date": "2026-01-25",
           "rank": 7
+        }
+      }
+    },
+    "MamaBritt": {
+      "avatar": null,
+      "lastSeen": "2026-01-25",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-01-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1557,
+          "date": "2026-01-25",
+          "rank": 9
+        }
+      }
+    },
+    "OctoberPumpkin": {
+      "avatar": null,
+      "lastSeen": "2026-01-25",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-01-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1110,
+          "date": "2026-01-25",
+          "rank": 10
+        }
+      }
+    },
+    "Xalbec": {
+      "avatar": null,
+      "lastSeen": "2026-01-25",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-01-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1037,
+          "date": "2026-01-25",
+          "rank": 10
         }
       }
     }
