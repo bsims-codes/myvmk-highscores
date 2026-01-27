@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-27",
-  "userCount": 258,
+  "userCount": 259,
   "users": {
     "kazino": {
       "avatar": "6e28dc4256ae5b858504af69a508a5af.png",
@@ -64,7 +64,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-01-27"
       },
       "games": {
@@ -206,11 +206,11 @@
     },
     "JiminyC": {
       "avatar": null,
-      "lastSeen": "2026-01-26",
+      "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-01-26"
+        "rank": 3,
+        "date": "2026-01-27"
       },
       "games": {
         "castle-fireworks": {
@@ -870,7 +870,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-01-27"
       },
       "games": {
@@ -887,7 +887,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-01-27"
       },
       "games": {
@@ -5045,6 +5045,22 @@
           "bestScore": 0,
           "date": null,
           "rank": null
+        }
+      }
+    },
+    "Guest10149286": {
+      "avatar": null,
+      "lastSeen": "2026-01-27",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-01-27"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 188,
+          "date": "2026-01-27",
+          "rank": 6
         }
       }
     }
