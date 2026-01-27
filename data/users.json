@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-27",
-  "userCount": 259,
+  "userCount": 260,
   "users": {
     "kazino": {
       "avatar": "6e28dc4256ae5b858504af69a508a5af.png",
@@ -667,11 +667,11 @@
     },
     "PrinceGeminii": {
       "avatar": "e651f7815a91028eaec25acd60ce96dd.png",
-      "lastSeen": "2026-01-24",
+      "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-01-24"
+        "rank": 3,
+        "date": "2026-01-27"
       },
       "games": {
         "pirates": {
@@ -1236,11 +1236,11 @@
     },
     "MiLadyMoon": {
       "avatar": "fb356338f1fc816d2f20d4ad0dc78a8c.png",
-      "lastSeen": "2026-01-24",
+      "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-01-24"
+        "rank": 9,
+        "date": "2026-01-27"
       },
       "games": {
         "jungle-cruise": {
@@ -1557,7 +1557,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 5,
         "date": "2026-01-27"
       },
       "games": {
@@ -2185,11 +2185,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-01-26",
+      "lastSeen": "2026-01-27",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-01-26"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-01-27"
       },
       "games": {
         "haunted-mansion": {
@@ -2197,6 +2197,11 @@
           "date": "2026-01-21",
           "rank": 6,
           "allTimeRank": 48
+        },
+        "jungle-cruise": {
+          "bestScore": 40930,
+          "date": "2026-01-27",
+          "rank": 5
         }
       }
     },
@@ -3442,8 +3447,8 @@
       "avatar": "2febe32b07024b52439274b1f00e6cfd.png",
       "lastSeen": "2026-01-27",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 4,
+        "game": "haunted-mansion",
+        "rank": 2,
         "date": "2026-01-27"
       },
       "games": {
@@ -5061,6 +5066,22 @@
           "bestScore": 188,
           "date": "2026-01-27",
           "rank": 6
+        }
+      }
+    },
+    "savvy.rob": {
+      "avatar": null,
+      "lastSeen": "2026-01-27",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-01-27"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 906,
+          "date": "2026-01-27",
+          "rank": 7
         }
       }
     }
