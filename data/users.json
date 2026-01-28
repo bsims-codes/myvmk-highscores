@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-28",
-  "userCount": 262,
+  "userCount": 263,
   "users": {
     "kazino": {
       "avatar": "6e28dc4256ae5b858504af69a508a5af.png",
@@ -883,7 +883,7 @@
       }
     },
     "MissyKinz": {
-      "avatar": "2c5286f81bb748e9091ed480b59a557c.png",
+      "avatar": "34aae2b840e610d39dbaa3e6c8813a5c.png",
       "lastSeen": "2026-01-28",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1132,7 +1132,7 @@
       "lastSeen": "2026-01-28",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-01-28"
       },
       "games": {
@@ -2190,11 +2190,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-01-27",
+      "lastSeen": "2026-01-28",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-01-27"
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-01-28"
       },
       "games": {
         "haunted-mansion": {
@@ -4286,7 +4286,7 @@
       "lastSeen": "2026-01-28",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 6,
         "date": "2026-01-28"
       },
       "games": {
@@ -4635,7 +4635,7 @@
       }
     },
     "Horseytink": {
-      "avatar": "170bc29ddab2db8a4736b150841216df.png",
+      "avatar": "a589deee881ef4f13fc491a3600c1f6e.png",
       "lastSeen": "2026-01-28",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -5136,6 +5136,22 @@
           "bestScore": 30076,
           "date": "2026-01-28",
           "rank": 8
+        }
+      }
+    },
+    "Gymnast_Princesss": {
+      "avatar": null,
+      "lastSeen": "2026-01-28",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-01-28"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2435,
+          "date": "2026-01-28",
+          "rank": 4
         }
       }
     }
