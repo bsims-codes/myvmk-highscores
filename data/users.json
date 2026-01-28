@@ -853,7 +853,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-01-27"
       },
       "games": {
@@ -1115,7 +1115,7 @@
       "lastSeen": "2026-01-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-01-27"
       },
       "games": {
@@ -1316,11 +1316,11 @@
     },
     "Sucrette": {
       "avatar": "ac10f7ac7b13bd2dbdb54089e473196c.png",
-      "lastSeen": "2026-01-22",
+      "lastSeen": "2026-01-27",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-01-22"
+        "game": "haunted-mansion",
+        "rank": 4,
+        "date": "2026-01-27"
       },
       "games": {
         "jungle-cruise": {
@@ -1328,6 +1328,11 @@
           "date": "2026-01-08",
           "rank": 7,
           "allTimeRank": 41
+        },
+        "haunted-mansion": {
+          "bestScore": 29,
+          "date": "2026-01-27",
+          "rank": 4
         }
       }
     },
