@@ -1,12 +1,18 @@
 {
   "date": "2026-01-29",
-  "scrapedAt": "2026-01-29T09:52:48.753Z",
+  "scrapedAt": "2026-01-29T13:12:54.840Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "fbce5f3a8cb6d65b0093c8b6f40378ce.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BRlTT",
+            "score": 10678
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "bf6b2580fadacceb43165060466c3477.png",
@@ -222,16 +228,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "1a83b438ab66ef283d0ea17c1edf4559.png",
+        "topAvatar": "5c69a88615cb9e1918005a6be99054ed.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
@@ -299,38 +305,38 @@
           },
           {
             "rank": 4,
+            "username": "Niki2",
+            "score": 56
+          },
+          {
+            "rank": 5,
             "username": "PrinceGeminii",
             "score": 55
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "MiLadyMoon",
             "score": 55
           },
           {
-            "rank": 6,
+            "rank": 7,
+            "username": "JiminyC",
+            "score": 52
+          },
+          {
+            "rank": 8,
             "username": "-Hannah-",
             "score": 45
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "FlyingShinyGirl",
             "score": 39
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "Monsta",
             "score": 36
-          },
-          {
-            "rank": 9,
-            "username": "Sucrette",
-            "score": 30
-          },
-          {
-            "rank": 10,
-            "username": "Nigel",
-            "score": 29
           }
         ]
       },
