@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-30",
-  "userCount": 276,
+  "userCount": 278,
   "users": {
     "kazino": {
       "avatar": "2383231ebc64a27ec2bb9e22cb313741.png",
@@ -1593,11 +1593,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": null,
-      "lastSeen": "2026-01-12",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-01-12"
+        "rank": 9,
+        "date": "2026-01-30"
       },
       "games": {
         "jungle-cruise": {
@@ -2369,11 +2369,11 @@
     },
     "AtziriDayre": {
       "avatar": "1fe865136ab4092ffe5ab40bf2569010.png",
-      "lastSeen": "2026-01-27",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-01-27"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-01-30"
       },
       "games": {
         "jungle-cruise": {
@@ -2381,6 +2381,11 @@
           "date": "2026-01-17",
           "rank": 8,
           "allTimeRank": 50
+        },
+        "haunted-mansion": {
+          "bestScore": 72,
+          "date": "2026-01-30",
+          "rank": 8
         }
       }
     },
@@ -5405,6 +5410,38 @@
           "date": "2026-01-30",
           "rank": 3,
           "allTimeRank": 37
+        }
+      }
+    },
+    "Guest10149310": {
+      "avatar": null,
+      "lastSeen": "2026-01-30",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-01-30"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 319,
+          "date": "2026-01-30",
+          "rank": 7
+        }
+      }
+    },
+    "TheWatcher": {
+      "avatar": null,
+      "lastSeen": "2026-01-30",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-01-30"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 73,
+          "date": "2026-01-30",
+          "rank": 7
         }
       }
     }
