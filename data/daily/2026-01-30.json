@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "scrapedAt": "2026-01-30T09:48:34.585Z",
+  "scrapedAt": "2026-01-30T13:11:03.293Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -19,6 +19,11 @@
           },
           {
             "rank": 3,
+            "username": "BRlTT",
+            "score": 10560
+          },
+          {
+            "rank": 4,
             "username": "Guest10149317",
             "score": 194
           }
@@ -286,45 +291,55 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "733653dde141e204f1bba4b481a732d7.png",
+        "topAvatar": "bd88373e99804b06dd3734ffed4825a3.png",
         "scores": [
           {
             "rank": 1,
-            "username": "AstroVioletRose",
-            "score": 71
+            "username": "MissyKinz",
+            "score": 134
           },
           {
             "rank": 2,
+            "username": "AstroVioletRose",
+            "score": 112
+          },
+          {
+            "rank": 3,
             "username": "Shadow_Rose",
             "score": 61
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "MissAnnaNovang",
             "score": 52
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Sandblasted_OctoNuggie",
             "score": 51
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "JiminyC",
+            "score": 47
+          },
+          {
+            "rank": 7,
             "username": "Matty",
             "score": 40
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "SammyxxFairy",
             "score": 33
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "Redsox",
             "score": 32
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "FlyingShinyGirl",
             "score": 29
           }
@@ -458,11 +473,16 @@
           },
           {
             "rank": 3,
+            "username": "JWFIT",
+            "score": 41974
+          },
+          {
+            "rank": 4,
             "username": "AceBlane",
             "score": 32251
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10149317",
             "score": 5047
           }
