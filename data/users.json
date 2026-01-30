@@ -1,13 +1,13 @@
 {
   "lastUpdated": "2026-01-29",
-  "userCount": 271,
+  "userCount": 272,
   "users": {
     "kazino": {
-      "avatar": "6e28dc4256ae5b858504af69a508a5af.png",
+      "avatar": "0ba246e98d8eb970b58fed536f7ccfdb.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-01-29"
       },
       "games": {
@@ -95,7 +95,7 @@
       }
     },
     "Jewelsy": {
-      "avatar": "1aa5e885d04a0561bf95e74fe2730da2.png",
+      "avatar": "926d1e6e5d671542626531a100ab819e.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -313,7 +313,7 @@
       }
     },
     "Nayru": {
-      "avatar": "223cec869c6ab46cd21abb1793bc7940.png",
+      "avatar": "31a9ba17d95a6f8b8989dc89a332b4a8.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -814,7 +814,7 @@
       }
     },
     "OGBlondie_": {
-      "avatar": "64cbe0e39f069a2530deae54368ba064.png",
+      "avatar": "ece5c6ac333125200d15ca8e44055403.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -858,7 +858,7 @@
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 5,
         "date": "2026-01-29"
       },
       "games": {
@@ -1120,7 +1120,7 @@
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-01-29"
       },
       "games": {
@@ -1133,7 +1133,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "1d4431145cc00ede61e3ba727610d961.png",
+      "avatar": "4d5a5f05a9e7af01794f619c9898488b.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1223,7 +1223,7 @@
       }
     },
     "Myth": {
-      "avatar": "b52c6b22353b68fce6a3098719641199.png",
+      "avatar": "042ba5238e32709b87ca0d5bcab78907.png",
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "pirates",
@@ -1971,14 +1971,14 @@
       "lastSeen": "2026-01-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 6,
         "date": "2026-01-29"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 52,
-          "date": "2026-01-07",
-          "rank": 9,
+          "bestScore": 64,
+          "date": "2026-01-29",
+          "rank": 6,
           "allTimeRank": 50
         }
       }
@@ -5304,6 +5304,22 @@
           "date": "2026-01-29",
           "rank": 1,
           "allTimeRank": 10
+        }
+      }
+    },
+    "ThorFatherofOdin": {
+      "avatar": null,
+      "lastSeen": "2026-01-29",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-01-29"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 43192,
+          "date": "2026-01-29",
+          "rank": 10
         }
       }
     }
