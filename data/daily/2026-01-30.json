@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "scrapedAt": "2026-01-31T02:33:31.797Z",
+  "scrapedAt": "2026-01-31T04:39:11.860Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -60,7 +60,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "2383231ebc64a27ec2bb9e22cb313741.png",
+        "topAvatar": "30f7c0e5d7e1d22b212bcc77e7368ea1.png",
         "scores": [
           {
             "rank": 1,
@@ -182,33 +182,53 @@
           },
           {
             "rank": 2,
+            "username": "Tggrhny",
+            "score": 279
+          },
+          {
+            "rank": 3,
+            "username": "masha",
+            "score": 256
+          },
+          {
+            "rank": 4,
             "username": "Geodude",
             "score": 193
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "BrightEyes",
             "score": 173
           },
           {
-            "rank": 4,
+            "rank": 6,
+            "username": "kazino",
+            "score": 140
+          },
+          {
+            "rank": 7,
             "username": "Redsox",
             "score": 140
           },
           {
-            "rank": 5,
+            "rank": 8,
+            "username": "Xenon_",
+            "score": 123
+          },
+          {
+            "rank": 9,
             "username": "RockStar_Olivia",
             "score": 56
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "Erie",
             "score": 31
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "b52c6b22353b68fce6a3098719641199.png",
+        "topAvatar": "a15a53f1e9205899f4d5e4f865c2509d.png",
         "scores": [
           {
             "rank": 1,
@@ -321,7 +341,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "bd88373e99804b06dd3734ffed4825a3.png",
+        "topAvatar": "a8930b85d3922934b4189baedfff7cb9.png",
         "scores": [
           {
             "rank": 1,
@@ -335,12 +355,12 @@
           },
           {
             "rank": 3,
-            "username": "AstroVioletRose",
-            "score": 126
+            "username": "Sheer",
+            "score": 130
           },
           {
             "rank": 4,
-            "username": "Sheer",
+            "username": "AstroVioletRose",
             "score": 126
           },
           {
@@ -420,12 +440,12 @@
           },
           {
             "rank": 9,
-            "username": "tortdoggie",
+            "username": "Nigel",
             "score": 64
           },
           {
             "rank": 10,
-            "username": "Nigel",
+            "username": "tortdoggie",
             "score": 64
           }
         ]
