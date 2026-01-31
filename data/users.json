@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-01-30",
-  "userCount": 278,
+  "userCount": 281,
   "users": {
     "kazino": {
       "avatar": "2383231ebc64a27ec2bb9e22cb313741.png",
@@ -187,7 +187,7 @@
           "bestScore": 7860,
           "date": "2026-01-26",
           "rank": 4,
-          "allTimeRank": 27
+          "allTimeRank": 28
         },
         "haunted-mansion": {
           "bestScore": 128,
@@ -222,7 +222,7 @@
           "bestScore": 7736,
           "date": "2026-01-19",
           "rank": 3,
-          "allTimeRank": 28
+          "allTimeRank": 29
         },
         "haunted-mansion": {
           "bestScore": 97,
@@ -245,7 +245,7 @@
           "bestScore": 7654,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 30
+          "allTimeRank": 31
         },
         "pirates": {
           "bestScore": 200,
@@ -313,7 +313,7 @@
       }
     },
     "Nayru": {
-      "avatar": "31a9ba17d95a6f8b8989dc89a332b4a8.png",
+      "avatar": "a74c981c04ed32649fbbdef1f0b491f8.png",
       "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -1745,7 +1745,7 @@
       "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 6,
         "date": "2026-01-30"
       },
       "games": {
@@ -2352,11 +2352,11 @@
     },
     "CashisKing": {
       "avatar": "bb825f98d05ade9fe6862a8b1ed541f3.png",
-      "lastSeen": "2026-01-29",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-01-29"
+        "rank": 6,
+        "date": "2026-01-30"
       },
       "games": {
         "haunted-mansion": {
@@ -2631,11 +2631,11 @@
     },
     "mercedeskenzxx": {
       "avatar": null,
-      "lastSeen": "2026-01-18",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-01-18"
+        "rank": 10,
+        "date": "2026-01-30"
       },
       "games": {
         "jungle-cruise": {
@@ -2670,7 +2670,7 @@
           "bestScore": 7689,
           "date": "2026-01-10",
           "rank": 5,
-          "allTimeRank": 29
+          "allTimeRank": 30
         },
         "jungle-cruise": {
           "bestScore": 48171,
@@ -2899,18 +2899,18 @@
     },
     "Supercatygirl": {
       "avatar": null,
-      "lastSeen": "2026-01-29",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
-        "date": "2026-01-29"
+        "rank": 7,
+        "date": "2026-01-30"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 7486,
-          "date": "2026-01-11",
-          "rank": 10,
-          "allTimeRank": 31
+          "bestScore": 7980,
+          "date": "2026-01-30",
+          "rank": 7,
+          "allTimeRank": 27
         }
       }
     },
@@ -5060,17 +5060,22 @@
     },
     "PrincessMichii": {
       "avatar": null,
-      "lastSeen": "2026-01-27",
+      "lastSeen": "2026-01-30",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 3,
-        "date": "2026-01-27"
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-01-30"
       },
       "games": {
         "pirates": {
           "bestScore": 73,
           "date": "2026-01-26",
           "rank": 3
+        },
+        "jungle-cruise": {
+          "bestScore": 41099,
+          "date": "2026-01-30",
+          "rank": 10
         }
       }
     },
@@ -5442,6 +5447,55 @@
           "bestScore": 73,
           "date": "2026-01-30",
           "rank": 7
+        }
+      }
+    },
+    "Geodude": {
+      "avatar": null,
+      "lastSeen": "2026-01-30",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-01-30"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 193,
+          "date": "2026-01-30",
+          "rank": 2
+        }
+      }
+    },
+    "EVOL": {
+      "avatar": null,
+      "lastSeen": "2026-01-30",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-01-30"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 108,
+          "date": "2026-01-30",
+          "rank": 7,
+          "allTimeRank": 50
+        }
+      }
+    },
+    "skinskantanman": {
+      "avatar": null,
+      "lastSeen": "2026-01-30",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-01-30"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 76,
+          "date": "2026-01-30",
+          "rank": 6
         }
       }
     }
