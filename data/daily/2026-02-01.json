@@ -1,6 +1,6 @@
 {
   "date": "2026-02-01",
-  "scrapedAt": "2026-02-01T09:38:25.413Z",
+  "scrapedAt": "2026-02-01T13:04:39.610Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -187,7 +187,7 @@
           },
           {
             "rank": 10,
-            "username": "Stormyred",
+            "username": "Winnie",
             "score": 200
           }
         ]
@@ -330,13 +330,13 @@
           },
           {
             "rank": 5,
-            "username": "Pepa",
-            "score": 57
+            "username": "AstroVioletRose",
+            "score": 64
           },
           {
             "rank": 6,
-            "username": "AstroVioletRose",
-            "score": 55
+            "username": "Pepa",
+            "score": 57
           },
           {
             "rank": 7,
@@ -350,12 +350,12 @@
           },
           {
             "rank": 9,
-            "username": "Nigel",
-            "score": 41
+            "username": "JustForFun",
+            "score": 42
           },
           {
             "rank": 10,
-            "username": "Farquad",
+            "username": "Nigel",
             "score": 41
           }
         ]
@@ -375,12 +375,12 @@
           },
           {
             "rank": 3,
-            "username": "wildgirlpony",
+            "username": "Sheer",
             "score": 137
           },
           {
             "rank": 4,
-            "username": "Sheer",
+            "username": "wildgirlpony",
             "score": 137
           },
           {
@@ -474,20 +474,25 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "a119a3d441b385fff6d4037d94cd9cce.png",
+        "topAvatar": "27fc2b2edb6a24779b50d38dce35f9b9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 50926
+          },
+          {
+            "rank": 2,
             "username": "Horseytink",
             "score": 46366
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "tortdoggie",
             "score": 41970
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "AtziriDayre",
             "score": 40574
           }
