@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-01",
-  "userCount": 291,
+  "userCount": 296,
   "users": {
     "kazino": {
       "avatar": "7c231f782d58cb4f3425b2cd818853cc.png",
@@ -167,8 +167,8 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 9295,
-          "date": "2026-01-12",
+          "bestScore": 9465,
+          "date": "2026-02-01",
           "rank": 3,
           "allTimeRank": 20
         }
@@ -5698,6 +5698,86 @@
           "bestScore": 48990,
           "date": "2026-01-31",
           "rank": 4
+        }
+      }
+    },
+    "Guest10149347": {
+      "avatar": null,
+      "lastSeen": "2026-02-01",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-02-01"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 80,
+          "date": "2026-02-01",
+          "rank": 7
+        }
+      }
+    },
+    "Bib": {
+      "avatar": null,
+      "lastSeen": "2026-02-01",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 7,
+        "date": "2026-02-01"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 218,
+          "date": "2026-02-01",
+          "rank": 7
+        }
+      }
+    },
+    "bailzeb": {
+      "avatar": null,
+      "lastSeen": "2026-02-01",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-02-01"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 205,
+          "date": "2026-02-01",
+          "rank": 9
+        }
+      }
+    },
+    "BabyBat100": {
+      "avatar": null,
+      "lastSeen": "2026-02-01",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-02-01"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 10105,
+          "date": "2026-02-01",
+          "rank": 5
+        }
+      }
+    },
+    "Guest10149342": {
+      "avatar": null,
+      "lastSeen": "2026-02-01",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-02-01"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 8389,
+          "date": "2026-02-01",
+          "rank": 6
         }
       }
     }
