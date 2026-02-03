@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-02-02",
-  "userCount": 310,
+  "userCount": 314,
   "users": {
     "kazino": {
-      "avatar": "d0576639b1aa319d28ce3904bbfbcb13.png",
+      "avatar": "a94074ab745d2cedb937e10fcc3131e6.png",
       "lastSeen": "2026-02-02",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -675,7 +675,7 @@
       "lastSeen": "2026-02-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-02-02"
       },
       "games": {
@@ -1012,7 +1012,7 @@
       "lastSeen": "2026-02-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 3,
         "date": "2026-02-02"
       },
       "games": {
@@ -5095,8 +5095,8 @@
       "avatar": null,
       "lastSeen": "2026-02-02",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 9,
+        "game": "haunted-mansion",
+        "rank": 7,
         "date": "2026-02-02"
       },
       "games": {
@@ -5114,6 +5114,11 @@
           "bestScore": 2180,
           "date": "2026-02-02",
           "rank": 10
+        },
+        "haunted-mansion": {
+          "bestScore": 31,
+          "date": "2026-02-02",
+          "rank": 7
         }
       }
     },
@@ -6022,6 +6027,80 @@
           "date": "2026-02-02",
           "rank": 5,
           "allTimeRank": 37
+        }
+      }
+    },
+    "Question": {
+      "avatar": "d6eb2ed973cfa43cea2842f2901c5883.png",
+      "lastSeen": "2026-02-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 1,
+        "date": "2026-02-02"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3074,
+          "date": "2026-02-02",
+          "rank": 2
+        },
+        "haunted-mansion": {
+          "bestScore": 52,
+          "date": "2026-02-02",
+          "rank": 4
+        },
+        "jungle-cruise": {
+          "bestScore": 35714,
+          "date": "2026-02-02",
+          "rank": 1
+        }
+      }
+    },
+    "Baemax_": {
+      "avatar": "02429eea177ce40571ef387809db2186.png",
+      "lastSeen": "2026-02-02",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 1,
+        "date": "2026-02-02"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 88,
+          "date": "2026-02-02",
+          "rank": 1
+        }
+      }
+    },
+    "MaeBae": {
+      "avatar": null,
+      "lastSeen": "2026-02-02",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-02-02"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 65,
+          "date": "2026-02-02",
+          "rank": 2
+        }
+      }
+    },
+    "Expect": {
+      "avatar": null,
+      "lastSeen": "2026-02-02",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-02-02"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 33,
+          "date": "2026-02-02",
+          "rank": 6
         }
       }
     }
