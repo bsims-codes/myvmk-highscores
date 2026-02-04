@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-03",
-  "userCount": 316,
+  "userCount": 317,
   "users": {
     "kazino": {
       "avatar": "a94074ab745d2cedb937e10fcc3131e6.png",
@@ -2154,11 +2154,11 @@
     },
     "happycatyomyno": {
       "avatar": null,
-      "lastSeen": "2026-01-28",
+      "lastSeen": "2026-02-03",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
-        "date": "2026-01-28"
+        "rank": 4,
+        "date": "2026-02-03"
       },
       "games": {
         "pirates": {
@@ -2412,12 +2412,12 @@
       }
     },
     "fatale": {
-      "avatar": null,
-      "lastSeen": "2026-01-10",
+      "avatar": "1a34e6d1e078afb66b5cce86a7eed055.png",
+      "lastSeen": "2026-02-03",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-01-10"
+        "rank": 1,
+        "date": "2026-02-03"
       },
       "games": {
         "pirates": {
@@ -2473,7 +2473,7 @@
       "lastSeen": "2026-02-03",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-02-03"
       },
       "games": {
@@ -6136,6 +6136,22 @@
           "date": "2026-02-03",
           "rank": 3,
           "allTimeRank": 25
+        }
+      }
+    },
+    "LuckyGuestGirl": {
+      "avatar": null,
+      "lastSeen": "2026-02-03",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 3,
+        "date": "2026-02-03"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 102,
+          "date": "2026-02-03",
+          "rank": 3
         }
       }
     }

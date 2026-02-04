@@ -1,6 +1,6 @@
 {
   "date": "2026-02-03",
-  "scrapedAt": "2026-02-04T02:39:13.735Z",
+  "scrapedAt": "2026-02-04T04:45:47.990Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -30,7 +30,7 @@
           {
             "rank": 5,
             "username": "bellemeansbeauty",
-            "score": 8874
+            "score": 9315
           },
           {
             "rank": 6,
@@ -173,8 +173,29 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "1a34e6d1e078afb66b5cce86a7eed055.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "fatale",
+            "score": 228
+          },
+          {
+            "rank": 2,
+            "username": "Erie",
+            "score": 222
+          },
+          {
+            "rank": 3,
+            "username": "LuckyGuestGirl",
+            "score": 102
+          },
+          {
+            "rank": 4,
+            "username": "happycatyomyno",
+            "score": 74
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "25ac56cbfcb8a6cae971518893fc1e59.png",
@@ -339,7 +360,7 @@
           },
           {
             "rank": 10,
-            "username": "scortatia",
+            "username": "JustForFun",
             "score": 75
           }
         ]
@@ -467,48 +488,48 @@
           },
           {
             "rank": 2,
+            "username": "bsims",
+            "score": 54238
+          },
+          {
+            "rank": 3,
             "username": "Mizzpixie",
             "score": 51793
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Bolter",
             "score": 50455
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "JustForFun",
             "score": 49861
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Horseytink",
             "score": 48724
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "HappyToughFish",
             "score": 48085
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "Fotogirl",
             "score": 48023
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "BlueSorcerer",
             "score": 47638
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "Mirk",
             "score": 45127
-          },
-          {
-            "rank": 10,
-            "username": "MissyKinz",
-            "score": 44943
           }
         ]
       },
