@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-05",
-  "userCount": 323,
+  "userCount": 325,
   "users": {
     "kazino": {
       "avatar": "748462c2c9043c0d05083ae3f78bf125.png",
@@ -1902,9 +1902,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4455,
-          "date": "2026-01-14",
-          "rank": 5,
+          "bestScore": 5102,
+          "date": "2026-02-05",
+          "rank": 8,
           "allTimeRank": 49
         },
         "haunted-mansion": {
@@ -2382,8 +2382,8 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 41548,
-          "date": "2026-01-17",
+          "bestScore": 41708,
+          "date": "2026-02-05",
           "rank": 8,
           "allTimeRank": 50
         },
@@ -5526,7 +5526,7 @@
       "lastSeen": "2026-02-05",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-02-05"
       },
       "games": {
@@ -6001,17 +6001,17 @@
     },
     "WillaKingdomKeeper": {
       "avatar": null,
-      "lastSeen": "2026-02-04",
+      "lastSeen": "2026-02-05",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-02-04"
+        "rank": 7,
+        "date": "2026-02-05"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4975,
-          "date": "2026-02-03",
-          "rank": 10,
+          "bestScore": 5288,
+          "date": "2026-02-05",
+          "rank": 7,
           "allTimeRank": 50
         },
         "jungle-cruise": {
@@ -6101,14 +6101,14 @@
       "lastSeen": "2026-02-05",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-02-05"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 46,
-          "date": "2026-02-04",
-          "rank": 6
+          "bestScore": 63,
+          "date": "2026-02-05",
+          "rank": 7
         }
       }
     },
@@ -6268,6 +6268,38 @@
           "bestScore": 0,
           "date": null,
           "rank": null
+        }
+      }
+    },
+    "Guest10149414": {
+      "avatar": null,
+      "lastSeen": "2026-02-05",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-02-05"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 560,
+          "date": "2026-02-05",
+          "rank": 10
+        }
+      }
+    },
+    "DevinthHeaven": {
+      "avatar": null,
+      "lastSeen": "2026-02-05",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-02-05"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 35026,
+          "date": "2026-02-05",
+          "rank": 9
         }
       }
     }
