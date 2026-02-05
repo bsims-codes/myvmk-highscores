@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-04",
-  "userCount": 322,
+  "userCount": 323,
   "users": {
     "kazino": {
       "avatar": "748462c2c9043c0d05083ae3f78bf125.png",
@@ -649,11 +649,11 @@
     },
     "goatduck": {
       "avatar": null,
-      "lastSeen": "2026-01-24",
+      "lastSeen": "2026-02-04",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-01-24"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-02-04"
       },
       "games": {
         "pirates": {
@@ -675,7 +675,7 @@
       "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-02-04"
       },
       "games": {
@@ -927,7 +927,7 @@
       "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-02-04"
       },
       "games": {
@@ -1955,11 +1955,11 @@
       }
     },
     "Bernardo_S_Rocks": {
-      "avatar": "18c141fdb6b89a1470ce6c9b9f76cb33.png",
+      "avatar": "834dd6ad0461af24773ce1bb42722e08.png",
       "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-02-04"
       },
       "games": {
@@ -3238,11 +3238,11 @@
       }
     },
     "CaitlinNoel": {
-      "avatar": "26bdf6a1afdef1a380062a34487d9f45.png",
+      "avatar": "3160660faf9cb280126a03f0658ac019.png",
       "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-02-04"
       },
       "games": {
@@ -3509,11 +3509,11 @@
     },
     "Matty": {
       "avatar": null,
-      "lastSeen": "2026-01-30",
+      "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-01-30"
+        "date": "2026-02-04"
       },
       "games": {
         "haunted-mansion": {
@@ -6099,7 +6099,7 @@
       "lastSeen": "2026-02-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-02-04"
       },
       "games": {
@@ -6250,6 +6250,22 @@
           "bestScore": 23907,
           "date": "2026-02-04",
           "rank": 10
+        }
+      }
+    },
+    "Guest10149388": {
+      "avatar": null,
+      "lastSeen": "2026-02-04",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-02-04"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     }
