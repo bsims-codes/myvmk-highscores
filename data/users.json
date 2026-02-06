@@ -1160,7 +1160,7 @@
       "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-02-06"
       },
       "games": {
@@ -3788,11 +3788,11 @@
     },
     "Josie": {
       "avatar": null,
-      "lastSeen": "2026-01-17",
+      "lastSeen": "2026-02-06",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 4,
-        "date": "2026-01-17"
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-02-06"
       },
       "games": {
         "castle-fireworks": {
@@ -3800,6 +3800,11 @@
           "date": "2026-01-17",
           "rank": 4,
           "allTimeRank": 50
+        },
+        "haunted-mansion": {
+          "bestScore": 67,
+          "date": "2026-02-06",
+          "rank": 10
         }
       }
     },
@@ -4653,11 +4658,11 @@
     },
     "MaraquanWocky": {
       "avatar": "41e0fee06213bde57e7a75668a0436d8.png",
-      "lastSeen": "2026-02-01",
+      "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 3,
-        "date": "2026-02-01"
+        "date": "2026-02-06"
       },
       "games": {
         "jungle-cruise": {
@@ -4721,7 +4726,7 @@
       "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-02-06"
       },
       "games": {
