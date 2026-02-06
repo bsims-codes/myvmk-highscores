@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-06",
-  "userCount": 330,
+  "userCount": 331,
   "users": {
     "kazino": {
       "avatar": "2259a99d4bf03c6ad8b40a5ddd221b56.png",
@@ -3790,21 +3790,26 @@
       "avatar": null,
       "lastSeen": "2026-02-06",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
+        "game": "castle-fireworks",
+        "rank": 6,
         "date": "2026-02-06"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 1315,
-          "date": "2026-01-17",
-          "rank": 4,
+          "bestScore": 3184,
+          "date": "2026-02-06",
+          "rank": 6,
           "allTimeRank": 50
         },
         "haunted-mansion": {
           "bestScore": 67,
           "date": "2026-02-06",
           "rank": 10
+        },
+        "jungle-cruise": {
+          "bestScore": 43120,
+          "date": "2026-02-06",
+          "rank": 6
         }
       }
     },
@@ -6132,8 +6137,8 @@
       "avatar": "17a9114870065cace508933a890abee2.png",
       "lastSeen": "2026-02-06",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-02-06"
       },
       "games": {
@@ -6144,9 +6149,9 @@
           "allTimeRank": 26
         },
         "castle-fireworks": {
-          "bestScore": 8005,
-          "date": "2026-02-05",
-          "rank": 6,
+          "bestScore": 8038,
+          "date": "2026-02-06",
+          "rank": 2,
           "allTimeRank": 28
         },
         "jungle-cruise": {
@@ -6414,6 +6419,22 @@
           "bestScore": 32,
           "date": "2026-02-06",
           "rank": 9
+        }
+      }
+    },
+    "DrowsySkaterChair": {
+      "avatar": null,
+      "lastSeen": "2026-02-06",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-02-06"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3421,
+          "date": "2026-02-06",
+          "rank": 5
         }
       }
     }
