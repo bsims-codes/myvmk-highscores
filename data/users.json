@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-06",
-  "userCount": 332,
+  "userCount": 333,
   "users": {
     "kazino": {
       "avatar": "4df7ba686e9660c76b6158cfedc49d2d.png",
@@ -1120,7 +1120,7 @@
       "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-02-06"
       },
       "games": {
@@ -1327,11 +1327,11 @@
     },
     "Sucrette": {
       "avatar": "ac10f7ac7b13bd2dbdb54089e473196c.png",
-      "lastSeen": "2026-02-04",
+      "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-02-04"
+        "rank": 5,
+        "date": "2026-02-06"
       },
       "games": {
         "jungle-cruise": {
@@ -3514,11 +3514,11 @@
     },
     "Matty": {
       "avatar": null,
-      "lastSeen": "2026-02-05",
+      "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-02-05"
+        "rank": 7,
+        "date": "2026-02-06"
       },
       "games": {
         "haunted-mansion": {
@@ -5129,7 +5129,7 @@
       "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-02-06"
       },
       "games": {
@@ -6123,11 +6123,11 @@
       }
     },
     "Expect": {
-      "avatar": null,
+      "avatar": "99eb36219d77ca6c484ea359a0bbfec9.png",
       "lastSeen": "2026-02-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-02-06"
       },
       "games": {
@@ -6456,6 +6456,22 @@
           "bestScore": 38726,
           "date": "2026-02-06",
           "rank": 10
+        }
+      }
+    },
+    "PuffySpookyGirl": {
+      "avatar": null,
+      "lastSeen": "2026-02-06",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-02-06"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     }
