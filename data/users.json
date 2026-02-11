@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-11",
-  "userCount": 357,
+  "userCount": 358,
   "users": {
     "kazino": {
       "avatar": "044456d6f554f89227757d9298b5dee7.png",
@@ -99,7 +99,7 @@
       "lastSeen": "2026-02-11",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 3,
         "date": "2026-02-11"
       },
       "games": {
@@ -5594,7 +5594,7 @@
       }
     },
     "EVOL": {
-      "avatar": "690d82820ac1e6a785e17f360bcbfd97.png",
+      "avatar": "a8f69db81291e2f822ccb0b09381b09c.png",
       "lastSeen": "2026-02-11",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -6933,6 +6933,22 @@
       "games": {
         "castle-fireworks": {
           "bestScore": 142,
+          "date": "2026-02-11",
+          "rank": 7
+        }
+      }
+    },
+    "kittykat44": {
+      "avatar": null,
+      "lastSeen": "2026-02-11",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-02-11"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 402,
           "date": "2026-02-11",
           "rank": 7
         }
