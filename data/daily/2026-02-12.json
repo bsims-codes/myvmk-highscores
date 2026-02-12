@@ -1,6 +1,6 @@
 {
   "date": "2026-02-12",
-  "scrapedAt": "2026-02-12T16:00:23.653Z",
+  "scrapedAt": "2026-02-12T19:12:36.239Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,28 +14,43 @@
           },
           {
             "rank": 2,
+            "username": "kazino",
+            "score": 10670
+          },
+          {
+            "rank": 3,
             "username": "BRlTT",
             "score": 10587
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Wiz",
             "score": 10334
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Wavves",
             "score": 8610
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "TropicalShyFire",
             "score": 7884
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "MissAnnaNovang",
             "score": 7062
+          },
+          {
+            "rank": 8,
+            "username": "Guest10149501",
+            "score": 3690
+          },
+          {
+            "rank": 9,
+            "username": "Guest10149504",
+            "score": 3070
           }
         ]
       },
@@ -262,12 +277,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -311,7 +326,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "9cd94bfa8d263feb5e9453c66d0bdc19.png",
+        "topAvatar": "ebe3a1604adae3438a9e71db7557ad84.png",
         "scores": [
           {
             "rank": 1,
@@ -355,18 +370,18 @@
           },
           {
             "rank": 9,
-            "username": "Wavves",
+            "username": "Wiz",
             "score": 47
           },
           {
             "rank": 10,
-            "username": "scortatia",
-            "score": 42
+            "username": "Wavves",
+            "score": 47
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "fa78929bd4978906c63820b42ae8c234.png",
+        "topAvatar": "04160f9a58a3f440b233ef148e06b5b5.png",
         "scores": [
           {
             "rank": 1,
@@ -421,7 +436,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "4ebbacaee86b57b4ae3a85609b8dba71.png",
+        "topAvatar": "8a4b564e5a4f548dcb5babb484b169ca.png",
         "scores": [
           {
             "rank": 1,
@@ -465,12 +480,12 @@
           },
           {
             "rank": 9,
-            "username": "Monsta",
+            "username": "goatduck",
             "score": 142
           },
           {
             "rank": 10,
-            "username": "goatduck",
+            "username": "Monsta",
             "score": 142
           }
         ]
@@ -488,8 +503,13 @@
           },
           {
             "rank": 2,
+            "username": "BlueSorcerer",
+            "score": 45376
+          },
+          {
+            "rank": 3,
             "username": "AtziriDayre",
-            "score": 38494
+            "score": 41088
           }
         ]
       },
