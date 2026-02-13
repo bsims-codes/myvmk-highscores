@@ -1,13 +1,13 @@
 {
   "lastUpdated": "2026-02-13",
-  "userCount": 364,
+  "userCount": 365,
   "users": {
     "kazino": {
-      "avatar": "044456d6f554f89227757d9298b5dee7.png",
+      "avatar": "6814a46c826f935703cc51148f468394.png",
       "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-02-13"
       },
       "games": {
@@ -3736,7 +3736,7 @@
       "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-02-13"
       },
       "games": {
@@ -6994,6 +6994,11 @@
           "bestScore": 1744,
           "date": "2026-02-13",
           "rank": 7
+        },
+        "jungle-cruise": {
+          "bestScore": 26973,
+          "date": "2026-02-13",
+          "rank": 7
         }
       }
     },
@@ -7084,6 +7089,22 @@
           "bestScore": 45151,
           "date": "2026-02-13",
           "rank": 1
+        }
+      }
+    },
+    "Guest10149515": {
+      "avatar": null,
+      "lastSeen": "2026-02-13",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-02-13"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 484,
+          "date": "2026-02-13",
+          "rank": 10
         }
       }
     }
