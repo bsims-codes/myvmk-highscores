@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "scrapedAt": "2026-02-13T13:16:27.026Z",
+  "scrapedAt": "2026-02-13T15:51:37.740Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -25,7 +25,7 @@
           {
             "rank": 4,
             "username": "MissAnnaNovang",
-            "score": 7465
+            "score": 7561
           },
           {
             "rank": 5,
@@ -39,6 +39,11 @@
           },
           {
             "rank": 7,
+            "username": "AliceJane",
+            "score": 1744
+          },
+          {
+            "rank": 8,
             "username": "Guest10149506",
             "score": 1301
           }
@@ -206,12 +211,12 @@
           },
           {
             "rank": 9,
-            "username": "EpicRose",
+            "username": "Xenon_",
             "score": 225
           },
           {
             "rank": 10,
-            "username": "Xenon_",
+            "username": "EpicRose",
             "score": 225
           }
         ]
@@ -226,12 +231,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -261,12 +266,12 @@
           },
           {
             "rank": 9,
-            "username": "Xenon_",
+            "username": "airham",
             "score": 384
           },
           {
             "rank": 10,
-            "username": "airham",
+            "username": "Xenon_",
             "score": 384
           }
         ]
@@ -275,57 +280,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "3418b919150a41942c18f7cb160a74a8.png",
+        "topAvatar": "e7048849439f0931ec84d148fee0aa46.png",
         "scores": [
           {
             "rank": 1,
+            "username": "EVOL",
+            "score": 117
+          },
+          {
+            "rank": 2,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 99
+          },
+          {
+            "rank": 3,
+            "username": "JustForFun",
+            "score": 91
+          },
+          {
+            "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 71
+          },
+          {
+            "rank": 5,
             "username": "MissyKinz",
             "score": 57
           },
           {
-            "rank": 2,
+            "rank": 6,
+            "username": "shelbitb",
+            "score": 56
+          },
+          {
+            "rank": 7,
             "username": "scortatia",
             "score": 52
           },
           {
-            "rank": 3,
+            "rank": 8,
             "username": "PrinceGeminii",
             "score": 47
           },
           {
-            "rank": 4,
-            "username": "JustForFun",
-            "score": 47
-          },
-          {
-            "rank": 5,
+            "rank": 9,
             "username": "Wiz",
             "score": 46
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "MissAnnaNovang",
             "score": 45
-          },
-          {
-            "rank": 7,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 42
-          },
-          {
-            "rank": 8,
-            "username": "Shadow_Rose",
-            "score": 38
-          },
-          {
-            "rank": 9,
-            "username": "AstroVioletRose",
-            "score": 35
-          },
-          {
-            "rank": 10,
-            "username": "kazino",
-            "score": 29
           }
         ]
       },
@@ -429,12 +434,12 @@
           },
           {
             "rank": 9,
-            "username": "Monsta",
+            "username": "goatduck",
             "score": 142
           },
           {
             "rank": 10,
-            "username": "goatduck",
+            "username": "Monsta",
             "score": 142
           }
         ]

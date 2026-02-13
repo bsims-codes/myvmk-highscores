@@ -883,7 +883,7 @@
       "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-02-13"
       },
       "games": {
@@ -1145,7 +1145,7 @@
       "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-02-13"
       },
       "games": {
@@ -2247,11 +2247,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-02-12",
+      "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-02-12"
+        "rank": 6,
+        "date": "2026-02-13"
       },
       "games": {
         "haunted-mansion": {
@@ -5604,11 +5604,11 @@
       }
     },
     "EVOL": {
-      "avatar": "d451d5ce7ee1d7fc2d13c2223cfbb0aa.png",
+      "avatar": "e7048849439f0931ec84d148fee0aa46.png",
       "lastSeen": "2026-02-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-02-13"
       },
       "games": {
@@ -6978,17 +6978,22 @@
     },
     "AliceJane": {
       "avatar": null,
-      "lastSeen": "2026-02-11",
+      "lastSeen": "2026-02-13",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 2,
-        "date": "2026-02-11"
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-02-13"
       },
       "games": {
         "pirates": {
           "bestScore": 158,
           "date": "2026-02-11",
           "rank": 2
+        },
+        "castle-fireworks": {
+          "bestScore": 1744,
+          "date": "2026-02-13",
+          "rank": 7
         }
       }
     },
