@@ -576,7 +576,7 @@
       "lastSeen": "2026-02-12",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-02-12"
       },
       "games": {
@@ -1896,7 +1896,7 @@
           "bestScore": 269,
           "date": "2026-01-14",
           "rank": 4,
-          "allTimeRank": 45
+          "allTimeRank": 46
         },
         "haunted-mansion": {
           "bestScore": 32,
@@ -1963,7 +1963,7 @@
           "bestScore": 270,
           "date": "2026-01-15",
           "rank": 10,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -2437,7 +2437,7 @@
           "bestScore": 276,
           "date": "2026-02-05",
           "rank": 3,
-          "allTimeRank": 39
+          "allTimeRank": 40
         }
       }
     },
@@ -3459,7 +3459,7 @@
           "bestScore": 264,
           "date": "2026-01-14",
           "rank": 1,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -3892,9 +3892,9 @@
           "allTimeRank": 50
         },
         "haunted-mansion": {
-          "bestScore": 87,
-          "date": "2026-01-18",
-          "rank": 8
+          "bestScore": 88,
+          "date": "2026-02-12",
+          "rank": 10
         },
         "jungle-cruise": {
           "bestScore": 44538,
@@ -3906,7 +3906,7 @@
           "bestScore": 270,
           "date": "2026-01-21",
           "rank": 2,
-          "allTimeRank": 43
+          "allTimeRank": 44
         }
       }
     },
@@ -3968,11 +3968,11 @@
     },
     "JerichoSun": {
       "avatar": null,
-      "lastSeen": "2026-01-19",
+      "lastSeen": "2026-02-12",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-01-19"
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-02-12"
       },
       "games": {
         "castle-fireworks": {
@@ -3985,11 +3985,11 @@
           "bestScore": 261,
           "date": "2026-01-17",
           "rank": 7,
-          "allTimeRank": 49
+          "allTimeRank": 50
         },
         "haunted-mansion": {
-          "bestScore": 87,
-          "date": "2026-01-18",
+          "bestScore": 91,
+          "date": "2026-02-12",
           "rank": 9
         }
       }
@@ -4692,7 +4692,7 @@
           "bestScore": 264,
           "date": "2026-01-31",
           "rank": 4,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "castle-fireworks": {
           "bestScore": 2812,
@@ -4812,7 +4812,7 @@
           "bestScore": 272,
           "date": "2026-01-25",
           "rank": 4,
-          "allTimeRank": 41
+          "allTimeRank": 42
         },
         "haunted-mansion": {
           "bestScore": 118,
@@ -4936,7 +4936,7 @@
           "bestScore": 276,
           "date": "2026-01-24",
           "rank": 5,
-          "allTimeRank": 38
+          "allTimeRank": 39
         }
       }
     },
@@ -6122,7 +6122,7 @@
           "bestScore": 273,
           "date": "2026-02-02",
           "rank": 5,
-          "allTimeRank": 40
+          "allTimeRank": 41
         }
       }
     },
@@ -6236,7 +6236,7 @@
           "bestScore": 266,
           "date": "2026-02-12",
           "rank": 5,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -6464,7 +6464,7 @@
           "bestScore": 270,
           "date": "2026-02-05",
           "rank": 5,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -6582,6 +6582,12 @@
           "bestScore": 92,
           "date": "2026-02-07",
           "rank": 9
+        },
+        "pirates": {
+          "bestScore": 278,
+          "date": "2026-02-12",
+          "rank": 4,
+          "allTimeRank": 38
         }
       }
     },
