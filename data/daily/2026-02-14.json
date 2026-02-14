@@ -1,26 +1,26 @@
 {
   "date": "2026-02-14",
-  "scrapedAt": "2026-02-14T18:45:22.380Z",
+  "scrapedAt": "2026-02-14T21:31:22.167Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "55178ed6ee726178216ecb656513ae87.png",
+        "topAvatar": "bb1daccf36225eace3a6b360ad5ade0e.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10788
+          },
+          {
+            "rank": 2,
             "username": "Nayru",
             "score": 10718
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "BrightEyes",
             "score": 10546
-          },
-          {
-            "rank": 3,
-            "username": "BRlTT",
-            "score": 10266
           },
           {
             "rank": 4,
@@ -228,7 +228,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "6bd5b327534b07eff193c6054cecda4b.png",
+        "topAvatar": "805e1799f5e661fff48ef759069a3bb8.png",
         "scores": [
           {
             "rank": 1,
@@ -283,7 +283,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "6bd5b327534b07eff193c6054cecda4b.png",
+        "topAvatar": "805e1799f5e661fff48ef759069a3bb8.png",
         "scores": [
           {
             "rank": 1,
@@ -350,12 +350,12 @@
           },
           {
             "rank": 2,
-            "username": "AliceJane",
+            "username": "EVOL",
             "score": 120
           },
           {
             "rank": 3,
-            "username": "EVOL",
+            "username": "AliceJane",
             "score": 120
           },
           {
@@ -460,12 +460,12 @@
           },
           {
             "rank": 2,
-            "username": "MissyKinz",
+            "username": "AstroVioletRose",
             "score": 159
           },
           {
             "rank": 3,
-            "username": "AstroVioletRose",
+            "username": "MissyKinz",
             "score": 159
           },
           {
@@ -558,8 +558,8 @@
           },
           {
             "rank": 10,
-            "username": "Lolas",
-            "score": 46510
+            "username": "Sleepy-Princess",
+            "score": 46731
           }
         ]
       },
