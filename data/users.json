@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-15",
-  "userCount": 390,
+  "userCount": 391,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -712,7 +712,7 @@
       "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-02-15"
       },
       "games": {
@@ -4418,8 +4418,8 @@
       "avatar": null,
       "lastSeen": "2026-02-15",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 3,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-02-15"
       },
       "games": {
@@ -6600,11 +6600,11 @@
       }
     },
     "Wiz": {
-      "avatar": "938051e1fda7eda214739312ee94e67c.png",
+      "avatar": "1cd6cf503c06e7f96065969b96377b35.png",
       "lastSeen": "2026-02-15",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 3,
+        "game": "haunted-mansion",
+        "rank": 1,
         "date": "2026-02-15"
       },
       "games": {
@@ -7575,6 +7575,22 @@
           "bestScore": 212,
           "date": "2026-02-15",
           "rank": 9
+        }
+      }
+    },
+    "Jessicat": {
+      "avatar": "ac0eeffe7cf6d5116db266f64823acc1.png",
+      "lastSeen": "2026-02-15",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 1,
+        "date": "2026-02-15"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 45981,
+          "date": "2026-02-15",
+          "rank": 1
         }
       }
     }
