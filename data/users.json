@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-15",
-  "userCount": 388,
+  "userCount": 389,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -99,7 +99,7 @@
       "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-02-15"
       },
       "games": {
@@ -1604,7 +1604,7 @@
       "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 7,
         "date": "2026-02-15"
       },
       "games": {
@@ -1790,11 +1790,11 @@
     },
     "MollyMolusk": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
-        "date": "2026-02-14"
+        "rank": 4,
+        "date": "2026-02-15"
       },
       "games": {
         "castle-fireworks": {
@@ -2810,8 +2810,8 @@
       "avatar": null,
       "lastSeen": "2026-02-15",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
+        "game": "jungle-cruise",
+        "rank": 3,
         "date": "2026-02-15"
       },
       "games": {
@@ -5189,7 +5189,7 @@
       }
     },
     "Squicky": {
-      "avatar": "d8f367834e15292e0ef085c0d0436ee1.png",
+      "avatar": "b0f658918bc9dd254f2a026aafc95541.png",
       "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "pirates",
@@ -5629,7 +5629,7 @@
       }
     },
     "EVOL": {
-      "avatar": "67cd6516704ed35cbe73dda3686f3381.png",
+      "avatar": "94b8f49e3f948839021ebfe74e044c49.png",
       "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -6553,11 +6553,11 @@
     },
     "SharBes": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-02-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-02-14"
+        "rank": 10,
+        "date": "2026-02-15"
       },
       "games": {
         "jungle-cruise": {
@@ -7541,6 +7541,22 @@
       "games": {
         "jungle-cruise": {
           "bestScore": 34860,
+          "date": "2026-02-15",
+          "rank": 6
+        }
+      }
+    },
+    "Dashyboy": {
+      "avatar": null,
+      "lastSeen": "2026-02-15",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-02-15"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 45988,
           "date": "2026-02-15",
           "rank": 6
         }
