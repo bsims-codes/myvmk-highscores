@@ -184,7 +184,7 @@
       "lastSeen": "2026-02-16",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-02-16"
       },
       "games": {
@@ -306,7 +306,7 @@
           "bestScore": 120,
           "date": "2026-01-14",
           "rank": 2,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -363,11 +363,11 @@
     },
     "Kronkx": {
       "avatar": null,
-      "lastSeen": "2026-02-15",
+      "lastSeen": "2026-02-16",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-02-15"
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-02-16"
       },
       "games": {
         "castle-fireworks": {
@@ -382,10 +382,10 @@
           "rank": 8
         },
         "haunted-mansion": {
-          "bestScore": 118,
-          "date": "2026-02-14",
-          "rank": 7,
-          "allTimeRank": 48
+          "bestScore": 121,
+          "date": "2026-02-16",
+          "rank": 3,
+          "allTimeRank": 43
         }
       }
     },
@@ -1675,7 +1675,7 @@
           "bestScore": 118,
           "date": "2026-01-12",
           "rank": 4,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -2111,7 +2111,7 @@
           "bestScore": 124,
           "date": "2026-02-08",
           "rank": 7,
-          "allTimeRank": 43
+          "allTimeRank": 44
         }
       }
     },
@@ -2265,11 +2265,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-02-16",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 8,
-        "date": "2026-02-14"
+        "date": "2026-02-16"
       },
       "games": {
         "haunted-mansion": {
@@ -2882,7 +2882,7 @@
           "bestScore": 117,
           "date": "2026-01-11",
           "rank": 5,
-          "allTimeRank": 49
+          "allTimeRank": 50
         },
         "pirates": {
           "bestScore": 250,
@@ -3416,8 +3416,8 @@
       "avatar": "30cf399795ba3927bb68e45d7ca41917.png",
       "lastSeen": "2026-02-16",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 3,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-02-16"
       },
       "games": {
@@ -3483,17 +3483,22 @@
     },
     "LightPurpleAlpaca": {
       "avatar": null,
-      "lastSeen": "2026-01-14",
+      "lastSeen": "2026-02-16",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
-        "date": "2026-01-14"
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-02-16"
       },
       "games": {
         "pirates": {
           "bestScore": 191,
           "date": "2026-01-14",
           "rank": 6
+        },
+        "castle-fireworks": {
+          "bestScore": 2233,
+          "date": "2026-02-16",
+          "rank": 4
         }
       }
     },
@@ -4843,7 +4848,7 @@
           "bestScore": 118,
           "date": "2026-02-08",
           "rank": 9,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -5629,7 +5634,7 @@
       }
     },
     "EVOL": {
-      "avatar": "94b8f49e3f948839021ebfe74e044c49.png",
+      "avatar": "3d360e6836f506eba17c2b15703fa1ff.png",
       "lastSeen": "2026-02-16",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -6094,9 +6099,10 @@
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 46,
-          "date": "2026-02-02",
-          "rank": 10
+          "bestScore": 118,
+          "date": "2026-02-16",
+          "rank": 5,
+          "allTimeRank": 49
         },
         "jungle-cruise": {
           "bestScore": 50648,
@@ -6746,11 +6752,11 @@
     },
     "Bernardo-S-Rocks": {
       "avatar": null,
-      "lastSeen": "2026-02-15",
+      "lastSeen": "2026-02-16",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-02-15"
+        "game": "pirates",
+        "rank": 10,
+        "date": "2026-02-16"
       },
       "games": {
         "pirates": {
@@ -7040,7 +7046,7 @@
           "bestScore": 120,
           "date": "2026-02-14",
           "rank": 2,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
