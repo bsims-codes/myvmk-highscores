@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-17",
-  "userCount": 397,
+  "userCount": 398,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -3167,7 +3167,7 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 46945,
+          "bestScore": 47210,
           "date": "2026-02-17",
           "rank": 5,
           "allTimeRank": 50
@@ -4440,9 +4440,9 @@
           "rank": 10
         },
         "jungle-cruise": {
-          "bestScore": 42342,
-          "date": "2026-02-09",
-          "rank": 10
+          "bestScore": 44172,
+          "date": "2026-02-17",
+          "rank": 6
         },
         "pirates": {
           "bestScore": 236,
@@ -6892,16 +6892,16 @@
     },
     "ace10": {
       "avatar": null,
-      "lastSeen": "2026-02-10",
+      "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 9,
-        "date": "2026-02-10"
+        "date": "2026-02-17"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 6339,
-          "date": "2026-02-10",
+          "bestScore": 12268,
+          "date": "2026-02-17",
           "rank": 9
         }
       }
@@ -7715,6 +7715,22 @@
           "bestScore": 52,
           "date": "2026-02-17",
           "rank": 10
+        }
+      }
+    },
+    "ArtsyLittleSpark": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 284,
+          "date": "2026-02-17",
+          "rank": 2
         }
       }
     }
