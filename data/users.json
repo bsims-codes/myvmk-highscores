@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-16",
-  "userCount": 395,
+  "userCount": 396,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -4184,17 +4184,17 @@
     },
     "CutieGoldenLady": {
       "avatar": null,
-      "lastSeen": "2026-01-19",
+      "lastSeen": "2026-02-16",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-01-19"
+        "rank": 10,
+        "date": "2026-02-16"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 36590,
-          "date": "2026-01-18",
-          "rank": 4
+          "bestScore": 37009,
+          "date": "2026-02-16",
+          "rank": 10
         }
       }
     },
@@ -7678,6 +7678,22 @@
           "bestScore": 36130,
           "date": "2026-02-16",
           "rank": 10
+        }
+      }
+    },
+    "Guest10149558": {
+      "avatar": null,
+      "lastSeen": "2026-02-16",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 8,
+        "date": "2026-02-16"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 38,
+          "date": "2026-02-16",
+          "rank": 8
         }
       }
     }
