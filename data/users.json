@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-18",
-  "userCount": 406,
+  "userCount": 407,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -851,7 +851,7 @@
       }
     },
     "OGBlondie_": {
-      "avatar": "f3e7dc1a6bf0d801e42471b523b41e31.png",
+      "avatar": "8ffe9357b2f3334cfb6cbe6c722be474.png",
       "lastSeen": "2026-02-18",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1001,11 +1001,11 @@
     },
     "-Misty-": {
       "avatar": "21e7d4cb332ee2ebc50d0bf2d6cfa485.png",
-      "lastSeen": "2026-02-11",
+      "lastSeen": "2026-02-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-02-11"
+        "rank": 8,
+        "date": "2026-02-18"
       },
       "games": {
         "haunted-mansion": {
@@ -4827,8 +4827,8 @@
       "avatar": "4d44e12e20f7ae2b6521865c87fc874c.png",
       "lastSeen": "2026-02-18",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 4,
+        "game": "jungle-cruise",
+        "rank": 3,
         "date": "2026-02-18"
       },
       "games": {
@@ -6620,8 +6620,8 @@
       "avatar": "1cd6cf503c06e7f96065969b96377b35.png",
       "lastSeen": "2026-02-18",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 4,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-02-18"
       },
       "games": {
@@ -7714,17 +7714,17 @@
     },
     "Glaze": {
       "avatar": null,
-      "lastSeen": "2026-02-17",
+      "lastSeen": "2026-02-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-02-17"
+        "rank": 5,
+        "date": "2026-02-18"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 52,
-          "date": "2026-02-17",
-          "rank": 10
+          "bestScore": 53,
+          "date": "2026-02-18",
+          "rank": 5
         }
       }
     },
@@ -7904,6 +7904,22 @@
           "bestScore": 7811,
           "date": "2026-02-18",
           "rank": 7
+        }
+      }
+    },
+    "shebsheb11": {
+      "avatar": null,
+      "lastSeen": "2026-02-18",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-02-18"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 31475,
+          "date": "2026-02-18",
+          "rank": 10
         }
       }
     }
