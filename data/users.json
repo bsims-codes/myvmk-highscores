@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-17",
-  "userCount": 401,
+  "userCount": 405,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -50,7 +50,7 @@
           "bestScore": 55739,
           "date": "2026-01-06",
           "rank": 1,
-          "allTimeRank": 3
+          "allTimeRank": 4
         },
         "haunted-mansion": {
           "bestScore": 75,
@@ -712,7 +712,7 @@
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-02-17"
       },
       "games": {
@@ -1413,7 +1413,7 @@
       }
     },
     "scortatia": {
-      "avatar": "d2a83a5293f59baaf1a79a8edf09ebf8.png",
+      "avatar": "e55d58e707734a8a155f50ae0535516b.png",
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -1422,10 +1422,10 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 55372,
-          "date": "2026-01-19",
+          "bestScore": 55748,
+          "date": "2026-02-17",
           "rank": 1,
-          "allTimeRank": 4
+          "allTimeRank": 3
         },
         "pirates": {
           "bestScore": 340,
@@ -2449,7 +2449,7 @@
       }
     },
     "Diamond-K": {
-      "avatar": "e1f11234709cb77c1eaf823babfb36e8.png",
+      "avatar": "97778b4d43f72c6ddd5081593eac57f9.png",
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "pirates",
@@ -6236,7 +6236,7 @@
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-02-17"
       },
       "games": {
@@ -6615,8 +6615,8 @@
       "avatar": "1cd6cf503c06e7f96065969b96377b35.png",
       "lastSeen": "2026-02-17",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 4,
+        "game": "pirates",
+        "rank": 3,
         "date": "2026-02-17"
       },
       "games": {
@@ -7740,11 +7740,11 @@
       }
     },
     "Guest10149563": {
-      "avatar": null,
+      "avatar": "e1ae195512d8c0f33b751453cb13fbe1.png",
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 1,
         "date": "2026-02-17"
       },
       "games": {
@@ -7752,6 +7752,16 @@
           "bestScore": 1709,
           "date": "2026-02-17",
           "rank": 7
+        },
+        "pirates": {
+          "bestScore": 213,
+          "date": "2026-02-17",
+          "rank": 1
+        },
+        "jungle-cruise": {
+          "bestScore": 14430,
+          "date": "2026-02-17",
+          "rank": 4
         }
       }
     },
@@ -7789,6 +7799,80 @@
           "bestScore": 6,
           "date": "2026-02-17",
           "rank": 9
+        }
+      }
+    },
+    "dessielove": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 236,
+          "date": "2026-02-17",
+          "rank": 2
+        }
+      }
+    },
+    "Magenta": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 187,
+          "date": "2026-02-17",
+          "rank": 2
+        }
+      }
+    },
+    "EmpressInanna": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 2,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 20,
+          "date": "2026-02-17",
+          "rank": 4
+        },
+        "jungle-cruise": {
+          "bestScore": 44234,
+          "date": "2026-02-17",
+          "rank": 2
+        }
+      }
+    },
+    "ImTooHotMilk": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 19,
+          "date": "2026-02-17",
+          "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 38545,
+          "date": "2026-02-17",
+          "rank": 3
         }
       }
     }
