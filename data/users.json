@@ -181,11 +181,11 @@
     },
     "MissAnnaNovang": {
       "avatar": "f547dfc1a60b3e6e6569675efe7d0600.png",
-      "lastSeen": "2026-02-17",
+      "lastSeen": "2026-02-18",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
-        "date": "2026-02-17"
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-02-18"
       },
       "games": {
         "castle-fireworks": {
@@ -2248,11 +2248,11 @@
     },
     "mikgriz": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-02-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-02-14"
+        "rank": 9,
+        "date": "2026-02-18"
       },
       "games": {
         "haunted-mansion": {
@@ -6549,17 +6549,22 @@
     },
     "DrowsySkaterChair": {
       "avatar": null,
-      "lastSeen": "2026-02-07",
+      "lastSeen": "2026-02-18",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-02-07"
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-02-18"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 3421,
           "date": "2026-02-06",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 34275,
+          "date": "2026-02-18",
+          "rank": 7
         }
       }
     },
