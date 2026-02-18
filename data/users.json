@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-17",
-  "userCount": 399,
+  "userCount": 401,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -732,11 +732,11 @@
     },
     "CartNarcs": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-02-17",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
-        "date": "2026-02-14"
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-02-17"
       },
       "games": {
         "pirates": {
@@ -1793,7 +1793,7 @@
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-02-17"
       },
       "games": {
@@ -7744,14 +7744,51 @@
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1709,
+          "date": "2026-02-17",
+          "rank": 7
+        }
+      }
+    },
+    "strawberrykota": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
         "rank": 8,
         "date": "2026-02-17"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 202,
+          "bestScore": 462,
           "date": "2026-02-17",
           "rank": 8
+        },
+        "pirates": {
+          "bestScore": 38,
+          "date": "2026-02-17",
+          "rank": 8
+        }
+      }
+    },
+    "MasterDJ": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 6,
+          "date": "2026-02-17",
+          "rank": 9
         }
       }
     }
