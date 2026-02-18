@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-17",
-  "userCount": 398,
+  "userCount": 399,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -851,7 +851,7 @@
       }
     },
     "OGBlondie_": {
-      "avatar": "8ffe9357b2f3334cfb6cbe6c722be474.png",
+      "avatar": "f3e7dc1a6bf0d801e42471b523b41e31.png",
       "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -4440,7 +4440,7 @@
           "rank": 10
         },
         "jungle-cruise": {
-          "bestScore": 44172,
+          "bestScore": 45375,
           "date": "2026-02-17",
           "rank": 6
         },
@@ -6860,11 +6860,11 @@
     },
     "AirBiscuits": {
       "avatar": null,
-      "lastSeen": "2026-02-11",
+      "lastSeen": "2026-02-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-02-11"
+        "rank": 7,
+        "date": "2026-02-17"
       },
       "games": {
         "jungle-cruise": {
@@ -7528,17 +7528,22 @@
     },
     "MissJazzy": {
       "avatar": null,
-      "lastSeen": "2026-02-16",
+      "lastSeen": "2026-02-17",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-02-16"
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-02-17"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 102,
           "date": "2026-02-15",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 32702,
+          "date": "2026-02-17",
+          "rank": 9
         }
       }
     },
@@ -7731,6 +7736,22 @@
           "bestScore": 284,
           "date": "2026-02-17",
           "rank": 2
+        }
+      }
+    },
+    "Guest10149563": {
+      "avatar": null,
+      "lastSeen": "2026-02-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-02-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 202,
+          "date": "2026-02-17",
+          "rank": 8
         }
       }
     }
