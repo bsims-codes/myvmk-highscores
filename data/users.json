@@ -113,7 +113,7 @@
           "bestScore": 49425,
           "date": "2026-01-27",
           "rank": 3,
-          "allTimeRank": 35
+          "allTimeRank": 36
         },
         "haunted-mansion": {
           "bestScore": 65,
@@ -1346,7 +1346,7 @@
           "bestScore": 49523,
           "date": "2026-01-06",
           "rank": 9,
-          "allTimeRank": 34
+          "allTimeRank": 35
         }
       }
     },
@@ -3424,19 +3424,19 @@
       }
     },
     "Fotogirl": {
-      "avatar": "30cf399795ba3927bb68e45d7ca41917.png",
+      "avatar": "1d6087a72470912584b920af3ccd5443.png",
       "lastSeen": "2026-02-19",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-02-19"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 49276,
-          "date": "2026-02-17",
-          "rank": 2,
-          "allTimeRank": 36
+          "bestScore": 49654,
+          "date": "2026-02-19",
+          "rank": 1,
+          "allTimeRank": 34
         },
         "castle-fireworks": {
           "bestScore": 6431,
@@ -6881,16 +6881,21 @@
     },
     "AirBiscuits": {
       "avatar": null,
-      "lastSeen": "2026-02-18",
+      "lastSeen": "2026-02-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-02-18"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-02-19"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 41738,
           "date": "2026-02-10",
+          "rank": 6
+        },
+        "haunted-mansion": {
+          "bestScore": 95,
+          "date": "2026-02-19",
           "rank": 6
         }
       }
@@ -6946,11 +6951,11 @@
     },
     "FrankensteinsBride": {
       "avatar": null,
-      "lastSeen": "2026-02-11",
+      "lastSeen": "2026-02-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-02-11"
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-02-19"
       },
       "games": {
         "haunted-mansion": {
@@ -6962,6 +6967,11 @@
           "bestScore": 8679,
           "date": "2026-02-10",
           "rank": 2
+        },
+        "castle-fireworks": {
+          "bestScore": 488,
+          "date": "2026-02-19",
+          "rank": 10
         }
       }
     },
@@ -7730,16 +7740,16 @@
     },
     "Glaze": {
       "avatar": null,
-      "lastSeen": "2026-02-18",
+      "lastSeen": "2026-02-19",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-02-18"
+        "date": "2026-02-19"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 53,
-          "date": "2026-02-18",
+          "bestScore": 96,
+          "date": "2026-02-19",
           "rank": 5
         }
       }
