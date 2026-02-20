@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-20",
-  "userCount": 413,
+  "userCount": 414,
   "users": {
     "kazino": {
       "avatar": "65a358311c9af6edb67318d5093c88b3.png",
@@ -612,11 +612,11 @@
       }
     },
     "Tinkfaniam": {
-      "avatar": "f7891315ce023f82ab0cd73e3417c2a6.png",
+      "avatar": "eca3ac2c8dce210ef1eeb8294b546a84.png",
       "lastSeen": "2026-02-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-02-20"
       },
       "games": {
@@ -636,11 +636,11 @@
     },
     "Ebeth": {
       "avatar": null,
-      "lastSeen": "2026-02-09",
+      "lastSeen": "2026-02-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
-        "date": "2026-02-09"
+        "rank": 8,
+        "date": "2026-02-20"
       },
       "games": {
         "pirates": {
@@ -877,8 +877,8 @@
       "avatar": "2c9939664f352a919525dfeb8bc4f0c7.png",
       "lastSeen": "2026-02-20",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
+        "game": "jungle-cruise",
+        "rank": 4,
         "date": "2026-02-20"
       },
       "games": {
@@ -2018,7 +2018,7 @@
       "lastSeen": "2026-02-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-02-20"
       },
       "games": {
@@ -2029,9 +2029,9 @@
           "allTimeRank": 49
         },
         "pirates": {
-          "bestScore": 232,
-          "date": "2026-01-31",
-          "rank": 10
+          "bestScore": 236,
+          "date": "2026-02-20",
+          "rank": 2
         }
       }
     },
@@ -3942,9 +3942,9 @@
           "rank": 10
         },
         "jungle-cruise": {
-          "bestScore": 45561,
-          "date": "2026-02-13",
-          "rank": 1,
+          "bestScore": 45780,
+          "date": "2026-02-20",
+          "rank": 7,
           "allTimeRank": 50
         },
         "pirates": {
@@ -6206,17 +6206,17 @@
     },
     "Question": {
       "avatar": "d6eb2ed973cfa43cea2842f2901c5883.png",
-      "lastSeen": "2026-02-03",
+      "lastSeen": "2026-02-20",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 1,
-        "date": "2026-02-03"
+        "game": "pirates",
+        "rank": 3,
+        "date": "2026-02-20"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 3074,
-          "date": "2026-02-02",
-          "rank": 2
+          "bestScore": 5083,
+          "date": "2026-02-20",
+          "rank": 7
         },
         "haunted-mansion": {
           "bestScore": 52,
@@ -6227,6 +6227,11 @@
           "bestScore": 35714,
           "date": "2026-02-02",
           "rank": 1
+        },
+        "pirates": {
+          "bestScore": 236,
+          "date": "2026-02-20",
+          "rank": 3
         }
       }
     },
@@ -6905,7 +6910,7 @@
       "lastSeen": "2026-02-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 6,
         "date": "2026-02-20"
       },
       "games": {
@@ -8089,6 +8094,22 @@
           "bestScore": 1679,
           "date": "2026-02-20",
           "rank": 10
+        }
+      }
+    },
+    "bratcore": {
+      "avatar": null,
+      "lastSeen": "2026-02-20",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-02-20"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 69,
+          "date": "2026-02-20",
+          "rank": 8
         }
       }
     }
