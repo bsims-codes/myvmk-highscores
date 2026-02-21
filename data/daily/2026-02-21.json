@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "scrapedAt": "2026-02-21T13:03:09.725Z",
+  "scrapedAt": "2026-02-21T15:32:43.417Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -147,22 +147,22 @@
           },
           {
             "rank": 4,
-            "username": "goatduck",
-            "score": 200
-          },
-          {
-            "rank": 5,
-            "username": "JustForFun",
-            "score": 200
-          },
-          {
-            "rank": 6,
             "username": "Bernardo_S_Rocks",
             "score": 200
           },
           {
-            "rank": 7,
+            "rank": 5,
             "username": "PrinceGeminii",
+            "score": 200
+          },
+          {
+            "rank": 6,
+            "username": "goatduck",
+            "score": 200
+          },
+          {
+            "rank": 7,
+            "username": "JustForFun",
             "score": 200
           },
           {
@@ -305,31 +305,41 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 64
+          },
+          {
+            "rank": 3,
+            "username": "MissyKinz",
+            "score": 56
+          },
+          {
+            "rank": 4,
             "username": "Bernardo_S_Rocks",
             "score": 54
           },
           {
-            "rank": 3,
-            "username": "Expect",
-            "score": 51
-          },
-          {
-            "rank": 4,
+            "rank": 5,
             "username": "PrinceGeminii",
             "score": 51
           },
           {
-            "rank": 5,
-            "username": "JustForFun",
-            "score": 45
+            "rank": 6,
+            "username": "Expect",
+            "score": 51
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "bratcore",
             "score": 39
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "username": "kazino",
+            "score": 30
+          },
+          {
+            "rank": 9,
             "username": "Matrona",
             "score": 27
           }
@@ -465,6 +475,11 @@
             "rank": 3,
             "username": "AtziriDayre",
             "score": 40566
+          },
+          {
+            "rank": 4,
+            "username": "Ellykat",
+            "score": 27932
           }
         ]
       },
