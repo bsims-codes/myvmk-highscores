@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "scrapedAt": "2026-02-21T09:37:27.631Z",
+  "scrapedAt": "2026-02-21T13:03:09.725Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -147,22 +147,22 @@
           },
           {
             "rank": 4,
-            "username": "PrinceGeminii",
-            "score": 200
-          },
-          {
-            "rank": 5,
             "username": "goatduck",
             "score": 200
           },
           {
-            "rank": 6,
+            "rank": 5,
             "username": "JustForFun",
             "score": 200
           },
           {
-            "rank": 7,
+            "rank": 6,
             "username": "Bernardo_S_Rocks",
+            "score": 200
+          },
+          {
+            "rank": 7,
+            "username": "PrinceGeminii",
             "score": 200
           },
           {
@@ -247,12 +247,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -310,21 +310,26 @@
           },
           {
             "rank": 3,
-            "username": "PrinceGeminii",
-            "score": 51
-          },
-          {
-            "rank": 4,
             "username": "Expect",
             "score": 51
           },
           {
+            "rank": 4,
+            "username": "PrinceGeminii",
+            "score": 51
+          },
+          {
             "rank": 5,
+            "username": "JustForFun",
+            "score": 45
+          },
+          {
+            "rank": 6,
             "username": "bratcore",
             "score": 39
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "Matrona",
             "score": 27
           }
@@ -435,7 +440,7 @@
           },
           {
             "rank": 10,
-            "username": "Monsta",
+            "username": "goatduck",
             "score": 142
           }
         ]
