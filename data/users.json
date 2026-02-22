@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-21",
-  "userCount": 428,
+  "userCount": 431,
   "users": {
     "kazino": {
       "avatar": "1c5decd300e53227b5229d14d8de06e6.png",
@@ -523,11 +523,11 @@
     },
     "Diamond-J": {
       "avatar": "c6f78f53835152f08029093eef6af9cf.png",
-      "lastSeen": "2026-02-20",
+      "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
-        "date": "2026-02-20"
+        "rank": 2,
+        "date": "2026-02-21"
       },
       "games": {
         "pirates": {
@@ -1481,6 +1481,11 @@
           "date": "2026-01-19",
           "rank": 2,
           "allTimeRank": 5
+        },
+        "pirates": {
+          "bestScore": 9,
+          "date": "2026-02-21",
+          "rank": 5
         }
       }
     },
@@ -2470,19 +2475,19 @@
       }
     },
     "Diamond-K": {
-      "avatar": "97778b4d43f72c6ddd5081593eac57f9.png",
-      "lastSeen": "2026-02-20",
+      "avatar": "7c4e9e3efde8bfd5b5f47c9d66caa78d.png",
+      "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-02-20"
+        "rank": 1,
+        "date": "2026-02-21"
       },
       "games": {
         "pirates": {
-          "bestScore": 276,
-          "date": "2026-02-05",
-          "rank": 3,
-          "allTimeRank": 45
+          "bestScore": 277,
+          "date": "2026-02-21",
+          "rank": 1,
+          "allTimeRank": 44
         }
       }
     },
@@ -3253,11 +3258,11 @@
     },
     "eeriee": {
       "avatar": "a235d23ec6682e40e993e4d63a1f49d2.png",
-      "lastSeen": "2026-02-20",
+      "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-02-20"
+        "rank": 4,
+        "date": "2026-02-21"
       },
       "games": {
         "pirates": {
@@ -5013,7 +5018,7 @@
           "bestScore": 276,
           "date": "2026-01-24",
           "rank": 5,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -5242,11 +5247,11 @@
     },
     "Squicky": {
       "avatar": "b0f658918bc9dd254f2a026aafc95541.png",
-      "lastSeen": "2026-02-19",
+      "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "pirates",
         "rank": 3,
-        "date": "2026-02-19"
+        "date": "2026-02-21"
       },
       "games": {
         "pirates": {
@@ -7657,7 +7662,7 @@
       "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-02-21"
       },
       "games": {
@@ -8135,18 +8140,18 @@
       }
     },
     "bratcore": {
-      "avatar": null,
+      "avatar": "6183725e15cc4654bf37a8fb5c8806cb.png",
       "lastSeen": "2026-02-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-02-21"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 69,
-          "date": "2026-02-20",
-          "rank": 8
+          "bestScore": 115,
+          "date": "2026-02-21",
+          "rank": 1
         }
       }
     },
@@ -8388,6 +8393,54 @@
           "bestScore": 40830,
           "date": "2026-02-21",
           "rank": 9
+        }
+      }
+    },
+    "Guest10149615": {
+      "avatar": "31efedaa4232af7109f7e00df4a5f7a0.png",
+      "lastSeen": "2026-02-21",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 1,
+        "date": "2026-02-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 716,
+          "date": "2026-02-21",
+          "rank": 1
+        }
+      }
+    },
+    "Guest10149614": {
+      "avatar": null,
+      "lastSeen": "2026-02-21",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-02-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 182,
+          "date": "2026-02-21",
+          "rank": 2
+        }
+      }
+    },
+    "Guest10149613": {
+      "avatar": "9b92be0e37c612dbe5acb519fadeeaf0.png",
+      "lastSeen": "2026-02-21",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 1,
+        "date": "2026-02-21"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 839,
+          "date": "2026-02-21",
+          "rank": 1
         }
       }
     }
