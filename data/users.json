@@ -700,7 +700,7 @@
       "lastSeen": "2026-02-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-02-22"
       },
       "games": {
@@ -2627,7 +2627,7 @@
       "lastSeen": "2026-02-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-02-22"
       },
       "games": {
@@ -7808,11 +7808,11 @@
     },
     "Glaze": {
       "avatar": null,
-      "lastSeen": "2026-02-21",
+      "lastSeen": "2026-02-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-02-21"
+        "rank": 9,
+        "date": "2026-02-22"
       },
       "games": {
         "haunted-mansion": {
@@ -8273,7 +8273,7 @@
       "lastSeen": "2026-02-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-02-22"
       },
       "games": {
@@ -8334,17 +8334,22 @@
     },
     "KingBongo": {
       "avatar": null,
-      "lastSeen": "2026-02-21",
+      "lastSeen": "2026-02-22",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-02-21"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-02-22"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 84,
           "date": "2026-02-21",
           "rank": 10
+        },
+        "jungle-cruise": {
+          "bestScore": 17342,
+          "date": "2026-02-22",
+          "rank": 5
         }
       }
     },
