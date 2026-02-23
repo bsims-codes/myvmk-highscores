@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "scrapedAt": "2026-02-23T13:20:54.240Z",
+  "scrapedAt": "2026-02-23T15:54:09.403Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -11,6 +11,16 @@
             "rank": 1,
             "username": "BRlTT",
             "score": 11172
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7356
+          },
+          {
+            "rank": 3,
+            "username": "MissyKinz",
+            "score": 6893
           }
         ]
       },
@@ -291,37 +301,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "bb8c43b4efe5883c8364020bc87a0bb2.png",
+        "topAvatar": "e248e1c89a8613da82d181f94ac88862.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Neytiri",
+            "score": 130
+          },
+          {
+            "rank": 2,
+            "username": "Glaze",
+            "score": 125
+          },
+          {
+            "rank": 3,
             "username": "scortatia",
             "score": 59
           },
           {
-            "rank": 2,
+            "rank": 4,
+            "username": "MissyKinz",
+            "score": 57
+          },
+          {
+            "rank": 5,
             "username": "JustForFun",
             "score": 55
           },
           {
-            "rank": 3,
+            "rank": 6,
             "username": "JiminyC",
-            "score": 52
+            "score": 53
           },
           {
-            "rank": 4,
+            "rank": 7,
+            "username": "shelbitb",
+            "score": 53
+          },
+          {
+            "rank": 8,
+            "username": "PrinceGeminii",
+            "score": 50
+          },
+          {
+            "rank": 9,
             "username": "Expect",
             "score": 43
           },
           {
-            "rank": 5,
+            "rank": 10,
             "username": "kazino",
             "score": 28
-          },
-          {
-            "rank": 6,
-            "username": "Nayru",
-            "score": 27
           }
         ]
       },
@@ -453,6 +483,11 @@
           },
           {
             "rank": 3,
+            "username": "Fotogirl",
+            "score": 48619
+          },
+          {
+            "rank": 4,
             "username": "AtziriDayre",
             "score": 38308
           }
