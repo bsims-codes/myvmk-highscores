@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-24",
-  "userCount": 448,
+  "userCount": 450,
   "users": {
     "kazino": {
       "avatar": "1c5decd300e53227b5229d14d8de06e6.png",
@@ -1434,7 +1434,7 @@
       }
     },
     "scortatia": {
-      "avatar": "549c3f7ef5aa2ebe94b51ed213bd6427.png",
+      "avatar": "6ad84aa2dd92a08068bdc6da459e0bb6.png",
       "lastSeen": "2026-02-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -2069,11 +2069,11 @@
     },
     "Kenneth123": {
       "avatar": "4bb0e80d48c635a91830faf817fd7c8a.png",
-      "lastSeen": "2026-01-30",
+      "lastSeen": "2026-02-24",
       "lastAppearance": {
-        "game": "castle-fireworks",
+        "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-01-30"
+        "date": "2026-02-24"
       },
       "games": {
         "haunted-mansion": {
@@ -2457,7 +2457,7 @@
       "lastSeen": "2026-02-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-02-24"
       },
       "games": {
@@ -6681,11 +6681,11 @@
       }
     },
     "Wiz": {
-      "avatar": "e8c8ef18ed366d300f43d5f48b9628c8.png",
+      "avatar": "79b28e444532f2d02cf9ac37bdea8981.png",
       "lastSeen": "2026-02-24",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-02-24"
       },
       "games": {
@@ -7757,8 +7757,8 @@
       "avatar": null,
       "lastSeen": "2026-02-24",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 3,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-02-24"
       },
       "games": {
@@ -7771,6 +7771,11 @@
           "bestScore": 201,
           "date": "2026-02-23",
           "rank": 3
+        },
+        "castle-fireworks": {
+          "bestScore": 764,
+          "date": "2026-02-24",
+          "rank": 2
         }
       }
     },
@@ -8742,6 +8747,38 @@
           "bestScore": 3074,
           "date": "2026-02-24",
           "rank": 10
+        }
+      }
+    },
+    "bentleesmommy10": {
+      "avatar": null,
+      "lastSeen": "2026-02-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-02-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 22735,
+          "date": "2026-02-24",
+          "rank": 3
+        }
+      }
+    },
+    "Guest10149645": {
+      "avatar": null,
+      "lastSeen": "2026-02-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-02-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 11115,
+          "date": "2026-02-24",
+          "rank": 4
         }
       }
     }
