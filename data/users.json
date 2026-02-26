@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "ece792688e912fe51b5b7f541ca144aa.png",
+      "avatar": "0122e26f4f4cb57f991bd48ec35fc3a0.png",
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -364,11 +364,11 @@
     },
     "Kronkx": {
       "avatar": null,
-      "lastSeen": "2026-02-23",
+      "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-02-23"
+        "rank": 9,
+        "date": "2026-02-26"
       },
       "games": {
         "castle-fireworks": {
@@ -883,7 +883,7 @@
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-02-26"
       },
       "games": {
@@ -3341,11 +3341,11 @@
     },
     "CaitlinNoel": {
       "avatar": "3160660faf9cb280126a03f0658ac019.png",
-      "lastSeen": "2026-02-20",
+      "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
-        "date": "2026-02-20"
+        "rank": 8,
+        "date": "2026-02-26"
       },
       "games": {
         "jungle-cruise": {
@@ -7913,9 +7913,9 @@
           "rank": 6
         },
         "jungle-cruise": {
-          "bestScore": 45427,
-          "date": "2026-02-20",
-          "rank": 5
+          "bestScore": 46735,
+          "date": "2026-02-26",
+          "rank": 6
         }
       }
     },
@@ -8688,17 +8688,22 @@
     },
     "Kiravalora": {
       "avatar": null,
-      "lastSeen": "2026-02-25",
+      "lastSeen": "2026-02-26",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-02-25"
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-02-26"
       },
       "games": {
         "pirates": {
           "bestScore": 135,
           "date": "2026-02-23",
           "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 1076,
+          "date": "2026-02-26",
+          "rank": 10
         }
       }
     },
