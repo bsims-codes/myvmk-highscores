@@ -1,13 +1,13 @@
 {
   "lastUpdated": "2026-02-26",
-  "userCount": 457,
+  "userCount": 458,
   "users": {
     "kazino": {
       "avatar": "1c5decd300e53227b5229d14d8de06e6.png",
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-02-26"
       },
       "games": {
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "0122e26f4f4cb57f991bd48ec35fc3a0.png",
+      "avatar": "43ea1583caf0497ad1ea8b2c939ce95f.png",
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -334,7 +334,7 @@
       }
     },
     "Nayru": {
-      "avatar": "3cd3b87de58914fbb755d68c03f90b35.png",
+      "avatar": "2530a64db43f88cc5b3f7b3386d7d010.png",
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -367,7 +367,7 @@
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-02-26"
       },
       "games": {
@@ -386,7 +386,7 @@
           "bestScore": 121,
           "date": "2026-02-16",
           "rank": 3,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -697,11 +697,11 @@
     },
     "goatduck": {
       "avatar": "69719d2e19518e229200fd1d615b7fc1.png",
-      "lastSeen": "2026-02-24",
+      "lastSeen": "2026-02-26",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-02-24"
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-02-26"
       },
       "games": {
         "pirates": {
@@ -1012,11 +1012,11 @@
     },
     "-Misty-": {
       "avatar": "8c824f8196bfc24132f062832f132e95.png",
-      "lastSeen": "2026-02-22",
+      "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 1,
-        "date": "2026-02-22"
+        "rank": 5,
+        "date": "2026-02-26"
       },
       "games": {
         "haunted-mansion": {
@@ -1560,7 +1560,7 @@
           "bestScore": 123,
           "date": "2026-01-22",
           "rank": 3,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
@@ -1963,7 +1963,7 @@
           "bestScore": 122,
           "date": "2026-01-19",
           "rank": 9,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -2034,7 +2034,7 @@
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 8,
         "date": "2026-02-26"
       },
       "games": {
@@ -2081,7 +2081,7 @@
           "bestScore": 121,
           "date": "2026-01-22",
           "rank": 5,
-          "allTimeRank": 47
+          "allTimeRank": 48
         },
         "castle-fireworks": {
           "bestScore": 9708,
@@ -2217,7 +2217,7 @@
       }
     },
     "hopealicious": {
-      "avatar": "2c61d6e5f0d568caa6ddb57fe0c9722d.png",
+      "avatar": "47bf5226c804be079613338c5b748dba.png",
       "lastSeen": "2026-02-26",
       "lastAppearance": {
         "game": "pirates",
@@ -3151,7 +3151,7 @@
           "bestScore": 123,
           "date": "2026-01-12",
           "rank": 1,
-          "allTimeRank": 44
+          "allTimeRank": 45
         }
       }
     },
@@ -7393,7 +7393,7 @@
           "bestScore": 121,
           "date": "2026-02-14",
           "rank": 1,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "jungle-cruise": {
           "bestScore": 51998,
@@ -8935,6 +8935,23 @@
           "bestScore": 49,
           "date": "2026-02-25",
           "rank": 7
+        }
+      }
+    },
+    "rickymckenna": {
+      "avatar": null,
+      "lastSeen": "2026-02-26",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-02-26"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 124,
+          "date": "2026-02-26",
+          "rank": 7,
+          "allTimeRank": 44
         }
       }
     }
