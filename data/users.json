@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-02-27",
-  "userCount": 461,
+  "userCount": 463,
   "users": {
     "kazino": {
-      "avatar": "5ff9b3cf3d74eeecdc97476a5f276976.png",
+      "avatar": "90bf9bad58058c29becad3815fda8d8a.png",
       "lastSeen": "2026-02-27",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -1631,7 +1631,7 @@
       "lastSeen": "2026-02-27",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-02-27"
       },
       "games": {
@@ -1668,11 +1668,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": null,
-      "lastSeen": "2026-02-26",
+      "lastSeen": "2026-02-27",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-02-26"
+        "rank": 5,
+        "date": "2026-02-27"
       },
       "games": {
         "jungle-cruise": {
@@ -2034,13 +2034,13 @@
       "lastSeen": "2026-02-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 7,
         "date": "2026-02-27"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 63,
-          "date": "2026-01-07",
+          "bestScore": 67,
+          "date": "2026-02-27",
           "rank": 7,
           "allTimeRank": 49
         },
@@ -6705,7 +6705,7 @@
       "lastSeen": "2026-02-27",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-02-27"
       },
       "games": {
@@ -9012,6 +9012,38 @@
           "bestScore": 15593,
           "date": "2026-02-27",
           "rank": 5
+        }
+      }
+    },
+    "Katey": {
+      "avatar": null,
+      "lastSeen": "2026-02-27",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-02-27"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 36723,
+          "date": "2026-02-27",
+          "rank": 7
+        }
+      }
+    },
+    "gamestar101": {
+      "avatar": null,
+      "lastSeen": "2026-02-27",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-02-27"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 35224,
+          "date": "2026-02-27",
+          "rank": 8
         }
       }
     }
