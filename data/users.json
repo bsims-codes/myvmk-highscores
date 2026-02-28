@@ -3,7 +3,7 @@
   "userCount": 468,
   "users": {
     "kazino": {
-      "avatar": "90bf9bad58058c29becad3815fda8d8a.png",
+      "avatar": "e3f4416a8d38c176b9d140d5e249b239.png",
       "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -721,11 +721,11 @@
     },
     "PrinceGeminii": {
       "avatar": "e42c721f172b6db54c5d89ddcab0158d.png",
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
-        "date": "2026-02-27"
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-02-28"
       },
       "games": {
         "pirates": {
@@ -7840,11 +7840,11 @@
     },
     "Glaze": {
       "avatar": null,
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-02-27"
+        "rank": 9,
+        "date": "2026-02-28"
       },
       "games": {
         "haunted-mansion": {
@@ -8628,17 +8628,22 @@
     },
     "Heffawomp": {
       "avatar": null,
-      "lastSeen": "2026-02-26",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-02-26"
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-02-28"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 116,
           "date": "2026-02-26",
           "rank": 7
+        },
+        "castle-fireworks": {
+          "bestScore": 1470,
+          "date": "2026-02-28",
+          "rank": 2
         }
       }
     },
