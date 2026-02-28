@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-28",
-  "userCount": 470,
+  "userCount": 471,
   "users": {
     "kazino": {
       "avatar": "e3f4416a8d38c176b9d140d5e249b239.png",
@@ -3493,11 +3493,11 @@
     },
     "JWFIT": {
       "avatar": null,
-      "lastSeen": "2026-02-15",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-02-15"
+        "rank": 4,
+        "date": "2026-02-28"
       },
       "games": {
         "castle-fireworks": {
@@ -3809,14 +3809,14 @@
       "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-02-28"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 49006,
-          "date": "2026-01-27",
-          "rank": 4,
+          "bestScore": 49204,
+          "date": "2026-02-28",
+          "rank": 3,
           "allTimeRank": 43
         },
         "pirates": {
@@ -9169,13 +9169,34 @@
       "avatar": null,
       "lastSeen": "2026-02-28",
       "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-02-28"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 11476,
+          "date": "2026-02-28",
+          "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 4965,
+          "date": "2026-02-28",
+          "rank": 3
+        }
+      }
+    },
+    "salemthecat": {
+      "avatar": null,
+      "lastSeen": "2026-02-28",
+      "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 5,
         "date": "2026-02-28"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 11476,
+          "bestScore": 42293,
           "date": "2026-02-28",
           "rank": 5
         }

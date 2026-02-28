@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "scrapedAt": "2026-02-28T18:42:07.641Z",
+  "scrapedAt": "2026-02-28T21:28:16.657Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -19,11 +19,16 @@
           },
           {
             "rank": 3,
+            "username": "Guest10149673",
+            "score": 4965
+          },
+          {
+            "rank": 4,
             "username": "Heffawomp",
             "score": 1470
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10149670",
             "score": 432
           }
@@ -232,12 +237,12 @@
           },
           {
             "rank": 9,
-            "username": "PrinceGeminii",
+            "username": "Ebeth",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "goatduck",
+            "username": "Expect",
             "score": 200
           }
         ]
@@ -252,12 +257,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -469,35 +474,55 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "ab05f8a860719a9340a48c02e772fe52.png",
+        "topAvatar": "f4d56bc2bca5c50e749557ce24c5b2e4.png",
         "scores": [
           {
             "rank": 1,
+            "username": "scortatia",
+            "score": 54492
+          },
+          {
+            "rank": 2,
             "username": "Fotogirl",
             "score": 50967
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "HappyToughFish",
+            "score": 49204
+          },
+          {
+            "rank": 4,
+            "username": "JWFIT",
+            "score": 48200
+          },
+          {
+            "rank": 5,
+            "username": "salemthecat",
+            "score": 42293
+          },
+          {
+            "rank": 6,
             "username": "cjswag",
             "score": 41151
           },
           {
-            "rank": 3,
+            "rank": 7,
             "username": "AtziriDayre",
-            "score": 30581
+            "score": 40602
           },
           {
-            "rank": 4,
+            "rank": 8,
             "username": "Guest10149671",
             "score": 26616
           },
           {
-            "rank": 5,
+            "rank": 9,
             "username": "Guest10149673",
             "score": 11476
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "Guest10149670",
             "score": 10225
           }
