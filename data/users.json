@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-01",
-  "userCount": 473,
+  "userCount": 477,
   "users": {
     "kazino": {
       "avatar": "e3f4416a8d38c176b9d140d5e249b239.png",
@@ -907,7 +907,7 @@
       "lastSeen": "2026-03-01",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 7,
         "date": "2026-03-01"
       },
       "games": {
@@ -5717,7 +5717,7 @@
       }
     },
     "EVOL": {
-      "avatar": "c8661cdaf1114ca8d3b17a5f0ae385e1.png",
+      "avatar": "dde6c7ddcda943137d63dc4aabf4e8e8.png",
       "lastSeen": "2026-03-01",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -9261,6 +9261,70 @@
           "bestScore": 170,
           "date": "2026-02-28",
           "rank": 8
+        }
+      }
+    },
+    "UltraFreshGirl": {
+      "avatar": null,
+      "lastSeen": "2026-03-01",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-03-01"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 4965,
+          "date": "2026-03-01",
+          "rank": 7
+        }
+      }
+    },
+    "SHAMUDANCES": {
+      "avatar": null,
+      "lastSeen": "2026-03-01",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-03-01"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 115,
+          "date": "2026-03-01",
+          "rank": 2
+        }
+      }
+    },
+    "lydss14": {
+      "avatar": null,
+      "lastSeen": "2026-03-01",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-03-01"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 115,
+          "date": "2026-03-01",
+          "rank": 3
+        }
+      }
+    },
+    "BelaMel": {
+      "avatar": null,
+      "lastSeen": "2026-03-01",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-03-01"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 5586,
+          "date": "2026-03-01",
+          "rank": 3
         }
       }
     }
