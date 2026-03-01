@@ -1,12 +1,18 @@
 {
   "date": "2026-03-01",
-  "scrapedAt": "2026-03-01T09:37:18.706Z",
+  "scrapedAt": "2026-03-01T13:02:59.929Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "793e270fc5c762610c5b3590034f230e.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 6921
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "e3f4416a8d38c176b9d140d5e249b239.png",
@@ -241,12 +247,12 @@
           },
           {
             "rank": 2,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
@@ -304,16 +310,26 @@
           },
           {
             "rank": 3,
+            "username": "AstroVioletRose",
+            "score": 67
+          },
+          {
+            "rank": 4,
+            "username": "JustForFun",
+            "score": 58
+          },
+          {
+            "rank": 5,
             "username": "PrinceGeminii",
             "score": 55
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "scortatia",
             "score": 49
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Expect",
             "score": 46
           }
@@ -349,12 +365,12 @@
           },
           {
             "rank": 6,
-            "username": "MissyKinz",
+            "username": "BerryBlitz",
             "score": 117
           },
           {
             "rank": 7,
-            "username": "BerryBlitz",
+            "username": "MissyKinz",
             "score": 117
           },
           {
@@ -433,10 +449,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "b2e283dd940254739b19434d26dafdf3.png",
+        "topAvatar": "ab05f8a860719a9340a48c02e772fe52.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Fotogirl",
+            "score": 51964
+          },
+          {
+            "rank": 2,
             "username": "AtziriDayre",
             "score": 32707
           }
