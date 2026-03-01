@@ -505,7 +505,7 @@
       "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
+        "rank": 1,
         "date": "2026-02-28"
       },
       "games": {
@@ -2218,7 +2218,7 @@
       }
     },
     "hopealicious": {
-      "avatar": "694c1931e11d76fee839fdc76ea17468.png",
+      "avatar": "98a0642c503aee79d3f1e03c3cd727e2.png",
       "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "pirates",
@@ -2236,11 +2236,11 @@
     },
     "happycatyomyno": {
       "avatar": null,
-      "lastSeen": "2026-02-24",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-02-24"
+        "rank": 9,
+        "date": "2026-02-28"
       },
       "games": {
         "pirates": {
@@ -2560,8 +2560,8 @@
       "avatar": "8d69d9cbd27ca52f0a9fdbe7a1d9edb2.png",
       "lastSeen": "2026-02-28",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
+        "game": "pirates",
+        "rank": 6,
         "date": "2026-02-28"
       },
       "games": {
@@ -2581,6 +2581,11 @@
           "bestScore": 49,
           "date": "2026-01-28",
           "rank": 9
+        },
+        "pirates": {
+          "bestScore": 255,
+          "date": "2026-02-28",
+          "rank": 6
         }
       }
     },
@@ -3991,16 +3996,16 @@
     },
     "Naiant": {
       "avatar": null,
-      "lastSeen": "2026-02-19",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-02-19"
+        "rank": 3,
+        "date": "2026-02-28"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 116,
-          "date": "2026-02-05",
+          "bestScore": 125,
+          "date": "2026-02-28",
           "rank": 3,
           "allTimeRank": 50
         }
@@ -7697,22 +7702,27 @@
           "bestScore": 116,
           "date": "2026-02-21",
           "rank": 4
+        },
+        "castle-fireworks": {
+          "bestScore": 4441,
+          "date": "2026-02-28",
+          "rank": 8
         }
       }
     },
     "Whispers": {
       "avatar": null,
-      "lastSeen": "2026-02-16",
+      "lastSeen": "2026-02-28",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
-        "date": "2026-02-16"
+        "rank": 10,
+        "date": "2026-02-28"
       },
       "games": {
         "pirates": {
-          "bestScore": 212,
-          "date": "2026-02-15",
-          "rank": 9
+          "bestScore": 236,
+          "date": "2026-02-28",
+          "rank": 10
         }
       }
     },
