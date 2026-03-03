@@ -973,11 +973,11 @@
     },
     "Monsta": {
       "avatar": "946810307203a5c66812bdc5a1eb1630.png",
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-03-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-02-27"
+        "rank": 3,
+        "date": "2026-03-02"
       },
       "games": {
         "haunted-mansion": {
@@ -990,11 +990,11 @@
     },
     "-Hannah-": {
       "avatar": "e9493f3589d218fa73c613d7ccce5ead.png",
-      "lastSeen": "2026-02-28",
+      "lastSeen": "2026-03-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-02-28"
+        "rank": 2,
+        "date": "2026-03-02"
       },
       "games": {
         "haunted-mansion": {
@@ -1440,7 +1440,7 @@
       }
     },
     "scortatia": {
-      "avatar": "f4d56bc2bca5c50e749557ce24c5b2e4.png",
+      "avatar": "2eca2de5980a7960797b169c29480274.png",
       "lastSeen": "2026-03-02",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -2207,11 +2207,11 @@
     },
     "prettykatie": {
       "avatar": null,
-      "lastSeen": "2026-02-26",
+      "lastSeen": "2026-03-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-02-26"
+        "rank": 6,
+        "date": "2026-03-02"
       },
       "games": {
         "haunted-mansion": {
@@ -2539,11 +2539,11 @@
       }
     },
     "KristiDB": {
-      "avatar": null,
+      "avatar": "f480edaab2e01448a16d0752a88ccd84.png",
       "lastSeen": "2026-03-02",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-03-02"
       },
       "games": {
@@ -8609,17 +8609,22 @@
     },
     "CandyCars": {
       "avatar": null,
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-03-02",
       "lastAppearance": {
-        "game": "jungle-cruise",
+        "game": "haunted-mansion",
         "rank": 10,
-        "date": "2026-02-27"
+        "date": "2026-03-02"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 19432,
           "date": "2026-02-22",
           "rank": 6
+        },
+        "haunted-mansion": {
+          "bestScore": 28,
+          "date": "2026-03-02",
+          "rank": 10
         }
       }
     },
@@ -9485,6 +9490,11 @@
           "date": "2026-03-02",
           "rank": 2,
           "allTimeRank": 15
+        },
+        "haunted-mansion": {
+          "bestScore": 31,
+          "date": "2026-03-02",
+          "rank": 9
         }
       }
     },
