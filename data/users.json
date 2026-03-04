@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-04",
-  "userCount": 491,
+  "userCount": 492,
   "users": {
     "kazino": {
       "avatar": "f5b5f6171336b44f3bde468ccea77c81.png",
@@ -903,11 +903,11 @@
       }
     },
     "Sandblasted_OctoNuggie": {
-      "avatar": "894aa0d0e6c8ae1a907164b7fa5e7bca.png",
+      "avatar": "1bd852f9571132cd8e32587c808d0905.png",
       "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 1,
         "date": "2026-03-04"
       },
       "games": {
@@ -2037,11 +2037,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "834dd6ad0461af24773ce1bb42722e08.png",
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-02-27"
+        "rank": 9,
+        "date": "2026-03-04"
       },
       "games": {
         "haunted-mansion": {
@@ -2287,11 +2287,11 @@
     },
     "mikgriz": {
       "avatar": null,
-      "lastSeen": "2026-03-01",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-03-01"
+        "rank": 8,
+        "date": "2026-03-04"
       },
       "games": {
         "haunted-mansion": {
@@ -2304,11 +2304,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-02-24",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-02-24"
+        "rank": 5,
+        "date": "2026-03-04"
       },
       "games": {
         "haunted-mansion": {
@@ -3834,7 +3834,7 @@
       "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-03-04"
       },
       "games": {
@@ -5746,7 +5746,7 @@
       "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-03-04"
       },
       "games": {
@@ -9628,6 +9628,22 @@
           "bestScore": 0,
           "date": null,
           "rank": null
+        }
+      }
+    },
+    "PerfectLittleDust": {
+      "avatar": null,
+      "lastSeen": "2026-03-04",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-03-04"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 156,
+          "date": "2026-03-04",
+          "rank": 8
         }
       }
     }
