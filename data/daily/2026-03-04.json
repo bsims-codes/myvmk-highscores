@@ -1,26 +1,31 @@
 {
   "date": "2026-03-04",
-  "scrapedAt": "2026-03-04T09:50:51.941Z",
+  "scrapedAt": "2026-03-04T13:12:11.773Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "c66effa742a7b778a499dc43e9b2356b.png",
+        "topAvatar": "40ef17dca28db236ed869175d9ca46f0.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10821
+          },
+          {
+            "rank": 2,
             "username": "PowerGirl",
             "score": 7549
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "cjswag",
             "score": 1992
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "82c6d2afd76df931f18748293f4b9cb2.png",
+        "topAvatar": "40ef17dca28db236ed869175d9ca46f0.png",
         "scores": [
           {
             "rank": 1,
@@ -249,48 +254,48 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 50
+          },
+          {
+            "rank": 3,
             "username": "waterfallglow",
             "score": 49
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "AmandaJeanne",
             "score": 45
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Glaze",
             "score": 45
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "PrinceGeminii",
             "score": 37
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "kazino",
             "score": 33
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "scortatia",
             "score": 32
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Matty",
             "score": 30
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "Zanze",
             "score": 29
-          },
-          {
-            "rank": 10,
-            "username": "Guest10149725",
-            "score": 0
           }
         ]
       },
