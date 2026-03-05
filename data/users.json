@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-04",
-  "userCount": 493,
+  "userCount": 494,
   "users": {
     "kazino": {
       "avatar": "f5b5f6171336b44f3bde468ccea77c81.png",
@@ -440,8 +440,8 @@
       "avatar": "900d9de076dc2c2f825ff54fc2919b8f.png",
       "lastSeen": "2026-03-04",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
+        "game": "jungle-cruise",
+        "rank": 3,
         "date": "2026-03-04"
       },
       "games": {
@@ -506,11 +506,11 @@
       }
     },
     "magickate": {
-      "avatar": "f6ee859f997e12c481deec955b9c126f.png",
+      "avatar": "8af0b6332b20f932a7174b33c23ef21b.png",
       "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
+        "rank": 1,
         "date": "2026-03-04"
       },
       "games": {
@@ -670,11 +670,11 @@
     },
     "tizzi": {
       "avatar": "bd6804fe4c28ec034c52f1e97617f8a4.png",
-      "lastSeen": "2026-03-01",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-03-01"
+        "rank": 2,
+        "date": "2026-03-04"
       },
       "games": {
         "pirates": {
@@ -4032,11 +4032,11 @@
     },
     "Naiant": {
       "avatar": null,
-      "lastSeen": "2026-03-02",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-03-02"
+        "rank": 10,
+        "date": "2026-03-04"
       },
       "games": {
         "haunted-mansion": {
@@ -5876,11 +5876,11 @@
     },
     "DCAfriend": {
       "avatar": null,
-      "lastSeen": "2026-02-02",
+      "lastSeen": "2026-03-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
-        "date": "2026-02-02"
+        "rank": 8,
+        "date": "2026-03-04"
       },
       "games": {
         "pirates": {
@@ -9671,6 +9671,22 @@
           "bestScore": 39,
           "date": "2026-03-04",
           "rank": 4
+        }
+      }
+    },
+    "Eris": {
+      "avatar": null,
+      "lastSeen": "2026-03-04",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 7,
+        "date": "2026-03-04"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 200,
+          "date": "2026-03-04",
+          "rank": 7
         }
       }
     }
