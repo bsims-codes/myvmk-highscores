@@ -712,7 +712,7 @@
       "lastSeen": "2026-03-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-03-06"
       },
       "games": {
@@ -1588,11 +1588,11 @@
     },
     "Fawn": {
       "avatar": null,
-      "lastSeen": "2026-03-05",
+      "lastSeen": "2026-03-06",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-03-05"
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-03-06"
       },
       "games": {
         "haunted-mansion": {
@@ -1602,9 +1602,9 @@
           "allTimeRank": 50
         },
         "castle-fireworks": {
-          "bestScore": 1260,
-          "date": "2026-01-12",
-          "rank": 4,
+          "bestScore": 4115,
+          "date": "2026-03-06",
+          "rank": 7,
           "allTimeRank": 50
         },
         "pirates": {
@@ -1653,7 +1653,7 @@
       "lastSeen": "2026-03-06",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 3,
         "date": "2026-03-06"
       },
       "games": {
@@ -4016,9 +4016,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 5089,
-          "date": "2026-02-12",
-          "rank": 2,
+          "bestScore": 5440,
+          "date": "2026-03-06",
+          "rank": 5,
           "allTimeRank": 50
         },
         "haunted-mansion": {
@@ -5335,11 +5335,11 @@
     },
     "PrincessMichii": {
       "avatar": null,
-      "lastSeen": "2026-02-20",
+      "lastSeen": "2026-03-06",
       "lastAppearance": {
-        "game": "haunted-mansion",
+        "game": "jungle-cruise",
         "rank": 10,
-        "date": "2026-02-20"
+        "date": "2026-03-06"
       },
       "games": {
         "pirates": {
@@ -5763,7 +5763,7 @@
       }
     },
     "EVOL": {
-      "avatar": "d84beb332b85d3998169f780d647c5ca.png",
+      "avatar": "1eadb006385f2a8430ff4fa6b41a60bd.png",
       "lastSeen": "2026-03-06",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -8285,8 +8285,8 @@
       "avatar": "ca4b24e035b6ffac251f0df6347078cc.png",
       "lastSeen": "2026-03-06",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
+        "game": "jungle-cruise",
+        "rank": 4,
         "date": "2026-03-06"
       },
       "games": {
