@@ -1,24 +1,29 @@
 {
   "date": "2026-03-08",
-  "scrapedAt": "2026-03-08T09:36:56.614Z",
+  "scrapedAt": "2026-03-08T13:03:08.157Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "3b5687571d1530a750bb84e74919203a.png",
+        "topAvatar": "1532bf9d1a91fa68eadf6f904ca04cb2.png",
         "scores": [
           {
             "rank": 1,
+            "username": "TropicalShyFire",
+            "score": 8488
+          },
+          {
+            "rank": 2,
             "username": "Supercatygirl",
             "score": 7084
           },
           {
-            "rank": 2,
-            "username": "TropicalShyFire",
-            "score": 6181
+            "rank": 3,
+            "username": "Fawn",
+            "score": 5268
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 4031
           }
@@ -182,12 +187,12 @@
           },
           {
             "rank": 9,
-            "username": "Stormyred",
+            "username": "Bernardo_S_Rocks",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "PuffyOldDragon",
+            "username": "Stormyred",
             "score": 200
           }
         ]
@@ -380,17 +385,17 @@
           },
           {
             "rank": 4,
-            "username": "Glaze",
+            "username": "Niki2",
             "score": 134
           },
           {
             "rank": 5,
-            "username": "BRlTT",
+            "username": "Glaze",
             "score": 134
           },
           {
             "rank": 6,
-            "username": "Niki2",
+            "username": "BRlTT",
             "score": 134
           },
           {
@@ -405,12 +410,12 @@
           },
           {
             "rank": 9,
-            "username": "waterfallglow",
+            "username": "airham",
             "score": 130
           },
           {
             "rank": 10,
-            "username": "airham",
+            "username": "waterfallglow",
             "score": 130
           }
         ]
@@ -445,12 +450,12 @@
           },
           {
             "rank": 6,
-            "username": "Queen_B",
+            "username": "scortatia",
             "score": 148
           },
           {
             "rank": 7,
-            "username": "scortatia",
+            "username": "Queen_B",
             "score": 148
           },
           {
@@ -490,6 +495,11 @@
             "rank": 3,
             "username": "PrincessCutezada",
             "score": 38317
+          },
+          {
+            "rank": 4,
+            "username": "Fawn",
+            "score": 26381
           }
         ]
       },
