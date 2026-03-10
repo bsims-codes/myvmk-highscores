@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-10",
-  "userCount": 527,
+  "userCount": 528,
   "users": {
     "kazino": {
       "avatar": "5afd238281b48bb848e2ef19aefdc7ee.png",
@@ -2182,17 +2182,17 @@
     },
     "thatcookiewasgood": {
       "avatar": null,
-      "lastSeen": "2026-03-07",
+      "lastSeen": "2026-03-10",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-03-07"
+        "rank": 5,
+        "date": "2026-03-10"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 47388,
-          "date": "2026-02-08",
-          "rank": 7,
+          "bestScore": 48125,
+          "date": "2026-03-10",
+          "rank": 5,
           "allTimeRank": 50
         },
         "haunted-mansion": {
@@ -9676,11 +9676,11 @@
     },
     "Carolination": {
       "avatar": null,
-      "lastSeen": "2026-03-06",
+      "lastSeen": "2026-03-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-03-06"
+        "rank": 9,
+        "date": "2026-03-10"
       },
       "games": {
         "castle-fireworks": {
@@ -9689,9 +9689,9 @@
           "rank": 10
         },
         "haunted-mansion": {
-          "bestScore": 87,
-          "date": "2026-03-05",
-          "rank": 6
+          "bestScore": 98,
+          "date": "2026-03-10",
+          "rank": 9
         }
       }
     },
@@ -10351,6 +10351,22 @@
           "bestScore": 49565,
           "date": "2026-03-10",
           "rank": 6
+        }
+      }
+    },
+    "Epic_girly": {
+      "avatar": null,
+      "lastSeen": "2026-03-10",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-03-10"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 102,
+          "date": "2026-03-10",
+          "rank": 5
         }
       }
     }
