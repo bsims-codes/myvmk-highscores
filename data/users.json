@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-11",
-  "userCount": 529,
+  "userCount": 530,
   "users": {
     "kazino": {
       "avatar": "5afd238281b48bb848e2ef19aefdc7ee.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "54f77fad0b1a35c2f9b0ec6183b1c22a.png",
+      "avatar": "afe22cac7fb524413dd9d75d9ace82bd.png",
       "lastSeen": "2026-03-11",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -1030,11 +1030,11 @@
     },
     "-Misty-": {
       "avatar": "8c824f8196bfc24132f062832f132e95.png",
-      "lastSeen": "2026-03-09",
+      "lastSeen": "2026-03-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-03-09"
+        "rank": 4,
+        "date": "2026-03-11"
       },
       "games": {
         "haunted-mansion": {
@@ -2185,7 +2185,7 @@
       "lastSeen": "2026-03-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-03-11"
       },
       "games": {
@@ -3409,7 +3409,7 @@
       "lastSeen": "2026-03-11",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 3,
         "date": "2026-03-11"
       },
       "games": {
@@ -9558,11 +9558,11 @@
     },
     "matcha_fiend": {
       "avatar": "6090ae2e8a4563daf1760b508e1f4b8b.png",
-      "lastSeen": "2026-03-07",
+      "lastSeen": "2026-03-11",
       "lastAppearance": {
-        "game": "castle-fireworks",
+        "game": "jungle-cruise",
         "rank": 6,
-        "date": "2026-03-07"
+        "date": "2026-03-11"
       },
       "games": {
         "castle-fireworks": {
@@ -9577,9 +9577,9 @@
           "rank": 7
         },
         "jungle-cruise": {
-          "bestScore": 33118,
-          "date": "2026-03-06",
-          "rank": 5
+          "bestScore": 38566,
+          "date": "2026-03-11",
+          "rank": 6
         },
         "pirates": {
           "bestScore": 114,
@@ -10388,6 +10388,22 @@
           "bestScore": 6149,
           "date": "2026-03-11",
           "rank": 2
+        }
+      }
+    },
+    "LexRR": {
+      "avatar": null,
+      "lastSeen": "2026-03-11",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-03-11"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 18191,
+          "date": "2026-03-11",
+          "rank": 7
         }
       }
     }
