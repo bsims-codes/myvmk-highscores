@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-13",
-  "userCount": 547,
+  "userCount": 548,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -375,11 +375,11 @@
       }
     },
     "Kronkx": {
-      "avatar": null,
+      "avatar": "25c24ab9f7a788ec135081dd50d875a3.png",
       "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-03-13"
       },
       "games": {
@@ -395,9 +395,9 @@
           "rank": 8
         },
         "haunted-mansion": {
-          "bestScore": 121,
-          "date": "2026-02-16",
-          "rank": 3,
+          "bestScore": 125,
+          "date": "2026-03-13",
+          "rank": 1,
           "allTimeRank": 50
         }
       }
@@ -443,7 +443,7 @@
       }
     },
     "airham": {
-      "avatar": "cced092d4dfa2584e1a60ad11949d0ff.png",
+      "avatar": "dd0a9610936c7f9897b5bfd889e0e2e1.png",
       "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -495,7 +495,7 @@
       }
     },
     "Erie": {
-      "avatar": "31446ff745a32c031a74f462aea64cc8.png",
+      "avatar": "407d3ff05f3ee88f6e815d94abb05f32.png",
       "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "pirates",
@@ -1204,7 +1204,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "541106d570f29d588f031d35cd5746d4.png",
+      "avatar": "80da350c42ea56f931879757fe8b7e10.png",
       "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -2837,11 +2837,11 @@
     },
     "Earthling": {
       "avatar": null,
-      "lastSeen": "2026-01-17",
+      "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-01-17"
+        "rank": 7,
+        "date": "2026-03-13"
       },
       "games": {
         "pirates": {
@@ -4826,7 +4826,7 @@
       "lastSeen": "2026-03-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-03-13"
       },
       "games": {
@@ -10217,8 +10217,8 @@
       "avatar": "d8deeb2376428508285ea5863ce4bb67.png",
       "lastSeen": "2026-03-13",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 3,
+        "game": "castle-fireworks",
+        "rank": 1,
         "date": "2026-03-13"
       },
       "games": {
@@ -10740,6 +10740,22 @@
           "bestScore": 31,
           "date": "2026-03-13",
           "rank": 9
+        }
+      }
+    },
+    "Janijan": {
+      "avatar": null,
+      "lastSeen": "2026-03-13",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-03-13"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 74,
+          "date": "2026-03-13",
+          "rank": 8
         }
       }
     }
