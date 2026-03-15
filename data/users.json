@@ -171,7 +171,7 @@
           "bestScore": 9863,
           "date": "2026-03-07",
           "rank": 5,
-          "allTimeRank": 17
+          "allTimeRank": 18
         },
         "haunted-mansion": {
           "bestScore": 104,
@@ -330,7 +330,7 @@
           "bestScore": 9804,
           "date": "2026-01-06",
           "rank": 5,
-          "allTimeRank": 18
+          "allTimeRank": 19
         },
         "haunted-mansion": {
           "bestScore": 104,
@@ -378,16 +378,16 @@
       "avatar": "25c24ab9f7a788ec135081dd50d875a3.png",
       "lastSeen": "2026-03-15",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-03-15"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 9787,
-          "date": "2026-03-08",
-          "rank": 4,
-          "allTimeRank": 19
+          "bestScore": 9919,
+          "date": "2026-03-15",
+          "rank": 2,
+          "allTimeRank": 16
         },
         "jungle-cruise": {
           "bestScore": 37716,
@@ -1709,7 +1709,7 @@
       "lastSeen": "2026-03-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-03-15"
       },
       "games": {
@@ -1945,7 +1945,7 @@
           "bestScore": 9892,
           "date": "2026-01-16",
           "rank": 6,
-          "allTimeRank": 16
+          "allTimeRank": 17
         }
       }
     },
@@ -3674,8 +3674,8 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4946,
-          "date": "2026-03-03",
+          "bestScore": 5250,
+          "date": "2026-03-15",
           "rank": 5,
           "allTimeRank": 50
         },
@@ -3907,7 +3907,7 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 51339,
+          "bestScore": 51349,
           "date": "2026-03-15",
           "rank": 3,
           "allTimeRank": 29
@@ -7796,17 +7796,27 @@
     },
     "Wdwdreamer": {
       "avatar": null,
-      "lastSeen": "2026-02-15",
+      "lastSeen": "2026-03-15",
       "lastAppearance": {
-        "game": "jungle-cruise",
+        "game": "castle-fireworks",
         "rank": 6,
-        "date": "2026-02-15"
+        "date": "2026-03-15"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 34860,
           "date": "2026-02-15",
           "rank": 6
+        },
+        "castle-fireworks": {
+          "bestScore": 2893,
+          "date": "2026-03-15",
+          "rank": 6
+        },
+        "haunted-mansion": {
+          "bestScore": 78,
+          "date": "2026-03-15",
+          "rank": 9
         }
       }
     },
