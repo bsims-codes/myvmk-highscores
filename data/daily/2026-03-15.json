@@ -1,24 +1,34 @@
 {
   "date": "2026-03-15",
-  "scrapedAt": "2026-03-15T15:35:35.269Z",
+  "scrapedAt": "2026-03-15T18:50:40.937Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "d8deeb2376428508285ea5863ce4bb67.png",
+        "topAvatar": "9d4d7a2c2d268df8b8a4e2b814b80c5f.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10820
+          },
+          {
+            "rank": 2,
             "username": "GypsyRose",
             "score": 8050
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "Blueclay",
+            "score": 5657
+          },
+          {
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 4522
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "gooferd",
             "score": 216
           }
@@ -292,12 +302,12 @@
           },
           {
             "rank": 9,
-            "username": "airham",
+            "username": "Xenon_",
             "score": 384
           },
           {
             "rank": 10,
-            "username": "Xenon_",
+            "username": "airham",
             "score": 384
           }
         ]
@@ -370,12 +380,12 @@
           },
           {
             "rank": 2,
-            "username": "Pirateboi",
+            "username": "OGBlondie_",
             "score": 132
           },
           {
             "rank": 3,
-            "username": "OGBlondie_",
+            "username": "Pirateboi",
             "score": 132
           },
           {
@@ -465,7 +475,7 @@
           },
           {
             "rank": 10,
-            "username": "Shadow_Rose",
+            "username": "JustForFun",
             "score": 146
           }
         ]
@@ -488,28 +498,43 @@
           },
           {
             "rank": 3,
+            "username": "HappyToughFish",
+            "score": 51339
+          },
+          {
+            "rank": 4,
             "username": "Focus",
             "score": 49054
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Blueclay",
             "score": 46795
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "CaitlinNoel",
+            "score": 43225
+          },
+          {
+            "rank": 7,
             "username": "charliethehamsterr",
             "score": 41073
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "PrincessCutezada",
             "score": 40005
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "AtziriDayre",
             "score": 39424
+          },
+          {
+            "rank": 10,
+            "username": "LadyGenie",
+            "score": 18704
           }
         ]
       },
