@@ -1990,11 +1990,11 @@
     },
     "AppleLimitless": {
       "avatar": "00da4712282acb207d65c1a3274cea46.png",
-      "lastSeen": "2026-01-20",
+      "lastSeen": "2026-03-16",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-01-20"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-03-16"
       },
       "games": {
         "haunted-mansion": {
@@ -2002,6 +2002,11 @@
           "date": "2026-01-19",
           "rank": 9,
           "allTimeRank": 50
+        },
+        "jungle-cruise": {
+          "bestScore": 40908,
+          "date": "2026-03-16",
+          "rank": 5
         }
       }
     },
@@ -4432,11 +4437,11 @@
     },
     "bao": {
       "avatar": "6ca4e25a57e9d139fe5c2ed1ea4b6501.png",
-      "lastSeen": "2026-02-09",
+      "lastSeen": "2026-03-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 1,
-        "date": "2026-02-09"
+        "rank": 9,
+        "date": "2026-03-16"
       },
       "games": {
         "haunted-mansion": {
@@ -10780,7 +10785,7 @@
       "lastSeen": "2026-03-16",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 3,
         "date": "2026-03-16"
       },
       "games": {
