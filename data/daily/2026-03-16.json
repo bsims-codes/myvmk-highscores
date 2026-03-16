@@ -1,31 +1,36 @@
 {
   "date": "2026-03-16",
-  "scrapedAt": "2026-03-16T10:10:27.187Z",
+  "scrapedAt": "2026-03-16T13:42:13.337Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "4db20f96fef4fa30cfbb5f377788e87e.png",
+        "topAvatar": "6e2092a7424aebb09b1ee29a9ac0542a.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10667
+          },
+          {
+            "rank": 2,
             "username": "PowerGirl",
             "score": 7361
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "MissAnnaNovang",
             "score": 7240
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 4257
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "9d4d7a2c2d268df8b8a4e2b814b80c5f.png",
+        "topAvatar": "6e2092a7424aebb09b1ee29a9ac0542a.png",
         "scores": [
           {
             "rank": 1,
@@ -252,12 +257,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -287,12 +292,12 @@
           },
           {
             "rank": 9,
-            "username": "Xenon_",
+            "username": "airham",
             "score": 384
           },
           {
             "rank": 10,
-            "username": "airham",
+            "username": "Xenon_",
             "score": 384
           }
         ]
@@ -310,18 +315,18 @@
           },
           {
             "rank": 2,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 96
+          },
+          {
+            "rank": 3,
             "username": "Shadow_Rose",
             "score": 91
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 87
-          },
-          {
-            "rank": 4,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 83
           },
           {
             "rank": 5,
@@ -336,22 +341,22 @@
           {
             "rank": 7,
             "username": "AstroVioletRose",
-            "score": 59
+            "score": 60
           },
           {
             "rank": 8,
-            "username": "goatduck",
-            "score": 43
+            "username": "shelbitb",
+            "score": 52
           },
           {
             "rank": 9,
-            "username": "prettykatie",
-            "score": 39
+            "username": "MissyKinz",
+            "score": 52
           },
           {
             "rank": 10,
-            "username": "CandyCars",
-            "score": 36
+            "username": "goatduck",
+            "score": 43
           }
         ]
       },
@@ -450,12 +455,12 @@
           },
           {
             "rank": 8,
-            "username": "scortatia",
+            "username": "Queen_B",
             "score": 148
           },
           {
             "rank": 9,
-            "username": "Queen_B",
+            "username": "scortatia",
             "score": 148
           },
           {
@@ -469,40 +474,45 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "81f1a44c12b5307065f0135ac9acb4b6.png",
+        "topAvatar": "520d7cfa9c92ba8562f7901b7ebff44c.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Fotogirl",
+            "score": 52797
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 51946
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "PowerGirl",
             "score": 43447
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 40892
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "hurricanehan",
             "score": 40507
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Focus",
             "score": 39553
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "LoudCloudyCar",
             "score": 38912
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "Kiravalora",
             "score": 35920
           }
