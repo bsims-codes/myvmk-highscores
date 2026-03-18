@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-18",
-  "userCount": 568,
+  "userCount": 569,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -32,11 +32,11 @@
       }
     },
     "BRlTT": {
-      "avatar": "a61f6947aeb88ba3450b819d2393330e.png",
+      "avatar": "cd30c95796f7e5938a88eb748ffbfa81.png",
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-03-18"
       },
       "games": {
@@ -2356,11 +2356,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-03-16",
+      "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-03-16"
+        "rank": 6,
+        "date": "2026-03-18"
       },
       "games": {
         "haunted-mansion": {
@@ -6993,8 +6993,8 @@
       "avatar": null,
       "lastSeen": "2026-03-18",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
+        "game": "haunted-mansion",
+        "rank": 4,
         "date": "2026-03-18"
       },
       "games": {
@@ -11142,6 +11142,22 @@
           "bestScore": 406,
           "date": "2026-03-18",
           "rank": 4
+        }
+      }
+    },
+    "pocoyo": {
+      "avatar": null,
+      "lastSeen": "2026-03-18",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-03-18"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 57,
+          "date": "2026-03-18",
+          "rank": 5
         }
       }
     }
