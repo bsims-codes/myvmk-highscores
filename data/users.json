@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-18",
-  "userCount": 570,
+  "userCount": 571,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "cd30c95796f7e5938a88eb748ffbfa81.png",
+      "avatar": "f02fca400d4e7a3eec514fb0da113046.png",
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -379,7 +379,7 @@
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-03-18"
       },
       "games": {
@@ -1472,7 +1472,7 @@
       }
     },
     "scortatia": {
-      "avatar": "244b1b92902ff070549aec7a8755ee0d.png",
+      "avatar": "f313595992feaefa1d79e8af6ac57b4c.png",
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -3275,11 +3275,11 @@
     },
     "Mirk": {
       "avatar": null,
-      "lastSeen": "2026-03-17",
+      "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-03-17"
+        "rank": 4,
+        "date": "2026-03-18"
       },
       "games": {
         "haunted-mansion": {
@@ -3922,7 +3922,7 @@
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-03-18"
       },
       "games": {
@@ -5613,7 +5613,7 @@
       }
     },
     "Pepa": {
-      "avatar": "dd22846b9f4444e75b22e7120d0bfed2.png",
+      "avatar": "28842152f9553738c13b5feeb62baf11.png",
       "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -7489,16 +7489,16 @@
     },
     "Mrtigerman": {
       "avatar": null,
-      "lastSeen": "2026-02-14",
+      "lastSeen": "2026-03-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-02-14"
+        "rank": 4,
+        "date": "2026-03-18"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 44,
-          "date": "2026-02-13",
+          "bestScore": 96,
+          "date": "2026-03-18",
           "rank": 4
         },
         "jungle-cruise": {
@@ -11179,6 +11179,22 @@
           "bestScore": 564,
           "date": "2026-03-18",
           "rank": 7
+        }
+      }
+    },
+    "Ash_Mccash": {
+      "avatar": null,
+      "lastSeen": "2026-03-18",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-03-18"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 92,
+          "date": "2026-03-18",
+          "rank": 5
         }
       }
     }
