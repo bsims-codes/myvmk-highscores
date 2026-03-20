@@ -185,7 +185,7 @@
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
+        "rank": 3,
         "date": "2026-03-20"
       },
       "games": {
@@ -741,7 +741,7 @@
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-03-20"
       },
       "games": {
@@ -1912,7 +1912,7 @@
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-03-20"
       },
       "games": {
@@ -2099,11 +2099,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "834dd6ad0461af24773ce1bb42722e08.png",
-      "lastSeen": "2026-03-19",
+      "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-03-19"
+        "rank": 5,
+        "date": "2026-03-20"
       },
       "games": {
         "haunted-mansion": {
@@ -2366,11 +2366,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-03-19",
+      "lastSeen": "2026-03-20",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-03-19"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-03-20"
       },
       "games": {
         "haunted-mansion": {
@@ -3693,8 +3693,8 @@
       "avatar": "dac016d55824650a975ae20fad6c5d2b.png",
       "lastSeen": "2026-03-20",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
+        "game": "castle-fireworks",
+        "rank": 4,
         "date": "2026-03-20"
       },
       "games": {
@@ -4460,7 +4460,7 @@
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-03-20"
       },
       "games": {
@@ -9287,12 +9287,12 @@
       }
     },
     "gamestar101": {
-      "avatar": null,
-      "lastSeen": "2026-03-19",
+      "avatar": "09abe5ad7f1ea0e6c638be721b71d481.png",
+      "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-03-19"
+        "rank": 1,
+        "date": "2026-03-20"
       },
       "games": {
         "jungle-cruise": {
@@ -9301,9 +9301,9 @@
           "rank": 8
         },
         "haunted-mansion": {
-          "bestScore": 52,
-          "date": "2026-03-19",
-          "rank": 10
+          "bestScore": 124,
+          "date": "2026-03-20",
+          "rank": 1
         }
       }
     },
