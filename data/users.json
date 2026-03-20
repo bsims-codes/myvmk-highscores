@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-20",
-  "userCount": 576,
+  "userCount": 577,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -473,7 +473,7 @@
           "bestScore": 55209,
           "date": "2026-03-16",
           "rank": 1,
-          "allTimeRank": 6
+          "allTimeRank": 7
         }
       }
     },
@@ -1214,7 +1214,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "38aa1b120b28e27a142f60b19326d1d4.png",
+      "avatar": "bc21fb7c3bfa7b094f29887b3b7de078.png",
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1260,7 +1260,7 @@
           "bestScore": 55154,
           "date": "2026-01-07",
           "rank": 1,
-          "allTimeRank": 7
+          "allTimeRank": 8
         },
         "pirates": {
           "bestScore": 291,
@@ -1524,7 +1524,7 @@
           "bestScore": 55353,
           "date": "2026-01-19",
           "rank": 2,
-          "allTimeRank": 5
+          "allTimeRank": 6
         },
         "pirates": {
           "bestScore": 9,
@@ -2641,7 +2641,7 @@
           "bestScore": 54780,
           "date": "2026-03-07",
           "rank": 2,
-          "allTimeRank": 8
+          "allTimeRank": 9
         },
         "castle-fireworks": {
           "bestScore": 8434,
@@ -3927,7 +3927,7 @@
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-03-20"
       },
       "games": {
@@ -4080,11 +4080,11 @@
     },
     "Blueclay": {
       "avatar": "490aea089f0899db4f6cab50d2522985.png",
-      "lastSeen": "2026-03-17",
+      "lastSeen": "2026-03-20",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 5,
-        "date": "2026-03-17"
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-03-20"
       },
       "games": {
         "castle-fireworks": {
@@ -4094,9 +4094,9 @@
           "allTimeRank": 50
         },
         "haunted-mansion": {
-          "bestScore": 100,
-          "date": "2026-02-26",
-          "rank": 2
+          "bestScore": 110,
+          "date": "2026-03-20",
+          "rank": 3
         },
         "jungle-cruise": {
           "bestScore": 47111,
@@ -4170,11 +4170,11 @@
     },
     "JerichoSun": {
       "avatar": "d1ebac6d7ec87c1cf67603a65af2a66c.png",
-      "lastSeen": "2026-02-28",
+      "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-02-28"
+        "rank": 4,
+        "date": "2026-03-20"
       },
       "games": {
         "castle-fireworks": {
@@ -6821,11 +6821,11 @@
       }
     },
     "MagicalPixieDust": {
-      "avatar": null,
+      "avatar": "8479669830d0d7cb7bcf72118f4cff86.png",
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 1,
         "date": "2026-03-20"
       },
       "games": {
@@ -6835,10 +6835,10 @@
           "rank": 5
         },
         "jungle-cruise": {
-          "bestScore": 54574,
-          "date": "2026-03-07",
-          "rank": 2,
-          "allTimeRank": 9
+          "bestScore": 55357,
+          "date": "2026-03-20",
+          "rank": 1,
+          "allTimeRank": 5
         }
       }
     },
@@ -9287,7 +9287,7 @@
       }
     },
     "gamestar101": {
-      "avatar": "09abe5ad7f1ea0e6c638be721b71d481.png",
+      "avatar": "646ef890d4dabfe53cbb4e6836af4042.png",
       "lastSeen": "2026-03-20",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -11294,6 +11294,22 @@
         "jungle-cruise": {
           "bestScore": 46066,
           "date": "2026-03-19",
+          "rank": 7
+        }
+      }
+    },
+    "WhimsyandWoe": {
+      "avatar": null,
+      "lastSeen": "2026-03-20",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-03-20"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 18856,
+          "date": "2026-03-20",
           "rank": 7
         }
       }
