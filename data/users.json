@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-22",
-  "userCount": 585,
+  "userCount": 586,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -1220,7 +1220,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "86494f60b2010f52b1906f3061fbf2d0.png",
+      "avatar": "f7ee22853e01ef0ec7cfa25a45e2d9e3.png",
       "lastSeen": "2026-03-22",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -4468,11 +4468,11 @@
     },
     "bao": {
       "avatar": "6ca4e25a57e9d139fe5c2ed1ea4b6501.png",
-      "lastSeen": "2026-03-21",
+      "lastSeen": "2026-03-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-03-21"
+        "rank": 6,
+        "date": "2026-03-22"
       },
       "games": {
         "haunted-mansion": {
@@ -5855,7 +5855,7 @@
       "lastSeen": "2026-03-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-03-22"
       },
       "games": {
@@ -10192,11 +10192,11 @@
     },
     "PirateGirl": {
       "avatar": null,
-      "lastSeen": "2026-03-09",
+      "lastSeen": "2026-03-22",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
-        "date": "2026-03-09"
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-03-22"
       },
       "games": {
         "haunted-mansion": {
@@ -11467,6 +11467,22 @@
           "bestScore": 36145,
           "date": "2026-03-22",
           "rank": 6
+        }
+      }
+    },
+    "Guest10149895": {
+      "avatar": null,
+      "lastSeen": "2026-03-22",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-03-22"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 7563,
+          "date": "2026-03-22",
+          "rank": 10
         }
       }
     }
