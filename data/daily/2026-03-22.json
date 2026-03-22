@@ -1,6 +1,6 @@
 {
   "date": "2026-03-22",
-  "scrapedAt": "2026-03-22T09:39:56.007Z",
+  "scrapedAt": "2026-03-22T13:06:19.914Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -108,12 +108,12 @@
           },
           {
             "rank": 9,
-            "username": "MacRose",
+            "username": "Wiz",
             "score": 10688
           },
           {
             "rank": 10,
-            "username": "Wiz",
+            "username": "MacRose",
             "score": 10688
           }
         ]
@@ -280,32 +280,32 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "c79b42bf0fb51dd6f9def7a3cb31cfca.png",
+        "topAvatar": "f6bb29414fbbd94e5fc7a5a73a144b03.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Shadow_Rose",
+            "score": 91
+          },
+          {
+            "rank": 2,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 81
+          },
+          {
+            "rank": 3,
             "username": "dizlindsey",
             "score": 79
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Monsta",
             "score": 72
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "Pepa",
             "score": 69
-          },
-          {
-            "rank": 4,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 67
-          },
-          {
-            "rank": 5,
-            "username": "Shadow_Rose",
-            "score": 61
           },
           {
             "rank": 6,
@@ -314,23 +314,23 @@
           },
           {
             "rank": 7,
+            "username": "MissyKinz",
+            "score": 56
+          },
+          {
+            "rank": 8,
+            "username": "AstroVioletRose",
+            "score": 54
+          },
+          {
+            "rank": 9,
             "username": "AmandaJeanne",
             "score": 52
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "ArrowToTheHeart",
             "score": 51
-          },
-          {
-            "rank": 9,
-            "username": "FlyingShinyGirl",
-            "score": 37
-          },
-          {
-            "rank": 10,
-            "username": "Expect",
-            "score": 35
           }
         ]
       },
@@ -448,20 +448,25 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "2a5343dfe1eed34e2c8131cb15e1401a.png",
+        "topAvatar": "6cf668da4d744b54e02fc58445f0195e.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Fotogirl",
+            "score": 53488
+          },
+          {
+            "rank": 2,
             "username": "punkrockchick",
             "score": 50552
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 34343
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "fanta",
             "score": 18227
           }
