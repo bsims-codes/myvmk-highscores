@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "scrapedAt": "2026-03-22T04:58:22.514Z",
+  "scrapedAt": "2026-03-22T06:59:42.491Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -122,7 +122,7 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "b9877cda4f3216da0ef68d8fc7000522.png",
+        "topAvatar": "3093c2f8ba07fd14090285e507891b97.png",
         "scores": [
           {
             "rank": 1,
@@ -131,33 +131,43 @@
           },
           {
             "rank": 2,
+            "username": "protozoa",
+            "score": 356
+          },
+          {
+            "rank": 3,
             "username": "Erie",
             "score": 353
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Magenta",
             "score": 245
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "username": "Diamond-J",
+            "score": 182
+          },
+          {
+            "rank": 6,
             "username": "RockStar_Olivia",
             "score": 168
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "CartNarcs",
             "score": 136
           },
           {
-            "rank": 6,
-            "username": "Diamond-J",
-            "score": 122
+            "rank": 8,
+            "username": "Diamond-K",
+            "score": 94
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "b9877cda4f3216da0ef68d8fc7000522.png",
+        "topAvatar": "3093c2f8ba07fd14090285e507891b97.png",
         "scores": [
           {
             "rank": 1,
@@ -299,18 +309,18 @@
           },
           {
             "rank": 6,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 53
+          },
+          {
+            "rank": 7,
             "username": "AmandaJeanne",
             "score": 52
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "ArrowToTheHeart",
             "score": 51
-          },
-          {
-            "rank": 8,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 45
           },
           {
             "rank": 9,
@@ -438,15 +448,20 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "99e0100eaea83b2361b9e4ff51754344.png",
+        "topAvatar": "2a5343dfe1eed34e2c8131cb15e1401a.png",
         "scores": [
           {
             "rank": 1,
+            "username": "punkrockchick",
+            "score": 50552
+          },
+          {
+            "rank": 2,
             "username": "AtziriDayre",
             "score": 34343
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "fanta",
             "score": 18227
           }
