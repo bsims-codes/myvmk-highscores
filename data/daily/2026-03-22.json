@@ -1,12 +1,18 @@
 {
   "date": "2026-03-22",
-  "scrapedAt": "2026-03-22T13:06:19.914Z",
+  "scrapedAt": "2026-03-22T15:33:23.533Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "f02fca400d4e7a3eec514fb0da113046.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BRlTT",
+            "score": 10740
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "7c38c318fe888e987e93a8ad0ccb75b2.png",
@@ -231,12 +237,12 @@
           },
           {
             "rank": 2,
-            "username": "Erie",
+            "username": "Katana",
             "score": 430
           },
           {
             "rank": 3,
-            "username": "Katana",
+            "username": "Erie",
             "score": 430
           },
           {
@@ -309,28 +315,28 @@
           },
           {
             "rank": 6,
-            "username": "lotuskitty",
+            "username": "SpookyBrightFairy",
             "score": 58
           },
           {
             "rank": 7,
+            "username": "lotuskitty",
+            "score": 58
+          },
+          {
+            "rank": 8,
             "username": "MissyKinz",
             "score": 56
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "AstroVioletRose",
             "score": 54
           },
           {
-            "rank": 9,
-            "username": "AmandaJeanne",
-            "score": 52
-          },
-          {
             "rank": 10,
-            "username": "ArrowToTheHeart",
-            "score": 51
+            "username": "Blueclay",
+            "score": 52
           }
         ]
       },
@@ -369,12 +375,12 @@
           },
           {
             "rank": 7,
-            "username": "Carolination",
+            "username": "Pepa",
             "score": 111
           },
           {
             "rank": 8,
-            "username": "Pepa",
+            "username": "Carolination",
             "score": 111
           },
           {
@@ -439,7 +445,7 @@
           },
           {
             "rank": 10,
-            "username": "JustForFun",
+            "username": "Shadow_Rose",
             "score": 146
           }
         ]
@@ -462,11 +468,16 @@
           },
           {
             "rank": 3,
+            "username": "Pirateboi",
+            "score": 44775
+          },
+          {
+            "rank": 4,
             "username": "AtziriDayre",
             "score": 34343
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "fanta",
             "score": 18227
           }
