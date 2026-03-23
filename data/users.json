@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-23",
-  "userCount": 592,
+  "userCount": 593,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -36,7 +36,7 @@
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-03-23"
       },
       "games": {
@@ -160,11 +160,11 @@
     },
     "bellemeansbeauty": {
       "avatar": "4b1e9af5352e0ec4923a90b07e1516ae.png",
-      "lastSeen": "2026-03-22",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
-        "date": "2026-03-22"
+        "rank": 3,
+        "date": "2026-03-23"
       },
       "games": {
         "castle-fireworks": {
@@ -3868,11 +3868,11 @@
     },
     "DoctorDewIt": {
       "avatar": "05b45302287f91d13ef0390a86aa92c1.png",
-      "lastSeen": "2026-03-13",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-03-13"
+        "rank": 6,
+        "date": "2026-03-23"
       },
       "games": {
         "castle-fireworks": {
@@ -11054,11 +11054,11 @@
     },
     "MacRose": {
       "avatar": "122b5d39ab3fe4dd0c3336e6a7d7274b.png",
-      "lastSeen": "2026-03-22",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 1,
-        "date": "2026-03-22"
+        "rank": 10,
+        "date": "2026-03-23"
       },
       "games": {
         "castle-fireworks": {
@@ -11324,7 +11324,7 @@
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 2,
         "date": "2026-03-23"
       },
       "games": {
@@ -11589,6 +11589,27 @@
           "bestScore": 45147,
           "date": "2026-03-22",
           "rank": 6
+        }
+      }
+    },
+    "Raxiiexo": {
+      "avatar": null,
+      "lastSeen": "2026-03-23",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-03-23"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3436,
+          "date": "2026-03-23",
+          "rank": 7
+        },
+        "jungle-cruise": {
+          "bestScore": 35288,
+          "date": "2026-03-23",
+          "rank": 3
         }
       }
     }
