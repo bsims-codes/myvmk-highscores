@@ -953,7 +953,7 @@
       }
     },
     "Niki2": {
-      "avatar": "f2760cdd96135546035de3ae1530576a.png",
+      "avatar": "cc90b6af4df566ec504d82056a9b4a1d.png",
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1091,11 +1091,11 @@
     },
     "waterfallglow": {
       "avatar": "3bfaa679806a1eab8a2eadf750cdf7c3.png",
-      "lastSeen": "2026-03-18",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-03-18"
+        "rank": 10,
+        "date": "2026-03-23"
       },
       "games": {
         "haunted-mansion": {
@@ -3930,11 +3930,11 @@
     },
     "HappyToughFish": {
       "avatar": "f59b10542a6797762ff722f57c94de68.png",
-      "lastSeen": "2026-03-22",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 3,
-        "date": "2026-03-22"
+        "date": "2026-03-23"
       },
       "games": {
         "jungle-cruise": {
@@ -4472,7 +4472,7 @@
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 8,
         "date": "2026-03-23"
       },
       "games": {
@@ -5645,9 +5645,9 @@
           "allTimeRank": 6
         },
         "haunted-mansion": {
-          "bestScore": 125,
-          "date": "2026-02-20",
-          "rank": 3,
+          "bestScore": 126,
+          "date": "2026-03-23",
+          "rank": 9,
           "allTimeRank": 50
         }
       }
@@ -9294,17 +9294,17 @@
     },
     "Katey": {
       "avatar": null,
-      "lastSeen": "2026-02-27",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-02-27"
+        "rank": 10,
+        "date": "2026-03-23"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 36723,
-          "date": "2026-02-27",
-          "rank": 7
+          "bestScore": 38152,
+          "date": "2026-03-23",
+          "rank": 10
         }
       }
     },
