@@ -199,7 +199,7 @@
           "bestScore": 128,
           "date": "2026-01-06",
           "rank": 8,
-          "allTimeRank": 46
+          "allTimeRank": 47
         },
         "jungle-cruise": {
           "bestScore": 41813,
@@ -319,11 +319,11 @@
     },
     "aldisneyfans": {
       "avatar": "139a3c39c3554b91792fae1270ed4d72.png",
-      "lastSeen": "2026-03-18",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-03-18"
+        "rank": 4,
+        "date": "2026-03-23"
       },
       "games": {
         "castle-fireworks": {
@@ -421,7 +421,7 @@
           "bestScore": 114,
           "date": "2026-01-18",
           "rank": 3,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -516,7 +516,7 @@
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-03-23"
       },
       "games": {
@@ -675,7 +675,7 @@
       }
     },
     "tizzi": {
-      "avatar": "3093c2f8ba07fd14090285e507891b97.png",
+      "avatar": "72f3b9a250e63bdea58178679163034b.png",
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "pirates",
@@ -953,7 +953,7 @@
       }
     },
     "Niki2": {
-      "avatar": "cc90b6af4df566ec504d82056a9b4a1d.png",
+      "avatar": "cb7e4bd9f0ae89b3ebd70a356fdd6d4c.png",
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1220,7 +1220,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "16bdc0a19820d381d0a8da501141012a.png",
+      "avatar": "45514904a291e4a4959173b3db6e09a5.png",
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1272,7 +1272,7 @@
           "bestScore": 291,
           "date": "2026-02-07",
           "rank": 6,
-          "allTimeRank": 49
+          "allTimeRank": 50
         },
         "haunted-mansion": {
           "bestScore": 72,
@@ -1405,11 +1405,11 @@
     },
     "icyblue": {
       "avatar": null,
-      "lastSeen": "2026-01-10",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-01-10"
+        "rank": 6,
+        "date": "2026-03-23"
       },
       "games": {
         "jungle-cruise": {
@@ -1518,7 +1518,7 @@
       }
     },
     "Rstar": {
-      "avatar": "f5172b2c56b6282523b488b0225dac2e.png",
+      "avatar": "3168dcc72a1d0c6540b77a7a3e4d67e5.png",
       "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -1603,18 +1603,18 @@
     },
     "ArrowToTheHeart": {
       "avatar": "b5b651e7122b16ce8cbe5d6adb4fb04c.png",
-      "lastSeen": "2026-03-22",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-03-22"
+        "rank": 10,
+        "date": "2026-03-23"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 123,
-          "date": "2026-01-22",
-          "rank": 3,
-          "allTimeRank": 50
+          "bestScore": 129,
+          "date": "2026-03-23",
+          "rank": 10,
+          "allTimeRank": 46
         }
       }
     },
@@ -3174,11 +3174,11 @@
     },
     "tuna": {
       "avatar": null,
-      "lastSeen": "2026-03-20",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
-        "date": "2026-03-20"
+        "rank": 7,
+        "date": "2026-03-23"
       },
       "games": {
         "pirates": {
@@ -3285,12 +3285,12 @@
       }
     },
     "Mirk": {
-      "avatar": null,
-      "lastSeen": "2026-03-20",
+      "avatar": "f729c455685f1b9805464c3b368f6f67.png",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-03-20"
+        "game": "pirates",
+        "rank": 1,
+        "date": "2026-03-23"
       },
       "games": {
         "haunted-mansion": {
@@ -3300,10 +3300,16 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 48712,
-          "date": "2026-03-19",
-          "rank": 2,
+          "bestScore": 48814,
+          "date": "2026-03-23",
+          "rank": 7,
           "allTimeRank": 50
+        },
+        "pirates": {
+          "bestScore": 296,
+          "date": "2026-03-23",
+          "rank": 1,
+          "allTimeRank": 48
         }
       }
     },
@@ -3376,7 +3382,7 @@
           "bestScore": 360,
           "date": "2026-01-31",
           "rank": 1,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "castle-fireworks": {
           "bestScore": 3770,
@@ -5055,7 +5061,7 @@
           "bestScore": 129,
           "date": "2026-03-12",
           "rank": 2,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -6001,11 +6007,11 @@
     },
     "BallroomDancer": {
       "avatar": null,
-      "lastSeen": "2026-01-31",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-01-31"
+        "rank": 9,
+        "date": "2026-03-23"
       },
       "games": {
         "pirates": {
@@ -9811,7 +9817,7 @@
           "bestScore": 126,
           "date": "2026-03-14",
           "rank": 1,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -10666,6 +10672,11 @@
           "date": "2026-03-12",
           "rank": 5,
           "allTimeRank": 9
+        },
+        "jungle-cruise": {
+          "bestScore": 46412,
+          "date": "2026-03-23",
+          "rank": 10
         }
       }
     },
@@ -10963,11 +10974,11 @@
     },
     "Chime": {
       "avatar": null,
-      "lastSeen": "2026-03-20",
+      "lastSeen": "2026-03-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
-        "date": "2026-03-20"
+        "rank": 4,
+        "date": "2026-03-23"
       },
       "games": {
         "pirates": {
