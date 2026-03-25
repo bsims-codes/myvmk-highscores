@@ -65,7 +65,7 @@
       "lastSeen": "2026-03-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 6,
         "date": "2026-03-25"
       },
       "games": {
@@ -729,7 +729,7 @@
       "lastSeen": "2026-03-25",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
+        "rank": 6,
         "date": "2026-03-25"
       },
       "games": {
@@ -1737,11 +1737,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": null,
-      "lastSeen": "2026-03-22",
+      "lastSeen": "2026-03-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-03-22"
+        "rank": 6,
+        "date": "2026-03-25"
       },
       "games": {
         "jungle-cruise": {
@@ -2118,7 +2118,7 @@
       "lastSeen": "2026-03-25",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 5,
         "date": "2026-03-25"
       },
       "games": {
@@ -3738,9 +3738,9 @@
           "rank": 3
         },
         "haunted-mansion": {
-          "bestScore": 110,
-          "date": "2026-03-09",
-          "rank": 3
+          "bestScore": 113,
+          "date": "2026-03-25",
+          "rank": 1
         }
       }
     },
@@ -7322,11 +7322,11 @@
     },
     "AliceJane": {
       "avatar": "7f8285da86a33d4d606ff4180e7818de.png",
-      "lastSeen": "2026-03-24",
+      "lastSeen": "2026-03-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-03-24"
+        "rank": 2,
+        "date": "2026-03-25"
       },
       "games": {
         "pirates": {
