@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "scrapedAt": "2026-03-27T13:21:37.173Z",
+  "scrapedAt": "2026-03-27T15:58:58.047Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -15,10 +15,15 @@
           {
             "rank": 2,
             "username": "MissAnnaNovang",
-            "score": 7118
+            "score": 7871
           },
           {
             "rank": 3,
+            "username": "PrincessCutezada",
+            "score": 4382
+          },
+          {
+            "rank": 4,
             "username": "GypsyRose",
             "score": 0
           }
@@ -114,7 +119,7 @@
           },
           {
             "rank": 10,
-            "username": "Wiz",
+            "username": "MacRose",
             "score": 10688
           }
         ]
@@ -210,7 +215,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "2aa87f303ba56d4b145b1aa51ab9ba3f.png",
+        "topAvatar": "00dcbbd0d4361364cd56fe0043fa6896.png",
         "scores": [
           {
             "rank": 1,
@@ -249,23 +254,23 @@
           },
           {
             "rank": 8,
+            "username": "EVOL",
+            "score": 63
+          },
+          {
+            "rank": 9,
             "username": "-Hannah-",
             "score": 55
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "MissAnnaNovang",
             "score": 48
-          },
-          {
-            "rank": 10,
-            "username": "PrinceGeminii",
-            "score": 47
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "749a3a4441f27441788b6c0279d08f7f.png",
+        "topAvatar": "25ab3134e5d8896704fbdaf4051f9970.png",
         "scores": [
           {
             "rank": 1,
@@ -320,7 +325,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "2aa87f303ba56d4b145b1aa51ab9ba3f.png",
+        "topAvatar": "00dcbbd0d4361364cd56fe0043fa6896.png",
         "scores": [
           {
             "rank": 1,
@@ -369,7 +374,7 @@
           },
           {
             "rank": 10,
-            "username": "Shadow_Rose",
+            "username": "JustForFun",
             "score": 146
           }
         ]
@@ -394,6 +399,16 @@
             "rank": 3,
             "username": "punkrockchick",
             "score": 50517
+          },
+          {
+            "rank": 4,
+            "username": "CaitlinNoel",
+            "score": 42806
+          },
+          {
+            "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 40283
           }
         ]
       },
