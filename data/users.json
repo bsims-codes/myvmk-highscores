@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-27",
-  "userCount": 602,
+  "userCount": 604,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -11801,6 +11801,38 @@
         "jungle-cruise": {
           "bestScore": 1946,
           "date": "2026-03-26",
+          "rank": 10
+        }
+      }
+    },
+    "SevenSeasCastaway": {
+      "avatar": null,
+      "lastSeen": "2026-03-27",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-03-27"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 302,
+          "date": "2026-03-27",
+          "rank": 5
+        }
+      }
+    },
+    "Rex": {
+      "avatar": null,
+      "lastSeen": "2026-03-27",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-03-27"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 66,
+          "date": "2026-03-27",
           "rank": 10
         }
       }
