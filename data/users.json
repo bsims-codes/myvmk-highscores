@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-28",
-  "userCount": 609,
+  "userCount": 610,
   "users": {
     "kazino": {
       "avatar": "dbb53e8c1e2036652a335e1ff8f18085.png",
@@ -1616,7 +1616,7 @@
       "lastSeen": "2026-03-28",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 2,
         "date": "2026-03-28"
       },
       "games": {
@@ -3726,7 +3726,7 @@
       "lastSeen": "2026-03-28",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-03-28"
       },
       "games": {
@@ -3743,9 +3743,9 @@
           "allTimeRank": 7
         },
         "jungle-cruise": {
-          "bestScore": 40892,
-          "date": "2026-03-16",
-          "rank": 3
+          "bestScore": 40931,
+          "date": "2026-03-28",
+          "rank": 10
         },
         "haunted-mansion": {
           "bestScore": 113,
@@ -5659,8 +5659,8 @@
       "avatar": "5f0e5bbff0b1be3563d76144faf16f7f.png",
       "lastSeen": "2026-03-28",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 6,
+        "game": "haunted-mansion",
+        "rank": 4,
         "date": "2026-03-28"
       },
       "games": {
@@ -7758,17 +7758,22 @@
     },
     "Cowboy_Pirate": {
       "avatar": null,
-      "lastSeen": "2026-02-15",
+      "lastSeen": "2026-03-28",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
-        "date": "2026-02-15"
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-03-28"
       },
       "games": {
         "pirates": {
           "bestScore": 174,
           "date": "2026-02-15",
           "rank": 10
+        },
+        "jungle-cruise": {
+          "bestScore": 41473,
+          "date": "2026-03-28",
+          "rank": 9
         }
       }
     },
@@ -11929,6 +11934,22 @@
           "bestScore": 12955,
           "date": "2026-03-28",
           "rank": 10
+        }
+      }
+    },
+    "StarrySav": {
+      "avatar": null,
+      "lastSeen": "2026-03-28",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-03-28"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2953,
+          "date": "2026-03-28",
+          "rank": 6
         }
       }
     }
