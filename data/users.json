@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-30",
-  "userCount": 621,
+  "userCount": 622,
   "users": {
     "kazino": {
       "avatar": "809c950ebb88caf7a82fda658138bbfd.png",
@@ -32,11 +32,11 @@
       }
     },
     "BRlTT": {
-      "avatar": "cd30a6def7b272bc7246deb6e9b0056d.png",
+      "avatar": "d284354d155097dde7d2d43b97aa502c.png",
       "lastSeen": "2026-03-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-03-30"
       },
       "games": {
@@ -684,7 +684,7 @@
       "lastSeen": "2026-03-30",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-03-30"
       },
       "games": {
@@ -1737,12 +1737,12 @@
       }
     },
     "TinkerLaceyBell": {
-      "avatar": null,
-      "lastSeen": "2026-03-27",
+      "avatar": "81af61a8c80fcd477c645250075c621e.png",
+      "lastSeen": "2026-03-30",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-03-27"
+        "rank": 1,
+        "date": "2026-03-30"
       },
       "games": {
         "jungle-cruise": {
@@ -3441,11 +3441,11 @@
       }
     },
     "Winnie": {
-      "avatar": null,
+      "avatar": "1b74bf1fc1ec3d01d46dcce5d4b1ba7d.png",
       "lastSeen": "2026-03-30",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-03-30"
       },
       "games": {
@@ -7731,7 +7731,7 @@
       "lastSeen": "2026-03-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-03-30"
       },
       "games": {
@@ -12141,6 +12141,22 @@
           "bestScore": 50,
           "date": "2026-03-30",
           "rank": 7
+        }
+      }
+    },
+    "_libraqueen_": {
+      "avatar": null,
+      "lastSeen": "2026-03-30",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 10,
+        "date": "2026-03-30"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 236,
+          "date": "2026-03-30",
+          "rank": 10
         }
       }
     }
