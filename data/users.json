@@ -962,7 +962,7 @@
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-03-31"
       },
       "games": {
@@ -1738,11 +1738,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": "81af61a8c80fcd477c645250075c621e.png",
-      "lastSeen": "2026-03-30",
+      "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 1,
-        "date": "2026-03-30"
+        "rank": 5,
+        "date": "2026-03-31"
       },
       "games": {
         "jungle-cruise": {
@@ -3482,7 +3482,7 @@
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 3,
         "date": "2026-03-31"
       },
       "games": {
@@ -3956,11 +3956,11 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "f59b10542a6797762ff722f57c94de68.png",
+      "avatar": "93535409631604e64687145ce6b0bcc0.png",
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-03-31"
       },
       "games": {
@@ -8825,16 +8825,16 @@
     },
     "magicbluefairy": {
       "avatar": "42f2a8b9c405967eaca0271fbb0fc6a1.png",
-      "lastSeen": "2026-03-30",
+      "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 1,
-        "date": "2026-03-30"
+        "rank": 4,
+        "date": "2026-03-31"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 39570,
-          "date": "2026-02-22",
+          "bestScore": 42868,
+          "date": "2026-03-31",
           "rank": 4
         }
       }
@@ -11502,8 +11502,8 @@
       "avatar": "675f452a26d9472d744bc5313b4fd800.png",
       "lastSeen": "2026-03-31",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 8,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-03-31"
       },
       "games": {
@@ -11512,6 +11512,11 @@
           "date": "2026-03-22",
           "rank": 1,
           "allTimeRank": 34
+        },
+        "jungle-cruise": {
+          "bestScore": 46942,
+          "date": "2026-03-31",
+          "rank": 2
         }
       }
     },
