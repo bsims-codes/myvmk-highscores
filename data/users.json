@@ -638,7 +638,7 @@
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-03-31"
       },
       "games": {
@@ -649,10 +649,10 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 53726,
-          "date": "2026-01-19",
-          "rank": 2,
-          "allTimeRank": 16
+          "bestScore": 53827,
+          "date": "2026-03-31",
+          "rank": 1,
+          "allTimeRank": 14
         }
       }
     },
@@ -1348,7 +1348,7 @@
           "bestScore": 53758,
           "date": "2026-01-24",
           "rank": 1,
-          "allTimeRank": 15
+          "allTimeRank": 16
         },
         "pirates": {
           "bestScore": 337,
@@ -3727,7 +3727,7 @@
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-03-31"
       },
       "games": {
@@ -4690,7 +4690,7 @@
       "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 5,
         "date": "2026-03-31"
       },
       "games": {
@@ -5740,7 +5740,7 @@
           "bestScore": 53763,
           "date": "2026-01-29",
           "rank": 1,
-          "allTimeRank": 14
+          "allTimeRank": 15
         }
       }
     },
@@ -8836,6 +8836,11 @@
           "bestScore": 42868,
           "date": "2026-03-31",
           "rank": 4
+        },
+        "castle-fireworks": {
+          "bestScore": 1069,
+          "date": "2026-03-31",
+          "rank": 5
         }
       }
     },
@@ -9765,16 +9770,16 @@
     },
     "walkingtourguide": {
       "avatar": null,
-      "lastSeen": "2026-03-23",
+      "lastSeen": "2026-03-31",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-03-23"
+        "rank": 2,
+        "date": "2026-03-31"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 119,
-          "date": "2026-03-22",
+          "bestScore": 121,
+          "date": "2026-03-31",
           "rank": 2
         }
       }
