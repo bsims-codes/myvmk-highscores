@@ -1,26 +1,36 @@
 {
   "date": "2026-04-03",
-  "scrapedAt": "2026-04-03T09:57:06.950Z",
+  "scrapedAt": "2026-04-03T13:18:36.900Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "cff1d344b2a9efc242b484f4ff85aa0e.png",
+        "topAvatar": "6cdc7a73411b695bdb03bb3c847078b9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "kazino",
+            "score": 11022
+          },
+          {
+            "rank": 2,
+            "username": "BRlTT",
+            "score": 10966
+          },
+          {
+            "rank": 3,
             "username": "bellemeansbeauty",
             "score": 9245
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "MissAnnaNovang",
             "score": 7254
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "1aedb49dca847fb8c698ced228dbcbcb.png",
+        "topAvatar": "fc02131b3d052f6c4cdd6a46f651d566.png",
         "scores": [
           {
             "rank": 1,
@@ -75,7 +85,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "1aedb49dca847fb8c698ced228dbcbcb.png",
+        "topAvatar": "fc02131b3d052f6c4cdd6a46f651d566.png",
         "scores": [
           {
             "rank": 1,
@@ -84,48 +94,48 @@
           },
           {
             "rank": 2,
+            "username": "kazino",
+            "score": 11022
+          },
+          {
+            "rank": 3,
             "username": "Nayru",
             "score": 10921
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Jewelsy",
             "score": 10004
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "JustForFun",
             "score": 9683
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "bellemeansbeauty",
             "score": 9245
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "MollyMolusk",
             "score": 8217
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "MissyKinz",
             "score": 7823
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "MissAnnaNovang",
             "score": 7503
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "Horseytink",
             "score": 7197
-          },
-          {
-            "rank": 10,
-            "username": "AceGulffan1",
-            "score": 6097
           }
         ]
       }
@@ -186,7 +196,7 @@
           },
           {
             "rank": 10,
-            "username": "RockStar_Olivia",
+            "username": "GaDawg",
             "score": 31
           }
         ]
@@ -250,57 +260,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "18879e765b8d6639934bcb430aa4011d.png",
+        "topAvatar": "e9d3f54e5250bf77024bf17388381e83.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Fotogirl",
+            "score": 111
+          },
+          {
+            "rank": 2,
+            "username": "MissyKinz",
+            "score": 106
+          },
+          {
+            "rank": 3,
+            "username": "charliethehamsterr",
+            "score": 95
+          },
+          {
+            "rank": 4,
             "username": "Shadow_Rose",
             "score": 84
           },
           {
-            "rank": 2,
+            "rank": 5,
             "username": "Sandblasted_OctoNuggie",
             "score": 76
           },
           {
-            "rank": 3,
-            "username": "FlyingShinyGirl",
-            "score": 47
+            "rank": 6,
+            "username": "JustForFun",
+            "score": 75
           },
           {
-            "rank": 4,
+            "rank": 7,
+            "username": "EVOL",
+            "score": 59
+          },
+          {
+            "rank": 8,
+            "username": "JiminyC",
+            "score": 54
+          },
+          {
+            "rank": 9,
             "username": "-Hannah-",
             "score": 47
           },
           {
-            "rank": 5,
-            "username": "JustForFun",
-            "score": 46
-          },
-          {
-            "rank": 6,
-            "username": "PrinceGeminii",
-            "score": 46
-          },
-          {
-            "rank": 7,
-            "username": "princess_cat",
-            "score": 41
-          },
-          {
-            "rank": 8,
-            "username": "charliethehamsterr",
-            "score": 39
-          },
-          {
-            "rank": 9,
-            "username": "Expect",
-            "score": 36
-          },
-          {
             "rank": 10,
-            "username": "kazino",
-            "score": 34
+            "username": "FlyingShinyGirl",
+            "score": 47
           }
         ]
       },
