@@ -1,6 +1,6 @@
 {
   "date": "2026-04-03",
-  "scrapedAt": "2026-04-03T13:18:36.900Z",
+  "scrapedAt": "2026-04-03T15:45:49.890Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -25,7 +25,12 @@
           {
             "rank": 4,
             "username": "MissAnnaNovang",
-            "score": 7254
+            "score": 7784
+          },
+          {
+            "rank": 5,
+            "username": "AceGulffan1",
+            "score": 6482
           }
         ]
       },
@@ -130,7 +135,7 @@
           {
             "rank": 9,
             "username": "MissAnnaNovang",
-            "score": 7503
+            "score": 7784
           },
           {
             "rank": 10,
@@ -260,71 +265,71 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "e9d3f54e5250bf77024bf17388381e83.png",
-        "scores": [
-          {
-            "rank": 1,
-            "username": "Fotogirl",
-            "score": 111
-          },
-          {
-            "rank": 2,
-            "username": "MissyKinz",
-            "score": 106
-          },
-          {
-            "rank": 3,
-            "username": "charliethehamsterr",
-            "score": 95
-          },
-          {
-            "rank": 4,
-            "username": "Shadow_Rose",
-            "score": 84
-          },
-          {
-            "rank": 5,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 76
-          },
-          {
-            "rank": 6,
-            "username": "JustForFun",
-            "score": 75
-          },
-          {
-            "rank": 7,
-            "username": "EVOL",
-            "score": 59
-          },
-          {
-            "rank": 8,
-            "username": "JiminyC",
-            "score": 54
-          },
-          {
-            "rank": 9,
-            "username": "-Hannah-",
-            "score": 47
-          },
-          {
-            "rank": 10,
-            "username": "FlyingShinyGirl",
-            "score": 47
-          }
-        ]
-      },
-      "yesterday": {
         "topAvatar": "9c61959c726407860228ada1bf128762.png",
         "scores": [
           {
             "rank": 1,
             "username": "EVOL",
+            "score": 142
+          },
+          {
+            "rank": 2,
+            "username": "MissyKinz",
+            "score": 131
+          },
+          {
+            "rank": 3,
+            "username": "Fotogirl",
+            "score": 111
+          },
+          {
+            "rank": 4,
+            "username": "charliethehamsterr",
+            "score": 95
+          },
+          {
+            "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 84
+          },
+          {
+            "rank": 6,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 76
+          },
+          {
+            "rank": 7,
+            "username": "JustForFun",
+            "score": 75
+          },
+          {
+            "rank": 8,
+            "username": "JiminyC",
+            "score": 56
+          },
+          {
+            "rank": 9,
+            "username": "MissAnnaNovang",
+            "score": 50
+          },
+          {
+            "rank": 10,
+            "username": "-Hannah-",
+            "score": 47
+          }
+        ]
+      },
+      "yesterday": {
+        "topAvatar": "f92ae9807f0345a550e96e8a6417fc36.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Blueclay",
             "score": 144
           },
           {
             "rank": 2,
-            "username": "Blueclay",
+            "username": "EVOL",
             "score": 144
           },
           {
@@ -409,12 +414,12 @@
           },
           {
             "rank": 8,
-            "username": "AliceJane",
+            "username": "TrackSunnyGirl",
             "score": 110
           },
           {
             "rank": 9,
-            "username": "TrackSunnyGirl",
+            "username": "AliceJane",
             "score": 110
           },
           {
