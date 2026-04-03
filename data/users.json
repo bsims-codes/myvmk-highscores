@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-02",
-  "userCount": 639,
+  "userCount": 640,
   "users": {
     "kazino": {
       "avatar": "d9754752d42016b1c3804f734d0453a8.png",
@@ -124,12 +124,12 @@
       }
     },
     "FlyingShinyGirl": {
-      "avatar": "2f1eaed4c7123bb684f0ada3f04eda31.png",
-      "lastSeen": "2026-03-31",
+      "avatar": "c58fdf49a660f6c0fd297048f3487e65.png",
+      "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-03-31"
+        "rank": 1,
+        "date": "2026-04-02"
       },
       "games": {
         "castle-fireworks": {
@@ -159,12 +159,12 @@
       }
     },
     "bellemeansbeauty": {
-      "avatar": "4b1e9af5352e0ec4923a90b07e1516ae.png",
-      "lastSeen": "2026-03-30",
+      "avatar": "cff1d344b2a9efc242b484f4ff85aa0e.png",
+      "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
-        "date": "2026-03-30"
+        "rank": 1,
+        "date": "2026-04-02"
       },
       "games": {
         "castle-fireworks": {
@@ -729,7 +729,7 @@
       "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-04-02"
       },
       "games": {
@@ -752,7 +752,7 @@
       "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-04-02"
       },
       "games": {
@@ -3774,11 +3774,11 @@
     },
     "Matty": {
       "avatar": null,
-      "lastSeen": "2026-03-26",
+      "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-03-26"
+        "rank": 8,
+        "date": "2026-04-02"
       },
       "games": {
         "haunted-mansion": {
@@ -12379,6 +12379,11 @@
           "bestScore": 7438,
           "date": "2026-04-02",
           "rank": 3
+        },
+        "haunted-mansion": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     },
@@ -12403,7 +12408,7 @@
       "lastSeen": "2026-04-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 4,
         "date": "2026-04-02"
       },
       "games": {
@@ -12475,6 +12480,22 @@
           "bestScore": 7,
           "date": "2026-04-02",
           "rank": 10
+        }
+      }
+    },
+    "AceGulffan1": {
+      "avatar": null,
+      "lastSeen": "2026-04-02",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-04-02"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 6097,
+          "date": "2026-04-02",
+          "rank": 8
         }
       }
     }
