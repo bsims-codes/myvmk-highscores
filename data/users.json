@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-05",
-  "userCount": 653,
+  "userCount": 655,
   "users": {
     "kazino": {
       "avatar": "6cdc7a73411b695bdb03bb3c847078b9.png",
@@ -975,7 +975,7 @@
       }
     },
     "MissyKinz": {
-      "avatar": "7fffe3508dd7fd85bcbbb3eb2249b145.png",
+      "avatar": "15ca2ac99958edc23cdb75e80bc69757.png",
       "lastSeen": "2026-04-05",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1113,11 +1113,11 @@
     },
     "AmandaJeanne": {
       "avatar": "9d95b5c0f6ff2b0c9ee31595a12e00ba.png",
-      "lastSeen": "2026-04-01",
+      "lastSeen": "2026-04-05",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-04-01"
+        "rank": 5,
+        "date": "2026-04-05"
       },
       "games": {
         "haunted-mansion": {
@@ -8585,11 +8585,11 @@
     },
     "TrackSunnyGirl": {
       "avatar": null,
-      "lastSeen": "2026-04-04",
+      "lastSeen": "2026-04-05",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-04-04"
+        "rank": 10,
+        "date": "2026-04-05"
       },
       "games": {
         "castle-fireworks": {
@@ -12739,6 +12739,43 @@
           "date": "2026-04-05",
           "rank": 2,
           "allTimeRank": 10
+        }
+      }
+    },
+    "OceanWish": {
+      "avatar": null,
+      "lastSeen": "2026-04-05",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-04-05"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 5780,
+          "date": "2026-04-05",
+          "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 43611,
+          "date": "2026-04-05",
+          "rank": 9
+        }
+      }
+    },
+    "fivesos": {
+      "avatar": null,
+      "lastSeen": "2026-04-05",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-04-05"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1400,
+          "date": "2026-04-05",
+          "rank": 8
         }
       }
     }
