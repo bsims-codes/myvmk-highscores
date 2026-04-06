@@ -1,6 +1,6 @@
 {
   "date": "2026-04-06",
-  "scrapedAt": "2026-04-06T13:24:55.194Z",
+  "scrapedAt": "2026-04-06T15:55:31.010Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -271,62 +271,62 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "99cc32d3d23c2ca36737cb90f50ba27b.png",
+        "topAvatar": "3d4d7807dcf8e4a9a10220900b68d940.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissyKinz",
+            "score": 125
+          },
+          {
+            "rank": 2,
             "username": "Horseytink",
             "score": 120
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "EVOL",
+            "score": 116
+          },
+          {
+            "rank": 4,
             "username": "Dashyboy",
             "score": 114
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "Shadow_Rose",
             "score": 102
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Sandblasted_OctoNuggie",
             "score": 92
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "JiminyC",
             "score": 59
           },
           {
-            "rank": 6,
-            "username": "MissyKinz",
-            "score": 58
-          },
-          {
-            "rank": 7,
+            "rank": 8,
             "username": "AngelElizabeth",
             "score": 57
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Expect",
             "score": 54
           },
           {
-            "rank": 9,
-            "username": "JustForFun",
-            "score": 52
-          },
-          {
             "rank": 10,
-            "username": "-Hannah-",
+            "username": "JustForFun",
             "score": 52
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "8f7c574813d1988bafc05423a0e3e6cb.png",
+        "topAvatar": "09a4d48d881ed4883b692ca8eb49e818.png",
         "scores": [
           {
             "rank": 1,
@@ -381,7 +381,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "8f7c574813d1988bafc05423a0e3e6cb.png",
+        "topAvatar": "09a4d48d881ed4883b692ca8eb49e818.png",
         "scores": [
           {
             "rank": 1,
