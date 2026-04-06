@@ -1,15 +1,26 @@
 {
   "date": "2026-04-06",
-  "scrapedAt": "2026-04-06T10:15:26.728Z",
+  "scrapedAt": "2026-04-06T13:24:55.194Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "c4d74bc4a6f98b5294bd47ea24a8521b.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BRlTT",
+            "score": 10946
+          },
+          {
+            "rank": 2,
+            "username": "JustForFun",
+            "score": 9612
+          }
+        ]
       },
       "yesterday": {
-        "topAvatar": "809c950ebb88caf7a82fda658138bbfd.png",
+        "topAvatar": "9822e51900edc2118ea33e7704a414a5.png",
         "scores": [
           {
             "rank": 1,
@@ -64,7 +75,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "31cc1e87430f51f423ddf23089a341b3.png",
+        "topAvatar": "c4d74bc4a6f98b5294bd47ea24a8521b.png",
         "scores": [
           {
             "rank": 1,
@@ -122,16 +133,16 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "f3e57f57391c1dbe5353d08dcbba1ecf.png",
+        "topAvatar": "1180154ae98b53c5d158fa97a70c4fb0.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Stormyred",
+            "username": "JustForFun",
             "score": 200
           },
           {
             "rank": 2,
-            "username": "JustForFun",
+            "username": "Stormyred",
             "score": 200
           },
           {
@@ -196,7 +207,7 @@
           },
           {
             "rank": 10,
-            "username": "Guest10150014",
+            "username": "KingdomKeeperArg",
             "score": 251
           }
         ]
@@ -284,38 +295,38 @@
           },
           {
             "rank": 5,
+            "username": "JiminyC",
+            "score": 59
+          },
+          {
+            "rank": 6,
+            "username": "MissyKinz",
+            "score": 58
+          },
+          {
+            "rank": 7,
             "username": "AngelElizabeth",
             "score": 57
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "Expect",
             "score": 54
           },
           {
-            "rank": 7,
-            "username": "-Hannah-",
+            "rank": 9,
+            "username": "JustForFun",
             "score": 52
           },
           {
-            "rank": 8,
-            "username": "ArrowToTheHeart",
-            "score": 43
-          },
-          {
-            "rank": 9,
-            "username": "Epic_girly",
-            "score": 40
-          },
-          {
             "rank": 10,
-            "username": "kazino",
-            "score": 30
+            "username": "-Hannah-",
+            "score": 52
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "7d1d01b7dbb767e4453dd7db7693ea2b.png",
+        "topAvatar": "8f7c574813d1988bafc05423a0e3e6cb.png",
         "scores": [
           {
             "rank": 1,
@@ -349,28 +360,28 @@
           },
           {
             "rank": 7,
-            "username": "Glaze",
-            "score": 134
-          },
-          {
-            "rank": 8,
             "username": "airham",
             "score": 134
           },
           {
+            "rank": 8,
+            "username": "Glaze",
+            "score": 134
+          },
+          {
             "rank": 9,
-            "username": "scortatia",
+            "username": "EVOL",
             "score": 131
           },
           {
             "rank": 10,
-            "username": "EVOL",
+            "username": "scortatia",
             "score": 131
           }
         ]
       },
       "highscores": {
-        "topAvatar": "7d1d01b7dbb767e4453dd7db7693ea2b.png",
+        "topAvatar": "8f7c574813d1988bafc05423a0e3e6cb.png",
         "scores": [
           {
             "rank": 1,
@@ -389,12 +400,12 @@
           },
           {
             "rank": 4,
-            "username": "EVOL",
+            "username": "Niki2",
             "score": 144
           },
           {
             "rank": 5,
-            "username": "Niki2",
+            "username": "EVOL",
             "score": 144
           },
           {
@@ -419,7 +430,7 @@
           },
           {
             "rank": 10,
-            "username": "airham",
+            "username": "Glaze",
             "score": 134
           }
         ]
