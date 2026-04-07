@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-07",
-  "userCount": 661,
+  "userCount": 664,
   "users": {
     "kazino": {
       "avatar": "a30de815a1273cefd088d7e69e9cb7d9.png",
@@ -65,7 +65,7 @@
       "lastSeen": "2026-04-07",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-04-07"
       },
       "games": {
@@ -1225,7 +1225,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "09a4d48d881ed4883b692ca8eb49e818.png",
+      "avatar": "5e52e521f87670e15b2aa2972ebf8729.png",
       "lastSeen": "2026-04-07",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -3604,11 +3604,11 @@
       }
     },
     "Fotogirl": {
-      "avatar": "e9d3f54e5250bf77024bf17388381e83.png",
+      "avatar": "58cd994d9a2455f69d9384150374998c.png",
       "lastSeen": "2026-04-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-04-07"
       },
       "games": {
@@ -3732,7 +3732,7 @@
       "lastSeen": "2026-04-07",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-04-07"
       },
       "games": {
@@ -5884,11 +5884,11 @@
       }
     },
     "EVOL": {
-      "avatar": "ef064335073672ac14028de082e281f1.png",
+      "avatar": "d0cd42bf07bef4cae09b69e626e39210.png",
       "lastSeen": "2026-04-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-04-07"
       },
       "games": {
@@ -12903,6 +12903,59 @@
           "bestScore": 80,
           "date": "2026-04-07",
           "rank": 1
+        }
+      }
+    },
+    "ChickenSashimi": {
+      "avatar": null,
+      "lastSeen": "2026-04-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-04-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1220,
+          "date": "2026-04-07",
+          "rank": 9
+        }
+      }
+    },
+    "Kyosin": {
+      "avatar": null,
+      "lastSeen": "2026-04-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-04-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 306,
+          "date": "2026-04-07",
+          "rank": 10
+        }
+      }
+    },
+    "DawgHunter66": {
+      "avatar": null,
+      "lastSeen": "2026-04-07",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-04-07"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 66,
+          "date": "2026-04-07",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 14674,
+          "date": "2026-04-07",
+          "rank": 5
         }
       }
     }
