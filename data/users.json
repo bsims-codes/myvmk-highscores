@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-09",
-  "userCount": 672,
+  "userCount": 673,
   "users": {
     "kazino": {
       "avatar": "a30de815a1273cefd088d7e69e9cb7d9.png",
@@ -185,7 +185,7 @@
       "lastSeen": "2026-04-09",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-04-09"
       },
       "games": {
@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": null,
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-04-08"
+        "date": "2026-04-09"
       },
       "games": {
         "castle-fireworks": {
@@ -11532,12 +11532,12 @@
       }
     },
     "picklequeen": {
-      "avatar": "bdb71735f555c7db20055c63f54606e3.png",
-      "lastSeen": "2026-04-04",
+      "avatar": "7871f75d12f162a9edb7a25e54c87e99.png",
+      "lastSeen": "2026-04-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-04-04"
+        "rank": 1,
+        "date": "2026-04-09"
       },
       "games": {
         "haunted-mansion": {
@@ -12993,11 +12993,11 @@
     },
     "Ikenna": {
       "avatar": null,
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
-        "date": "2026-04-07"
+        "rank": 2,
+        "date": "2026-04-09"
       },
       "games": {
         "jungle-cruise": {
@@ -13105,6 +13105,22 @@
           "bestScore": 46512,
           "date": "2026-04-08",
           "rank": 6
+        }
+      }
+    },
+    "Guest10150056": {
+      "avatar": null,
+      "lastSeen": "2026-04-09",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-04-09"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 176,
+          "date": "2026-04-09",
+          "rank": 5
         }
       }
     }
