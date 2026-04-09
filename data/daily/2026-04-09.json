@@ -1,14 +1,24 @@
 {
   "date": "2026-04-09",
-  "scrapedAt": "2026-04-09T07:48:01.295Z",
+  "scrapedAt": "2026-04-09T10:17:25.097Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "8d105bf851c4791ec4c552e43eb18db2.png",
+        "topAvatar": "5fb8f1623dcdd699f2d69ff3e3249cad.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 9298
+          },
+          {
+            "rank": 2,
+            "username": "Swarley",
+            "score": 6673
+          },
+          {
+            "rank": 3,
             "username": "PrincessCutezada",
             "score": 4220
           }
@@ -276,45 +286,55 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "757fce4b39a126af9e5619b70a196a84.png",
+        "topAvatar": "ffd49ac24c5f121f132a6f79ea9c0325.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Shadow_Rose",
+            "score": 64
+          },
+          {
+            "rank": 2,
             "username": "Sandblasted_OctoNuggie",
             "score": 62
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Rstar",
             "score": 56
           },
           {
-            "rank": 3,
-            "username": "Shadow_Rose",
-            "score": 54
+            "rank": 4,
+            "username": "JustForFun",
+            "score": 42
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "username": "charliethehamsterr",
+            "score": 41
+          },
+          {
+            "rank": 6,
             "username": "PrincessCutezada",
             "score": 39
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Expect",
             "score": 31
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "Nayru",
             "score": 30
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "AmandaJeanne",
             "score": 30
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "kazino",
             "score": 29
           }
