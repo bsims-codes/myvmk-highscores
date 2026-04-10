@@ -1,12 +1,23 @@
 {
   "date": "2026-04-10",
-  "scrapedAt": "2026-04-10T10:13:07.903Z",
+  "scrapedAt": "2026-04-10T13:25:49.097Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "5fb8f1623dcdd699f2d69ff3e3249cad.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "JustForFun",
+            "score": 9771
+          },
+          {
+            "rank": 2,
+            "username": "PrincessCutezada",
+            "score": 4229
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "a30de815a1273cefd088d7e69e9cb7d9.png",
@@ -299,18 +310,33 @@
           },
           {
             "rank": 5,
+            "username": "MissyKinz",
+            "score": 49
+          },
+          {
+            "rank": 6,
+            "username": "JustForFun",
+            "score": 42
+          },
+          {
+            "rank": 7,
             "username": "Expect",
             "score": 37
           },
           {
-            "rank": 6,
+            "rank": 8,
+            "username": "PrincessCutezada",
+            "score": 35
+          },
+          {
+            "rank": 9,
             "username": "kazino",
             "score": 31
           },
           {
-            "rank": 7,
-            "username": "Guest10150050",
-            "score": 0
+            "rank": 10,
+            "username": "charliethehamsterr",
+            "score": 27
           }
         ]
       },
@@ -428,15 +454,20 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "ffff9225698c11291b0713b2bdcd245e.png",
+        "topAvatar": "cbf3bf08425ebb1c4f4cd7d512447324.png",
         "scores": [
           {
             "rank": 1,
+            "username": "PrincessCutezada",
+            "score": 38434
+          },
+          {
+            "rank": 2,
             "username": "tweetier",
             "score": 37446
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Guest10150050",
             "score": 7636
           }
