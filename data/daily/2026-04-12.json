@@ -1,14 +1,19 @@
 {
   "date": "2026-04-12",
-  "scrapedAt": "2026-04-12T09:52:06.437Z",
+  "scrapedAt": "2026-04-12T13:15:40.918Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "0e6297c85c0f5b5ae11c70645fdb4e08.png",
+        "topAvatar": "5fb8f1623dcdd699f2d69ff3e3249cad.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 9218
+          },
+          {
+            "rank": 2,
             "username": "Supercatygirl",
             "score": 5540
           }
@@ -296,7 +301,7 @@
           {
             "rank": 1,
             "username": "Shadow_Rose",
-            "score": 83
+            "score": 98
           },
           {
             "rank": 2,
@@ -305,6 +310,26 @@
           },
           {
             "rank": 3,
+            "username": "Magenta",
+            "score": 69
+          },
+          {
+            "rank": 4,
+            "username": "Mizzpixie",
+            "score": 63
+          },
+          {
+            "rank": 5,
+            "username": "JustForFun",
+            "score": 59
+          },
+          {
+            "rank": 6,
+            "username": "MissyKinz",
+            "score": 57
+          },
+          {
+            "rank": 7,
             "username": "Expect",
             "score": 28
           }
@@ -410,12 +435,12 @@
           },
           {
             "rank": 9,
-            "username": "-Misty-",
+            "username": "Kroberts2018",
             "score": 139
           },
           {
             "rank": 10,
-            "username": "Kroberts2018",
+            "username": "-Misty-",
             "score": 139
           }
         ]
@@ -424,10 +449,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "8dded7afb92c91a389b26a54dd0e76a5.png",
+        "topAvatar": "5fb8f1623dcdd699f2d69ff3e3249cad.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 50580
+          },
+          {
+            "rank": 2,
             "username": "HappyToughFish",
             "score": 48481
           }
