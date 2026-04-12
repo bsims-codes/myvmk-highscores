@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "scrapedAt": "2026-04-12T13:15:40.918Z",
+  "scrapedAt": "2026-04-12T15:41:55.753Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,6 +14,16 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7666
+          },
+          {
+            "rank": 3,
+            "username": "Horse",
+            "score": 5776
+          },
+          {
+            "rank": 4,
             "username": "Supercatygirl",
             "score": 5540
           }
@@ -296,42 +306,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "966a14f641738fcfcba743ae18efc4cd.png",
+        "topAvatar": "94632e9cc9b53a71869c10b176e8a24f.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Shadow_Rose",
-            "score": 98
+            "username": "MissyKinz",
+            "score": 137
           },
           {
             "rank": 2,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 71
+            "username": "EVOL",
+            "score": 125
           },
           {
             "rank": 3,
             "username": "Magenta",
-            "score": 69
+            "score": 121
           },
           {
             "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 98
+          },
+          {
+            "rank": 5,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 71
+          },
+          {
+            "rank": 6,
             "username": "Mizzpixie",
             "score": 63
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "JustForFun",
             "score": 59
           },
           {
-            "rank": 6,
-            "username": "MissyKinz",
-            "score": 57
+            "rank": 8,
+            "username": "Pepa",
+            "score": 55
           },
           {
-            "rank": 7,
-            "username": "Expect",
-            "score": 28
+            "rank": 9,
+            "username": "JiminyC",
+            "score": 52
+          },
+          {
+            "rank": 10,
+            "username": "Bernardo_S_Rocks",
+            "score": 51
           }
         ]
       },
@@ -460,6 +485,11 @@
             "rank": 2,
             "username": "HappyToughFish",
             "score": 48481
+          },
+          {
+            "rank": 3,
+            "username": "Horse",
+            "score": 40259
           }
         ]
       },

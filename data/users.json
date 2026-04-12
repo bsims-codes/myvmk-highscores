@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": null,
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-12",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-04-11"
+        "rank": 9,
+        "date": "2026-04-12"
       },
       "games": {
         "castle-fireworks": {
@@ -975,11 +975,11 @@
       }
     },
     "MissyKinz": {
-      "avatar": "7fe21296a22cb3744446dab59133f844.png",
+      "avatar": "94632e9cc9b53a71869c10b176e8a24f.png",
       "lastSeen": "2026-04-12",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-04-12"
       },
       "games": {
@@ -8248,9 +8248,9 @@
           "rank": 3
         },
         "haunted-mansion": {
-          "bestScore": 108,
-          "date": "2026-02-28",
-          "rank": 9
+          "bestScore": 121,
+          "date": "2026-04-12",
+          "rank": 3
         },
         "jungle-cruise": {
           "bestScore": 45844,
@@ -10077,17 +10077,22 @@
     },
     "Horse": {
       "avatar": null,
-      "lastSeen": "2026-03-06",
+      "lastSeen": "2026-04-12",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-03-06"
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-04-12"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 46107,
           "date": "2026-03-06",
           "rank": 2
+        },
+        "castle-fireworks": {
+          "bestScore": 5776,
+          "date": "2026-04-12",
+          "rank": 3
         }
       }
     },
