@@ -883,7 +883,7 @@
       "lastSeen": "2026-04-12",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-04-12"
       },
       "games": {
@@ -1054,7 +1054,7 @@
       "lastSeen": "2026-04-12",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-04-12"
       },
       "games": {
@@ -1208,7 +1208,7 @@
       }
     },
     "Shadow_Rose": {
-      "avatar": "ffd49ac24c5f121f132a6f79ea9c0325.png",
+      "avatar": "966a14f641738fcfcba743ae18efc4cd.png",
       "lastSeen": "2026-04-12",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1221,6 +1221,11 @@
           "date": "2026-01-06",
           "rank": 4,
           "allTimeRank": 12
+        },
+        "pirates": {
+          "bestScore": 293,
+          "date": "2026-04-12",
+          "rank": 9
         }
       }
     },

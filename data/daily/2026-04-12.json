@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "scrapedAt": "2026-04-12T07:24:07.961Z",
+  "scrapedAt": "2026-04-12T09:52:06.437Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -137,18 +137,18 @@
           },
           {
             "rank": 3,
+            "username": "Matt",
+            "score": 353
+          },
+          {
+            "rank": 4,
             "username": "Satellite",
             "score": 348
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "kazino",
             "score": 341
-          },
-          {
-            "rank": 5,
-            "username": "Matt",
-            "score": 319
           },
           {
             "rank": 6,
@@ -167,13 +167,13 @@
           },
           {
             "rank": 9,
-            "username": "scortatia",
-            "score": 289
+            "username": "Shadow_Rose",
+            "score": 293
           },
           {
             "rank": 10,
-            "username": "Diamond-J",
-            "score": 267
+            "username": "scortatia",
+            "score": 289
           }
         ]
       },
@@ -277,13 +277,13 @@
           },
           {
             "rank": 9,
-            "username": "CristianoRonaldo",
-            "score": 351
+            "username": "Matt",
+            "score": 353
           },
           {
             "rank": 10,
-            "username": "mandie_baby",
-            "score": 349
+            "username": "CristianoRonaldo",
+            "score": 351
           }
         ]
       }
@@ -291,7 +291,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "ffd49ac24c5f121f132a6f79ea9c0325.png",
+        "topAvatar": "966a14f641738fcfcba743ae18efc4cd.png",
         "scores": [
           {
             "rank": 1,
@@ -410,12 +410,12 @@
           },
           {
             "rank": 9,
-            "username": "Kroberts2018",
+            "username": "-Misty-",
             "score": 139
           },
           {
             "rank": 10,
-            "username": "-Misty-",
+            "username": "Kroberts2018",
             "score": 139
           }
         ]
