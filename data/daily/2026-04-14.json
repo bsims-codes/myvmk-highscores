@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "scrapedAt": "2026-04-14T07:57:28.690Z",
+  "scrapedAt": "2026-04-14T10:20:35.998Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -185,12 +185,12 @@
           },
           {
             "rank": 7,
-            "username": "tizzi",
+            "username": "Satellite",
             "score": 378
           },
           {
             "rank": 8,
-            "username": "Satellite",
+            "username": "tizzi",
             "score": 378
           },
           {
@@ -224,22 +224,22 @@
           {
             "rank": 3,
             "username": "Sandblasted_OctoNuggie",
-            "score": 57
+            "score": 84
           },
           {
             "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 77
+          },
+          {
+            "rank": 5,
             "username": "LocoCocoa",
             "score": 49
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "scortatia",
             "score": 48
-          },
-          {
-            "rank": 6,
-            "username": "Shadow_Rose",
-            "score": 47
           },
           {
             "rank": 7,
@@ -353,12 +353,12 @@
           },
           {
             "rank": 9,
-            "username": "Kroberts2018",
+            "username": "-Misty-",
             "score": 139
           },
           {
             "rank": 10,
-            "username": "-Misty-",
+            "username": "Kroberts2018",
             "score": 139
           }
         ]
@@ -367,8 +367,14 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "c145c4eb43775a2c37a9c7d256eefaeb.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "AtziriDayre",
+            "score": 36620
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "61d4519aaa58e392d421df79cdae35d0.png",
