@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "f478bafc8c0a1e8c200438bf549c15d7.png",
+      "avatar": "cd0a52d66ae83c36edfabe6c64dd2c78.png",
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -684,7 +684,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-04-15"
       },
       "games": {
@@ -729,7 +729,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-04-15"
       },
       "games": {
@@ -752,7 +752,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-04-15"
       },
       "games": {
@@ -979,7 +979,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-04-15"
       },
       "games": {
@@ -1748,11 +1748,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": "81af61a8c80fcd477c645250075c621e.png",
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 4,
-        "date": "2026-04-13"
+        "date": "2026-04-15"
       },
       "games": {
         "jungle-cruise": {
@@ -3460,7 +3460,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-04-15"
       },
       "games": {
@@ -3618,7 +3618,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-04-15"
       },
       "games": {
@@ -5899,7 +5899,7 @@
       "lastSeen": "2026-04-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-04-15"
       },
       "games": {
@@ -12848,17 +12848,22 @@
     },
     "fivesos": {
       "avatar": null,
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-15",
       "lastAppearance": {
-        "game": "castle-fireworks",
+        "game": "jungle-cruise",
         "rank": 8,
-        "date": "2026-04-05"
+        "date": "2026-04-15"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 3229,
           "date": "2026-04-05",
           "rank": 10
+        },
+        "jungle-cruise": {
+          "bestScore": 9462,
+          "date": "2026-04-15",
+          "rank": 8
         }
       }
     },
