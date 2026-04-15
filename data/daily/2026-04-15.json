@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "scrapedAt": "2026-04-15T07:58:29.748Z",
+  "scrapedAt": "2026-04-15T10:21:28.474Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,11 +14,16 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 9014
+          },
+          {
+            "rank": 3,
             "username": "Swarley",
             "score": 6660
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Guest10150101",
             "score": 1854
           }
@@ -335,8 +340,8 @@
           },
           {
             "rank": 10,
-            "username": "Rstar",
-            "score": 43
+            "username": "EVOL",
+            "score": 51
           }
         ]
       },
