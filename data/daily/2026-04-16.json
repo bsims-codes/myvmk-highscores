@@ -1,19 +1,24 @@
 {
   "date": "2026-04-16",
-  "scrapedAt": "2026-04-16T10:20:35.218Z",
+  "scrapedAt": "2026-04-16T14:03:06.705Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "c0802ecb7fd1d1d2b74d6fdbff777f96.png",
+        "topAvatar": "39bac8b2d398fbfab8d299ff0ed153c4.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10783
+          },
+          {
+            "rank": 2,
             "username": "GypsyRose",
             "score": 8374
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "MissAnnaNovang",
             "score": 7618
           }
@@ -325,18 +330,33 @@
           },
           {
             "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 79
+          },
+          {
+            "rank": 6,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 64
+          },
+          {
+            "rank": 7,
+            "username": "MissyKinz",
+            "score": 60
+          },
+          {
+            "rank": 8,
+            "username": "Mizzpixie",
+            "score": 57
+          },
+          {
+            "rank": 9,
             "username": "Bernardo_S_Rocks",
             "score": 54
           },
           {
-            "rank": 6,
-            "username": "Winnie",
-            "score": 42
-          },
-          {
-            "rank": 7,
-            "username": "AmandaJeanne",
-            "score": 29
+            "rank": 10,
+            "username": "PrinceGeminii",
+            "score": 53
           }
         ]
       },
@@ -375,17 +395,17 @@
           },
           {
             "rank": 7,
-            "username": "dizlindsey",
-            "score": 130
-          },
-          {
-            "rank": 8,
             "username": "Izabelle",
             "score": 130
           },
           {
-            "rank": 9,
+            "rank": 8,
             "username": "TrackSunnyGirl",
+            "score": 130
+          },
+          {
+            "rank": 9,
+            "username": "dizlindsey",
             "score": 130
           },
           {
@@ -445,7 +465,7 @@
           },
           {
             "rank": 10,
-            "username": "Glaze",
+            "username": "ArrowToTheHeart",
             "score": 140
           }
         ]
