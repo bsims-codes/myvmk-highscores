@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-16",
-  "userCount": 696,
+  "userCount": 697,
   "users": {
     "kazino": {
       "avatar": "a30de815a1273cefd088d7e69e9cb7d9.png",
@@ -945,7 +945,7 @@
       "lastSeen": "2026-04-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-04-16"
       },
       "games": {
@@ -979,7 +979,7 @@
       "lastSeen": "2026-04-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-04-16"
       },
       "games": {
@@ -1217,7 +1217,7 @@
       "lastSeen": "2026-04-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-04-16"
       },
       "games": {
@@ -4128,11 +4128,11 @@
       }
     },
     "Blueclay": {
-      "avatar": "2cebb7d2fe36da332046e03f9125f068.png",
+      "avatar": "d68250f30ce95fb8cb171d91f8793b70.png",
       "lastSeen": "2026-04-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-04-16"
       },
       "games": {
@@ -13575,6 +13575,22 @@
           "date": "2026-04-16",
           "rank": 1,
           "allTimeRank": 20
+        }
+      }
+    },
+    "gliitterbugg": {
+      "avatar": null,
+      "lastSeen": "2026-04-16",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-04-16"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 260,
+          "date": "2026-04-16",
+          "rank": 9
         }
       }
     }
