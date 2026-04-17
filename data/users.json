@@ -5910,7 +5910,7 @@
       "lastSeen": "2026-04-17",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-04-17"
       },
       "games": {
@@ -13645,8 +13645,8 @@
       "avatar": null,
       "lastSeen": "2026-04-17",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
+        "game": "haunted-mansion",
+        "rank": 6,
         "date": "2026-04-17"
       },
       "games": {
@@ -13659,6 +13659,11 @@
           "bestScore": 2424,
           "date": "2026-04-17",
           "rank": 8
+        },
+        "haunted-mansion": {
+          "bestScore": 70,
+          "date": "2026-04-17",
+          "rank": 6
         }
       }
     },
