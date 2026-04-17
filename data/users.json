@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "f03af13abe1d69fae968ca32d328ce0f.png",
+      "avatar": "919a2dae691e9866f21b53d5d951e240.png",
       "lastSeen": "2026-04-17",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -978,8 +978,8 @@
       "avatar": "a33b3eca282641812bad4a9d63344c88.png",
       "lastSeen": "2026-04-17",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 6,
+        "game": "haunted-mansion",
+        "rank": 5,
         "date": "2026-04-17"
       },
       "games": {
@@ -2573,8 +2573,8 @@
       "avatar": "e3cbc202467d7a620dc76ba8a9cfffeb.png",
       "lastSeen": "2026-04-17",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 6,
+        "game": "castle-fireworks",
+        "rank": 4,
         "date": "2026-04-17"
       },
       "games": {
@@ -2588,6 +2588,11 @@
           "bestScore": 103,
           "date": "2026-03-15",
           "rank": 10
+        },
+        "castle-fireworks": {
+          "bestScore": 4898,
+          "date": "2026-04-17",
+          "rank": 4
         }
       }
     },

@@ -1,31 +1,41 @@
 {
   "date": "2026-04-17",
-  "scrapedAt": "2026-04-17T10:18:09.075Z",
+  "scrapedAt": "2026-04-17T13:46:08.215Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "0e395faeb010629485616a903b9a6167.png",
+        "topAvatar": "919a2dae691e9866f21b53d5d951e240.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10636
+          },
+          {
+            "rank": 2,
             "username": "scortatia",
             "score": 9710
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "GypsyRose",
             "score": 8548
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "username": "AtziriDayre",
+            "score": 4898
+          },
+          {
+            "rank": 5,
             "username": "PrincessCutezada",
             "score": 4660
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "f03af13abe1d69fae968ca32d328ce0f.png",
+        "topAvatar": "919a2dae691e9866f21b53d5d951e240.png",
         "scores": [
           {
             "rank": 1,
@@ -301,12 +311,12 @@
           {
             "rank": 1,
             "username": "Sandblasted_OctoNuggie",
-            "score": 132
+            "score": 144
           },
           {
             "rank": 2,
             "username": "Shadow_Rose",
-            "score": 100
+            "score": 112
           },
           {
             "rank": 3,
@@ -320,21 +330,26 @@
           },
           {
             "rank": 5,
+            "username": "MissyKinz",
+            "score": 48
+          },
+          {
+            "rank": 6,
             "username": "PrincessCutezada",
             "score": 41
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "Expect",
             "score": 39
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "kazino",
             "score": 31
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Matty",
             "score": 27
           }
@@ -435,13 +450,13 @@
           },
           {
             "rank": 8,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           },
           {
             "rank": 9,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 143
+            "username": "Niki2",
+            "score": 144
           },
           {
             "rank": 10,
