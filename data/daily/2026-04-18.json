@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "scrapedAt": "2026-04-18T15:43:54.231Z",
+  "scrapedAt": "2026-04-18T19:01:33.865Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -292,17 +292,17 @@
           },
           {
             "rank": 8,
-            "username": "Satellite",
-            "score": 378
-          },
-          {
-            "rank": 9,
             "username": "tizzi",
             "score": 378
           },
           {
-            "rank": 10,
+            "rank": 9,
             "username": "Arkadia",
+            "score": 378
+          },
+          {
+            "rank": 10,
+            "username": "Satellite",
             "score": 378
           }
         ]
@@ -320,22 +320,22 @@
           },
           {
             "rank": 2,
+            "username": "Blueclay",
+            "score": 117
+          },
+          {
+            "rank": 3,
             "username": "MissyKinz",
             "score": 111
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Pirateboi",
             "score": 110
           },
           {
-            "rank": 4,
-            "username": "Shadow_Rose",
-            "score": 107
-          },
-          {
             "rank": 5,
-            "username": "Blueclay",
+            "username": "Shadow_Rose",
             "score": 107
           },
           {
@@ -345,18 +345,18 @@
           },
           {
             "rank": 7,
-            "username": "Bernardo_S_Rocks",
+            "username": "MissAnnaNovang",
             "score": 57
           },
           {
             "rank": 8,
-            "username": "AmandaJeanne",
-            "score": 51
+            "username": "Bernardo_S_Rocks",
+            "score": 57
           },
           {
             "rank": 9,
-            "username": "MissAnnaNovang",
-            "score": 49
+            "username": "AmandaJeanne",
+            "score": 52
           },
           {
             "rank": 10,
@@ -479,30 +479,35 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "edd28acfb1d9a133768d3e8fc11c3827.png",
+        "topAvatar": "f9f1d6e1a73301a8aeab27ceeb1eb983.png",
         "scores": [
           {
             "rank": 1,
+            "username": "HappyToughFish",
+            "score": 51060
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 50997
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Sar.",
             "score": 44343
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "MissAnnaNovang",
             "score": 41892
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "TinkerLaceyBell",
             "score": 41575
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "AtziriDayre",
             "score": 39261
           }
