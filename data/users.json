@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-18",
-  "userCount": 703,
+  "userCount": 704,
   "users": {
     "kazino": {
       "avatar": "ab69a023b1e0e40fbe4bede1427585db.png",
@@ -185,7 +185,7 @@
       "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-04-18"
       },
       "games": {
@@ -202,9 +202,9 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 41813,
-          "date": "2026-01-28",
-          "rank": 7,
+          "bestScore": 41892,
+          "date": "2026-04-18",
+          "rank": 3,
           "allTimeRank": 50
         },
         "pirates": {
@@ -979,7 +979,7 @@
       "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-04-18"
       },
       "games": {
@@ -1113,11 +1113,11 @@
     },
     "AmandaJeanne": {
       "avatar": "9d95b5c0f6ff2b0c9ee31595a12e00ba.png",
-      "lastSeen": "2026-04-17",
+      "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-04-17"
+        "rank": 8,
+        "date": "2026-04-18"
       },
       "games": {
         "haunted-mansion": {
@@ -2131,11 +2131,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "7b50b88b1c174cb6c873419b28db91b9.png",
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-04-16"
+        "rank": 7,
+        "date": "2026-04-18"
       },
       "games": {
         "haunted-mansion": {
@@ -3894,11 +3894,11 @@
     },
     "Sar.": {
       "avatar": null,
-      "lastSeen": "2026-03-08",
+      "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-03-08"
+        "rank": 2,
+        "date": "2026-04-18"
       },
       "games": {
         "haunted-mansion": {
@@ -13722,6 +13722,22 @@
           "bestScore": 90,
           "date": "2026-04-17",
           "rank": 8
+        }
+      }
+    },
+    "Guest10150129": {
+      "avatar": null,
+      "lastSeen": "2026-04-18",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-04-18"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 122,
+          "date": "2026-04-18",
+          "rank": 4
         }
       }
     }
