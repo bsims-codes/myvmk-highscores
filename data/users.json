@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-18",
-  "userCount": 706,
+  "userCount": 707,
   "users": {
     "kazino": {
       "avatar": "ab69a023b1e0e40fbe4bede1427585db.png",
@@ -1905,7 +1905,7 @@
       "lastSeen": "2026-04-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-04-18"
       },
       "games": {
@@ -13770,6 +13770,22 @@
           "bestScore": 26,
           "date": "2026-04-18",
           "rank": 5
+        }
+      }
+    },
+    "Guest10150131": {
+      "avatar": null,
+      "lastSeen": "2026-04-18",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-04-18"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 184,
+          "date": "2026-04-18",
+          "rank": 6
         }
       }
     }
