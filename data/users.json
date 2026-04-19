@@ -96,11 +96,11 @@
       }
     },
     "Jewelsy": {
-      "avatar": "86d4a74c841fc5378ccbc6cc6efad5ae.png",
+      "avatar": "831cc4aa8774b586ca72f6c399802654.png",
       "lastSeen": "2026-04-19",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-04-19"
       },
       "games": {
@@ -2573,8 +2573,8 @@
       "avatar": "e3cbc202467d7a620dc76ba8a9cfffeb.png",
       "lastSeen": "2026-04-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
+        "game": "haunted-mansion",
+        "rank": 4,
         "date": "2026-04-19"
       },
       "games": {
@@ -7941,11 +7941,11 @@
     },
     "Wdwdreamer": {
       "avatar": null,
-      "lastSeen": "2026-03-15",
+      "lastSeen": "2026-04-19",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 6,
-        "date": "2026-03-15"
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-04-19"
       },
       "games": {
         "jungle-cruise": {
@@ -13857,7 +13857,12 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 31757,
+          "bestScore": 36403,
+          "date": "2026-04-19",
+          "rank": 7
+        },
+        "castle-fireworks": {
+          "bestScore": 538,
           "date": "2026-04-19",
           "rank": 6
         }
