@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-19",
-  "userCount": 709,
+  "userCount": 711,
   "users": {
     "kazino": {
       "avatar": "ab69a023b1e0e40fbe4bede1427585db.png",
@@ -1392,11 +1392,11 @@
       }
     },
     "Mizzpixie": {
-      "avatar": null,
+      "avatar": "32fcd460cd31408e3e3c58db30f73c43.png",
       "lastSeen": "2026-04-19",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 4,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-04-19"
       },
       "games": {
@@ -2574,7 +2574,7 @@
       "lastSeen": "2026-04-19",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-04-19"
       },
       "games": {
@@ -3757,7 +3757,7 @@
       "lastSeen": "2026-04-19",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-04-19"
       },
       "games": {
@@ -7662,11 +7662,11 @@
     },
     "MyOnlySunShine": {
       "avatar": null,
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-19",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 3,
-        "date": "2026-04-07"
+        "date": "2026-04-19"
       },
       "games": {
         "jungle-cruise": {
@@ -10558,11 +10558,11 @@
     },
     "George_Kingsleigh": {
       "avatar": null,
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-04-19",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-04-16"
+        "rank": 7,
+        "date": "2026-04-19"
       },
       "games": {
         "jungle-cruise": {
@@ -13828,6 +13828,38 @@
           "bestScore": 246,
           "date": "2026-04-19",
           "rank": 5
+        }
+      }
+    },
+    "LoudDoctorFish": {
+      "avatar": null,
+      "lastSeen": "2026-04-19",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-04-19"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
+        }
+      }
+    },
+    "BigFoxMol": {
+      "avatar": null,
+      "lastSeen": "2026-04-19",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-04-19"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 31757,
+          "date": "2026-04-19",
+          "rank": 6
         }
       }
     }
