@@ -1,12 +1,18 @@
 {
   "date": "2026-04-19",
-  "scrapedAt": "2026-04-19T07:39:58.739Z",
+  "scrapedAt": "2026-04-19T09:53:53.225Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "05b45302287f91d13ef0390a86aa92c1.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "DoctorDewIt",
+            "score": 6772
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "919a2dae691e9866f21b53d5d951e240.png",
@@ -112,7 +118,7 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "5a5e0787565945e30ec40ba5ec08f970.png",
+        "topAvatar": "900d9de076dc2c2f825ff54fc2919b8f.png",
         "scores": [
           {
             "rank": 1,
@@ -231,7 +237,7 @@
           },
           {
             "rank": 8,
-            "username": "Satellite",
+            "username": "Arkadia",
             "score": 378
           },
           {
@@ -241,7 +247,7 @@
           },
           {
             "rank": 10,
-            "username": "Arkadia",
+            "username": "Satellite",
             "score": 378
           }
         ]
@@ -374,12 +380,12 @@
           },
           {
             "rank": 8,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           },
           {
             "rank": 9,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Niki2",
             "score": 144
           },
           {
