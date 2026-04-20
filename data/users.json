@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-04-20",
-  "userCount": 714,
+  "userCount": 715,
   "users": {
     "kazino": {
-      "avatar": "ab69a023b1e0e40fbe4bede1427585db.png",
+      "avatar": "6d3718012c649582b4a595c283406c63.png",
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -65,7 +65,7 @@
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-04-20"
       },
       "games": {
@@ -231,9 +231,9 @@
           "allTimeRank": 49
         },
         "haunted-mansion": {
-          "bestScore": 97,
-          "date": "2026-01-25",
-          "rank": 9,
+          "bestScore": 111,
+          "date": "2026-04-20",
+          "rank": 10,
           "allTimeRank": 50
         }
       }
@@ -979,7 +979,7 @@
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-04-20"
       },
       "games": {
@@ -3342,11 +3342,11 @@
     },
     "Mirk": {
       "avatar": "f729c455685f1b9805464c3b368f6f67.png",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-04-10"
+        "rank": 4,
+        "date": "2026-04-20"
       },
       "games": {
         "haunted-mansion": {
@@ -5921,11 +5921,11 @@
       }
     },
     "EVOL": {
-      "avatar": "6d0d7815590a8561d68f14288b8b7f0c.png",
+      "avatar": "18c610eb908b583693755278d7488dec.png",
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-04-20"
       },
       "games": {
@@ -7220,11 +7220,11 @@
     },
     "AirBiscuits": {
       "avatar": "4efe5d381e985a3fa2bc427a3f984a88.png",
-      "lastSeen": "2026-03-29",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 10,
-        "date": "2026-03-29"
+        "date": "2026-04-20"
       },
       "games": {
         "jungle-cruise": {
@@ -8645,8 +8645,8 @@
       "avatar": null,
       "lastSeen": "2026-04-20",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 7,
+        "game": "haunted-mansion",
+        "rank": 5,
         "date": "2026-04-20"
       },
       "games": {
@@ -13928,6 +13928,22 @@
           "bestScore": 2999,
           "date": "2026-04-20",
           "rank": 2
+        }
+      }
+    },
+    "GroovyBellaBabe": {
+      "avatar": null,
+      "lastSeen": "2026-04-20",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-04-20"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2999,
+          "date": "2026-04-20",
+          "rank": 9
         }
       }
     }
