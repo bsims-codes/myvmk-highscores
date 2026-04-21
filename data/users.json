@@ -322,7 +322,7 @@
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 1,
         "date": "2026-04-20"
       },
       "games": {
@@ -500,11 +500,11 @@
       }
     },
     "Erie": {
-      "avatar": "ebcb9b0092871e36591bb442257ef0a6.png",
+      "avatar": "f7e994048957db4151a889d19f2aa480.png",
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-04-20"
       },
       "games": {
@@ -551,7 +551,7 @@
           "bestScore": 317,
           "date": "2026-01-21",
           "rank": 1,
-          "allTimeRank": 47
+          "allTimeRank": 48
         },
         "haunted-mansion": {
           "bestScore": 93,
@@ -595,7 +595,7 @@
           "bestScore": 326,
           "date": "2026-01-15",
           "rank": 5,
-          "allTimeRank": 44
+          "allTimeRank": 45
         },
         "castle-fireworks": {
           "bestScore": 9995,
@@ -1884,7 +1884,7 @@
           "bestScore": 327,
           "date": "2026-02-18",
           "rank": 1,
-          "allTimeRank": 43
+          "allTimeRank": 44
         },
         "haunted-mansion": {
           "bestScore": 135,
@@ -1974,7 +1974,7 @@
       }
     },
     "Luckymaxer": {
-      "avatar": "f25cf38851a96f1dfab55be5e8346bb8.png",
+      "avatar": "8d34f0aadc6b9ef42d59df9690e420ff.png",
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "pirates",
@@ -2244,11 +2244,11 @@
     },
     "thatcookiewasgood": {
       "avatar": null,
-      "lastSeen": "2026-04-15",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-04-15"
+        "rank": 6,
+        "date": "2026-04-20"
       },
       "games": {
         "jungle-cruise": {
@@ -2381,11 +2381,11 @@
     },
     "mikgriz": {
       "avatar": null,
-      "lastSeen": "2026-03-27",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-03-27"
+        "rank": 7,
+        "date": "2026-04-20"
       },
       "games": {
         "haunted-mansion": {
@@ -2930,7 +2930,7 @@
           "bestScore": 262,
           "date": "2026-01-10",
           "rank": 10,
-          "allTimeRank": 45
+          "allTimeRank": 46
         }
       }
     },
@@ -3003,7 +3003,7 @@
           "bestScore": 320,
           "date": "2026-02-07",
           "rank": 4,
-          "allTimeRank": 46
+          "allTimeRank": 47
         },
         "haunted-mansion": {
           "bestScore": 110,
@@ -5921,7 +5921,7 @@
       }
     },
     "EVOL": {
-      "avatar": "18c610eb908b583693755278d7488dec.png",
+      "avatar": "c64f0da2829faa8cb6e6b10d81cfe0ec.png",
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -6558,7 +6558,7 @@
           "bestScore": 314,
           "date": "2026-02-26",
           "rank": 5,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -6593,7 +6593,7 @@
           "bestScore": 315,
           "date": "2026-02-25",
           "rank": 2,
-          "allTimeRank": 48
+          "allTimeRank": 49
         }
       }
     },
@@ -7033,11 +7033,11 @@
     },
     "doctorseeker": {
       "avatar": null,
-      "lastSeen": "2026-04-19",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "pirates",
         "rank": 4,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       },
       "games": {
         "pirates": {
@@ -7589,7 +7589,7 @@
           "bestScore": 331,
           "date": "2026-02-13",
           "rank": 1,
-          "allTimeRank": 42
+          "allTimeRank": 43
         }
       }
     },
@@ -12175,7 +12175,7 @@
       "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-04-20"
       },
       "games": {
@@ -12274,17 +12274,18 @@
     },
     "_libraqueen_": {
       "avatar": null,
-      "lastSeen": "2026-04-12",
+      "lastSeen": "2026-04-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
-        "date": "2026-04-12"
+        "rank": 5,
+        "date": "2026-04-20"
       },
       "games": {
         "pirates": {
-          "bestScore": 288,
-          "date": "2026-04-11",
-          "rank": 5
+          "bestScore": 336,
+          "date": "2026-04-20",
+          "rank": 5,
+          "allTimeRank": 42
         }
       }
     },
