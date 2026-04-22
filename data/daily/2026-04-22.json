@@ -1,19 +1,24 @@
 {
   "date": "2026-04-22",
-  "scrapedAt": "2026-04-22T07:59:53.406Z",
+  "scrapedAt": "2026-04-22T10:23:37.498Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "c0802ecb7fd1d1d2b74d6fdbff777f96.png",
+        "topAvatar": "5fb8f1623dcdd699f2d69ff3e3249cad.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 9504
+          },
+          {
+            "rank": 2,
             "username": "GypsyRose",
             "score": 8275
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Green_OceanTide",
             "score": 590
           }
@@ -265,13 +270,18 @@
           },
           {
             "rank": 3,
-            "username": "Shadow_Rose",
-            "score": 43
+            "username": "JustForFun",
+            "score": 60
           },
           {
             "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 39
+            "score": 58
+          },
+          {
+            "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 57
           }
         ]
       },
