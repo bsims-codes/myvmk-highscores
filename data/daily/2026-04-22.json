@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "scrapedAt": "2026-04-22T13:59:25.016Z",
+  "scrapedAt": "2026-04-22T16:13:42.899Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -24,6 +24,16 @@
           },
           {
             "rank": 4,
+            "username": "Horseytink",
+            "score": 7661
+          },
+          {
+            "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 7219
+          },
+          {
+            "rank": 6,
             "username": "Green_OceanTide",
             "score": 590
           }
@@ -252,7 +262,7 @@
           },
           {
             "rank": 10,
-            "username": "Arkadia",
+            "username": "tizzi",
             "score": 378
           }
         ]
@@ -261,32 +271,32 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "2e41c577b9a8cf373c3c2de89604ee6c.png",
+        "topAvatar": "aa8cb9ad3baa051a41c94ff63bd055d6.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Shadow_Rose",
+            "score": 143
+          },
+          {
+            "rank": 2,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 121
+          },
+          {
+            "rank": 3,
             "username": "scortatia",
             "score": 119
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Izabelle",
             "score": 113
           },
           {
-            "rank": 3,
-            "username": "Shadow_Rose",
-            "score": 66
-          },
-          {
-            "rank": 4,
+            "rank": 5,
             "username": "JustForFun",
             "score": 60
-          },
-          {
-            "rank": 5,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 58
           },
           {
             "rank": 6,
@@ -295,18 +305,23 @@
           },
           {
             "rank": 7,
+            "username": "-Misty-",
+            "score": 43
+          },
+          {
+            "rank": 8,
             "username": "Arath",
             "score": 42
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "PrincessCutezada",
             "score": 37
           },
           {
-            "rank": 9,
-            "username": "kazino",
-            "score": 29
+            "rank": 10,
+            "username": "Matty",
+            "score": 35
           }
         ]
       },
@@ -405,18 +420,18 @@
           },
           {
             "rank": 8,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 144
-          },
-          {
-            "rank": 9,
             "username": "Niki2",
             "score": 144
           },
           {
+            "rank": 9,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 144
+          },
+          {
             "rank": 10,
-            "username": "CashisKing",
-            "score": 141
+            "username": "Shadow_Rose",
+            "score": 143
           }
         ]
       }
@@ -424,22 +439,37 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "dd1a97a71903ef555114d96b543ddc9d.png",
+        "topAvatar": "6b6e4f07959d5f812ecbd3dc9a8e0322.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Horseytink",
+            "score": 48407
+          },
+          {
+            "rank": 2,
+            "username": "BlueSorcerer",
+            "score": 45973
+          },
+          {
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 40782
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Green_OceanTide",
             "score": 14091
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "WidowWebz",
             "score": 10541
+          },
+          {
+            "rank": 6,
+            "username": "George_Kingsleigh",
+            "score": 1702
           }
         ]
       },
