@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-22",
-  "userCount": 717,
+  "userCount": 718,
   "users": {
     "kazino": {
       "avatar": "460ce45a5e32477563e2e7c96338b8ab.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "510d9e1039ff30c1512fbdd466020fc2.png",
+      "avatar": "e0cba19a29a3b69afd50d57d5e50b4a3.png",
       "lastSeen": "2026-04-22",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": null,
-      "lastSeen": "2026-04-21",
+      "lastSeen": "2026-04-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-04-21"
+        "rank": 6,
+        "date": "2026-04-22"
       },
       "games": {
         "castle-fireworks": {
@@ -13604,11 +13604,11 @@
     },
     "Arkadia": {
       "avatar": "9018eeff47b374ddcd9f5cd8bd3ded59.png",
-      "lastSeen": "2026-04-20",
+      "lastSeen": "2026-04-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
-        "date": "2026-04-20"
+        "rank": 10,
+        "date": "2026-04-22"
       },
       "games": {
         "pirates": {
@@ -13997,6 +13997,22 @@
           "bestScore": 14091,
           "date": "2026-04-22",
           "rank": 2
+        }
+      }
+    },
+    "Arath": {
+      "avatar": null,
+      "lastSeen": "2026-04-22",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-04-22"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 42,
+          "date": "2026-04-22",
+          "rank": 7
         }
       }
     }
