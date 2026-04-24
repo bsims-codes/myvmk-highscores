@@ -1,12 +1,18 @@
 {
   "date": "2026-04-24",
-  "scrapedAt": "2026-04-24T10:26:47.397Z",
+  "scrapedAt": "2026-04-24T13:53:20.466Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "7b86cc1902bca0232bf48f50845e1f33.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BRlTT",
+            "score": 10939
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "3ebf1cc8fe026fc5183caa340019f364.png",
@@ -256,7 +262,7 @@
           },
           {
             "rank": 10,
-            "username": "tizzi",
+            "username": "Arkadia",
             "score": 378
           }
         ]
@@ -274,11 +280,31 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 56
+          },
+          {
+            "rank": 3,
+            "username": "BRlTT",
+            "score": 54
+          },
+          {
+            "rank": 4,
             "username": "Shadow_Rose",
             "score": 54
           },
           {
-            "rank": 3,
+            "rank": 5,
+            "username": "PrinceGeminii",
+            "score": 53
+          },
+          {
+            "rank": 6,
+            "username": "MissAnnaNovang",
+            "score": 45
+          },
+          {
+            "rank": 7,
             "username": "PrincessCutezada",
             "score": 40
           }
@@ -379,12 +405,12 @@
           },
           {
             "rank": 8,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           },
           {
             "rank": 9,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Niki2",
             "score": 144
           },
           {
@@ -404,6 +430,11 @@
             "rank": 1,
             "username": "Rstar",
             "score": 53057
+          },
+          {
+            "rank": 2,
+            "username": "AtziriDayre",
+            "score": 39552
           }
         ]
       },
