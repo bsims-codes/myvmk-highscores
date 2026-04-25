@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-24",
-  "userCount": 726,
+  "userCount": 727,
   "users": {
     "kazino": {
       "avatar": "1b2bc314d0a477016ef39cece2c51faf.png",
@@ -4132,11 +4132,11 @@
     },
     "Fleek": {
       "avatar": null,
-      "lastSeen": "2026-03-17",
+      "lastSeen": "2026-04-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-03-17"
+        "rank": 7,
+        "date": "2026-04-24"
       },
       "games": {
         "jungle-cruise": {
@@ -5921,11 +5921,11 @@
       }
     },
     "EVOL": {
-      "avatar": "af0d6088752feffb8ab4ac0a4e4dbafd.png",
+      "avatar": "3961231d6a58ef35f5448749bcc2c63a.png",
       "lastSeen": "2026-04-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-04-24"
       },
       "games": {
@@ -14009,9 +14009,9 @@
           "rank": 10
         },
         "haunted-mansion": {
-          "bestScore": 11,
-          "date": "2026-04-23",
-          "rank": 8
+          "bestScore": 59,
+          "date": "2026-04-24",
+          "rank": 10
         },
         "pirates": {
           "bestScore": 6,
@@ -14171,6 +14171,22 @@
           "bestScore": 11688,
           "date": "2026-04-24",
           "rank": 9
+        }
+      }
+    },
+    "JumboPunkMouse": {
+      "avatar": null,
+      "lastSeen": "2026-04-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-04-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 45617,
+          "date": "2026-04-24",
+          "rank": 3
         }
       }
     }
