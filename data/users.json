@@ -680,7 +680,7 @@
       }
     },
     "tizzi": {
-      "avatar": "fdb76adc4961da4f4ca318d2fc18f826.png",
+      "avatar": "eea7db16542fca5b93bd0ec0429fdb99.png",
       "lastSeen": "2026-04-25",
       "lastAppearance": {
         "game": "pirates",
@@ -1713,11 +1713,11 @@
     },
     "BlueSorcerer": {
       "avatar": "cc330642a4eb5c4e165fb3549d037b5a.png",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-04-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-04-24"
+        "rank": 8,
+        "date": "2026-04-25"
       },
       "games": {
         "jungle-cruise": {
@@ -2392,7 +2392,7 @@
           "bestScore": 132,
           "date": "2026-01-19",
           "rank": 4,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -2777,7 +2777,7 @@
           "bestScore": 132,
           "date": "2026-03-14",
           "rank": 3,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "jungle-cruise": {
           "bestScore": 44775,
@@ -3139,11 +3139,11 @@
     },
     "MadBubbleAngel": {
       "avatar": null,
-      "lastSeen": "2026-04-21",
+      "lastSeen": "2026-04-25",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-04-21"
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-04-25"
       },
       "games": {
         "castle-fireworks": {
@@ -5124,7 +5124,7 @@
           "bestScore": 132,
           "date": "2026-03-29",
           "rank": 7,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -12491,11 +12491,11 @@
     },
     "Prilla": {
       "avatar": null,
-      "lastSeen": "2026-04-17",
+      "lastSeen": "2026-04-25",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-04-17"
+        "game": "haunted-mansion",
+        "rank": 4,
+        "date": "2026-04-25"
       },
       "games": {
         "castle-fireworks": {
@@ -12509,9 +12509,10 @@
           "rank": 5
         },
         "haunted-mansion": {
-          "bestScore": 113,
-          "date": "2026-04-14",
-          "rank": 10
+          "bestScore": 133,
+          "date": "2026-04-25",
+          "rank": 4,
+          "allTimeRank": 47
         },
         "pirates": {
           "bestScore": 254,
