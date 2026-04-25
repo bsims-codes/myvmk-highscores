@@ -1,21 +1,26 @@
 {
   "date": "2026-04-25",
-  "scrapedAt": "2026-04-25T09:57:17.031Z",
+  "scrapedAt": "2026-04-25T13:19:35.666Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "c0802ecb7fd1d1d2b74d6fdbff777f96.png",
+        "topAvatar": "5be42b77dbc1f1c11b06bf2e31a95ee9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10604
+          },
+          {
+            "rank": 2,
             "username": "GypsyRose",
             "score": 7954
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "dce52d385a92a9327756767cb6f88777.png",
+        "topAvatar": "5be42b77dbc1f1c11b06bf2e31a95ee9.png",
         "scores": [
           {
             "rank": 1,
@@ -237,12 +242,12 @@
           },
           {
             "rank": 9,
-            "username": "tizzi",
+            "username": "Satellite",
             "score": 378
           },
           {
             "rank": 10,
-            "username": "Arkadia",
+            "username": "tizzi",
             "score": 378
           }
         ]
@@ -251,57 +256,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "5d7b16283fb26c967393e1df319bfd3c.png",
+        "topAvatar": "757fce4b39a126af9e5619b70a196a84.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 140
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 125
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "prettykatie",
             "score": 123
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 123
+          },
+          {
+            "rank": 5,
             "username": "Monsta",
             "score": 112
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Kroberts2018",
             "score": 111
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "-Misty-",
             "score": 56
           },
           {
-            "rank": 6,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 47
-          },
-          {
-            "rank": 7,
-            "username": "Shadow_Rose",
-            "score": 46
-          },
-          {
             "rank": 8,
+            "username": "MissyKinz",
+            "score": 52
+          },
+          {
+            "rank": 9,
             "username": "Matty",
             "score": 40
           },
           {
-            "rank": 9,
-            "username": "kazino",
-            "score": 28
-          },
-          {
             "rank": 10,
-            "username": "goatduck",
-            "score": 0
+            "username": "PrinceGeminii",
+            "score": 35
           }
         ]
       },
