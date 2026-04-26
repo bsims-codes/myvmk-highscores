@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-26",
-  "userCount": 731,
+  "userCount": 732,
   "users": {
     "kazino": {
       "avatar": "42f5b762fa7fcab3f1b9c01b58b57760.png",
@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": null,
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-04-24"
+        "rank": 10,
+        "date": "2026-04-26"
       },
       "games": {
         "castle-fireworks": {
@@ -1076,7 +1076,7 @@
       "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-04-26"
       },
       "games": {
@@ -1539,7 +1539,7 @@
       }
     },
     "Rstar": {
-      "avatar": "5d7b16283fb26c967393e1df319bfd3c.png",
+      "avatar": "92323197f6050da8ceba8940756ba816.png",
       "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -7225,11 +7225,11 @@
     },
     "AirBiscuits": {
       "avatar": "4efe5d381e985a3fa2bc427a3f984a88.png",
-      "lastSeen": "2026-04-23",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-04-23"
+        "rank": 6,
+        "date": "2026-04-26"
       },
       "games": {
         "jungle-cruise": {
@@ -9875,18 +9875,23 @@
       }
     },
     "Chappy": {
-      "avatar": null,
-      "lastSeen": "2026-03-04",
+      "avatar": "fd0765aa3943c556fbdde021fe3c26d3.png",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-03-04"
+        "game": "haunted-mansion",
+        "rank": 1,
+        "date": "2026-04-26"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 43637,
           "date": "2026-03-04",
           "rank": 3
+        },
+        "haunted-mansion": {
+          "bestScore": 109,
+          "date": "2026-04-26",
+          "rank": 1
         }
       }
     },
@@ -13997,17 +14002,17 @@
     },
     "Green_OceanTide": {
       "avatar": null,
-      "lastSeen": "2026-04-25",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-04-25"
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-04-26"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 590,
-          "date": "2026-04-22",
-          "rank": 2
+          "bestScore": 2311,
+          "date": "2026-04-26",
+          "rank": 3
         },
         "jungle-cruise": {
           "bestScore": 35489,
@@ -14255,6 +14260,22 @@
       "games": {
         "jungle-cruise": {
           "bestScore": 46439,
+          "date": "2026-04-26",
+          "rank": 3
+        }
+      }
+    },
+    "Caribbean_Gal": {
+      "avatar": null,
+      "lastSeen": "2026-04-26",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-04-26"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 102,
           "date": "2026-04-26",
           "rank": 3
         }
