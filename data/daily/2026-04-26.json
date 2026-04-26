@@ -1,14 +1,19 @@
 {
   "date": "2026-04-26",
-  "scrapedAt": "2026-04-26T09:59:33.400Z",
+  "scrapedAt": "2026-04-26T13:20:46.178Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "adceaabfbe641f9b42d6b9f777be048e.png",
+        "topAvatar": "74a7b21f46b9877e4a9d3ecad3226304.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7667
+          },
+          {
+            "rank": 2,
             "username": "ChevyRacing",
             "score": 1992
           }
@@ -282,12 +287,12 @@
           },
           {
             "rank": 9,
-            "username": "tizzi",
+            "username": "Arkadia",
             "score": 378
           },
           {
             "rank": 10,
-            "username": "Arkadia",
+            "username": "tizzi",
             "score": 378
           }
         ]
@@ -332,6 +337,16 @@
             "rank": 7,
             "username": "Bernardo_S_Rocks",
             "score": 52
+          },
+          {
+            "rank": 8,
+            "username": "PrincessCutezada",
+            "score": 43
+          },
+          {
+            "rank": 9,
+            "username": "kazino",
+            "score": 28
           }
         ]
       },
