@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-26",
-  "userCount": 730,
+  "userCount": 731,
   "users": {
     "kazino": {
       "avatar": "42f5b762fa7fcab3f1b9c01b58b57760.png",
@@ -1716,7 +1716,7 @@
       "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 2,
         "date": "2026-04-26"
       },
       "games": {
@@ -2576,11 +2576,11 @@
     },
     "AtziriDayre": {
       "avatar": "dd1a97a71903ef555114d96b543ddc9d.png",
-      "lastSeen": "2026-04-25",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 5,
-        "date": "2026-04-25"
+        "date": "2026-04-26"
       },
       "games": {
         "jungle-cruise": {
@@ -3766,8 +3766,8 @@
       "avatar": "18cade0296ca2b05cd8b8fc2c2ad3622.png",
       "lastSeen": "2026-04-26",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 8,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-04-26"
       },
       "games": {
@@ -4157,7 +4157,7 @@
       "lastSeen": "2026-04-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-04-26"
       },
       "games": {
@@ -13881,11 +13881,11 @@
     },
     "BigFoxMol": {
       "avatar": "14a781309c1c773fc11200cec650e7e7.png",
-      "lastSeen": "2026-04-20",
+      "lastSeen": "2026-04-26",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 1,
-        "date": "2026-04-20"
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-04-26"
       },
       "games": {
         "jungle-cruise": {
@@ -14241,6 +14241,22 @@
           "bestScore": 109,
           "date": "2026-04-26",
           "rank": 10
+        }
+      }
+    },
+    "cruiselinefan": {
+      "avatar": null,
+      "lastSeen": "2026-04-26",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-04-26"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 46439,
+          "date": "2026-04-26",
+          "rank": 3
         }
       }
     }
