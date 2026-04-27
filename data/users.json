@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-04-27",
-  "userCount": 732,
+  "userCount": 733,
   "users": {
     "kazino": {
-      "avatar": "7973a1eb94a6848afe6773ea94e5370d.png",
+      "avatar": "2638fdb868b36ddf248469a1375befae.png",
       "lastSeen": "2026-04-27",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -13700,11 +13700,11 @@
     },
     "CatLadyyy": {
       "avatar": null,
-      "lastSeen": "2026-04-18",
+      "lastSeen": "2026-04-27",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-04-18"
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-04-27"
       },
       "games": {
         "jungle-cruise": {
@@ -13904,9 +13904,9 @@
           "rank": 7
         },
         "castle-fireworks": {
-          "bestScore": 3637,
+          "bestScore": 4677,
           "date": "2026-04-27",
-          "rank": 3
+          "rank": 4
         },
         "pirates": {
           "bestScore": 236,
@@ -14283,6 +14283,22 @@
           "bestScore": 102,
           "date": "2026-04-26",
           "rank": 3
+        }
+      }
+    },
+    "DisneyFanAJB": {
+      "avatar": null,
+      "lastSeen": "2026-04-27",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-04-27"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 86,
+          "date": "2026-04-27",
+          "rank": 9
         }
       }
     }
