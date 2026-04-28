@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-28",
-  "userCount": 737,
+  "userCount": 738,
   "users": {
     "kazino": {
       "avatar": "2638fdb868b36ddf248469a1375befae.png",
@@ -4158,7 +4158,7 @@
       }
     },
     "Blueclay": {
-      "avatar": "367322aa72c1e5846ef53bb7f4d86765.png",
+      "avatar": "5c16af697fe343c1e804f6eab01dc78d.png",
       "lastSeen": "2026-04-28",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -14374,6 +14374,22 @@
           "bestScore": 38162,
           "date": "2026-04-28",
           "rank": 2
+        }
+      }
+    },
+    "Gavgav": {
+      "avatar": null,
+      "lastSeen": "2026-04-28",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-04-28"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 7093,
+          "date": "2026-04-28",
+          "rank": 3
         }
       }
     }
