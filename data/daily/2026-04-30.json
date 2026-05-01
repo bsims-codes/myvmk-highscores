@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "scrapedAt": "2026-04-30T22:01:46.503Z",
+  "scrapedAt": "2026-05-01T03:59:05.406Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -10,7 +10,7 @@
           {
             "rank": 1,
             "username": "kazino",
-            "score": 11166
+            "score": 11262
           },
           {
             "rank": 2,
@@ -19,21 +19,41 @@
           },
           {
             "rank": 3,
+            "username": "Jewelsy",
+            "score": 9506
+          },
+          {
+            "rank": 4,
+            "username": "MollyMolusk",
+            "score": 8777
+          },
+          {
+            "rank": 5,
             "username": "GypsyRose",
             "score": 8104
           },
           {
-            "rank": 4,
+            "rank": 6,
+            "username": "AngelElizabeth",
+            "score": 7890
+          },
+          {
+            "rank": 7,
             "username": "MissAnnaNovang",
             "score": 7312
           },
           {
-            "rank": 5,
+            "rank": 8,
+            "username": "Prilla",
+            "score": 5448
+          },
+          {
+            "rank": 9,
             "username": "BigFoxMol",
             "score": 4949
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "PrincessCutezada",
             "score": 4287
           }
@@ -153,8 +173,59 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "7b74b3e0cc8239eed5c1070b4fe78628.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "sapphire",
+            "score": 277
+          },
+          {
+            "rank": 2,
+            "username": "Erie",
+            "score": 248
+          },
+          {
+            "rank": 3,
+            "username": "SquidGirl1030",
+            "score": 236
+          },
+          {
+            "rank": 4,
+            "username": "EpicRose",
+            "score": 225
+          },
+          {
+            "rank": 5,
+            "username": "doctorseeker",
+            "score": 209
+          },
+          {
+            "rank": 6,
+            "username": "CristianoRonaldo",
+            "score": 139
+          },
+          {
+            "rank": 7,
+            "username": "Matt",
+            "score": 114
+          },
+          {
+            "rank": 8,
+            "username": "fry",
+            "score": 93
+          },
+          {
+            "rank": 9,
+            "username": "GaDawg",
+            "score": 43
+          },
+          {
+            "rank": 10,
+            "username": "Green_OceanTide",
+            "score": 6
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "900d9de076dc2c2f825ff54fc2919b8f.png",
@@ -280,47 +351,47 @@
           {
             "rank": 2,
             "username": "MissyKinz",
-            "score": 116
+            "score": 126
           },
           {
             "rank": 3,
+            "username": "EVOL",
+            "score": 123
+          },
+          {
+            "rank": 4,
             "username": "AmandaJeanne",
             "score": 115
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "JustForFun",
             "score": 97
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "KaseyAmber",
+            "score": 78
+          },
+          {
+            "rank": 7,
+            "username": "AstroVioletRose",
+            "score": 65
+          },
+          {
+            "rank": 8,
             "username": "scortatia",
             "score": 59
           },
           {
-            "rank": 6,
+            "rank": 9,
             "username": "GypsyRose",
             "score": 58
           },
           {
-            "rank": 7,
-            "username": "EVOL",
-            "score": 58
-          },
-          {
-            "rank": 8,
-            "username": "Glaze",
-            "score": 55
-          },
-          {
-            "rank": 9,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 53
-          },
-          {
             "rank": 10,
-            "username": "JiminyC",
-            "score": 53
+            "username": "PrinceGeminii",
+            "score": 57
           }
         ]
       },
@@ -409,12 +480,12 @@
           },
           {
             "rank": 6,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
             "rank": 7,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
@@ -424,12 +495,12 @@
           },
           {
             "rank": 9,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           },
           {
             "rank": 10,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Niki2",
             "score": 144
           }
         ]
@@ -467,23 +538,28 @@
           },
           {
             "rank": 6,
+            "username": "Prilla",
+            "score": 44438
+          },
+          {
+            "rank": 7,
+            "username": "Cloudyblue",
+            "score": 44400
+          },
+          {
+            "rank": 8,
             "username": "TinkerLaceyBell",
             "score": 41997
           },
           {
-            "rank": 7,
+            "rank": 9,
+            "username": "AtziriDayre",
+            "score": 40222
+          },
+          {
+            "rank": 10,
             "username": "BigFoxMol",
             "score": 39880
-          },
-          {
-            "rank": 8,
-            "username": "AtziriDayre",
-            "score": 39747
-          },
-          {
-            "rank": 9,
-            "username": "PrincessCutezada",
-            "score": 39079
           }
         ]
       },
