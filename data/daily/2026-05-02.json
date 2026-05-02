@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "scrapedAt": "2026-05-02T13:26:16.912Z",
+  "scrapedAt": "2026-05-02T15:54:32.192Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,38 +14,43 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7266
+          },
+          {
+            "rank": 3,
             "username": "BRlTT",
             "score": 6657
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "JiminyC",
             "score": 5856
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "username": "PrincessCutezada",
+            "score": 4214
+          },
+          {
+            "rank": 6,
             "username": "SquidGirl1030",
             "score": 2749
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "britboy",
             "score": 1129
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "Guest10150239",
             "score": 962
-          },
-          {
-            "rank": 7,
-            "username": "MissAnnaNovang",
-            "score": 860
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "16242f78a89be3d1152e0eb31fd0bc0b.png",
+        "topAvatar": "4b58fae07a9782ac94b6d50bb8714510.png",
         "scores": [
           {
             "rank": 1,
@@ -100,7 +105,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "16242f78a89be3d1152e0eb31fd0bc0b.png",
+        "topAvatar": "4b58fae07a9782ac94b6d50bb8714510.png",
         "scores": [
           {
             "rank": 1,
@@ -503,16 +508,46 @@
           },
           {
             "rank": 2,
+            "username": "onigiri",
+            "score": 49546
+          },
+          {
+            "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 47624
+          },
+          {
+            "rank": 4,
+            "username": "JaytheBluPirate",
+            "score": 47479
+          },
+          {
+            "rank": 5,
+            "username": "AtziriDayre",
+            "score": 41339
+          },
+          {
+            "rank": 6,
+            "username": "MissAnnaNovang",
+            "score": 40404
+          },
+          {
+            "rank": 7,
+            "username": "PrincessCutezada",
+            "score": 39053
+          },
+          {
+            "rank": 8,
             "username": "KristiDB",
             "score": 37763
           },
           {
-            "rank": 3,
+            "rank": 9,
             "username": "britboy",
             "score": 31319
           },
           {
-            "rank": 4,
+            "rank": 10,
             "username": "Guest10150239",
             "score": 19985
           }
