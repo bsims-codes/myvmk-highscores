@@ -1,12 +1,18 @@
 {
   "date": "2026-05-04",
-  "scrapedAt": "2026-05-04T08:38:08.757Z",
+  "scrapedAt": "2026-05-04T11:09:34.772Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "74a7b21f46b9877e4a9d3ecad3226304.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7496
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "70dab6b22986dc06d6316bd473a0cb4f.png",
@@ -112,16 +118,16 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "5b5fd8a23f5ab1b5c31e222da61ffd1b.png",
+        "topAvatar": "743a83b7c845b0e5db9bd4d3076737b5.png",
         "scores": [
           {
             "rank": 1,
-            "username": "eeriee",
+            "username": "magickate",
             "score": 289
           },
           {
             "rank": 2,
-            "username": "magickate",
+            "username": "eeriee",
             "score": 289
           },
           {
@@ -309,37 +315,37 @@
           },
           {
             "rank": 7,
+            "username": "JustForFun",
+            "score": 56
+          },
+          {
+            "rank": 8,
             "username": "KristiDB",
             "score": 50
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "PrincessCutezada",
             "score": 46
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "prettykatie",
             "score": 40
-          },
-          {
-            "rank": 10,
-            "username": "AmandaJeanne",
-            "score": 33
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "ca0842cd3ac1e350dc536ff1ae5eef9b.png",
+        "topAvatar": "cb35fbfd38d6b5f0603b7f6f6d77a660.png",
         "scores": [
           {
             "rank": 1,
-            "username": "EVOL",
+            "username": "Blueclay",
             "score": 141
           },
           {
             "rank": 2,
-            "username": "Blueclay",
+            "username": "EVOL",
             "score": 141
           },
           {
@@ -429,12 +435,12 @@
           },
           {
             "rank": 9,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Niki2",
             "score": 144
           },
           {
             "rank": 10,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           }
         ]
