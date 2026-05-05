@@ -185,7 +185,7 @@
       "lastSeen": "2026-05-05",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-05-05"
       },
       "games": {
@@ -13921,7 +13921,7 @@
       "lastSeen": "2026-05-05",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-05-05"
       },
       "games": {
@@ -13939,6 +13939,11 @@
           "bestScore": 236,
           "date": "2026-04-20",
           "rank": 1
+        },
+        "haunted-mansion": {
+          "bestScore": 45,
+          "date": "2026-05-05",
+          "rank": 9
         }
       }
     },
