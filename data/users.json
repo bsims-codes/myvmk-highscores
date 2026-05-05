@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-05-04",
-  "userCount": 758,
+  "userCount": 761,
   "users": {
     "kazino": {
-      "avatar": "dcd96c19eccd532204b9b8762f03326d.png",
+      "avatar": "cbf4085465ae9e96bb2e41b55c037bfc.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -64,8 +64,8 @@
       "avatar": "5e749cbe44458d434f47c10273440fd6.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 7,
+        "game": "haunted-mansion",
+        "rank": 6,
         "date": "2026-05-04"
       },
       "games": {
@@ -96,7 +96,7 @@
       }
     },
     "Jewelsy": {
-      "avatar": "70dab6b22986dc06d6316bd473a0cb4f.png",
+      "avatar": "85f355add87e8dfe6c4aeca67b546d77.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -484,11 +484,11 @@
     },
     "Yurgle": {
       "avatar": null,
-      "lastSeen": "2026-04-23",
+      "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
         "rank": 7,
-        "date": "2026-04-23"
+        "date": "2026-05-04"
       },
       "games": {
         "pirates": {
@@ -517,7 +517,7 @@
       }
     },
     "magickate": {
-      "avatar": "743a83b7c845b0e5db9bd4d3076737b5.png",
+      "avatar": "3ac6c83cc2a68b723a6564d91ce19ac5.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
@@ -1240,7 +1240,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "04a2fb89a5e0f90190d0dc74d10c5b83.png",
+      "avatar": "f3cdc6f103ba36966df8603977d4e962.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1911,7 +1911,7 @@
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-05-04"
       },
       "games": {
@@ -1980,7 +1980,7 @@
       }
     },
     "Luckymaxer": {
-      "avatar": "8d34f0aadc6b9ef42d59df9690e420ff.png",
+      "avatar": "3f3a0a24b66202b005cb0524e47fe82a.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
@@ -2458,11 +2458,11 @@
     },
     "SammyxxFairy": {
       "avatar": null,
-      "lastSeen": "2026-03-18",
+      "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
-        "date": "2026-03-18"
+        "rank": 8,
+        "date": "2026-05-04"
       },
       "games": {
         "haunted-mansion": {
@@ -4174,7 +4174,7 @@
       }
     },
     "Blueclay": {
-      "avatar": "cb35fbfd38d6b5f0603b7f6f6d77a660.png",
+      "avatar": "f5448626350d919dc4a18e84b2370e91.png",
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -5505,7 +5505,7 @@
       "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
+        "rank": 2,
         "date": "2026-05-04"
       },
       "games": {
@@ -12316,11 +12316,11 @@
     },
     "_libraqueen_": {
       "avatar": null,
-      "lastSeen": "2026-04-29",
+      "lastSeen": "2026-05-04",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
-        "date": "2026-04-29"
+        "rank": 10,
+        "date": "2026-05-04"
       },
       "games": {
         "pirates": {
@@ -14766,6 +14766,54 @@
       "games": {
         "jungle-cruise": {
           "bestScore": 42483,
+          "date": "2026-05-04",
+          "rank": 10
+        }
+      }
+    },
+    "ms.annmarie": {
+      "avatar": null,
+      "lastSeen": "2026-05-04",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-05-04"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 5102,
+          "date": "2026-05-04",
+          "rank": 7
+        }
+      }
+    },
+    "EddyD": {
+      "avatar": null,
+      "lastSeen": "2026-05-04",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-05-04"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2487,
+          "date": "2026-05-04",
+          "rank": 9
+        }
+      }
+    },
+    "ShireBaggins": {
+      "avatar": null,
+      "lastSeen": "2026-05-04",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-05-04"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2173,
           "date": "2026-05-04",
           "rank": 10
         }
