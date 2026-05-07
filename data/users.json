@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-07",
-  "userCount": 776,
+  "userCount": 778,
   "users": {
     "kazino": {
       "avatar": "0a712aa9b1b37441ae14b67be410c6c2.png",
@@ -96,7 +96,7 @@
       }
     },
     "Jewelsy": {
-      "avatar": "6b8f8a44f84d7c44d53114f373fc4cbf.png",
+      "avatar": "575b1773e776aa3e9d8479a3bd66e862.png",
       "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -1054,7 +1054,7 @@
       "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-05-07"
       },
       "games": {
@@ -1759,11 +1759,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": "81af61a8c80fcd477c645250075c621e.png",
-      "lastSeen": "2026-05-03",
+      "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-05-03"
+        "rank": 7,
+        "date": "2026-05-07"
       },
       "games": {
         "jungle-cruise": {
@@ -4022,7 +4022,7 @@
       "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-05-07"
       },
       "games": {
@@ -15126,6 +15126,38 @@
       "games": {
         "jungle-cruise": {
           "bestScore": 29449,
+          "date": "2026-05-07",
+          "rank": 6
+        }
+      }
+    },
+    "StarCayla": {
+      "avatar": null,
+      "lastSeen": "2026-05-07",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-05-07"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 44670,
+          "date": "2026-05-07",
+          "rank": 4
+        }
+      }
+    },
+    "rockin_rachael": {
+      "avatar": null,
+      "lastSeen": "2026-05-07",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-05-07"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 40827,
           "date": "2026-05-07",
           "rank": 6
         }
