@@ -962,7 +962,7 @@
       "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-05-07"
       },
       "games": {
@@ -2419,11 +2419,11 @@
     },
     "shelbitb": {
       "avatar": null,
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-04-30"
+        "rank": 9,
+        "date": "2026-05-07"
       },
       "games": {
         "haunted-mansion": {
@@ -7005,11 +7005,11 @@
     },
     "PrincessEmilyLizzie": {
       "avatar": null,
-      "lastSeen": "2026-02-12",
+      "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-02-12"
+        "rank": 3,
+        "date": "2026-05-07"
       },
       "games": {
         "haunted-mansion": {
@@ -7219,17 +7219,22 @@
     },
     "princessdiamond": {
       "avatar": null,
-      "lastSeen": "2026-02-11",
+      "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-02-11"
+        "rank": 2,
+        "date": "2026-05-07"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 93,
           "date": "2026-02-09",
           "rank": 7
+        },
+        "castle-fireworks": {
+          "bestScore": 4790,
+          "date": "2026-05-07",
+          "rank": 3
         }
       }
     },
@@ -13422,17 +13427,17 @@
     },
     "BravaCentauri": {
       "avatar": null,
-      "lastSeen": "2026-04-17",
+      "lastSeen": "2026-05-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-04-17"
+        "rank": 5,
+        "date": "2026-05-07"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 40322,
-          "date": "2026-04-16",
-          "rank": 7
+          "bestScore": 46245,
+          "date": "2026-05-07",
+          "rank": 5
         },
         "castle-fireworks": {
           "bestScore": 3444,
@@ -15141,9 +15146,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 44670,
+          "bestScore": 44992,
           "date": "2026-05-07",
-          "rank": 4
+          "rank": 6
         }
       }
     },
