@@ -322,7 +322,7 @@
       "lastSeen": "2026-05-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 2,
         "date": "2026-05-09"
       },
       "games": {
@@ -1076,7 +1076,7 @@
       "lastSeen": "2026-05-09",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-05-09"
       },
       "games": {
@@ -12880,6 +12880,11 @@
           "bestScore": 223,
           "date": "2026-04-20",
           "rank": 4
+        },
+        "haunted-mansion": {
+          "bestScore": 118,
+          "date": "2026-05-09",
+          "rank": 8
         }
       }
     },
@@ -14687,16 +14692,16 @@
     },
     "sandysue": {
       "avatar": null,
-      "lastSeen": "2026-05-04",
+      "lastSeen": "2026-05-09",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-05-04"
+        "date": "2026-05-09"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 122,
-          "date": "2026-05-03",
+          "bestScore": 123,
+          "date": "2026-05-09",
           "rank": 5
         },
         "jungle-cruise": {
@@ -14923,7 +14928,7 @@
           "allTimeRank": 27
         },
         "castle-fireworks": {
-          "bestScore": 6233,
+          "bestScore": 6920,
           "date": "2026-05-09",
           "rank": 6
         }
