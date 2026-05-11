@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-11",
-  "userCount": 797,
+  "userCount": 798,
   "users": {
     "kazino": {
       "avatar": "1b4b08ff1d107536988140ed646657e6.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "3f6d0cb56379fe2c16c676ec6642953e.png",
+      "avatar": "8dc4eb5360e1c8f75e17828271ba1844.png",
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -64,8 +64,8 @@
       "avatar": "5e749cbe44458d434f47c10273440fd6.png",
       "lastSeen": "2026-05-11",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
+        "game": "haunted-mansion",
+        "rank": 5,
         "date": "2026-05-11"
       },
       "games": {
@@ -185,7 +185,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-05-11"
       },
       "games": {
@@ -752,7 +752,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-05-11"
       },
       "games": {
@@ -945,7 +945,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-05-11"
       },
       "games": {
@@ -962,7 +962,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-05-11"
       },
       "games": {
@@ -1722,7 +1722,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-05-11"
       },
       "games": {
@@ -13937,7 +13937,7 @@
       "lastSeen": "2026-05-11",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-05-11"
       },
       "games": {
@@ -15500,6 +15500,22 @@
           "bestScore": 15741,
           "date": "2026-05-11",
           "rank": 3
+        }
+      }
+    },
+    "Guest10150351": {
+      "avatar": null,
+      "lastSeen": "2026-05-11",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-05-11"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 6253,
+          "date": "2026-05-11",
+          "rank": 7
         }
       }
     }
