@@ -114,7 +114,7 @@
           "bestScore": 50777,
           "date": "2026-03-04",
           "rank": 4,
-          "allTimeRank": 47
+          "allTimeRank": 48
         },
         "haunted-mansion": {
           "bestScore": 65,
@@ -2872,11 +2872,11 @@
     },
     "cauliflower": {
       "avatar": "b58d41c0746a4cc27055b27358f8a5ad.png",
-      "lastSeen": "2026-05-03",
+      "lastSeen": "2026-05-12",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-05-03"
+        "rank": 7,
+        "date": "2026-05-12"
       },
       "games": {
         "jungle-cruise": {
@@ -6453,7 +6453,7 @@
           "bestScore": 50648,
           "date": "2026-02-02",
           "rank": 2,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -6624,7 +6624,7 @@
           "bestScore": 50696,
           "date": "2026-02-07",
           "rank": 2,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "pirates": {
           "bestScore": 315,
@@ -10129,11 +10129,11 @@
     },
     "victorialynnjoann": {
       "avatar": null,
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-12",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-05-07"
+        "rank": 10,
+        "date": "2026-05-12"
       },
       "games": {
         "jungle-cruise": {
@@ -10870,7 +10870,7 @@
           "bestScore": 50826,
           "date": "2026-03-25",
           "rank": 2,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -15427,17 +15427,18 @@
     },
     "Redboba": {
       "avatar": null,
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-12",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-05-11"
+        "rank": 5,
+        "date": "2026-05-12"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 50850,
           "date": "2026-05-10",
-          "rank": 8
+          "rank": 8,
+          "allTimeRank": 46
         }
       }
     },
