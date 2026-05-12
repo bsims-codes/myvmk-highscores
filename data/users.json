@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-12",
-  "userCount": 801,
+  "userCount": 802,
   "users": {
     "kazino": {
       "avatar": "4e75db6cbfab0e59b843272709e8c302.png",
@@ -15581,6 +15581,22 @@
         "castle-fireworks": {
           "bestScore": 1533,
           "date": "2026-05-11",
+          "rank": 9
+        }
+      }
+    },
+    "LoopyMellowBabe": {
+      "avatar": null,
+      "lastSeen": "2026-05-12",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-05-12"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1533,
+          "date": "2026-05-12",
           "rank": 9
         }
       }
