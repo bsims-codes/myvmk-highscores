@@ -96,11 +96,11 @@
       }
     },
     "Jewelsy": {
-      "avatar": "e36224fe517b86814165d9776cc26189.png",
+      "avatar": "d6613bdbad1329223fd0efa111d7c7f6.png",
       "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-13"
       },
       "games": {
@@ -962,7 +962,7 @@
       "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-05-13"
       },
       "games": {
@@ -2875,7 +2875,7 @@
       "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-05-13"
       },
       "games": {
@@ -11269,11 +11269,11 @@
     },
     "MacRose": {
       "avatar": "122b5d39ab3fe4dd0c3336e6a7d7274b.png",
-      "lastSeen": "2026-03-31",
+      "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-03-31"
+        "rank": 2,
+        "date": "2026-05-13"
       },
       "games": {
         "castle-fireworks": {
@@ -11830,11 +11830,11 @@
     },
     "Raxiiexo": {
       "avatar": null,
-      "lastSeen": "2026-03-23",
+      "lastSeen": "2026-05-13",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-03-23"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-05-13"
       },
       "games": {
         "castle-fireworks": {
@@ -11846,6 +11846,11 @@
           "bestScore": 35288,
           "date": "2026-03-23",
           "rank": 3
+        },
+        "haunted-mansion": {
+          "bestScore": 63,
+          "date": "2026-05-13",
+          "rank": 6
         }
       }
     },
