@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "scrapedAt": "2026-05-13T11:33:39.612Z",
+  "scrapedAt": "2026-05-13T14:49:34.244Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -285,45 +285,55 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "6643df0cb708f24d6b43416936d32214.png",
+        "topAvatar": "9977feaf967b564593e599dc09e9b3f0.png",
         "scores": [
           {
             "rank": 1,
+            "username": "PrinceGeminii",
+            "score": 116
+          },
+          {
+            "rank": 2,
+            "username": "PrincessCutezada",
+            "score": 113
+          },
+          {
+            "rank": 3,
             "username": "scortatia",
             "score": 64
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 58
+            "score": 62
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "Shadow_Rose",
             "score": 57
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "JiminyC",
             "score": 52
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "username": "BigFoxMol",
+            "score": 47
+          },
+          {
+            "rank": 8,
             "username": "JustForFun",
             "score": 46
           },
           {
-            "rank": 6,
+            "rank": 9,
             "username": "Mizzpixie",
             "score": 45
           },
           {
-            "rank": 7,
-            "username": "PrinceGeminii",
-            "score": 18
-          },
-          {
-            "rank": 8,
+            "rank": 10,
             "username": "punkrockchick",
             "score": 0
           }
@@ -414,12 +424,12 @@
           },
           {
             "rank": 6,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
             "rank": 7,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
@@ -462,6 +472,16 @@
           },
           {
             "rank": 4,
+            "username": "Seacat",
+            "score": 47521
+          },
+          {
+            "rank": 5,
+            "username": "AtziriDayre",
+            "score": 38698
+          },
+          {
+            "rank": 6,
             "username": "sarastrawbellar",
             "score": 25422
           }

@@ -752,7 +752,7 @@
       "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-05-13"
       },
       "games": {
@@ -2592,11 +2592,11 @@
     },
     "AtziriDayre": {
       "avatar": "dd1a97a71903ef555114d96b543ddc9d.png",
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-05-12"
+        "rank": 5,
+        "date": "2026-05-13"
       },
       "games": {
         "jungle-cruise": {
@@ -3793,7 +3793,7 @@
       "lastSeen": "2026-05-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-05-13"
       },
       "games": {
@@ -4301,8 +4301,8 @@
       "avatar": "c2f026678e7db3f64f942ffe990e1c3e.png",
       "lastSeen": "2026-05-13",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
+        "game": "jungle-cruise",
+        "rank": 4,
         "date": "2026-05-13"
       },
       "games": {
@@ -4316,6 +4316,11 @@
           "bestScore": 99,
           "date": "2026-05-05",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 47521,
+          "date": "2026-05-13",
+          "rank": 4
         }
       }
     },
