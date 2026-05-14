@@ -1,12 +1,18 @@
 {
   "date": "2026-05-14",
-  "scrapedAt": "2026-05-14T08:45:51.342Z",
+  "scrapedAt": "2026-05-14T11:18:44.452Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "8dc4eb5360e1c8f75e17828271ba1844.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BRlTT",
+            "score": 10824
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "d6613bdbad1329223fd0efa111d7c7f6.png",
@@ -64,7 +70,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "04bef70928b308c6923deae6ad1956f6.png",
+        "topAvatar": "81930ae3186d6801edc418c59d2d27f3.png",
         "scores": [
           {
             "rank": 1,
@@ -285,25 +291,30 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "757fce4b39a126af9e5619b70a196a84.png",
+        "topAvatar": "d7a9f9307d7fd61a6f23b957438eb552.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 56
+          },
+          {
+            "rank": 2,
             "username": "Sandblasted_OctoNuggie",
             "score": 48
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "StarCayla",
             "score": 39
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Shadow_Rose",
             "score": 35
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "caseyjrguy",
             "score": 21
           }
@@ -349,17 +360,17 @@
           },
           {
             "rank": 8,
-            "username": "Shadow_Rose",
+            "username": "EVOL",
             "score": 64
           },
           {
             "rank": 9,
-            "username": "scortatia",
+            "username": "Shadow_Rose",
             "score": 64
           },
           {
             "rank": 10,
-            "username": "EVOL",
+            "username": "scortatia",
             "score": 64
           }
         ]
@@ -394,12 +405,12 @@
           },
           {
             "rank": 6,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
             "rank": 7,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
