@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-14",
-  "userCount": 810,
+  "userCount": 811,
   "users": {
     "kazino": {
       "avatar": "81930ae3186d6801edc418c59d2d27f3.png",
@@ -4027,7 +4027,7 @@
       "lastSeen": "2026-05-14",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-05-14"
       },
       "games": {
@@ -6480,11 +6480,11 @@
     },
     "WillaKingdomKeeper": {
       "avatar": null,
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-14",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
-        "date": "2026-05-12"
+        "rank": 4,
+        "date": "2026-05-14"
       },
       "games": {
         "castle-fireworks": {
@@ -13968,9 +13968,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 44632,
-          "date": "2026-05-13",
-          "rank": 9
+          "bestScore": 46399,
+          "date": "2026-05-14",
+          "rank": 4
         },
         "castle-fireworks": {
           "bestScore": 6767,
@@ -15751,6 +15751,22 @@
           "bestScore": 28508,
           "date": "2026-05-14",
           "rank": 7
+        }
+      }
+    },
+    "BeachBoyForLife": {
+      "avatar": null,
+      "lastSeen": "2026-05-14",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-05-14"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 583,
+          "date": "2026-05-14",
+          "rank": 6
         }
       }
     }
