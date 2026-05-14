@@ -1512,8 +1512,8 @@
       "avatar": "6643df0cb708f24d6b43416936d32214.png",
       "lastSeen": "2026-05-14",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 2,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-05-14"
       },
       "games": {
@@ -2875,7 +2875,7 @@
       "lastSeen": "2026-05-14",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 2,
         "date": "2026-05-14"
       },
       "games": {
@@ -4215,11 +4215,11 @@
     },
     "Naiant": {
       "avatar": null,
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-14",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-05-12"
+        "rank": 3,
+        "date": "2026-05-14"
       },
       "games": {
         "haunted-mansion": {
@@ -10783,11 +10783,11 @@
     },
     "Isasparkle": {
       "avatar": null,
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-05-14",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-04-09"
+        "rank": 9,
+        "date": "2026-05-14"
       },
       "games": {
         "jungle-cruise": {
@@ -13973,9 +13973,9 @@
           "rank": 4
         },
         "castle-fireworks": {
-          "bestScore": 6767,
-          "date": "2026-05-13",
-          "rank": 2
+          "bestScore": 6775,
+          "date": "2026-05-14",
+          "rank": 5
         },
         "pirates": {
           "bestScore": 236,
@@ -15657,8 +15657,8 @@
       "avatar": null,
       "lastSeen": "2026-05-14",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 10,
+        "game": "jungle-cruise",
+        "rank": 8,
         "date": "2026-05-14"
       },
       "games": {
@@ -15666,6 +15666,11 @@
           "bestScore": 428,
           "date": "2026-05-13",
           "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 44133,
+          "date": "2026-05-14",
+          "rank": 8
         }
       }
     },
