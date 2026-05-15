@@ -1370,6 +1370,11 @@
           "date": "2026-04-05",
           "rank": 1,
           "allTimeRank": 13
+        },
+        "haunted-mansion": {
+          "bestScore": 50,
+          "date": "2026-05-15",
+          "rank": 8
         }
       }
     },
@@ -1759,11 +1764,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": "81af61a8c80fcd477c645250075c621e.png",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-05-07"
+        "rank": 10,
+        "date": "2026-05-15"
       },
       "games": {
         "jungle-cruise": {
@@ -8196,11 +8201,11 @@
     },
     "Glaze": {
       "avatar": "26739fcec8fe340a8870b6678b40c1fc.png",
-      "lastSeen": "2026-05-10",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-05-10"
+        "rank": 3,
+        "date": "2026-05-15"
       },
       "games": {
         "haunted-mansion": {
@@ -12900,11 +12905,11 @@
     },
     "Mikki": {
       "avatar": null,
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-05-12"
+        "rank": 9,
+        "date": "2026-05-15"
       },
       "games": {
         "jungle-cruise": {
@@ -12950,7 +12955,7 @@
       "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-15"
       },
       "games": {
@@ -15595,17 +15600,17 @@
     },
     "Brandon": {
       "avatar": null,
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-05-12"
+        "rank": 8,
+        "date": "2026-05-15"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 43492,
-          "date": "2026-05-11",
-          "rank": 4
+          "bestScore": 46551,
+          "date": "2026-05-15",
+          "rank": 8
         }
       }
     },
