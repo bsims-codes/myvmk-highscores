@@ -1,12 +1,18 @@
 {
   "date": "2026-05-15",
-  "scrapedAt": "2026-05-15T11:26:42.364Z",
+  "scrapedAt": "2026-05-15T14:22:26.356Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "74a7b21f46b9877e4a9d3ecad3226304.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 488
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "3f6d0cb56379fe2c16c676ec6642953e.png",
@@ -290,30 +296,50 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "757fce4b39a126af9e5619b70a196a84.png",
+        "topAvatar": "640819ff44f23fc270ac6194c3e1569e.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 64
+            "username": "Shadow_Rose",
+            "score": 100
           },
           {
             "rank": 2,
-            "username": "Shadow_Rose",
-            "score": 62
+            "username": "Sandblasted_OctoNuggie",
+            "score": 88
           },
           {
             "rank": 3,
-            "username": "JiminyC",
-            "score": 46
+            "username": "PrinceGeminii",
+            "score": 54
           },
           {
             "rank": 4,
             "username": "JustForFun",
-            "score": 46
+            "score": 50
           },
           {
             "rank": 5,
+            "username": "JiminyC",
+            "score": 46
+          },
+          {
+            "rank": 6,
+            "username": "MissAnnaNovang",
+            "score": 42
+          },
+          {
+            "rank": 7,
+            "username": "kazino",
+            "score": 29
+          },
+          {
+            "rank": 8,
+            "username": "spacedogmike",
+            "score": 26
+          },
+          {
+            "rank": 9,
             "username": "AstroVioletRose",
             "score": 1
           }
@@ -447,16 +473,26 @@
           },
           {
             "rank": 3,
+            "username": "cauliflower",
+            "score": 50432
+          },
+          {
+            "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 40040
+          },
+          {
+            "rank": 5,
             "username": "AtziriDayre",
             "score": 35899
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Lazarus",
             "score": 33407
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "goldenminnie",
             "score": 6571
           }
