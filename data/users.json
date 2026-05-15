@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": "c199d8733041cab6927d81948f9da572.png",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 3,
-        "date": "2026-05-14"
+        "date": "2026-05-15"
       },
       "games": {
         "castle-fireworks": {
@@ -14787,11 +14787,11 @@
     },
     "Lazarus": {
       "avatar": "be7a9d7efb427a10cd12f5df9bbb50c3.png",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-15",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-05-11"
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-05-15"
       },
       "games": {
         "haunted-mansion": {
@@ -14803,6 +14803,11 @@
           "bestScore": 224,
           "date": "2026-05-07",
           "rank": 9
+        },
+        "jungle-cruise": {
+          "bestScore": 33407,
+          "date": "2026-05-15",
+          "rank": 4
         }
       }
     },
