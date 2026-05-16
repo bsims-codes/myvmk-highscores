@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "scrapedAt": "2026-05-16T16:02:19.755Z",
+  "scrapedAt": "2026-05-16T19:14:44.271Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -178,7 +178,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "6643df0cb708f24d6b43416936d32214.png",
+        "topAvatar": "6b9db85793629740ef1f841f3d6aae7d.png",
         "scores": [
           {
             "rank": 1,
@@ -233,7 +233,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "6643df0cb708f24d6b43416936d32214.png",
+        "topAvatar": "6b9db85793629740ef1f841f3d6aae7d.png",
         "scores": [
           {
             "rank": 1,
@@ -291,57 +291,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "5e749cbe44458d434f47c10273440fd6.png",
+        "topAvatar": "d6298a48c0c6e04b2e5be0f1e7b2f532.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Blueclay",
+            "score": 147
+          },
+          {
+            "rank": 2,
+            "username": "MissyKinz",
+            "score": 109
+          },
+          {
+            "rank": 3,
             "username": "JustForFun",
             "score": 62
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Sandblasted_OctoNuggie",
             "score": 58
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "MiLadyMoon",
             "score": 55
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Shadow_Rose",
             "score": 54
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "JiminyC",
             "score": 53
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "Bernardo_S_Rocks",
             "score": 46
           },
           {
-            "rank": 7,
-            "username": "caseyjrguy",
-            "score": 41
-          },
-          {
-            "rank": 8,
-            "username": "MissyKinz",
-            "score": 39
-          },
-          {
             "rank": 9,
             "username": "BigFoxMol",
-            "score": 39
+            "score": 44
           },
           {
             "rank": 10,
-            "username": "kazino",
-            "score": 31
+            "username": "caseyjrguy",
+            "score": 41
           }
         ]
       },
@@ -435,12 +435,12 @@
           },
           {
             "rank": 7,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
             "rank": 8,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
@@ -468,36 +468,46 @@
           },
           {
             "rank": 2,
+            "username": "scortatia",
+            "score": 54566
+          },
+          {
+            "rank": 3,
             "username": "punkrockchick",
             "score": 52509
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "HappyToughFish",
             "score": 50556
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "MadCrazyTurtle",
             "score": 49843
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "BlueSorcerer",
             "score": 48648
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "AtziriDayre",
             "score": 39218
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "username": "TinkerLaceyBell",
+            "score": 38943
+          },
+          {
+            "rank": 9,
             "username": "Lazarus",
             "score": 36777
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "MangoDulce",
             "score": 5607
           }
