@@ -1,11 +1,11 @@
 {
   "date": "2026-05-16",
-  "scrapedAt": "2026-05-16T13:46:37.367Z",
+  "scrapedAt": "2026-05-16T16:02:19.755Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "d7a9f9307d7fd61a6f23b957438eb552.png",
+        "topAvatar": "5e749cbe44458d434f47c10273440fd6.png",
         "scores": [
           {
             "rank": 1,
@@ -15,7 +15,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "d7a9f9307d7fd61a6f23b957438eb552.png",
+        "topAvatar": "5e749cbe44458d434f47c10273440fd6.png",
         "scores": [
           {
             "rank": 1,
@@ -291,7 +291,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "d7a9f9307d7fd61a6f23b957438eb552.png",
+        "topAvatar": "5e749cbe44458d434f47c10273440fd6.png",
         "scores": [
           {
             "rank": 1,
@@ -316,15 +316,30 @@
           {
             "rank": 5,
             "username": "JiminyC",
-            "score": 47
+            "score": 53
           },
           {
             "rank": 6,
+            "username": "Bernardo_S_Rocks",
+            "score": 46
+          },
+          {
+            "rank": 7,
             "username": "caseyjrguy",
             "score": 41
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "username": "MissyKinz",
+            "score": 39
+          },
+          {
+            "rank": 9,
+            "username": "BigFoxMol",
+            "score": 39
+          },
+          {
+            "rank": 10,
             "username": "kazino",
             "score": 31
           }
