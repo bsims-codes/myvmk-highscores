@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-17",
-  "userCount": 819,
+  "userCount": 820,
   "users": {
     "kazino": {
       "avatar": "9822e51900edc2118ea33e7704a414a5.png",
@@ -690,7 +690,7 @@
       }
     },
     "tizzi": {
-      "avatar": "78e344d6f750d9b27857769bfa9e0ee4.png",
+      "avatar": "2cdc48717aa91de55572e620635031c1.png",
       "lastSeen": "2026-05-17",
       "lastAppearance": {
         "game": "pirates",
@@ -722,7 +722,7 @@
       "lastSeen": "2026-05-17",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 5,
         "date": "2026-05-17"
       },
       "games": {
@@ -1737,7 +1737,7 @@
       "lastSeen": "2026-05-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 6,
         "date": "2026-05-17"
       },
       "games": {
@@ -2887,11 +2887,11 @@
     },
     "cauliflower": {
       "avatar": "b58d41c0746a4cc27055b27358f8a5ad.png",
-      "lastSeen": "2026-05-16",
+      "lastSeen": "2026-05-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-05-16"
+        "rank": 3,
+        "date": "2026-05-17"
       },
       "games": {
         "jungle-cruise": {
@@ -6991,7 +6991,7 @@
           "bestScore": 56065,
           "date": "2026-03-21",
           "rank": 1,
-          "allTimeRank": 2
+          "allTimeRank": 3
         },
         "pirates": {
           "bestScore": 343,
@@ -7737,7 +7737,7 @@
       "lastSeen": "2026-05-17",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-05-17"
       },
       "games": {
@@ -12977,10 +12977,10 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 56010,
+          "bestScore": 56216,
           "date": "2026-05-17",
           "rank": 1,
-          "allTimeRank": 3
+          "allTimeRank": 2
         }
       }
     },
@@ -15972,6 +15972,22 @@
           "bestScore": 32710,
           "date": "2026-05-17",
           "rank": 4
+        }
+      }
+    },
+    "Guest10150417": {
+      "avatar": null,
+      "lastSeen": "2026-05-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-05-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1592,
+          "date": "2026-05-17",
+          "rank": 9
         }
       }
     }
