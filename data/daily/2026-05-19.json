@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "scrapedAt": "2026-05-19T15:38:47.937Z",
+  "scrapedAt": "2026-05-19T19:58:58.239Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -20,7 +20,7 @@
           {
             "rank": 3,
             "username": "Sp00kyN00dle",
-            "score": 7206
+            "score": 7424
           },
           {
             "rank": 4,
@@ -34,6 +34,16 @@
           },
           {
             "rank": 6,
+            "username": "JellyFishFriend",
+            "score": 1970
+          },
+          {
+            "rank": 7,
+            "username": "Guest10150445",
+            "score": 478
+          },
+          {
+            "rank": 8,
             "username": "originalgamer",
             "score": 4
           }
@@ -182,7 +192,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "4795c84350ff766b104686e50cebd55f.png",
+        "topAvatar": "15aea75b14abd418703967b51fcf9c2c.png",
         "scores": [
           {
             "rank": 1,
@@ -264,13 +274,13 @@
           },
           {
             "rank": 5,
-            "username": "JustForFun",
-            "score": 57
+            "username": "EVOL",
+            "score": 62
           },
           {
             "rank": 6,
-            "username": "EVOL",
-            "score": 55
+            "username": "JustForFun",
+            "score": 57
           },
           {
             "rank": 7,
@@ -279,18 +289,18 @@
           },
           {
             "rank": 8,
+            "username": "Guest10124065",
+            "score": 52
+          },
+          {
+            "rank": 9,
             "username": "Shadow_Blaze",
             "score": 50
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "caseyjrguy",
             "score": 47
-          },
-          {
-            "rank": 10,
-            "username": "Bernardo-S-Rocks",
-            "score": 46
           }
         ]
       },
@@ -408,42 +418,52 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "65ebf4719740d3101f04f00d1cadbdcb.png",
+        "topAvatar": "86d569867083400a1883af97b91af618.png",
         "scores": [
           {
             "rank": 1,
+            "username": "HappyToughFish",
+            "score": 50245
+          },
+          {
+            "rank": 2,
             "username": "cauliflower",
             "score": 49282
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "BlueSorcerer",
-            "score": 48305
+            "score": 49190
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "originalgamer",
             "score": 40656
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "JellyFishFriend",
             "score": 40320
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Eclipsa",
             "score": 37807
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "experiment624",
             "score": 30785
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "anjunajames",
             "score": 21558
+          },
+          {
+            "rank": 9,
+            "username": "MontiLuvsDisney",
+            "score": 15445
           }
         ]
       },

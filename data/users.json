@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-19",
-  "userCount": 830,
+  "userCount": 832,
   "users": {
     "kazino": {
       "avatar": "b8ff8e1356120b544ceed2435009f0b5.png",
@@ -1524,7 +1524,7 @@
       }
     },
     "scortatia": {
-      "avatar": "4795c84350ff766b104686e50cebd55f.png",
+      "avatar": "15aea75b14abd418703967b51fcf9c2c.png",
       "lastSeen": "2026-05-19",
       "lastAppearance": {
         "game": "pirates",
@@ -4038,11 +4038,11 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "ac05933bdf625623fbabb4839d1404c9.png",
+      "avatar": "86d569867083400a1883af97b91af618.png",
       "lastSeen": "2026-05-19",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-19"
       },
       "games": {
@@ -15621,17 +15621,22 @@
     },
     "MontiLuvsDisney": {
       "avatar": null,
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-19",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-05-14"
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-05-19"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 637,
           "date": "2026-05-13",
           "rank": 4
+        },
+        "jungle-cruise": {
+          "bestScore": 15445,
+          "date": "2026-05-19",
+          "rank": 9
         }
       }
     },
@@ -16191,6 +16196,38 @@
       "games": {
         "haunted-mansion": {
           "bestScore": 50,
+          "date": "2026-05-19",
+          "rank": 8
+        }
+      }
+    },
+    "Guest10150445": {
+      "avatar": null,
+      "lastSeen": "2026-05-19",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-05-19"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 478,
+          "date": "2026-05-19",
+          "rank": 7
+        }
+      }
+    },
+    "Guest10124065": {
+      "avatar": null,
+      "lastSeen": "2026-05-19",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-05-19"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 52,
           "date": "2026-05-19",
           "rank": 8
         }
