@@ -36,7 +36,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-05-20"
       },
       "games": {
@@ -185,7 +185,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-05-20"
       },
       "games": {
@@ -690,7 +690,7 @@
       }
     },
     "tizzi": {
-      "avatar": "e0a3bcf9b06afc1b1e42a961b9717dfe.png",
+      "avatar": "99b280fb411a9edbd37c088dd0074c54.png",
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "pirates",
@@ -952,11 +952,11 @@
     },
     "Sandblasted_OctoNuggie": {
       "avatar": "757fce4b39a126af9e5619b70a196a84.png",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-05-19"
+        "rank": 4,
+        "date": "2026-05-20"
       },
       "games": {
         "haunted-mansion": {
@@ -989,7 +989,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 7,
         "date": "2026-05-20"
       },
       "games": {
@@ -1229,11 +1229,11 @@
     },
     "Shadow_Rose": {
       "avatar": "640819ff44f23fc270ac6194c3e1569e.png",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-05-19"
+        "rank": 3,
+        "date": "2026-05-20"
       },
       "games": {
         "haunted-mansion": {
@@ -2157,11 +2157,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "0a38363c50b94e68656145874cc0b289.png",
-      "lastSeen": "2026-05-17",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 4,
-        "date": "2026-05-17"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-05-20"
       },
       "games": {
         "haunted-mansion": {
@@ -2434,11 +2434,11 @@
     },
     "shelbitb": {
       "avatar": "caa48a3a5f4e6c4f9f002b3b39e29e43.png",
-      "lastSeen": "2026-05-18",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-05-18"
+        "rank": 6,
+        "date": "2026-05-20"
       },
       "games": {
         "haunted-mansion": {
@@ -2607,11 +2607,11 @@
     },
     "AtziriDayre": {
       "avatar": "dd1a97a71903ef555114d96b543ddc9d.png",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-05-19"
+        "rank": 4,
+        "date": "2026-05-20"
       },
       "games": {
         "jungle-cruise": {
@@ -2805,7 +2805,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-05-20"
       },
       "games": {
@@ -3680,12 +3680,12 @@
       }
     },
     "Fotogirl": {
-      "avatar": "28591cde84bc0b84ec4f55e0df68316c.png",
-      "lastSeen": "2026-05-09",
+      "avatar": "d5fb51f4e9d4409492853cff0d16cb39.png",
+      "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-05-09"
+        "rank": 1,
+        "date": "2026-05-20"
       },
       "games": {
         "jungle-cruise": {
@@ -3808,7 +3808,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-05-20"
       },
       "games": {
@@ -8709,11 +8709,11 @@
       }
     },
     "TrackSunnyGirl": {
-      "avatar": "9a5a779cef1a677f299d3ea442fab7f5.png",
+      "avatar": "7fa98f2fe0c25b6d90bf7e784cee9b10.png",
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-20"
       },
       "games": {
@@ -16277,6 +16277,16 @@
           "bestScore": 178,
           "date": "2026-05-19",
           "rank": 3
+        },
+        "castle-fireworks": {
+          "bestScore": 2731,
+          "date": "2026-05-20",
+          "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 35589,
+          "date": "2026-05-20",
+          "rank": 5
         }
       }
     },
@@ -16285,7 +16295,7 @@
       "lastSeen": "2026-05-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-05-20"
       },
       "games": {
