@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-22",
-  "userCount": 844,
+  "userCount": 845,
   "users": {
     "kazino": {
       "avatar": "84ef09eed5be6fe81c3c07f299a69073.png",
@@ -989,7 +989,7 @@
       "lastSeen": "2026-05-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-05-22"
       },
       "games": {
@@ -2157,11 +2157,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "0a38363c50b94e68656145874cc0b289.png",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-05-20"
+        "rank": 6,
+        "date": "2026-05-22"
       },
       "games": {
         "haunted-mansion": {
@@ -2720,8 +2720,8 @@
       "avatar": "8d69d9cbd27ca52f0a9fdbe7a1d9edb2.png",
       "lastSeen": "2026-05-22",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 10,
+        "game": "haunted-mansion",
+        "rank": 7,
         "date": "2026-05-22"
       },
       "games": {
@@ -4181,7 +4181,7 @@
       "lastSeen": "2026-05-22",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-05-22"
       },
       "games": {
@@ -4198,7 +4198,7 @@
       "lastSeen": "2026-05-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-22"
       },
       "games": {
@@ -6110,16 +6110,26 @@
     },
     "DCAfriend": {
       "avatar": null,
-      "lastSeen": "2026-03-05",
+      "lastSeen": "2026-05-22",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-03-05"
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-05-22"
       },
       "games": {
         "pirates": {
           "bestScore": 248,
           "date": "2026-01-31",
+          "rank": 6
+        },
+        "castle-fireworks": {
+          "bestScore": 5779,
+          "date": "2026-05-22",
+          "rank": 2
+        },
+        "jungle-cruise": {
+          "bestScore": 32428,
+          "date": "2026-05-22",
           "rank": 6
         }
       }
@@ -16362,8 +16372,8 @@
       "avatar": null,
       "lastSeen": "2026-05-22",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
+        "game": "castle-fireworks",
+        "rank": 5,
         "date": "2026-05-22"
       },
       "games": {
@@ -16376,6 +16386,11 @@
           "bestScore": 271,
           "date": "2026-05-21",
           "rank": 9
+        },
+        "jungle-cruise": {
+          "bestScore": 40211,
+          "date": "2026-05-22",
+          "rank": 5
         }
       }
     },
@@ -16477,6 +16492,22 @@
           "bestScore": 40,
           "date": "2026-05-22",
           "rank": 5
+        }
+      }
+    },
+    "QueenAna": {
+      "avatar": null,
+      "lastSeen": "2026-05-22",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-05-22"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 31289,
+          "date": "2026-05-22",
+          "rank": 7
         }
       }
     }
