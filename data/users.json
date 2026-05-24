@@ -65,7 +65,7 @@
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-05-24"
       },
       "games": {
@@ -1250,7 +1250,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "10b5995789f787c2a6b0525d0f3f57e6.png",
+      "avatar": "99d47689288ca1882b95e80b607ce5d4.png",
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1737,7 +1737,7 @@
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-05-24"
       },
       "games": {
@@ -10221,11 +10221,11 @@
     },
     "Horse": {
       "avatar": "561b017648f9909fd2fd0e1143de67a7.png",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-24",
       "lastAppearance": {
-        "game": "jungle-cruise",
+        "game": "haunted-mansion",
         "rank": 10,
-        "date": "2026-05-20"
+        "date": "2026-05-24"
       },
       "games": {
         "jungle-cruise": {
@@ -16392,15 +16392,15 @@
       "avatar": null,
       "lastSeen": "2026-05-24",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 3,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-05-24"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 2963,
-          "date": "2026-05-22",
-          "rank": 7
+          "bestScore": 4020,
+          "date": "2026-05-24",
+          "rank": 2
         },
         "pirates": {
           "bestScore": 271,
