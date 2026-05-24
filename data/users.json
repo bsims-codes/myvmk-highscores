@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-24",
-  "userCount": 855,
+  "userCount": 856,
   "users": {
     "kazino": {
       "avatar": "b6952c7a563fe72d57c76db3faa00529.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-24"
       },
       "games": {
@@ -5537,11 +5537,11 @@
     },
     "Squicky": {
       "avatar": "b4ad6aabe7c820821aa1492bc7250563.png",
-      "lastSeen": "2026-05-18",
+      "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
-        "date": "2026-05-18"
+        "rank": 1,
+        "date": "2026-05-24"
       },
       "games": {
         "pirates": {
@@ -12422,7 +12422,7 @@
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-05-24"
       },
       "games": {
@@ -14029,8 +14029,8 @@
       "avatar": "656f105e55233a9ae5e1663ac9ae6d51.png",
       "lastSeen": "2026-05-24",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
+        "game": "jungle-cruise",
+        "rank": 3,
         "date": "2026-05-24"
       },
       "games": {
@@ -14608,7 +14608,7 @@
       "lastSeen": "2026-05-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-05-24"
       },
       "games": {
@@ -16734,6 +16734,22 @@
           "bestScore": 97,
           "date": "2026-05-24",
           "rank": 7
+        }
+      }
+    },
+    "StinkyGoldenAlpaca": {
+      "avatar": null,
+      "lastSeen": "2026-05-24",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-05-24"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 195,
+          "date": "2026-05-24",
+          "rank": 2
         }
       }
     }
