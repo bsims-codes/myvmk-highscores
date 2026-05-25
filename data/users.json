@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-25",
-  "userCount": 862,
+  "userCount": 863,
   "users": {
     "kazino": {
       "avatar": "b6952c7a563fe72d57c76db3faa00529.png",
@@ -1250,7 +1250,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "6bcd15e864771d097bb492164d0cbc3f.png",
+      "avatar": "be39a846cc328fa0cfd622d8d1ef1b54.png",
       "lastSeen": "2026-05-25",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -4199,7 +4199,7 @@
       }
     },
     "Blueclay": {
-      "avatar": "09cf64155b33185b74be2faa64303dda.png",
+      "avatar": "1d1a768150dfb34f3f4f4c581182b7e8.png",
       "lastSeen": "2026-05-25",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -15753,9 +15753,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 7498,
-          "date": "2026-05-19",
-          "rank": 5
+          "bestScore": 7544,
+          "date": "2026-05-25",
+          "rank": 6
         },
         "jungle-cruise": {
           "bestScore": 43711,
@@ -16856,6 +16856,27 @@
           "bestScore": 5200,
           "date": "2026-05-25",
           "rank": 7
+        }
+      }
+    },
+    "TightropeWalker": {
+      "avatar": null,
+      "lastSeen": "2026-05-25",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-05-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2946,
+          "date": "2026-05-25",
+          "rank": 9
+        },
+        "jungle-cruise": {
+          "bestScore": 37882,
+          "date": "2026-05-25",
+          "rank": 8
         }
       }
     }
