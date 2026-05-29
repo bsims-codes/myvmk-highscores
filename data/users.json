@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-29",
-  "userCount": 881,
+  "userCount": 882,
   "users": {
     "kazino": {
       "avatar": "fcbac27a075e51ef424301f66e1f5da2.png",
@@ -969,11 +969,11 @@
     },
     "Niki2": {
       "avatar": "cb7e4bd9f0ae89b3ebd70a356fdd6d4c.png",
-      "lastSeen": "2026-05-24",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 10,
-        "date": "2026-05-24"
+        "date": "2026-05-29"
       },
       "games": {
         "haunted-mansion": {
@@ -1232,7 +1232,7 @@
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-05-29"
       },
       "games": {
@@ -1389,7 +1389,7 @@
       }
     },
     "MiLadyMoon": {
-      "avatar": "e20eaea6a11427a7744a10158b985890.png",
+      "avatar": "6717cb8c6d1863f55489bcf825a05d09.png",
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -15022,11 +15022,11 @@
       }
     },
     "MadCrazyTurtle": {
-      "avatar": "18c9dd61351d5717d622e8de0fbf0c0c.png",
+      "avatar": "6223803ead86765b8593b34969e40f43.png",
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-05-29"
       },
       "games": {
@@ -17192,6 +17192,22 @@
           "bestScore": 14448,
           "date": "2026-05-29",
           "rank": 7
+        }
+      }
+    },
+    "PrincessFunGirl": {
+      "avatar": null,
+      "lastSeen": "2026-05-29",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-05-29"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 61,
+          "date": "2026-05-29",
+          "rank": 10
         }
       }
     }
