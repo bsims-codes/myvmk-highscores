@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-29",
-  "userCount": 878,
+  "userCount": 880,
   "users": {
     "kazino": {
       "avatar": "fcbac27a075e51ef424301f66e1f5da2.png",
@@ -217,11 +217,11 @@
     },
     "JiminyC": {
       "avatar": "c199d8733041cab6927d81948f9da572.png",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-05-28"
+        "rank": 10,
+        "date": "2026-05-29"
       },
       "games": {
         "castle-fireworks": {
@@ -955,7 +955,7 @@
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 5,
         "date": "2026-05-29"
       },
       "games": {
@@ -1229,11 +1229,11 @@
     },
     "Shadow_Rose": {
       "avatar": "e22fa1eacd36fb968e556a938e17580e.png",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-05-28"
+        "rank": 8,
+        "date": "2026-05-29"
       },
       "games": {
         "haunted-mansion": {
@@ -1737,7 +1737,7 @@
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-05-29"
       },
       "games": {
@@ -2439,11 +2439,11 @@
     },
     "shelbitb": {
       "avatar": "caa48a3a5f4e6c4f9f002b3b39e29e43.png",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-05-28"
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-05-29"
       },
       "games": {
         "haunted-mansion": {
@@ -2453,9 +2453,9 @@
           "allTimeRank": 48
         },
         "jungle-cruise": {
-          "bestScore": 44079,
-          "date": "2026-03-13",
-          "rank": 6
+          "bestScore": 44783,
+          "date": "2026-05-29",
+          "rank": 3
         }
       }
     },
@@ -3813,7 +3813,7 @@
       "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-05-29"
       },
       "games": {
@@ -10221,11 +10221,11 @@
     },
     "Horse": {
       "avatar": "561b017648f9909fd2fd0e1143de67a7.png",
-      "lastSeen": "2026-05-24",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-05-24"
+        "rank": 4,
+        "date": "2026-05-29"
       },
       "games": {
         "jungle-cruise": {
@@ -14027,11 +14027,11 @@
     },
     "BigFoxMol": {
       "avatar": "656f105e55233a9ae5e1663ac9ae6d51.png",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-05-28"
+        "game": "castle-fireworks",
+        "rank": 3,
+        "date": "2026-05-29"
       },
       "games": {
         "jungle-cruise": {
@@ -17139,6 +17139,43 @@
           "bestScore": 43,
           "date": "2026-05-29",
           "rank": 6
+        }
+      }
+    },
+    "Raelynnn": {
+      "avatar": null,
+      "lastSeen": "2026-05-29",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 2,
+        "date": "2026-05-29"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3138,
+          "date": "2026-05-29",
+          "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 47851,
+          "date": "2026-05-29",
+          "rank": 2
+        }
+      }
+    },
+    "Guest10150549": {
+      "avatar": null,
+      "lastSeen": "2026-05-29",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-05-29"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 10612,
+          "date": "2026-05-29",
+          "rank": 5
         }
       }
     }
