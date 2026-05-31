@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-31",
-  "userCount": 889,
+  "userCount": 890,
   "users": {
     "kazino": {
       "avatar": "f40b3ee57d75a19bbcccf6e40482ca7c.png",
@@ -690,7 +690,7 @@
       }
     },
     "tizzi": {
-      "avatar": "4e6a5587d209e35d3ec0688967dab91a.png",
+      "avatar": "0009207ecfa2758cef1ef9c5e8ca68d6.png",
       "lastSeen": "2026-05-31",
       "lastAppearance": {
         "game": "pirates",
@@ -9232,7 +9232,7 @@
           "bestScore": 8045,
           "date": "2026-02-24",
           "rank": 6,
-          "allTimeRank": 48
+          "allTimeRank": 49
         },
         "jungle-cruise": {
           "bestScore": 45952,
@@ -9414,7 +9414,7 @@
           "bestScore": 8354,
           "date": "2026-04-08",
           "rank": 5,
-          "allTimeRank": 47
+          "allTimeRank": 48
         }
       }
     },
@@ -12775,7 +12775,7 @@
           "bestScore": 7994,
           "date": "2026-04-05",
           "rank": 5,
-          "allTimeRank": 49
+          "allTimeRank": 50
         },
         "pirates": {
           "bestScore": 249,
@@ -15758,10 +15758,10 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 7948,
+          "bestScore": 8115,
           "date": "2026-05-31",
           "rank": 3,
-          "allTimeRank": 50
+          "allTimeRank": 46
         },
         "jungle-cruise": {
           "bestScore": 43711,
@@ -16612,7 +16612,7 @@
           "bestScore": 8113,
           "date": "2026-05-23",
           "rank": 3,
-          "allTimeRank": 46
+          "allTimeRank": 47
         }
       }
     },
@@ -17331,6 +17331,22 @@
           "bestScore": 25080,
           "date": "2026-05-31",
           "rank": 6
+        }
+      }
+    },
+    "Guest10150562": {
+      "avatar": null,
+      "lastSeen": "2026-05-31",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-05-31"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 38626,
+          "date": "2026-05-31",
+          "rank": 10
         }
       }
     }
