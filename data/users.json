@@ -2815,7 +2815,7 @@
       "lastSeen": "2026-06-01",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-06-01"
       },
       "games": {
@@ -14037,11 +14037,11 @@
     },
     "BigFoxMol": {
       "avatar": "656f105e55233a9ae5e1663ac9ae6d51.png",
-      "lastSeen": "2026-05-30",
+      "lastSeen": "2026-06-01",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-05-30"
+        "game": "haunted-mansion",
+        "rank": 4,
+        "date": "2026-06-01"
       },
       "games": {
         "jungle-cruise": {
@@ -17312,14 +17312,14 @@
       "lastSeen": "2026-06-01",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 3,
         "date": "2026-06-01"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 42435,
-          "date": "2026-05-30",
-          "rank": 2
+          "bestScore": 46916,
+          "date": "2026-06-01",
+          "rank": 3
         }
       }
     },
@@ -17417,9 +17417,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 33774,
+          "bestScore": 36412,
           "date": "2026-06-01",
-          "rank": 6
+          "rank": 7
         }
       }
     }
