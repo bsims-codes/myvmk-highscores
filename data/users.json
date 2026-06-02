@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-02",
-  "userCount": 896,
+  "userCount": 899,
   "users": {
     "kazino": {
       "avatar": "3cecfa3c5f95e9d87354a9596d9b0a34.png",
@@ -3359,11 +3359,11 @@
     },
     "corietionne": {
       "avatar": null,
-      "lastSeen": "2026-01-25",
+      "lastSeen": "2026-06-02",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-01-25"
+        "rank": 7,
+        "date": "2026-06-02"
       },
       "games": {
         "castle-fireworks": {
@@ -3371,6 +3371,11 @@
           "date": "2026-01-12",
           "rank": 7,
           "allTimeRank": 50
+        },
+        "jungle-cruise": {
+          "bestScore": 22005,
+          "date": "2026-06-02",
+          "rank": 9
         }
       }
     },
@@ -17478,6 +17483,54 @@
           "bestScore": 24995,
           "date": "2026-06-02",
           "rank": 9
+        }
+      }
+    },
+    "Guest10150575": {
+      "avatar": null,
+      "lastSeen": "2026-06-02",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-06-02"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 211,
+          "date": "2026-06-02",
+          "rank": 8
+        }
+      }
+    },
+    "Bootstrap": {
+      "avatar": null,
+      "lastSeen": "2026-06-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-06-02"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 36129,
+          "date": "2026-06-02",
+          "rank": 7
+        }
+      }
+    },
+    "Guest10150580": {
+      "avatar": null,
+      "lastSeen": "2026-06-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-06-02"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 1349,
+          "date": "2026-06-02",
+          "rank": 10
         }
       }
     }
