@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-03",
-  "userCount": 902,
+  "userCount": 903,
   "users": {
     "kazino": {
       "avatar": "3cecfa3c5f95e9d87354a9596d9b0a34.png",
@@ -5996,7 +5996,7 @@
       "lastSeen": "2026-06-03",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-06-03"
       },
       "games": {
@@ -14864,11 +14864,11 @@
     },
     "Lazarus": {
       "avatar": "be7a9d7efb427a10cd12f5df9bbb50c3.png",
-      "lastSeen": "2026-05-26",
+      "lastSeen": "2026-06-03",
       "lastAppearance": {
-        "game": "pirates",
+        "game": "haunted-mansion",
         "rank": 8,
-        "date": "2026-05-26"
+        "date": "2026-06-03"
       },
       "games": {
         "haunted-mansion": {
@@ -17579,6 +17579,22 @@
           "bestScore": 26053,
           "date": "2026-06-03",
           "rank": 7
+        }
+      }
+    },
+    "tecuanila": {
+      "avatar": null,
+      "lastSeen": "2026-06-03",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-06-03"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 462,
+          "date": "2026-06-03",
+          "rank": 5
         }
       }
     }
