@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-06",
-  "userCount": 911,
+  "userCount": 912,
   "users": {
     "kazino": {
       "avatar": "3cecfa3c5f95e9d87354a9596d9b0a34.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-06-06"
       },
       "games": {
@@ -2073,11 +2073,11 @@
     },
     "AppleLimitless": {
       "avatar": "3eb0ece837240e43ff7e008b613973cd.png",
-      "lastSeen": "2026-03-18",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-03-18"
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-06-06"
       },
       "games": {
         "haunted-mansion": {
@@ -2359,11 +2359,11 @@
     },
     "hopealicious": {
       "avatar": "1bbca12ceca267bb9a82c4a3d6dc8ab6.png",
-      "lastSeen": "2026-05-26",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-05-26"
+        "rank": 4,
+        "date": "2026-06-06"
       },
       "games": {
         "pirates": {
@@ -3488,11 +3488,11 @@
     },
     "eeriee": {
       "avatar": "bb90c93b34d12896ab9ae37248a57be4.png",
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-06-05"
+        "rank": 5,
+        "date": "2026-06-06"
       },
       "games": {
         "pirates": {
@@ -5557,11 +5557,11 @@
     },
     "Squicky": {
       "avatar": "b4ad6aabe7c820821aa1492bc7250563.png",
-      "lastSeen": "2026-05-26",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
-        "date": "2026-05-26"
+        "rank": 6,
+        "date": "2026-06-06"
       },
       "games": {
         "pirates": {
@@ -16407,7 +16407,7 @@
       "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-06-06"
       },
       "games": {
@@ -17768,6 +17768,22 @@
           "bestScore": 7127,
           "date": "2026-06-06",
           "rank": 10
+        }
+      }
+    },
+    "Spuddley": {
+      "avatar": null,
+      "lastSeen": "2026-06-06",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-06-06"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 208,
+          "date": "2026-06-06",
+          "rank": 9
         }
       }
     }
