@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "scrapedAt": "2026-06-06T13:57:53.048Z",
+  "scrapedAt": "2026-06-06T16:11:56.719Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -11,6 +11,11 @@
             "rank": 1,
             "username": "JustForFun",
             "score": 9816
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7045
           }
         ]
       },
@@ -123,7 +128,7 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "e3536df9d9deb2456611b7eb5f017cbc.png",
+        "topAvatar": "a8b9d34ddc19f4050187f94d5d5d02b6.png",
         "scores": [
           {
             "rank": 1,
@@ -178,7 +183,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "e3536df9d9deb2456611b7eb5f017cbc.png",
+        "topAvatar": "a8b9d34ddc19f4050187f94d5d5d02b6.png",
         "scores": [
           {
             "rank": 1,
@@ -305,33 +310,43 @@
           },
           {
             "rank": 3,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 52
+            "username": "EVOL",
+            "score": 61
           },
           {
             "rank": 4,
-            "username": "Shadow_Rose",
-            "score": 50
+            "username": "Sandblasted_OctoNuggie",
+            "score": 58
           },
           {
             "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 54
+          },
+          {
+            "rank": 6,
             "username": "PrincessFunGirl",
             "score": 47
           },
           {
-            "rank": 6,
-            "username": "EVOL",
-            "score": 35
-          },
-          {
             "rank": 7,
-            "username": "Pirateboi",
-            "score": 31
+            "username": "PURR",
+            "score": 47
           },
           {
             "rank": 8,
-            "username": "kazino",
-            "score": 29
+            "username": "MiLadyMoon",
+            "score": 43
+          },
+          {
+            "rank": 9,
+            "username": "PrincessCutezada",
+            "score": 41
+          },
+          {
+            "rank": 10,
+            "username": "Pirateboi",
+            "score": 31
           }
         ]
       },
@@ -468,16 +483,21 @@
           },
           {
             "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 40754
+          },
+          {
+            "rank": 5,
             "username": "Princessmagic",
             "score": 39695
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "starmagic",
             "score": 37625
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "Guest10150617",
             "score": 29717
           }
@@ -539,7 +559,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "61d4519aaa58e392d421df79cdae35d0.png",
+        "topAvatar": "5e7a45acc4d11bc61167dc1510ad1064.png",
         "scores": [
           {
             "rank": 1,
