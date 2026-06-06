@@ -61,7 +61,7 @@
       }
     },
     "JustForFun": {
-      "avatar": "4ab5dc3e6183b71315a5359fa1833daa.png",
+      "avatar": "b54494163cd9812a5b5d4332f0a39280.png",
       "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -772,7 +772,7 @@
       "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-06-06"
       },
       "games": {
@@ -3602,11 +3602,11 @@
     },
     "Cool_Beanss": {
       "avatar": null,
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-06-05"
+        "rank": 10,
+        "date": "2026-06-06"
       },
       "games": {
         "haunted-mansion": {
@@ -13845,16 +13845,21 @@
     },
     "Princessmagic": {
       "avatar": null,
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-06-06",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-05-01"
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-06-06"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 121,
           "date": "2026-04-16",
+          "rank": 4
+        },
+        "jungle-cruise": {
+          "bestScore": 39320,
+          "date": "2026-06-06",
           "rank": 4
         }
       }

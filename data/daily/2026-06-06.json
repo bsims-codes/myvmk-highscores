@@ -1,15 +1,21 @@
 {
   "date": "2026-06-06",
-  "scrapedAt": "2026-06-06T08:41:45.646Z",
+  "scrapedAt": "2026-06-06T10:56:41.294Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "b54494163cd9812a5b5d4332f0a39280.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "JustForFun",
+            "score": 9816
+          }
+        ]
       },
       "yesterday": {
-        "topAvatar": "4ab5dc3e6183b71315a5359fa1833daa.png",
+        "topAvatar": "b54494163cd9812a5b5d4332f0a39280.png",
         "scores": [
           {
             "rank": 1,
@@ -221,7 +227,7 @@
           },
           {
             "rank": 10,
-            "username": "goatduck",
+            "username": "Cool_Beanss",
             "score": 218
           }
         ]
@@ -285,12 +291,12 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "4ab5dc3e6183b71315a5359fa1833daa.png",
+        "topAvatar": "b54494163cd9812a5b5d4332f0a39280.png",
         "scores": [
           {
             "rank": 1,
             "username": "JustForFun",
-            "score": 62
+            "score": 66
           },
           {
             "rank": 2,
@@ -306,6 +312,11 @@
             "rank": 4,
             "username": "PrincessFunGirl",
             "score": 47
+          },
+          {
+            "rank": 5,
+            "username": "kazino",
+            "score": 29
           }
         ]
       },
@@ -399,12 +410,12 @@
           },
           {
             "rank": 7,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
             "rank": 8,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
@@ -442,11 +453,16 @@
           },
           {
             "rank": 4,
+            "username": "Princessmagic",
+            "score": 39320
+          },
+          {
+            "rank": 5,
             "username": "starmagic",
             "score": 37625
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Guest10150617",
             "score": 29717
           }
