@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-07",
-  "userCount": 917,
+  "userCount": 918,
   "users": {
     "kazino": {
       "avatar": "3cecfa3c5f95e9d87354a9596d9b0a34.png",
@@ -700,7 +700,7 @@
       }
     },
     "tizzi": {
-      "avatar": "cdf62ae9d51a38ab3a5f2c3192ec6e09.png",
+      "avatar": "4d7fc285478418fc48d9f80e8c8057b5.png",
       "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "pirates",
@@ -14641,17 +14641,17 @@
     },
     "KaseyAmber": {
       "avatar": null,
-      "lastSeen": "2026-05-30",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-05-30"
+        "rank": 4,
+        "date": "2026-06-07"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 95,
-          "date": "2026-05-29",
-          "rank": 8
+          "bestScore": 106,
+          "date": "2026-06-07",
+          "rank": 4
         },
         "castle-fireworks": {
           "bestScore": 2743,
@@ -17866,6 +17866,22 @@
           "bestScore": 2978,
           "date": "2026-06-07",
           "rank": 4
+        }
+      }
+    },
+    "PrincessSpaceMouse": {
+      "avatar": null,
+      "lastSeen": "2026-06-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-06-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 560,
+          "date": "2026-06-07",
+          "rank": 9
         }
       }
     }
