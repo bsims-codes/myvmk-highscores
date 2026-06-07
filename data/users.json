@@ -792,11 +792,11 @@
     },
     "CartNarcs": {
       "avatar": "cc1314f67afbc23d937989fbb6524348.png",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-06-06"
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-06-07"
       },
       "games": {
         "pirates": {
@@ -1138,11 +1138,11 @@
     },
     "AmandaJeanne": {
       "avatar": "9da1afd1f362ff717e7c31225e3f82b6.png",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-05-29"
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-06-07"
       },
       "games": {
         "haunted-mansion": {
@@ -9516,11 +9516,11 @@
     },
     "Katey": {
       "avatar": null,
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 8,
-        "date": "2026-05-05"
+        "date": "2026-06-07"
       },
       "games": {
         "jungle-cruise": {
@@ -16421,17 +16421,18 @@
     },
     "Firebreath": {
       "avatar": null,
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
-        "date": "2026-06-01"
+        "rank": 2,
+        "date": "2026-06-07"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 8203,
           "date": "2026-05-31",
-          "rank": 5
+          "rank": 5,
+          "allTimeRank": 50
         },
         "jungle-cruise": {
           "bestScore": 49319,
