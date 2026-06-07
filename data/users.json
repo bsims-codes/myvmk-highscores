@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-07",
-  "userCount": 916,
+  "userCount": 917,
   "users": {
     "kazino": {
       "avatar": "3cecfa3c5f95e9d87354a9596d9b0a34.png",
@@ -185,7 +185,7 @@
       "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-06-07"
       },
       "games": {
@@ -240,11 +240,11 @@
     },
     "PuffyOldDragon": {
       "avatar": "a3ea16c47d06d28d6ea5636d330a4f53.png",
-      "lastSeen": "2026-03-14",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-03-14"
+        "game": "jungle-cruise",
+        "rank": 2,
+        "date": "2026-06-07"
       },
       "games": {
         "castle-fireworks": {
@@ -1747,7 +1747,7 @@
       "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-06-07"
       },
       "games": {
@@ -13846,11 +13846,11 @@
     },
     "Princessmagic": {
       "avatar": null,
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
-        "date": "2026-06-06"
+        "rank": 6,
+        "date": "2026-06-07"
       },
       "games": {
         "haunted-mansion": {
@@ -17257,7 +17257,7 @@
       "lastSeen": "2026-06-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 7,
         "date": "2026-06-07"
       },
       "games": {
@@ -17849,6 +17849,22 @@
           "bestScore": 9670,
           "date": "2026-06-07",
           "rank": 5
+        }
+      }
+    },
+    "Guest10150634": {
+      "avatar": null,
+      "lastSeen": "2026-06-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-06-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2978,
+          "date": "2026-06-07",
+          "rank": 4
         }
       }
     }
