@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "scrapedAt": "2026-06-08T16:07:05.496Z",
+  "scrapedAt": "2026-06-08T20:26:23.761Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -34,6 +34,11 @@
           },
           {
             "rank": 6,
+            "username": "PrincessCutezada",
+            "score": 3667
+          },
+          {
+            "rank": 7,
             "username": "Guest10150641",
             "score": 716
           }
@@ -227,12 +232,12 @@
           },
           {
             "rank": 4,
-            "username": "Squicky",
+            "username": "GypsyRose",
             "score": 285
           },
           {
             "rank": 5,
-            "username": "GypsyRose",
+            "username": "Squicky",
             "score": 285
           },
           {
@@ -326,7 +331,7 @@
           {
             "rank": 1,
             "username": "Blueclay",
-            "score": 129
+            "score": 134
           },
           {
             "rank": 2,
@@ -350,17 +355,17 @@
           },
           {
             "rank": 6,
-            "username": "JustForFun",
+            "username": "MissAnnaNovang",
             "score": 57
           },
           {
             "rank": 7,
-            "username": "Shadow_Rose",
+            "username": "JustForFun",
             "score": 57
           },
           {
             "rank": 8,
-            "username": "MissAnnaNovang",
+            "username": "Shadow_Rose",
             "score": 57
           },
           {
@@ -390,12 +395,12 @@
           },
           {
             "rank": 3,
-            "username": "MissyKinz",
+            "username": "Niki2",
             "score": 126
           },
           {
             "rank": 4,
-            "username": "Niki2",
+            "username": "MissyKinz",
             "score": 126
           },
           {
@@ -480,7 +485,7 @@
           },
           {
             "rank": 10,
-            "username": "Niki2",
+            "username": "Sandblasted_OctoNuggie",
             "score": 144
           }
         ]
@@ -489,47 +494,57 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
+        "topAvatar": "044e085f79227d104cc586360c0d2ae6.png",
         "scores": [
           {
             "rank": 1,
+            "username": "DesKismet",
+            "score": 55893
+          },
+          {
+            "rank": 2,
+            "username": "crimsonskies",
+            "score": 49625
+          },
+          {
+            "rank": 3,
+            "username": "Mirk",
+            "score": 47615
+          },
+          {
+            "rank": 4,
             "username": "BlueSorcerer",
             "score": 47375
           },
           {
-            "rank": 2,
+            "rank": 5,
             "username": "shelbitb",
             "score": 44912
           },
           {
-            "rank": 3,
+            "rank": 6,
+            "username": "JellyFishFriend",
+            "score": 41956
+          },
+          {
+            "rank": 7,
             "username": "MissAnnaNovang",
             "score": 41166
           },
           {
-            "rank": 4,
-            "username": "JellyFishFriend",
-            "score": 40964
-          },
-          {
-            "rank": 5,
+            "rank": 8,
             "username": "mickeygirl55",
             "score": 38787
           },
           {
-            "rank": 6,
-            "username": "Guest10150641",
-            "score": 19274
+            "rank": 9,
+            "username": "TinkerLaceyBell",
+            "score": 38768
           },
           {
-            "rank": 7,
-            "username": "LuckyThunder",
-            "score": 10624
-          },
-          {
-            "rank": 8,
-            "username": "Jas_Moriarty",
-            "score": 2631
+            "rank": 10,
+            "username": "AtziriDayre",
+            "score": 37937
           }
         ]
       },
