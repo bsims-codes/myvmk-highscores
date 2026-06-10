@@ -1,26 +1,36 @@
 {
   "date": "2026-06-10",
-  "scrapedAt": "2026-06-10T10:13:52.552Z",
+  "scrapedAt": "2026-06-10T15:53:16.132Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "d012fa371082fe4d2847e0461bde0d57.png",
+        "topAvatar": "4b01c6e054d3e4b879e1f4fc4e53a150.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10992
+          },
+          {
+            "rank": 2,
             "username": "JustForFun",
             "score": 9010
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "GypsyRose",
             "score": 8199
+          },
+          {
+            "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 164
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "3f6d0cb56379fe2c16c676ec6642953e.png",
+        "topAvatar": "4b01c6e054d3e4b879e1f4fc4e53a150.png",
         "scores": [
           {
             "rank": 1,
@@ -250,52 +260,62 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "c068aadc3ce82916615d15aba9e1690a.png",
+        "topAvatar": "3c2684d730702a73b7d35c3beba343ad.png",
         "scores": [
           {
             "rank": 1,
+            "username": "PrincessCutezada",
+            "score": 121
+          },
+          {
+            "rank": 2,
+            "username": "JustForFun",
+            "score": 98
+          },
+          {
+            "rank": 3,
             "username": "Shadow_Rose",
             "score": 71
           },
           {
-            "rank": 2,
+            "rank": 4,
+            "username": "EVOL",
+            "score": 65
+          },
+          {
+            "rank": 5,
             "username": "Sandblasted_OctoNuggie",
             "score": 64
           },
           {
-            "rank": 3,
-            "username": "JustForFun",
+            "rank": 6,
+            "username": "Bernardo_S_Rocks",
             "score": 58
           },
           {
-            "rank": 4,
+            "rank": 7,
+            "username": "JiminyC",
+            "score": 58
+          },
+          {
+            "rank": 8,
             "username": "Myth",
             "score": 47
           },
           {
-            "rank": 5,
+            "rank": 9,
             "username": "CartNarcs",
             "score": 43
           },
           {
-            "rank": 6,
+            "rank": 10,
             "username": "AmandaJeanne",
             "score": 38
-          },
-          {
-            "rank": 7,
-            "username": "SpideyxLei",
-            "score": 30
-          },
-          {
-            "rank": 8,
-            "username": "kazino",
-            "score": 29
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "a870433966b5f50a9fa2c85cfcbd7564.png",
+        "topAvatar": "c9368d2d05cbffc81a40eaffc74616ff.png",
         "scores": [
           {
             "rank": 1,
@@ -384,12 +404,12 @@
           },
           {
             "rank": 7,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
             "rank": 8,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
@@ -408,8 +428,24 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 47439
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 40675
+          },
+          {
+            "rank": 3,
+            "username": "Pancake",
+            "score": 0
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "2dc21bb27c0427de9182c2aad36b1ff2.png",
