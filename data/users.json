@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-10",
-  "userCount": 930,
+  "userCount": 933,
   "users": {
     "kazino": {
       "avatar": "ef59bae8c8c098b2f389416206b90be7.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-06-10",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-06-10"
       },
       "games": {
@@ -505,11 +505,11 @@
       }
     },
     "Erie": {
-      "avatar": "f5d6705d55c41a0277f6b2962d280421.png",
+      "avatar": "7efc57c68d5fba3f06ee29d42d2fcec9.png",
       "lastSeen": "2026-06-10",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 1,
         "date": "2026-06-10"
       },
       "games": {
@@ -704,7 +704,7 @@
       "lastSeen": "2026-06-10",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-06-10"
       },
       "games": {
@@ -2678,8 +2678,8 @@
       "avatar": "962501558e2cf044ea8d04a154311410.png",
       "lastSeen": "2026-06-10",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
+        "game": "pirates",
+        "rank": 4,
         "date": "2026-06-10"
       },
       "games": {
@@ -3493,11 +3493,11 @@
     },
     "eeriee": {
       "avatar": "bb90c93b34d12896ab9ae37248a57be4.png",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-10",
       "lastAppearance": {
         "game": "pirates",
         "rank": 8,
-        "date": "2026-06-08"
+        "date": "2026-06-10"
       },
       "games": {
         "pirates": {
@@ -8262,11 +8262,11 @@
     },
     "Glaze": {
       "avatar": "26739fcec8fe340a8870b6678b40c1fc.png",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-06-06"
+        "rank": 4,
+        "date": "2026-06-10"
       },
       "games": {
         "haunted-mansion": {
@@ -16170,8 +16170,8 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4669,
-          "date": "2026-06-09",
+          "bestScore": 4743,
+          "date": "2026-06-10",
           "rank": 5
         },
         "jungle-cruise": {
@@ -16453,11 +16453,11 @@
     },
     "PlainOPirate": {
       "avatar": null,
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-10",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 7,
-        "date": "2026-06-03"
+        "game": "pirates",
+        "rank": 10,
+        "date": "2026-06-10"
       },
       "games": {
         "castle-fireworks": {
@@ -17265,17 +17265,22 @@
     },
     "PrincessFunGirl": {
       "avatar": "1289c9c3731ce3df6f10d873404e656e.png",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-06-09"
+        "game": "pirates",
+        "rank": 7,
+        "date": "2026-06-10"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 75,
           "date": "2026-06-02",
           "rank": 10
+        },
+        "pirates": {
+          "bestScore": 128,
+          "date": "2026-06-10",
+          "rank": 7
         }
       }
     },
@@ -17434,12 +17439,12 @@
       }
     },
     "DarkStormyNightxo": {
-      "avatar": "d253c3ab64a6a3a2fd7a9c24d587af65.png",
-      "lastSeen": "2026-06-09",
+      "avatar": "413b1fb342a2974964da762eea039c6c.png",
+      "lastSeen": "2026-06-10",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
-        "date": "2026-06-09"
+        "game": "castle-fireworks",
+        "rank": 1,
+        "date": "2026-06-10"
       },
       "games": {
         "castle-fireworks": {
@@ -18099,6 +18104,59 @@
           "bestScore": 0,
           "date": null,
           "rank": null
+        }
+      }
+    },
+    "Guest10150664": {
+      "avatar": null,
+      "lastSeen": "2026-06-10",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 5,
+        "date": "2026-06-10"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 423,
+          "date": "2026-06-10",
+          "rank": 9
+        },
+        "pirates": {
+          "bestScore": 170,
+          "date": "2026-06-10",
+          "rank": 5
+        }
+      }
+    },
+    "MrChemistry": {
+      "avatar": null,
+      "lastSeen": "2026-06-10",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-06-10"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 61,
+          "date": "2026-06-10",
+          "rank": 9
+        }
+      }
+    },
+    "Minutes": {
+      "avatar": "fe75ca849e90a6e435923f5784750703.png",
+      "lastSeen": "2026-06-10",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 1,
+        "date": "2026-06-10"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 50222,
+          "date": "2026-06-10",
+          "rank": 1
         }
       }
     }
