@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "scrapedAt": "2026-06-12T10:23:58.619Z",
+  "scrapedAt": "2026-06-12T15:29:59.751Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -29,6 +29,11 @@
           },
           {
             "rank": 5,
+            "username": "topster",
+            "score": 2569
+          },
+          {
+            "rank": 6,
             "username": "Jas_Moriarty",
             "score": 0
           }
@@ -284,33 +289,38 @@
           },
           {
             "rank": 4,
+            "username": "JustForFun",
+            "score": 74
+          },
+          {
+            "rank": 5,
             "username": "Sandblasted_OctoNuggie",
             "score": 72
           },
           {
-            "rank": 5,
-            "username": "JustForFun",
-            "score": 56
-          },
-          {
             "rank": 6,
-            "username": "PrincessCutezada",
-            "score": 46
+            "username": "EVOL",
+            "score": 65
           },
           {
             "rank": 7,
-            "username": "ScoobyRoo",
-            "score": 40
+            "username": "Mizzpixie",
+            "score": 54
           },
           {
             "rank": 8,
-            "username": "DarkStormyNightxo",
-            "score": 34
+            "username": "MissyKinz",
+            "score": 50
           },
           {
             "rank": 9,
-            "username": "Jas_Moriarty",
-            "score": 0
+            "username": "PrincessCutezada",
+            "score": 49
+          },
+          {
+            "rank": 10,
+            "username": "Horse",
+            "score": 47
           }
         ]
       },
@@ -428,8 +438,14 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "374d3ef7f87db2571fcbc4b8c8a22d5e.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "topster",
+            "score": 47544
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
