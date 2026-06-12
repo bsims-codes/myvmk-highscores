@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "scrapedAt": "2026-06-12T15:29:59.751Z",
+  "scrapedAt": "2026-06-12T20:19:36.650Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -304,23 +304,23 @@
           },
           {
             "rank": 7,
+            "username": "Horse",
+            "score": 56
+          },
+          {
+            "rank": 8,
             "username": "Mizzpixie",
             "score": 54
           },
           {
-            "rank": 8,
-            "username": "MissyKinz",
+            "rank": 9,
+            "username": "PrincessCutezada",
             "score": 50
           },
           {
-            "rank": 9,
-            "username": "PrincessCutezada",
-            "score": 49
-          },
-          {
             "rank": 10,
-            "username": "Horse",
-            "score": 47
+            "username": "MissyKinz",
+            "score": 50
           }
         ]
       },
@@ -419,12 +419,12 @@
           },
           {
             "rank": 8,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
             "rank": 9,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
@@ -438,12 +438,32 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "374d3ef7f87db2571fcbc4b8c8a22d5e.png",
+        "topAvatar": "35ce96d14b4f3040ffbea0c0789400ff.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Redboba",
+            "score": 50175
+          },
+          {
+            "rank": 2,
             "username": "topster",
             "score": 47544
+          },
+          {
+            "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 47114
+          },
+          {
+            "rank": 4,
+            "username": "AtziriDayre",
+            "score": 35265
+          },
+          {
+            "rank": 5,
+            "username": "Apple_White",
+            "score": 2487
           }
         ]
       },

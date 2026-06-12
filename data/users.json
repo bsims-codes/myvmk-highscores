@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-12",
-  "userCount": 939,
+  "userCount": 940,
   "users": {
     "kazino": {
       "avatar": "4dc086d672f6f51ddb437bf031a99070.png",
@@ -772,7 +772,7 @@
       "lastSeen": "2026-06-12",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-06-12"
       },
       "games": {
@@ -10250,7 +10250,7 @@
       "lastSeen": "2026-06-12",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 7,
         "date": "2026-06-12"
       },
       "games": {
@@ -15604,12 +15604,12 @@
       }
     },
     "Redboba": {
-      "avatar": null,
-      "lastSeen": "2026-05-22",
+      "avatar": "35ce96d14b4f3040ffbea0c0789400ff.png",
+      "lastSeen": "2026-06-12",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-05-22"
+        "rank": 1,
+        "date": "2026-06-12"
       },
       "games": {
         "jungle-cruise": {
@@ -18288,6 +18288,22 @@
           "bestScore": 47544,
           "date": "2026-06-12",
           "rank": 1
+        }
+      }
+    },
+    "Apple_White": {
+      "avatar": null,
+      "lastSeen": "2026-06-12",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-06-12"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 2487,
+          "date": "2026-06-12",
+          "rank": 5
         }
       }
     }
