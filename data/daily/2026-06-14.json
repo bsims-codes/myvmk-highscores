@@ -1,19 +1,29 @@
 {
   "date": "2026-06-14",
-  "scrapedAt": "2026-06-14T09:47:03.417Z",
+  "scrapedAt": "2026-06-14T14:18:51.123Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "75bbfd8774122b100f0edd491338f7fc.png",
+        "topAvatar": "dcf07e945f8203cec5bb024f3a62fd6a.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JustForFun",
+            "score": 8683
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7501
+          },
+          {
+            "rank": 3,
             "username": "Supercatygirl",
             "score": 7134
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "JellyFishFriend",
             "score": 5943
           }
@@ -274,12 +284,12 @@
           },
           {
             "rank": 5,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Shadow_Rose",
             "score": 97
           },
           {
             "rank": 6,
-            "username": "Shadow_Rose",
+            "username": "Sandblasted_OctoNuggie",
             "score": 97
           },
           {
@@ -294,18 +304,18 @@
           },
           {
             "rank": 9,
-            "username": "CartNarcs",
-            "score": 51
+            "username": "JustForFun",
+            "score": 61
           },
           {
             "rank": 10,
-            "username": "Bernardo_S_Rocks",
-            "score": 51
+            "username": "PrinceGeminii",
+            "score": 55
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "5620bc6cf24fe3d618379e0c86cfb16d.png",
+        "topAvatar": "d2c219e1e7cd1c3b448e333c55602a84.png",
         "scores": [
           {
             "rank": 1,
@@ -379,12 +389,12 @@
           },
           {
             "rank": 4,
-            "username": "Blueclay",
+            "username": "EVOL",
             "score": 155
           },
           {
             "rank": 5,
-            "username": "EVOL",
+            "username": "Blueclay",
             "score": 155
           },
           {
@@ -427,11 +437,16 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 41053
+          },
+          {
+            "rank": 3,
             "username": "rockin_rachael",
             "score": 39801
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Guest10150683",
             "score": 0
           }
