@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-16",
-  "userCount": 955,
+  "userCount": 956,
   "users": {
     "kazino": {
       "avatar": "4dc086d672f6f51ddb437bf031a99070.png",
@@ -184,8 +184,8 @@
       "avatar": "aa4a669047cf045aaca9a4e5ec667854.png",
       "lastSeen": "2026-06-16",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-06-16"
       },
       "games": {
@@ -2627,11 +2627,11 @@
     },
     "AtziriDayre": {
       "avatar": "dd1a97a71903ef555114d96b543ddc9d.png",
-      "lastSeen": "2026-06-15",
+      "lastSeen": "2026-06-16",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-06-15"
+        "rank": 7,
+        "date": "2026-06-16"
       },
       "games": {
         "jungle-cruise": {
@@ -18576,9 +18576,25 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 11279,
+          "bestScore": 39214,
           "date": "2026-06-16",
-          "rank": 4
+          "rank": 6
+        }
+      }
+    },
+    "Guest10150701": {
+      "avatar": null,
+      "lastSeen": "2026-06-16",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-06-16"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 34894,
+          "date": "2026-06-16",
+          "rank": 8
         }
       }
     }
