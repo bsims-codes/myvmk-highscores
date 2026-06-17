@@ -1,21 +1,36 @@
 {
   "date": "2026-06-17",
-  "scrapedAt": "2026-06-17T11:08:20.452Z",
+  "scrapedAt": "2026-06-17T15:52:12.349Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "7dc55db917decbf2950c7fecc2d4fa2f.png",
+        "topAvatar": "e995d677e4fe279104866f8bc9f9fa74.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 11135
+          },
+          {
+            "rank": 2,
+            "username": "JustForFun",
+            "score": 8960
+          },
+          {
+            "rank": 3,
             "username": "GypsyRose",
             "score": 7868
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "JellyFishFriend",
             "score": 5945
+          },
+          {
+            "rank": 5,
+            "username": "PrincessCutezada",
+            "score": 4406
           }
         ]
       },
@@ -256,6 +271,11 @@
             "rank": 3,
             "username": "JustForFun",
             "score": 63
+          },
+          {
+            "rank": 4,
+            "username": "PrincessCutezada",
+            "score": 44
           }
         ]
       },
@@ -359,12 +379,12 @@
           },
           {
             "rank": 9,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           },
           {
             "rank": 10,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           }
         ]
@@ -378,7 +398,12 @@
           {
             "rank": 1,
             "username": "BlueSorcerer",
-            "score": 47916
+            "score": 48583
+          },
+          {
+            "rank": 2,
+            "username": "PrincessCutezada",
+            "score": 39339
           }
         ]
       },
