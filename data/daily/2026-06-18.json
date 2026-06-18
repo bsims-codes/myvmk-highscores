@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "scrapedAt": "2026-06-18T15:40:20.195Z",
+  "scrapedAt": "2026-06-18T20:33:30.428Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -300,13 +300,13 @@
           },
           {
             "rank": 5,
-            "username": "EVOL",
-            "score": 60
+            "username": "JustForFun",
+            "score": 62
           },
           {
             "rank": 6,
-            "username": "JustForFun",
-            "score": 56
+            "username": "EVOL",
+            "score": 60
           },
           {
             "rank": 7,
@@ -320,13 +320,13 @@
           },
           {
             "rank": 9,
-            "username": "PrincessCutezada",
-            "score": 33
+            "username": "Myth",
+            "score": 45
           },
           {
             "rank": 10,
-            "username": "kazino",
-            "score": 28
+            "username": "Naiant",
+            "score": 43
           }
         ]
       },
@@ -430,12 +430,12 @@
           },
           {
             "rank": 9,
-            "username": "dizlindsey",
+            "username": "PrinceGeminii",
             "score": 146
           },
           {
             "rank": 10,
-            "username": "PrinceGeminii",
+            "username": "dizlindsey",
             "score": 146
           }
         ]
@@ -444,22 +444,42 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "92b4d1ca31cb3f732ae168e6952121a1.png",
+        "topAvatar": "044e085f79227d104cc586360c0d2ae6.png",
         "scores": [
           {
             "rank": 1,
+            "username": "DesKismet",
+            "score": 54679
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 54140
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 48801
+          },
+          {
+            "rank": 4,
             "username": "JellyFishFriend",
             "score": 46564
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "MissAnnaNovang",
             "score": 41035
+          },
+          {
+            "rank": 6,
+            "username": "KhloeIsMyName",
+            "score": 38699
+          },
+          {
+            "rank": 7,
+            "username": "CHEFREMY",
+            "score": 34322
           }
         ]
       },

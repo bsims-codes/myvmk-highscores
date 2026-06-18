@@ -3823,11 +3823,11 @@
     },
     "KhloeIsMyName": {
       "avatar": null,
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-18",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 6,
-        "date": "2026-06-12"
+        "date": "2026-06-18"
       },
       "games": {
         "jungle-cruise": {
@@ -13063,7 +13063,7 @@
       "lastSeen": "2026-06-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-06-18"
       },
       "games": {
@@ -18504,11 +18504,11 @@
     },
     "CHEFREMY": {
       "avatar": null,
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-18",
       "lastAppearance": {
-        "game": "castle-fireworks",
+        "game": "jungle-cruise",
         "rank": 7,
-        "date": "2026-06-16"
+        "date": "2026-06-18"
       },
       "games": {
         "pirates": {
@@ -18519,6 +18519,11 @@
         "castle-fireworks": {
           "bestScore": 3156,
           "date": "2026-06-15",
+          "rank": 7
+        },
+        "jungle-cruise": {
+          "bestScore": 34322,
+          "date": "2026-06-18",
           "rank": 7
         }
       }
