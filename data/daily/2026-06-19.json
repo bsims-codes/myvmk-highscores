@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "scrapedAt": "2026-06-19T19:56:25.009Z",
+  "scrapedAt": "2026-06-19T22:09:34.049Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -281,57 +281,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "e7ed92477b181107d15c638f3c8e44e9.png",
+        "topAvatar": "c21a5014faf3035b912051a4ce45fcd0.png",
         "scores": [
           {
             "rank": 1,
             "username": "BigFoxMol",
-            "score": 116
+            "score": 129
           },
           {
             "rank": 2,
             "username": "JustForFun",
-            "score": 101
+            "score": 104
           },
           {
             "rank": 3,
+            "username": "CoolJamielie",
+            "score": 102
+          },
+          {
+            "rank": 4,
+            "username": "osc",
+            "score": 97
+          },
+          {
+            "rank": 5,
             "username": "Shadow_Rose",
             "score": 86
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Sandblasted_OctoNuggie",
             "score": 80
           },
           {
-            "rank": 5,
-            "username": "CoolJamielie",
+            "rank": 7,
+            "username": "SpookyBrightFairy",
             "score": 60
           },
           {
-            "rank": 6,
+            "rank": 8,
+            "username": "MissKayyy",
+            "score": 57
+          },
+          {
+            "rank": 9,
             "username": "Horse",
             "score": 52
           },
           {
-            "rank": 7,
+            "rank": 10,
             "username": "MissyKinz",
             "score": 51
-          },
-          {
-            "rank": 8,
-            "username": "osc",
-            "score": 51
-          },
-          {
-            "rank": 9,
-            "username": "MissAnnaNovang",
-            "score": 47
-          },
-          {
-            "rank": 10,
-            "username": "PrincessCutezada",
-            "score": 44
           }
         ]
       },
