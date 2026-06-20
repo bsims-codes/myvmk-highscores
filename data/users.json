@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-20",
-  "userCount": 971,
+  "userCount": 975,
   "users": {
     "kazino": {
       "avatar": "3fbf9e358320194b137dbf92f4adaabd.png",
@@ -11040,12 +11040,12 @@
       }
     },
     "Whitney": {
-      "avatar": "74114b90f55b4087b5c03e7afcbfd4e8.png",
-      "lastSeen": "2026-04-11",
+      "avatar": "43cf9f2f8ea516863fcabf47cd4fc51d.png",
+      "lastSeen": "2026-06-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-04-11"
+        "rank": 1,
+        "date": "2026-06-20"
       },
       "games": {
         "haunted-mansion": {
@@ -17280,11 +17280,11 @@
     },
     "PrincessFunGirl": {
       "avatar": "1289c9c3731ce3df6f10d873404e656e.png",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-06-19"
+        "rank": 8,
+        "date": "2026-06-20"
       },
       "games": {
         "haunted-mansion": {
@@ -18578,11 +18578,11 @@
     },
     "Masterpiece": {
       "avatar": null,
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-20",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-06-17"
+        "rank": 2,
+        "date": "2026-06-20"
       },
       "games": {
         "jungle-cruise": {
@@ -18861,6 +18861,80 @@
           "date": "2026-06-20",
           "rank": 1,
           "allTimeRank": 16
+        }
+      }
+    },
+    "FreyaPrincess67": {
+      "avatar": null,
+      "lastSeen": "2026-06-20",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-06-20"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 978,
+          "date": "2026-06-20",
+          "rank": 2
+        },
+        "haunted-mansion": {
+          "bestScore": 83,
+          "date": "2026-06-20",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 15898,
+          "date": "2026-06-20",
+          "rank": 7
+        }
+      }
+    },
+    "Akhylys": {
+      "avatar": null,
+      "lastSeen": "2026-06-20",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-06-20"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 91,
+          "date": "2026-06-20",
+          "rank": 2
+        }
+      }
+    },
+    "BeefyLongUnicorn": {
+      "avatar": null,
+      "lastSeen": "2026-06-20",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-06-20"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 16076,
+          "date": "2026-06-20",
+          "rank": 6
+        }
+      }
+    },
+    "MikeWDW": {
+      "avatar": null,
+      "lastSeen": "2026-06-20",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-06-20"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 13555,
+          "date": "2026-06-20",
+          "rank": 10
         }
       }
     }
