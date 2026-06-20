@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "scrapedAt": "2026-06-20T09:28:26.968Z",
+  "scrapedAt": "2026-06-20T14:18:47.026Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -281,16 +281,16 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "0f0819f74b7af3fcf7d7a3648a8d3e3b.png",
+        "topAvatar": "757fce4b39a126af9e5619b70a196a84.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Shadow_Rose",
+            "username": "Sandblasted_OctoNuggie",
             "score": 76
           },
           {
             "rank": 2,
-            "username": "Sandblasted_OctoNuggie",
+            "username": "Shadow_Rose",
             "score": 76
           },
           {
@@ -301,17 +301,32 @@
           {
             "rank": 4,
             "username": "JustForFun",
-            "score": 54
+            "score": 62
           },
           {
             "rank": 5,
+            "username": "Horse",
+            "score": 58
+          },
+          {
+            "rank": 6,
             "username": "KristiDB",
             "score": 48
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "PrincessCutezada",
             "score": 48
+          },
+          {
+            "rank": 8,
+            "username": "kazino",
+            "score": 29
+          },
+          {
+            "rank": 9,
+            "username": "PrinceGeminii",
+            "score": 29
           }
         ]
       },
@@ -429,8 +444,14 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "74932aaefe663992a4cb190f7cac2268.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "AtziriDayre",
+            "score": 0
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
