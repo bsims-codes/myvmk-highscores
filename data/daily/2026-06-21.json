@@ -1,34 +1,39 @@
 {
   "date": "2026-06-21",
-  "scrapedAt": "2026-06-21T14:24:23.989Z",
+  "scrapedAt": "2026-06-21T16:49:11.395Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "69b0ff836ddb321d463988bda635f8df.png",
+        "topAvatar": "2e6ac66d8f0f39b9ced17671bd28b4e9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10139
+          },
+          {
+            "rank": 2,
             "username": "JustForFun",
             "score": 9160
           },
           {
-            "rank": 2,
-            "username": "MissAnnaNovang",
-            "score": 6755
-          },
-          {
             "rank": 3,
-            "username": "MissyKinz",
-            "score": 6127
+            "username": "MissAnnaNovang",
+            "score": 6926
           },
           {
             "rank": 4,
             "username": "JellyFishFriend",
-            "score": 6085
+            "score": 6201
           },
           {
             "rank": 5,
+            "username": "MissyKinz",
+            "score": 6127
+          },
+          {
+            "rank": 6,
             "username": "PrincessCutezada",
             "score": 4638
           }
@@ -296,7 +301,7 @@
           {
             "rank": 1,
             "username": "TaterTotCasserole",
-            "score": 117
+            "score": 125
           },
           {
             "rank": 2,
@@ -315,33 +320,33 @@
           },
           {
             "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 110
+          },
+          {
+            "rank": 6,
             "username": "Mikki",
             "score": 109
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "prettykatie",
             "score": 107
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "PrincessCutezada",
             "score": 105
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Kroberts2018",
             "score": 98
           },
           {
-            "rank": 9,
-            "username": "Shadow_Rose",
-            "score": 77
-          },
-          {
             "rank": 10,
-            "username": "CartNarcs",
-            "score": 69
+            "username": "MissyKinz",
+            "score": 84
           }
         ]
       },
@@ -484,7 +489,12 @@
           {
             "rank": 5,
             "username": "MissAnnaNovang",
-            "score": 35273
+            "score": 40161
+          },
+          {
+            "rank": 6,
+            "username": "RoseBonbon",
+            "score": 39149
           }
         ]
       },
