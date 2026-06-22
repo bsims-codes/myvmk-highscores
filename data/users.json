@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-22",
-  "userCount": 978,
+  "userCount": 980,
   "users": {
     "kazino": {
       "avatar": "2f242b5fcf2467b29c271bc23c1c8f9a.png",
@@ -61,7 +61,7 @@
       }
     },
     "JustForFun": {
-      "avatar": "67c7e127ab5e57ea45b463495732cf74.png",
+      "avatar": "a031dd98c87fadc5ff76f73773bc67d5.png",
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "pirates",
@@ -184,8 +184,8 @@
       "avatar": "aa4a669047cf045aaca9a4e5ec667854.png",
       "lastSeen": "2026-06-22",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 7,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-06-22"
       },
       "games": {
@@ -772,7 +772,7 @@
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-06-22"
       },
       "games": {
@@ -1752,7 +1752,7 @@
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-06-22"
       },
       "games": {
@@ -2630,7 +2630,7 @@
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-06-22"
       },
       "games": {
@@ -4233,7 +4233,7 @@
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-06-22"
       },
       "games": {
@@ -15168,7 +15168,7 @@
       "lastSeen": "2026-06-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-06-22"
       },
       "games": {
@@ -18993,6 +18993,38 @@
           "bestScore": 598,
           "date": "2026-06-21",
           "rank": 10
+        }
+      }
+    },
+    "BornFromTheOcean": {
+      "avatar": null,
+      "lastSeen": "2026-06-22",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-06-22"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3045,
+          "date": "2026-06-22",
+          "rank": 5
+        }
+      }
+    },
+    "Green_Ashton": {
+      "avatar": null,
+      "lastSeen": "2026-06-22",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-06-22"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     }

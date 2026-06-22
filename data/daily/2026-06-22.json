@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "scrapedAt": "2026-06-22T12:17:06.330Z",
+  "scrapedAt": "2026-06-22T18:51:00.055Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -19,8 +19,18 @@
           },
           {
             "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 7762
+          },
+          {
+            "rank": 4,
             "username": "GypsyRose",
             "score": 7550
+          },
+          {
+            "rank": 5,
+            "username": "BornFromTheOcean",
+            "score": 3045
           }
         ]
       },
@@ -138,7 +148,7 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "67c7e127ab5e57ea45b463495732cf74.png",
+        "topAvatar": "a031dd98c87fadc5ff76f73773bc67d5.png",
         "scores": [
           {
             "rank": 1,
@@ -276,57 +286,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "7b06d281ec194f7d96083c80f443833d.png",
+        "topAvatar": "93a39a90a102f22e9bc6f26b882126f9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "AstroVioletRose",
+            "score": 155
+          },
+          {
+            "rank": 2,
             "username": "Rstar",
             "score": 122
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Mikki",
             "score": 121
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "username": "JustForFun",
+            "score": 95
+          },
+          {
+            "rank": 5,
             "username": "Kroberts2018",
             "score": 87
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Shadow_Rose",
             "score": 68
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Sandblasted_OctoNuggie",
             "score": 65
           },
           {
-            "rank": 6,
-            "username": "JustForFun",
-            "score": 64
-          },
-          {
-            "rank": 7,
+            "rank": 8,
             "username": "prettykatie",
             "score": 57
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Magenta",
             "score": 52
           },
           {
-            "rank": 9,
-            "username": "Monsta",
-            "score": 41
-          },
-          {
             "rank": 10,
-            "username": "kazino",
-            "score": 30
+            "username": "MissAnnaNovang",
+            "score": 51
           }
         ]
       },
@@ -365,22 +375,22 @@
           },
           {
             "rank": 7,
-            "username": "Kroberts2018",
-            "score": 117
-          },
-          {
-            "rank": 8,
             "username": "SavageDragon",
             "score": 117
           },
           {
-            "rank": 9,
+            "rank": 8,
             "username": "PrinceGeminii",
             "score": 117
           },
           {
+            "rank": 9,
+            "username": "Kroberts2018",
+            "score": 117
+          },
+          {
             "rank": 10,
-            "username": "prettykatie",
+            "username": "PrincessCutezada",
             "score": 116
           }
         ]
@@ -405,12 +415,12 @@
           },
           {
             "rank": 4,
-            "username": "EVOL",
+            "username": "Blueclay",
             "score": 155
           },
           {
             "rank": 5,
-            "username": "Blueclay",
+            "username": "EVOL",
             "score": 155
           },
           {
@@ -444,8 +454,29 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 48851
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 41174
+          },
+          {
+            "rank": 3,
+            "username": "AtziriDayre",
+            "score": 37357
+          },
+          {
+            "rank": 4,
+            "username": "Green_Ashton",
+            "score": 0
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "044e085f79227d104cc586360c0d2ae6.png",
