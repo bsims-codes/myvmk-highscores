@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-23",
-  "userCount": 987,
+  "userCount": 988,
   "users": {
     "kazino": {
       "avatar": "e0624538efe8a4beb66d890625e7a8b4.png",
@@ -3806,11 +3806,11 @@
     },
     "SpookyBrightFairy": {
       "avatar": null,
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-06-20"
+        "rank": 8,
+        "date": "2026-06-23"
       },
       "games": {
         "haunted-mansion": {
@@ -19001,14 +19001,19 @@
       "lastSeen": "2026-06-23",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
+        "rank": 5,
         "date": "2026-06-23"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 3045,
-          "date": "2026-06-22",
+          "bestScore": 4314,
+          "date": "2026-06-23",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 23042,
+          "date": "2026-06-23",
+          "rank": 7
         }
       }
     },
@@ -19085,14 +19090,19 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 44834,
-          "date": "2026-06-22",
-          "rank": 2
+          "bestScore": 45719,
+          "date": "2026-06-23",
+          "rank": 3
         },
         "pirates": {
           "bestScore": 157,
           "date": "2026-06-23",
           "rank": 10
+        },
+        "castle-fireworks": {
+          "bestScore": 2150,
+          "date": "2026-06-23",
+          "rank": 8
         }
       }
     },
@@ -19172,6 +19182,32 @@
           "bestScore": 164,
           "date": "2026-06-23",
           "rank": 8
+        }
+      }
+    },
+    "millomillie": {
+      "avatar": null,
+      "lastSeen": "2026-06-23",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-06-23"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2522,
+          "date": "2026-06-23",
+          "rank": 7
+        },
+        "pirates": {
+          "bestScore": 172,
+          "date": "2026-06-23",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 39686,
+          "date": "2026-06-23",
+          "rank": 5
         }
       }
     }
