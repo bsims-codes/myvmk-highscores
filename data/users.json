@@ -772,7 +772,7 @@
       "lastSeen": "2026-06-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 6,
         "date": "2026-06-23"
       },
       "games": {
@@ -1053,11 +1053,11 @@
     },
     "-Hannah-": {
       "avatar": "350e5730b709c5e3899ee482b1dbaa18.png",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-06-09"
+        "rank": 5,
+        "date": "2026-06-23"
       },
       "games": {
         "haunted-mansion": {
@@ -3840,11 +3840,11 @@
     },
     "PrincessCutezada": {
       "avatar": "0a2909167742434eb162d2633a368189.png",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-06-22"
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-06-23"
       },
       "games": {
         "castle-fireworks": {
@@ -4233,7 +4233,7 @@
       "lastSeen": "2026-06-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-06-23"
       },
       "games": {
@@ -6676,11 +6676,11 @@
     },
     "Wavves": {
       "avatar": "e738e2e5a81036757803ba550e97c795.png",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-23",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 5,
-        "date": "2026-06-21"
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-06-23"
       },
       "games": {
         "haunted-mansion": {
@@ -19088,6 +19088,11 @@
           "bestScore": 44834,
           "date": "2026-06-22",
           "rank": 2
+        },
+        "pirates": {
+          "bestScore": 157,
+          "date": "2026-06-23",
+          "rank": 10
         }
       }
     },
@@ -19104,6 +19109,11 @@
           "bestScore": 35076,
           "date": "2026-06-22",
           "rank": 6
+        },
+        "pirates": {
+          "bestScore": 172,
+          "date": "2026-06-23",
+          "rank": 8
         }
       }
     },
