@@ -1,14 +1,29 @@
 {
   "date": "2026-06-24",
-  "scrapedAt": "2026-06-24T09:41:53.113Z",
+  "scrapedAt": "2026-06-24T14:45:08.459Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "66f4ae7eed8fe432f1d8db28fa3dda53.png",
+        "topAvatar": "e0624538efe8a4beb66d890625e7a8b4.png",
         "scores": [
           {
             "rank": 1,
+            "username": "kazino",
+            "score": 11386
+          },
+          {
+            "rank": 2,
+            "username": "BRlTT",
+            "score": 10708
+          },
+          {
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 7312
+          },
+          {
+            "rank": 4,
             "username": "JellyFishFriend",
             "score": 6489
           }
@@ -305,13 +320,23 @@
           },
           {
             "rank": 8,
-            "username": "kazino",
-            "score": 29
+            "username": "JustForFun",
+            "score": 54
+          },
+          {
+            "rank": 9,
+            "username": "PrinceGeminii",
+            "score": 50
+          },
+          {
+            "rank": 10,
+            "username": "PrincessCutezada",
+            "score": 47
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "b759f7d5d4da411d310f80da0251cd12.png",
+        "topAvatar": "de80eb759f9f701a6513621a2a5079ad.png",
         "scores": [
           {
             "rank": 1,
@@ -385,12 +410,12 @@
           },
           {
             "rank": 4,
-            "username": "EVOL",
+            "username": "Blueclay",
             "score": 155
           },
           {
             "rank": 5,
-            "username": "Blueclay",
+            "username": "EVOL",
             "score": 155
           },
           {
@@ -424,12 +449,32 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "1f4240ab1c83503e36b21687fca7d9f5.png",
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 46967
+          },
+          {
+            "rank": 2,
+            "username": "KaseyAmber",
+            "score": 44355
+          },
+          {
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 41078
+          },
+          {
+            "rank": 4,
             "username": "Guest10150764",
             "score": 19197
+          },
+          {
+            "rank": 5,
+            "username": "Green_Ashton",
+            "score": 7894
           }
         ]
       },

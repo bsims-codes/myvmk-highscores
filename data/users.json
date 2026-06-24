@@ -185,7 +185,7 @@
       "lastSeen": "2026-06-24",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-06-24"
       },
       "games": {
@@ -1752,7 +1752,7 @@
       "lastSeen": "2026-06-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-06-24"
       },
       "games": {
@@ -4233,7 +4233,7 @@
       "lastSeen": "2026-06-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-06-24"
       },
       "games": {
@@ -6017,7 +6017,7 @@
       }
     },
     "EVOL": {
-      "avatar": "b759f7d5d4da411d310f80da0251cd12.png",
+      "avatar": "de80eb759f9f701a6513621a2a5079ad.png",
       "lastSeen": "2026-06-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -14673,8 +14673,8 @@
       "avatar": null,
       "lastSeen": "2026-06-24",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-06-24"
       },
       "games": {
@@ -14692,6 +14692,11 @@
           "bestScore": 254,
           "date": "2026-05-19",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 44355,
+          "date": "2026-06-24",
+          "rank": 2
         }
       }
     },
@@ -19019,17 +19024,17 @@
     },
     "Green_Ashton": {
       "avatar": null,
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-06-23"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-06-24"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 0,
-          "date": null,
-          "rank": null
+          "bestScore": 7894,
+          "date": "2026-06-24",
+          "rank": 5
         },
         "castle-fireworks": {
           "bestScore": 442,
