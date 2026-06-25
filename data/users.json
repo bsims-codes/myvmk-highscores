@@ -1084,7 +1084,7 @@
       "lastSeen": "2026-06-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-06-25"
       },
       "games": {
@@ -1410,11 +1410,11 @@
     },
     "MiLadyMoon": {
       "avatar": "406cf1ead03607c302705d3582b8f4ac.png",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-25",
       "lastAppearance": {
-        "game": "jungle-cruise",
+        "game": "haunted-mansion",
         "rank": 4,
-        "date": "2026-06-14"
+        "date": "2026-06-25"
       },
       "games": {
         "jungle-cruise": {
@@ -2238,19 +2238,19 @@
       }
     },
     "IreneAdler": {
-      "avatar": null,
-      "lastSeen": "2026-06-05",
+      "avatar": "99f88c48c64dbb134f4ada1d57264ffc.png",
+      "lastSeen": "2026-06-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-06-05"
+        "rank": 1,
+        "date": "2026-06-25"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 52746,
-          "date": "2026-06-04",
-          "rank": 2,
-          "allTimeRank": 25
+          "bestScore": 53097,
+          "date": "2026-06-25",
+          "rank": 1,
+          "allTimeRank": 23
         }
       }
     },
@@ -4090,7 +4090,7 @@
           "bestScore": 52812,
           "date": "2026-03-16",
           "rank": 1,
-          "allTimeRank": 24
+          "allTimeRank": 25
         },
         "pirates": {
           "bestScore": 110,
@@ -9962,7 +9962,7 @@
           "bestScore": 52996,
           "date": "2026-03-02",
           "rank": 2,
-          "allTimeRank": 23
+          "allTimeRank": 24
         },
         "haunted-mansion": {
           "bestScore": 31,
@@ -19024,6 +19024,11 @@
           "bestScore": 39713,
           "date": "2026-06-24",
           "rank": 5
+        },
+        "haunted-mansion": {
+          "bestScore": 21,
+          "date": "2026-06-25",
+          "rank": 8
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "scrapedAt": "2026-06-25T14:44:49.789Z",
+  "scrapedAt": "2026-06-25T17:18:30.247Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -24,6 +24,11 @@
           },
           {
             "rank": 4,
+            "username": "PrincessCutezada",
+            "score": 4389
+          },
+          {
+            "rank": 5,
             "username": "millomillie",
             "score": 2687
           }
@@ -259,23 +264,33 @@
           },
           {
             "rank": 3,
+            "username": "-Misty-",
+            "score": 60
+          },
+          {
+            "rank": 4,
+            "username": "MiLadyMoon",
+            "score": 60
+          },
+          {
+            "rank": 5,
             "username": "JustForFun",
             "score": 58
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "PrinceGeminii",
             "score": 54
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "PrincessCutezada",
             "score": 42
           },
           {
-            "rank": 6,
-            "username": "-Misty-",
-            "score": 40
+            "rank": 8,
+            "username": "BornFromTheOcean",
+            "score": 21
           }
         ]
       },
@@ -393,20 +408,35 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "6d73a9502d254ec3da40e7912ca2fb82.png",
+        "topAvatar": "99f88c48c64dbb134f4ada1d57264ffc.png",
         "scores": [
           {
             "rank": 1,
+            "username": "IreneAdler",
+            "score": 53097
+          },
+          {
+            "rank": 2,
+            "username": "PrincessCutezada",
+            "score": 40508
+          },
+          {
+            "rank": 3,
             "username": "Masterpiece",
             "score": 40060
           },
           {
-            "rank": 2,
+            "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 39756
+          },
+          {
+            "rank": 5,
             "username": "PROMO_Eda",
             "score": 16175
           },
           {
-            "rank": 3,
+            "rank": 6,
             "username": "Stormyred",
             "score": 0
           }
