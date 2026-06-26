@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "75c60a6e3b9d3bbb8beac6ae58d0795f.png",
+      "avatar": "08a2c39d514a531744ae7d607726406c.png",
       "lastSeen": "2026-06-26",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -65,7 +65,7 @@
       "lastSeen": "2026-06-26",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-06-26"
       },
       "games": {
@@ -1390,7 +1390,7 @@
       "lastSeen": "2026-06-26",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-06-26"
       },
       "games": {
@@ -6276,11 +6276,11 @@
     },
     "Bib": {
       "avatar": null,
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-06-26",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 9,
-        "date": "2026-05-08"
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-06-26"
       },
       "games": {
         "pirates": {
@@ -13829,11 +13829,11 @@
     },
     "GiddyBluePanda": {
       "avatar": "7b70012ac537f391bc35d3c41a38fc90.png",
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-06-26",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 5,
-        "date": "2026-06-05"
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-06-26"
       },
       "games": {
         "castle-fireworks": {
@@ -16363,6 +16363,11 @@
         "pirates": {
           "bestScore": 215,
           "date": "2026-06-25",
+          "rank": 10
+        },
+        "haunted-mansion": {
+          "bestScore": 83,
+          "date": "2026-06-26",
           "rank": 10
         }
       }
