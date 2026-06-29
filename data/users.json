@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-29",
-  "userCount": 1015,
+  "userCount": 1018,
   "users": {
     "kazino": {
       "avatar": "e80ea2a2dd9f8c596d00fe26f492ae3a.png",
@@ -3849,17 +3849,17 @@
     },
     "KhloeIsMyName": {
       "avatar": null,
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-29",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-06-20"
+        "rank": 3,
+        "date": "2026-06-29"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 42085,
-          "date": "2026-01-14",
-          "rank": 10,
+          "bestScore": 43352,
+          "date": "2026-06-29",
+          "rank": 3,
           "allTimeRank": 50
         }
       }
@@ -16230,8 +16230,8 @@
       "avatar": "385df62e0024013746061c6c399f64fa.png",
       "lastSeen": "2026-06-29",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 5,
+        "game": "jungle-cruise",
+        "rank": 4,
         "date": "2026-06-29"
       },
       "games": {
@@ -19069,17 +19069,17 @@
     },
     "BornFromTheOcean": {
       "avatar": null,
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-29",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
-        "date": "2026-06-27"
+        "rank": 3,
+        "date": "2026-06-29"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 5398,
-          "date": "2026-06-26",
-          "rank": 9
+          "bestScore": 5793,
+          "date": "2026-06-29",
+          "rank": 3
         },
         "jungle-cruise": {
           "bestScore": 39713,
@@ -19761,6 +19761,54 @@
           "bestScore": 0,
           "date": null,
           "rank": null
+        }
+      }
+    },
+    "Guest10150821": {
+      "avatar": null,
+      "lastSeen": "2026-06-29",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-06-29"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 36,
+          "date": "2026-06-29",
+          "rank": 4
+        }
+      }
+    },
+    "Keepinit_fresh": {
+      "avatar": null,
+      "lastSeen": "2026-06-29",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-06-29"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 99,
+          "date": "2026-06-29",
+          "rank": 2
+        }
+      }
+    },
+    "KaySeeKay": {
+      "avatar": null,
+      "lastSeen": "2026-06-29",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 4,
+        "date": "2026-06-29"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 94,
+          "date": "2026-06-29",
+          "rank": 4
         }
       }
     }
