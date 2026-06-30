@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-30",
-  "userCount": 1021,
+  "userCount": 1022,
   "users": {
     "kazino": {
       "avatar": "ed6a31f017df23d1e060e6e345c6a2c3.png",
@@ -729,11 +729,11 @@
     },
     "Stormyred": {
       "avatar": "f3e57f57391c1dbe5353d08dcbba1ecf.png",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-30",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-06-25"
+        "game": "pirates",
+        "rank": 10,
+        "date": "2026-06-30"
       },
       "games": {
         "pirates": {
@@ -800,7 +800,7 @@
       "lastSeen": "2026-06-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-06-30"
       },
       "games": {
@@ -1089,7 +1089,7 @@
       "lastSeen": "2026-06-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-06-30"
       },
       "games": {
@@ -1281,7 +1281,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "5452166a7d1e62b2f729638d556d067f.png",
+      "avatar": "404ca547b44b76cba73ac175b5e72285.png",
       "lastSeen": "2026-06-30",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1731,11 +1731,11 @@
     },
     "Kroberts2018": {
       "avatar": "14da1799302aece6e63480bbb0397d0b.png",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-06-29"
+        "rank": 8,
+        "date": "2026-06-30"
       },
       "games": {
         "haunted-mansion": {
@@ -19072,7 +19072,7 @@
       "lastSeen": "2026-06-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-06-30"
       },
       "games": {
@@ -19857,6 +19857,22 @@
           "bestScore": 218,
           "date": "2026-06-30",
           "rank": 10
+        }
+      }
+    },
+    "HowWeird": {
+      "avatar": null,
+      "lastSeen": "2026-06-30",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-06-30"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 37329,
+          "date": "2026-06-30",
+          "rank": 4
         }
       }
     }
