@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-02",
-  "userCount": 1029,
+  "userCount": 1030,
   "users": {
     "kazino": {
       "avatar": "1e43b44111daa79906ab6f4218b95f9e.png",
@@ -1778,7 +1778,7 @@
       "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-07-02"
       },
       "games": {
@@ -6725,7 +6725,7 @@
       "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-07-02"
       },
       "games": {
@@ -11011,11 +11011,11 @@
     },
     "PrincessLunaLex": {
       "avatar": "f9f0fbd162aef3f0e70456dceb943974.png",
-      "lastSeen": "2026-03-31",
+      "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
-        "date": "2026-03-31"
+        "rank": 4,
+        "date": "2026-07-02"
       },
       "games": {
         "castle-fireworks": {
@@ -20020,6 +20020,22 @@
           "bestScore": 18478,
           "date": "2026-07-02",
           "rank": 5
+        }
+      }
+    },
+    "KirstyMarie": {
+      "avatar": null,
+      "lastSeen": "2026-07-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-07-02"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 23092,
+          "date": "2026-07-02",
+          "rank": 6
         }
       }
     }
