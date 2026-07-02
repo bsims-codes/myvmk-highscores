@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-02",
-  "userCount": 1030,
+  "userCount": 1031,
   "users": {
     "kazino": {
       "avatar": "1e43b44111daa79906ab6f4218b95f9e.png",
@@ -1815,11 +1815,11 @@
     },
     "TinkerLaceyBell": {
       "avatar": "81af61a8c80fcd477c645250075c621e.png",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-06-30"
+        "rank": 5,
+        "date": "2026-07-02"
       },
       "games": {
         "jungle-cruise": {
@@ -2203,11 +2203,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "1c0923ef51869f0e9058fb82ae27f92c.png",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
-        "date": "2026-07-01"
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-07-02"
       },
       "games": {
         "haunted-mansion": {
@@ -7076,11 +7076,11 @@
     },
     "MagicalPixieDust": {
       "avatar": "0efc9558c0dfd53d29a38fdb5e027612.png",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-06-30"
+        "rank": 2,
+        "date": "2026-07-02"
       },
       "games": {
         "haunted-mansion": {
@@ -19094,11 +19094,11 @@
     },
     "BornFromTheOcean": {
       "avatar": null,
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
-        "date": "2026-07-01"
+        "rank": 8,
+        "date": "2026-07-02"
       },
       "games": {
         "castle-fireworks": {
@@ -20017,9 +20017,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 18478,
+          "bestScore": 36763,
           "date": "2026-07-02",
-          "rank": 5
+          "rank": 8
         }
       }
     },
@@ -20036,6 +20036,22 @@
           "bestScore": 23092,
           "date": "2026-07-02",
           "rank": 6
+        }
+      }
+    },
+    "StaceyAnn": {
+      "avatar": null,
+      "lastSeen": "2026-07-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-07-02"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 35520,
+          "date": "2026-07-02",
+          "rank": 10
         }
       }
     }
