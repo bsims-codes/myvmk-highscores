@@ -1,12 +1,18 @@
 {
   "date": "2026-07-04",
-  "scrapedAt": "2026-07-04T08:45:43.056Z",
+  "scrapedAt": "2026-07-04T10:56:55.671Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "a031dd98c87fadc5ff76f73773bc67d5.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "JustForFun",
+            "score": 9232
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "defd72045a55910a013f7bc431b3ff98.png",
@@ -108,13 +114,13 @@
           },
           {
             "rank": 9,
-            "username": "MollyMolusk",
-            "score": 8834
+            "username": "JustForFun",
+            "score": 9232
           },
           {
             "rank": 10,
-            "username": "JustForFun",
-            "score": 8719
+            "username": "MollyMolusk",
+            "score": 8834
           }
         ]
       }
@@ -201,12 +207,12 @@
           },
           {
             "rank": 5,
-            "username": "SmileyKileyCat",
+            "username": "GypsyRose",
             "score": 279
           },
           {
             "rank": 6,
-            "username": "GypsyRose",
+            "username": "SmileyKileyCat",
             "score": 279
           },
           {
@@ -329,13 +335,13 @@
           },
           {
             "rank": 8,
-            "username": "SammyxxFairy",
-            "score": 66
+            "username": "AstroVioletRose",
+            "score": 69
           },
           {
             "rank": 9,
-            "username": "AstroVioletRose",
-            "score": 64
+            "username": "SammyxxFairy",
+            "score": 66
           },
           {
             "rank": 10,
@@ -434,17 +440,17 @@
           },
           {
             "rank": 7,
-            "username": "Mikki",
+            "username": "MissyKinz",
             "score": 122
           },
           {
             "rank": 8,
-            "username": "KaseyAmber",
+            "username": "Mikki",
             "score": 122
           },
           {
             "rank": 9,
-            "username": "MissyKinz",
+            "username": "KaseyAmber",
             "score": 122
           },
           {
