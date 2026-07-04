@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "scrapedAt": "2026-07-04T13:47:59.374Z",
+  "scrapedAt": "2026-07-04T16:08:55.522Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -21,6 +21,11 @@
             "rank": 3,
             "username": "HoneyStar",
             "score": 1693
+          },
+          {
+            "rank": 4,
+            "username": "Mikki",
+            "score": 1406
           }
         ]
       },
@@ -217,22 +222,22 @@
           },
           {
             "rank": 5,
-            "username": "GypsyRose",
-            "score": 279
-          },
-          {
-            "rank": 6,
             "username": "SmileyKileyCat",
             "score": 279
           },
           {
+            "rank": 6,
+            "username": "GypsyRose",
+            "score": 279
+          },
+          {
             "rank": 7,
-            "username": "Diamond-J",
+            "username": "Lucien",
             "score": 266
           },
           {
             "rank": 8,
-            "username": "Lucien",
+            "username": "Diamond-J",
             "score": 266
           },
           {
@@ -335,28 +340,28 @@
           },
           {
             "rank": 6,
+            "username": "mikgriz",
+            "score": 114
+          },
+          {
+            "rank": 7,
+            "username": "KaySeeKay",
+            "score": 101
+          },
+          {
+            "rank": 8,
+            "username": "Keepinit_fresh",
+            "score": 99
+          },
+          {
+            "rank": 9,
             "username": "Shadow_Rose",
             "score": 94
           },
           {
-            "rank": 7,
+            "rank": 10,
             "username": "Sandblasted_OctoNuggie",
             "score": 81
-          },
-          {
-            "rank": 8,
-            "username": "AmandaJeanne",
-            "score": 75
-          },
-          {
-            "rank": 9,
-            "username": "CartNarcs",
-            "score": 74
-          },
-          {
-            "rank": 10,
-            "username": "AstroVioletRose",
-            "score": 69
           }
         ]
       },
@@ -370,12 +375,12 @@
           },
           {
             "rank": 2,
-            "username": "MissyKinz",
+            "username": "BRlTT",
             "score": 113
           },
           {
             "rank": 3,
-            "username": "BRlTT",
+            "username": "MissyKinz",
             "score": 113
           },
           {
@@ -460,12 +465,12 @@
           },
           {
             "rank": 9,
-            "username": "KaseyAmber",
+            "username": "Mikki",
             "score": 122
           },
           {
             "rank": 10,
-            "username": "Mikki",
+            "username": "KaseyAmber",
             "score": 122
           }
         ]
@@ -474,35 +479,50 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "20993afbf5dcfeb5dbf8c4c8b20a20bb.png",
+        "topAvatar": "7d2e22971770c02c9c1ac865a90f55f9.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Nayru",
+            "score": 56614
+          },
+          {
+            "rank": 2,
             "username": "MiLadyMoon",
             "score": 50839
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "AstroVioletRose",
             "score": 48645
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "HoneyStar",
             "score": 47338
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "-Hannah-",
             "score": 42866
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "AtziriDayre",
-            "score": 35803
+            "score": 41943
           },
           {
-            "rank": 6,
+            "rank": 7,
+            "username": "lilspookycryptid",
+            "score": 40840
+          },
+          {
+            "rank": 8,
+            "username": "MissAnnaNovang",
+            "score": 40393
+          },
+          {
+            "rank": 9,
             "username": "ScoobyRoo",
             "score": 25678
           }
