@@ -1621,7 +1621,7 @@
       }
     },
     "Rstar": {
-      "avatar": "5d7b16283fb26c967393e1df319bfd3c.png",
+      "avatar": "4336d3cf0cef8ee1253c884803073392.png",
       "lastSeen": "2026-07-05",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -5863,11 +5863,11 @@
     },
     "Pepa": {
       "avatar": "497292e6a5dbd1fb533bf22196511173.png",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-05",
       "lastAppearance": {
         "game": "castle-fireworks",
         "rank": 6,
-        "date": "2026-06-30"
+        "date": "2026-07-05"
       },
       "games": {
         "castle-fireworks": {
@@ -11998,11 +11998,11 @@
     },
     "tea": {
       "avatar": null,
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-07-05",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-06-04"
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-07-05"
       },
       "games": {
         "haunted-mansion": {
@@ -12014,6 +12014,11 @@
           "bestScore": 14888,
           "date": "2026-06-04",
           "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 7130,
+          "date": "2026-07-05",
+          "rank": 10
         }
       }
     },
@@ -18186,11 +18191,11 @@
     },
     "agentish": {
       "avatar": null,
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-07-05",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-06-09"
+        "rank": 10,
+        "date": "2026-07-05"
       },
       "games": {
         "haunted-mansion": {
