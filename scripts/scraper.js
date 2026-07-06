@@ -198,6 +198,25 @@ async function saveDailySnapshot(games, date) {
 
   const filename = `${date}.json`;
   const filepath = path.join(DAILY_DIR, filename);
+
+  // Guard: never overwrite an existing snapshot that already has more games than
+  // this scrape. Protects against a partial scrape (e.g. mid-rollover, when only
+  // some game sections are present) clobbering a complete day.
+  const newGameCount = Object.keys(snapshot.games).length;
+  try {
+    const existing = JSON.parse(await fs.readFile(filepath, 'utf-8'));
+    const existingGameCount = Object.keys(existing.games || {}).length;
+    if (existingGameCount > newGameCount) {
+      console.warn(
+        `Skipping write for ${filename}: existing snapshot has ${existingGameCount} games, ` +
+        `this scrape only has ${newGameCount}. Keeping existing data.`
+      );
+      return existing;
+    }
+  } catch {
+    // No existing file (or unreadable) - safe to write.
+  }
+
   await fs.writeFile(filepath, JSON.stringify(snapshot, null, 2));
   console.log(`Saved daily snapshot: ${filename}`);
   return snapshot;
@@ -453,6 +472,14 @@ async function main() {
     const gameCount = Object.keys(games).length;
     if (gameCount !== GAMES.length) {
       console.warn(`Warning: Expected ${GAMES.length} games, found ${gameCount}`);
+    }
+
+    // Guard: an empty parse means a failed/reset page (this happens right at the
+    // site's daily rollover). Abort without writing anything so we never clobber
+    // a good snapshot with empty data. Exit 0 so the run is a clean no-op.
+    if (gameCount === 0) {
+      console.warn('Parsed 0 games - source page was empty or reset. Skipping all writes.');
+      return;
     }
 
     // Get Pacific Time date
