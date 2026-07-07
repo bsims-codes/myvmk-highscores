@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-07",
-  "userCount": 1044,
+  "userCount": 1045,
   "users": {
     "kazino": {
       "avatar": "defd72045a55910a013f7bc431b3ff98.png",
@@ -1128,11 +1128,11 @@
       }
     },
     "dizlindsey": {
-      "avatar": "9173829acf9e04f6d3465f93e0054827.png",
+      "avatar": "8d26ff2d8f5dba4df0121be2cb7f0c8c.png",
       "lastSeen": "2026-07-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-07"
       },
       "games": {
@@ -1621,7 +1621,7 @@
       }
     },
     "Rstar": {
-      "avatar": "2b8f1ead78b3f58800c3c30aecd9cafa.png",
+      "avatar": "e2893089e42ef8f741ae81257f6b14fe.png",
       "lastSeen": "2026-07-07",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -14779,11 +14779,11 @@
     },
     "KaseyAmber": {
       "avatar": "a4f285f71d5c1a737c278dabed4371a1.png",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-07",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-07-06"
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-07-07"
       },
       "games": {
         "haunted-mansion": {
@@ -20354,6 +20354,22 @@
           "bestScore": 241,
           "date": "2026-07-05",
           "rank": 10
+        }
+      }
+    },
+    "ComputerDevil": {
+      "avatar": null,
+      "lastSeen": "2026-07-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-07-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 666,
+          "date": "2026-07-07",
+          "rank": 9
         }
       }
     }
