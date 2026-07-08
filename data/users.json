@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-08",
-  "userCount": 1047,
+  "userCount": 1048,
   "users": {
     "kazino": {
       "avatar": "e403d69af5210407520ebcfa3e97ae6c.png",
@@ -1128,11 +1128,11 @@
       }
     },
     "dizlindsey": {
-      "avatar": "8d26ff2d8f5dba4df0121be2cb7f0c8c.png",
+      "avatar": "5e76eb3643928ec467f3f4a95d5a5cd4.png",
       "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-08"
       },
       "games": {
@@ -14204,7 +14204,7 @@
       "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-07-08"
       },
       "games": {
@@ -14782,7 +14782,7 @@
       "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 5,
         "date": "2026-07-08"
       },
       "games": {
@@ -20055,11 +20055,11 @@
     },
     "chaoticvinyl": {
       "avatar": null,
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-07-07"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-07-08"
       },
       "games": {
         "jungle-cruise": {
@@ -20071,6 +20071,11 @@
           "bestScore": 61,
           "date": "2026-07-02",
           "rank": 5
+        },
+        "haunted-mansion": {
+          "bestScore": 93,
+          "date": "2026-07-08",
+          "rank": 6
         }
       }
     },
@@ -20407,6 +20412,22 @@
           "bestScore": 68,
           "date": "2026-07-08",
           "rank": 10
+        }
+      }
+    },
+    "Honeyhugs": {
+      "avatar": null,
+      "lastSeen": "2026-07-08",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-07-08"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 10337,
+          "date": "2026-07-08",
+          "rank": 8
         }
       }
     }
