@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-08",
-  "userCount": 1046,
+  "userCount": 1047,
   "users": {
     "kazino": {
       "avatar": "e403d69af5210407520ebcfa3e97ae6c.png",
@@ -1096,11 +1096,11 @@
     },
     "-Misty-": {
       "avatar": "c6a04915835364ab36f4ba88ee1c2577.png",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-08",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-07-04"
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-07-08"
       },
       "games": {
         "haunted-mansion": {
@@ -1621,7 +1621,7 @@
       }
     },
     "Rstar": {
-      "avatar": "384b1ccef831d712e3064f79c652f069.png",
+      "avatar": "1fc490161b9ce55434041a4ca49ac069.png",
       "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1667,11 +1667,11 @@
     },
     "HoneyStar": {
       "avatar": "eec572cfcad9cb1142e3cf47fec4713a.png",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-07-05"
+        "rank": 5,
+        "date": "2026-07-08"
       },
       "games": {
         "castle-fireworks": {
@@ -13119,11 +13119,11 @@
       }
     },
     "Mikki": {
-      "avatar": "b49e5fa03987169c890e0975b8fcef31.png",
+      "avatar": "3ba7837627deacdd7026953952cd61c9.png",
       "lastSeen": "2026-07-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 1,
         "date": "2026-07-08"
       },
       "games": {
@@ -14779,11 +14779,11 @@
     },
     "KaseyAmber": {
       "avatar": "a4f285f71d5c1a737c278dabed4371a1.png",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "lastAppearance": {
-        "game": "castle-fireworks",
+        "game": "haunted-mansion",
         "rank": 8,
-        "date": "2026-07-07"
+        "date": "2026-07-08"
       },
       "games": {
         "haunted-mansion": {
@@ -20390,6 +20390,22 @@
         "pirates": {
           "bestScore": 111,
           "date": "2026-07-07",
+          "rank": 10
+        }
+      }
+    },
+    "Guest10150900": {
+      "avatar": null,
+      "lastSeen": "2026-07-08",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 10,
+        "date": "2026-07-08"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 68,
+          "date": "2026-07-08",
           "rank": 10
         }
       }
