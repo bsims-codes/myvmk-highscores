@@ -1,14 +1,19 @@
 {
   "date": "2026-07-11",
-  "scrapedAt": "2026-07-11T13:40:44.285Z",
+  "scrapedAt": "2026-07-11T16:00:21.476Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "28bd5d98e3bb3e1f407c847cb7a203cd.png",
+        "topAvatar": "263d35966ce5e34e645e4b42ada05944.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7704
+          },
+          {
+            "rank": 2,
             "username": "Eliiott",
             "score": 2287
           }
@@ -320,33 +325,33 @@
           },
           {
             "rank": 5,
-            "username": "Mizzpixie",
+            "username": "EVOL",
             "score": 68
           },
           {
             "rank": 6,
+            "username": "Mizzpixie",
+            "score": 68
+          },
+          {
+            "rank": 7,
             "username": "JustForFun",
             "score": 67
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "Pirateboi",
             "score": 65
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Pixie",
             "score": 64
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "Mp3grl",
             "score": 62
-          },
-          {
-            "rank": 10,
-            "username": "Magenta",
-            "score": 37
           }
         ]
       },
