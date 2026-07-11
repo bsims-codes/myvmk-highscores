@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "scrapedAt": "2026-07-11T16:00:21.476Z",
+  "scrapedAt": "2026-07-11T19:13:22.908Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -167,22 +167,22 @@
           },
           {
             "rank": 7,
-            "username": "PrinceGeminii",
+            "username": "LittleGold",
             "score": 200
           },
           {
             "rank": 8,
-            "username": "icyblue",
+            "username": "JustForFun",
             "score": 200
           },
           {
             "rank": 9,
-            "username": "Winnie",
+            "username": "PrinceGeminii",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "BallroomDancer",
+            "username": "icyblue",
             "score": 200
           }
         ]
@@ -267,12 +267,12 @@
           },
           {
             "rank": 5,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
             "rank": 6,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
@@ -325,8 +325,8 @@
           },
           {
             "rank": 5,
-            "username": "EVOL",
-            "score": 68
+            "username": "JustForFun",
+            "score": 69
           },
           {
             "rank": 6,
@@ -335,8 +335,8 @@
           },
           {
             "rank": 7,
-            "username": "JustForFun",
-            "score": 67
+            "username": "EVOL",
+            "score": 68
           },
           {
             "rank": 8,
@@ -469,8 +469,14 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 48213
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "902cb3bd075d03a348758de14f54443b.png",
