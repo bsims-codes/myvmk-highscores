@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "scrapedAt": "2026-07-13T09:39:00.554Z",
+  "scrapedAt": "2026-07-13T14:49:29.381Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -286,27 +286,52 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "9029fac6bce592df394d5bd6ee4b9054.png",
+        "topAvatar": "77e0ed8ceebc86b669db6ba8e7dbe10e.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 73
+          },
+          {
+            "rank": 2,
+            "username": "JustForFun",
+            "score": 64
+          },
+          {
+            "rank": 3,
+            "username": "EVOL",
+            "score": 61
+          },
+          {
+            "rank": 4,
+            "username": "PrinceGeminii",
+            "score": 59
+          },
+          {
+            "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 58
+          },
+          {
+            "rank": 6,
             "username": "MiLadyMoon",
             "score": 56
           },
           {
-            "rank": 2,
-            "username": "Shadow_Rose",
-            "score": 53
-          },
-          {
-            "rank": 3,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 48
-          },
-          {
-            "rank": 4,
+            "rank": 7,
             "username": "Expect",
             "score": 40
+          },
+          {
+            "rank": 8,
+            "username": "kazino",
+            "score": 31
+          },
+          {
+            "rank": 9,
+            "username": "Sar.",
+            "score": 0
           }
         ]
       },
@@ -405,17 +430,17 @@
           },
           {
             "rank": 8,
-            "username": "dizlindsey",
-            "score": 135
-          },
-          {
-            "rank": 9,
             "username": "MissyKinz",
             "score": 135
           },
           {
+            "rank": 9,
+            "username": "dizlindsey",
+            "score": 135
+          },
+          {
             "rank": 10,
-            "username": "Mikki",
+            "username": "BigFoxMol",
             "score": 130
           }
         ]
@@ -433,8 +458,18 @@
           },
           {
             "rank": 2,
+            "username": "BlueSorcerer",
+            "score": 48695
+          },
+          {
+            "rank": 3,
             "username": "Magenta",
             "score": 45838
+          },
+          {
+            "rank": 4,
+            "username": "Sar.",
+            "score": 1213
           }
         ]
       },
