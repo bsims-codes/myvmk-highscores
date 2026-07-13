@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "scrapedAt": "2026-07-13T17:19:00.043Z",
+  "scrapedAt": "2026-07-13T19:37:46.951Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -30,7 +30,7 @@
           {
             "rank": 5,
             "username": "Eliiott",
-            "score": 2051
+            "score": 2196
           }
         ]
       },
@@ -222,12 +222,12 @@
           },
           {
             "rank": 9,
-            "username": "DCAfriend",
+            "username": "SmileyKileyCat",
             "score": 276
           },
           {
             "rank": 10,
-            "username": "SmileyKileyCat",
+            "username": "DCAfriend",
             "score": 276
           }
         ]
@@ -257,12 +257,12 @@
           },
           {
             "rank": 5,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
             "rank": 6,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
@@ -291,57 +291,57 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "77e0ed8ceebc86b669db6ba8e7dbe10e.png",
+        "topAvatar": "56a6ee32bf12bb5cb3d1d3844d68c525.png",
         "scores": [
           {
             "rank": 1,
+            "username": "chaoticvinyl",
+            "score": 121
+          },
+          {
+            "rank": 2,
+            "username": "BigFoxMol",
+            "score": 111
+          },
+          {
+            "rank": 3,
             "username": "Sandblasted_OctoNuggie",
             "score": 73
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "JustForFun",
-            "score": 64
+            "score": 69
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "EVOL",
             "score": 61
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "PrinceGeminii",
             "score": 59
           },
           {
-            "rank": 5,
+            "rank": 7,
             "username": "Shadow_Rose",
             "score": 58
           },
           {
-            "rank": 6,
+            "rank": 8,
             "username": "MiLadyMoon",
             "score": 56
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "AstroVioletRose",
             "score": 53
           },
           {
-            "rank": 8,
+            "rank": 10,
             "username": "Mizzpixie",
             "score": 45
-          },
-          {
-            "rank": 9,
-            "username": "BigFoxMol",
-            "score": 43
-          },
-          {
-            "rank": 10,
-            "username": "Expect",
-            "score": 40
           }
         ]
       },
@@ -360,17 +360,17 @@
           },
           {
             "rank": 3,
-            "username": "SavageDragon",
-            "score": 125
-          },
-          {
-            "rank": 4,
             "username": "3Racha",
             "score": 125
           },
           {
-            "rank": 5,
+            "rank": 4,
             "username": "EVOL",
+            "score": 125
+          },
+          {
+            "rank": 5,
+            "username": "SavageDragon",
             "score": 125
           },
           {
@@ -464,7 +464,7 @@
           {
             "rank": 1,
             "username": "IreneAdler",
-            "score": 52800
+            "score": 52835
           },
           {
             "rank": 2,
@@ -493,6 +493,16 @@
           },
           {
             "rank": 7,
+            "username": "PrincessCutezada",
+            "score": 39313
+          },
+          {
+            "rank": 8,
+            "username": "MontiLuvsDisney",
+            "score": 11868
+          },
+          {
+            "rank": 9,
             "username": "Sar.",
             "score": 1213
           }
