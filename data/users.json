@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-14",
-  "userCount": 1065,
+  "userCount": 1067,
   "users": {
     "kazino": {
       "avatar": "af77d86b7b0a7da0082671bb9e72506a.png",
@@ -36,7 +36,7 @@
       "lastSeen": "2026-07-14",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-07-14"
       },
       "games": {
@@ -185,7 +185,7 @@
       "lastSeen": "2026-07-14",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-07-14"
       },
       "games": {
@@ -633,11 +633,11 @@
     },
     "EpicRose": {
       "avatar": "045862345b3622687d73182d7c95da88.png",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
-        "date": "2026-07-13"
+        "rank": 10,
+        "date": "2026-07-14"
       },
       "games": {
         "pirates": {
@@ -780,11 +780,11 @@
     },
     "PrinceGeminii": {
       "avatar": "cfef9ef078cc91b5af810d10eb694298.png",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-07-13"
+        "rank": 6,
+        "date": "2026-07-14"
       },
       "games": {
         "pirates": {
@@ -20748,6 +20748,38 @@
           "bestScore": 18296,
           "date": "2026-07-14",
           "rank": 10
+        }
+      }
+    },
+    "Naturally": {
+      "avatar": null,
+      "lastSeen": "2026-07-14",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-07-14"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 5201,
+          "date": "2026-07-14",
+          "rank": 5
+        }
+      }
+    },
+    "annaprincess": {
+      "avatar": null,
+      "lastSeen": "2026-07-14",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-07-14"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     }

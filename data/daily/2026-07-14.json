@@ -1,36 +1,56 @@
 {
   "date": "2026-07-14",
-  "scrapedAt": "2026-07-14T10:52:00.612Z",
+  "scrapedAt": "2026-07-14T13:59:08.943Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "b85c0a14400712ba70eea26e6ffc8c8b.png",
+        "topAvatar": "1b783d36e21a55f4a0c08a1b837b82d0.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 11044
+          },
+          {
+            "rank": 2,
             "username": "BrightEyes",
             "score": 10744
           },
           {
-            "rank": 2,
-            "username": "AtziriDayre",
-            "score": 4997
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 7299
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "username": "AtziriDayre",
+            "score": 6157
+          },
+          {
+            "rank": 5,
+            "username": "Naturally",
+            "score": 5201
+          },
+          {
+            "rank": 6,
             "username": "experiment624",
             "score": 2124
           },
           {
-            "rank": 4,
+            "rank": 7,
             "username": "Eliiott",
             "score": 1971
           },
           {
-            "rank": 5,
+            "rank": 8,
             "username": "Frogspit",
             "score": 1143
+          },
+          {
+            "rank": 9,
+            "username": "annaprincess",
+            "score": 0
           }
         ]
       },
@@ -287,7 +307,7 @@
           },
           {
             "rank": 10,
-            "username": "SmileyKileyCat",
+            "username": "EpicRose",
             "score": 331
           }
         ]
@@ -311,25 +331,40 @@
           {
             "rank": 3,
             "username": "AstroVioletRose",
-            "score": 65
+            "score": 75
           },
           {
             "rank": 4,
+            "username": "JustForFun",
+            "score": 69
+          },
+          {
+            "rank": 5,
+            "username": "MissAnnaNovang",
+            "score": 50
+          },
+          {
+            "rank": 6,
+            "username": "PrinceGeminii",
+            "score": 45
+          },
+          {
+            "rank": 7,
             "username": "Monsta",
             "score": 44
           },
           {
-            "rank": 5,
+            "rank": 8,
             "username": "chaoticvinyl",
             "score": 42
           },
           {
-            "rank": 6,
+            "rank": 9,
             "username": "lotuskitty",
             "score": 42
           },
           {
-            "rank": 7,
+            "rank": 10,
             "username": "IcyWifeyQueen",
             "score": 35
           }
