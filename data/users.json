@@ -5653,7 +5653,7 @@
       "lastSeen": "2026-07-14",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-07-14"
       },
       "games": {
@@ -20718,8 +20718,8 @@
       "avatar": null,
       "lastSeen": "2026-07-14",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 4,
+        "game": "jungle-cruise",
+        "rank": 2,
         "date": "2026-07-14"
       },
       "games": {
@@ -20732,6 +20732,11 @@
           "bestScore": 157,
           "date": "2026-07-14",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 30196,
+          "date": "2026-07-14",
+          "rank": 2
         }
       }
     },
@@ -20755,8 +20760,8 @@
       "avatar": null,
       "lastSeen": "2026-07-14",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 5,
+        "game": "jungle-cruise",
+        "rank": 3,
         "date": "2026-07-14"
       },
       "games": {
@@ -20764,6 +20769,11 @@
           "bestScore": 5201,
           "date": "2026-07-14",
           "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 26248,
+          "date": "2026-07-14",
+          "rank": 3
         }
       }
     },
