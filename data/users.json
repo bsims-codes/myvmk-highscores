@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-16",
-  "userCount": 1075,
+  "userCount": 1079,
   "users": {
     "kazino": {
       "avatar": "c87fa28f6a05728b25e8597fd4851b00.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-07-16"
       },
       "games": {
@@ -351,7 +351,7 @@
       }
     },
     "Nayru": {
-      "avatar": "c1dcccff5cbebe4e88ff9b84be1f26de.png",
+      "avatar": "23eb6895e7f8bec44ba35b112c112177.png",
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -1632,11 +1632,11 @@
       }
     },
     "Rstar": {
-      "avatar": "5f1ea05b2ab4c271531cd7b1a677488b.png",
+      "avatar": "5763a2c921d4dca3f824ef40a661a16f.png",
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-16"
       },
       "games": {
@@ -14230,7 +14230,7 @@
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-07-16"
       },
       "games": {
@@ -15656,7 +15656,7 @@
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-07-16"
       },
       "games": {
@@ -15676,9 +15676,9 @@
           "rank": 1
         },
         "haunted-mansion": {
-          "bestScore": 89,
-          "date": "2026-06-16",
-          "rank": 7
+          "bestScore": 101,
+          "date": "2026-07-16",
+          "rank": 3
         }
       }
     },
@@ -16334,7 +16334,7 @@
       "lastSeen": "2026-07-16",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-07-16"
       },
       "games": {
@@ -20721,11 +20721,11 @@
     },
     "Frogspit": {
       "avatar": null,
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-15"
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-07-16"
       },
       "games": {
         "castle-fireworks": {
@@ -20744,9 +20744,9 @@
           "rank": 2
         },
         "haunted-mansion": {
-          "bestScore": 58,
-          "date": "2026-07-15",
-          "rank": 10
+          "bestScore": 73,
+          "date": "2026-07-16",
+          "rank": 6
         }
       }
     },
@@ -20939,6 +20939,70 @@
           "date": "2026-07-16",
           "rank": 2,
           "allTimeRank": 41
+        }
+      }
+    },
+    "BlueBubbleToast": {
+      "avatar": null,
+      "lastSeen": "2026-07-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-07-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2481,
+          "date": "2026-07-16",
+          "rank": 7
+        }
+      }
+    },
+    "MabelsTeef": {
+      "avatar": null,
+      "lastSeen": "2026-07-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-07-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 756,
+          "date": "2026-07-16",
+          "rank": 10
+        }
+      }
+    },
+    "UltraShortOnion": {
+      "avatar": null,
+      "lastSeen": "2026-07-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-07-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1222,
+          "date": "2026-07-16",
+          "rank": 9
+        }
+      }
+    },
+    "sh0esffa": {
+      "avatar": null,
+      "lastSeen": "2026-07-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-07-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 550,
+          "date": "2026-07-16",
+          "rank": 10
         }
       }
     }
