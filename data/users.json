@@ -36,7 +36,7 @@
       "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-18"
       },
       "games": {
@@ -1807,11 +1807,11 @@
     },
     "BlueSorcerer": {
       "avatar": "502d16fa349aeb23882f565ff862c2e1.png",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-07-17"
+        "rank": 1,
+        "date": "2026-07-18"
       },
       "games": {
         "jungle-cruise": {
@@ -16330,7 +16330,7 @@
       }
     },
     "JellyFishFriend": {
-      "avatar": "0bb0c6f57745278bde97ec1f6032d727.png",
+      "avatar": "a714a3889210332cd331dd65271e039c.png",
       "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -19898,9 +19898,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 3362,
+          "bestScore": 4447,
           "date": "2026-07-18",
-          "rank": 1
+          "rank": 3
         }
       }
     },
