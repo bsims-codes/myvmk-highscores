@@ -2713,7 +2713,7 @@
       "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-07-18"
       },
       "games": {
@@ -3283,11 +3283,11 @@
     },
     "MadBubbleAngel": {
       "avatar": null,
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-06-27"
+        "rank": 6,
+        "date": "2026-07-18"
       },
       "games": {
         "castle-fireworks": {
@@ -4353,11 +4353,11 @@
     },
     "Naiant": {
       "avatar": "5e6a94d56278c4c59de9963761e04104.png",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-07-17"
+        "rank": 5,
+        "date": "2026-07-18"
       },
       "games": {
         "haunted-mansion": {
@@ -8183,11 +8183,11 @@
     },
     "Wdwdreamer": {
       "avatar": null,
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "lastAppearance": {
-        "game": "haunted-mansion",
+        "game": "jungle-cruise",
         "rank": 9,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
       },
       "games": {
         "jungle-cruise": {
@@ -8381,11 +8381,11 @@
     },
     "Glaze": {
       "avatar": "26739fcec8fe340a8870b6678b40c1fc.png",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-07-15"
+        "rank": 4,
+        "date": "2026-07-18"
       },
       "games": {
         "haunted-mansion": {
@@ -20110,9 +20110,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 36225,
-          "date": "2026-07-02",
-          "rank": 3
+          "bestScore": 36638,
+          "date": "2026-07-18",
+          "rank": 6
         },
         "pirates": {
           "bestScore": 205,
@@ -21122,14 +21122,14 @@
       "lastSeen": "2026-07-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 8,
         "date": "2026-07-18"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 2555,
+          "bestScore": 18863,
           "date": "2026-07-18",
-          "rank": 10
+          "rank": 8
         }
       }
     }
