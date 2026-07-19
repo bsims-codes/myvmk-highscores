@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "scrapedAt": "2026-07-19T10:38:53.047Z",
+  "scrapedAt": "2026-07-19T13:38:05.556Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -15,7 +15,7 @@
           {
             "rank": 2,
             "username": "JustForFun",
-            "score": 9034
+            "score": 9044
           },
           {
             "rank": 3,
@@ -49,6 +49,11 @@
           },
           {
             "rank": 9,
+            "username": "BRlTT",
+            "score": 1644
+          },
+          {
+            "rank": 10,
             "username": "Guest10150993",
             "score": 806
           }
@@ -380,13 +385,13 @@
           },
           {
             "rank": 9,
-            "username": "Shadow_Rose",
-            "score": 91
+            "username": "Mizzpixie",
+            "score": 95
           },
           {
             "rank": 10,
-            "username": "prettykatie",
-            "score": 82
+            "username": "Shadow_Rose",
+            "score": 91
           }
         ]
       },
@@ -475,12 +480,12 @@
           },
           {
             "rank": 6,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
             "rank": 7,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
@@ -504,25 +509,35 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "e6b75563e073a93c6f150f6f89e70bf6.png",
+        "topAvatar": "70a83bdd807c183b8dae8641b85b0581.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Fotogirl",
+            "score": 52665
+          },
+          {
+            "rank": 2,
             "username": "IreneAdler",
             "score": 51784
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "JellyFishFriend",
+            "score": 44027
+          },
+          {
+            "rank": 4,
             "username": "Guest10150997",
             "score": 26873
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "Guest10150989",
             "score": 11696
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "Fleek",
             "score": 0
           }
