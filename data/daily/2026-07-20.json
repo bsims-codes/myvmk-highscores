@@ -1,24 +1,29 @@
 {
   "date": "2026-07-20",
-  "scrapedAt": "2026-07-20T09:26:45.049Z",
+  "scrapedAt": "2026-07-20T14:21:15.054Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "05b45302287f91d13ef0390a86aa92c1.png",
+        "topAvatar": "57512bed7f90820fab3e235da9aa9758.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10978
+          },
+          {
+            "rank": 2,
             "username": "DoctorDewIt",
             "score": 6044
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Eliiott",
             "score": 4704
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Huntington",
             "score": 3553
           }
@@ -172,22 +177,22 @@
           },
           {
             "rank": 7,
-            "username": "Stormyred",
+            "username": "BallroomDancer",
             "score": 200
           },
           {
             "rank": 8,
-            "username": "LittleGold",
+            "username": "Stormyred",
             "score": 200
           },
           {
             "rank": 9,
-            "username": "goatduck",
+            "username": "LittleGold",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "ScoobyRoo",
+            "username": "goatduck",
             "score": 200
           }
         ]
@@ -321,15 +326,25 @@
           {
             "rank": 3,
             "username": "Shadow_Rose",
-            "score": 79
+            "score": 110
           },
           {
             "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 74
+            "score": 88
           },
           {
             "rank": 5,
+            "username": "PrinceGeminii",
+            "score": 50
+          },
+          {
+            "rank": 6,
+            "username": "Pancake",
+            "score": 49
+          },
+          {
+            "rank": 7,
             "username": "Huntington",
             "score": 31
           }
@@ -449,10 +464,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "2b7b650b136ddf372bfdd31229a12a0c.png",
+        "topAvatar": "dd5d1147104b2e0e693cbefbd57201cc.png",
         "scores": [
           {
             "rank": 1,
+            "username": "TinkerLaceyBell",
+            "score": 40306
+          },
+          {
+            "rank": 2,
             "username": "Huntington",
             "score": 35229
           }
