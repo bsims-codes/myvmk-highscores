@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "scrapedAt": "2026-07-20T16:36:10.788Z",
+  "scrapedAt": "2026-07-20T19:49:42.965Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,16 +14,21 @@
           },
           {
             "rank": 2,
+            "username": "AtziriDayre",
+            "score": 6429
+          },
+          {
+            "rank": 3,
             "username": "DoctorDewIt",
             "score": 6044
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Eliiott",
             "score": 4704
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Huntington",
             "score": 3553
           }
@@ -177,22 +182,22 @@
           },
           {
             "rank": 7,
-            "username": "Stormyred",
+            "username": "ScoobyRoo",
             "score": 200
           },
           {
             "rank": 8,
-            "username": "LittleGold",
+            "username": "Bernardo_S_Rocks",
             "score": 200
           },
           {
             "rank": 9,
-            "username": "goatduck",
+            "username": "LoveCervere",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "ScoobyRoo",
+            "username": "Expect",
             "score": 200
           }
         ]
@@ -272,22 +277,22 @@
           },
           {
             "rank": 4,
-            "username": "Katana",
-            "score": 377
-          },
-          {
-            "rank": 5,
             "username": "StarsCollide",
             "score": 377
           },
           {
+            "rank": 5,
+            "username": "Katana",
+            "score": 377
+          },
+          {
             "rank": 6,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
@@ -355,13 +360,13 @@
           },
           {
             "rank": 9,
-            "username": "experiment624",
-            "score": 33
+            "username": "-Misty-",
+            "score": 44
           },
           {
             "rank": 10,
-            "username": "Huntington",
-            "score": 31
+            "username": "Matty",
+            "score": 42
           }
         ]
       },
@@ -410,12 +415,12 @@
           },
           {
             "rank": 9,
-            "username": "waterfallglow",
+            "username": "BigFoxMol",
             "score": 119
           },
           {
             "rank": 10,
-            "username": "BigFoxMol",
+            "username": "BrightEyes",
             "score": 119
           }
         ]
@@ -450,12 +455,12 @@
           },
           {
             "rank": 6,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 7,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
@@ -479,17 +484,32 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "dd5d1147104b2e0e693cbefbd57201cc.png",
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 47815
+          },
+          {
+            "rank": 2,
+            "username": "Eliiott",
+            "score": 45831
+          },
+          {
+            "rank": 3,
             "username": "TinkerLaceyBell",
             "score": 40306
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Huntington",
             "score": 35229
+          },
+          {
+            "rank": 5,
+            "username": "MontiLuvsDisney",
+            "score": 17393
           }
         ]
       },
