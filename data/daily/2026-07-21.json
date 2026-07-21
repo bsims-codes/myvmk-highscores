@@ -1,25 +1,35 @@
 {
   "date": "2026-07-21",
-  "scrapedAt": "2026-07-21T11:12:19.825Z",
+  "scrapedAt": "2026-07-21T14:07:42.144Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "9b59b6d0b2d66268f65d7c26c7bab643.png",
+        "topAvatar": "57512bed7f90820fab3e235da9aa9758.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 11120
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7264
+          },
+          {
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 6234
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Eliiott",
-            "score": 4116
+            "score": 4668
           },
           {
-            "rank": 3,
-            "username": "Guest10151018",
+            "rank": 5,
+            "username": "Yotapeboy",
             "score": 1017
           }
         ]
@@ -74,7 +84,7 @@
           },
           {
             "rank": 10,
-            "username": "Guest10151011",
+            "username": "danishortielad",
             "score": 175
           }
         ]
@@ -105,7 +115,7 @@
           {
             "rank": 5,
             "username": "BRlTT",
-            "score": 11083
+            "score": 11120
           },
           {
             "rank": 6,
@@ -147,7 +157,7 @@
           },
           {
             "rank": 2,
-            "username": "Guest10151018",
+            "username": "Yotapeboy",
             "score": 114
           },
           {
@@ -242,7 +252,7 @@
           },
           {
             "rank": 5,
-            "username": "StarsCollide",
+            "username": "girlzilla",
             "score": 377
           },
           {
@@ -315,6 +325,11 @@
           },
           {
             "rank": 8,
+            "username": "MissAnnaNovang",
+            "score": 49
+          },
+          {
+            "rank": 9,
             "username": "contozoa",
             "score": 0
           }
@@ -434,11 +449,16 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "964a152265d1f3de040fc4218347246f.png",
+        "topAvatar": "90ebc2e468f86c3912060f991ea8f64d.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Guest10151018",
+            "username": "MissAnnaNovang",
+            "score": 40137
+          },
+          {
+            "rank": 2,
+            "username": "Yotapeboy",
             "score": 34109
           }
         ]
