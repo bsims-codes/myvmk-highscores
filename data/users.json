@@ -1810,7 +1810,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-07-21"
       },
       "games": {
@@ -13448,11 +13448,11 @@
     },
     "Ikenna": {
       "avatar": null,
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-07-19"
+        "rank": 6,
+        "date": "2026-07-21"
       },
       "games": {
         "jungle-cruise": {
@@ -21429,9 +21429,9 @@
           "rank": 6
         },
         "jungle-cruise": {
-          "bestScore": 26907,
+          "bestScore": 35953,
           "date": "2026-07-21",
-          "rank": 3
+          "rank": 4
         }
       }
     }
