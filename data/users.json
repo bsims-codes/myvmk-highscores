@@ -100,7 +100,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 3,
         "date": "2026-07-21"
       },
       "games": {
@@ -738,7 +738,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-07-21"
       },
       "games": {
@@ -6277,7 +6277,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-07-21"
       },
       "games": {
@@ -20001,11 +20001,11 @@
     },
     "LittleGold": {
       "avatar": null,
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-07-20"
+        "rank": 10,
+        "date": "2026-07-21"
       },
       "games": {
         "pirates": {
@@ -20426,17 +20426,22 @@
     },
     "ComputerDevil": {
       "avatar": null,
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 9,
-        "date": "2026-07-07"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-07-21"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 666,
           "date": "2026-07-07",
           "rank": 9
+        },
+        "haunted-mansion": {
+          "bestScore": 68,
+          "date": "2026-07-21",
+          "rank": 8
         }
       }
     },
