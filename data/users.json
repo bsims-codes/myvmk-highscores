@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-21",
-  "userCount": 1101,
+  "userCount": 1102,
   "users": {
     "kazino": {
       "avatar": "9822e51900edc2118ea33e7704a414a5.png",
@@ -1138,7 +1138,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-07-21"
       },
       "games": {
@@ -2240,11 +2240,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "1c0923ef51869f0e9058fb82ae27f92c.png",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-07-20"
+        "rank": 9,
+        "date": "2026-07-21"
       },
       "games": {
         "haunted-mansion": {
@@ -17390,11 +17390,11 @@
     },
     "ScoobyRoo": {
       "avatar": "cbdc15d6f0ca797fe84600fb75a3c8cc.png",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-20"
+        "rank": 8,
+        "date": "2026-07-21"
       },
       "games": {
         "haunted-mansion": {
@@ -21402,7 +21402,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-07-21"
       },
       "games": {
@@ -21411,6 +21411,27 @@
           "date": "2026-07-21",
           "rank": 5,
           "allTimeRank": 26
+        }
+      }
+    },
+    "vickvesper": {
+      "avatar": null,
+      "lastSeen": "2026-07-21",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-07-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 236,
+          "date": "2026-07-21",
+          "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 26907,
+          "date": "2026-07-21",
+          "rank": 3
         }
       }
     }
