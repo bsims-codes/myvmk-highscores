@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-21",
-  "userCount": 1097,
+  "userCount": 1098,
   "users": {
     "kazino": {
       "avatar": "9822e51900edc2118ea33e7704a414a5.png",
@@ -735,11 +735,11 @@
     },
     "Stormyred": {
       "avatar": "f3e57f57391c1dbe5353d08dcbba1ecf.png",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-20"
+        "rank": 10,
+        "date": "2026-07-21"
       },
       "games": {
         "pirates": {
@@ -986,7 +986,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-07-21"
       },
       "games": {
@@ -1289,7 +1289,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-07-21"
       },
       "games": {
@@ -1504,11 +1504,11 @@
     },
     "icyblue": {
       "avatar": null,
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
-        "date": "2026-07-20"
+        "rank": 8,
+        "date": "2026-07-21"
       },
       "games": {
         "jungle-cruise": {
@@ -6274,11 +6274,11 @@
     },
     "BallroomDancer": {
       "avatar": null,
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-20"
+        "rank": 9,
+        "date": "2026-07-21"
       },
       "games": {
         "pirates": {
@@ -20316,7 +20316,7 @@
       "lastSeen": "2026-07-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-07-21"
       },
       "games": {
@@ -21336,6 +21336,22 @@
           "bestScore": 34109,
           "date": "2026-07-21",
           "rank": 1
+        }
+      }
+    },
+    "contozoa": {
+      "avatar": null,
+      "lastSeen": "2026-07-21",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-07-21"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 0,
+          "date": null,
+          "rank": null
         }
       }
     }
