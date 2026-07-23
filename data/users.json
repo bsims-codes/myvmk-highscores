@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-23",
-  "userCount": 1109,
+  "userCount": 1110,
   "users": {
     "kazino": {
       "avatar": "9822e51900edc2118ea33e7704a414a5.png",
@@ -783,7 +783,7 @@
       "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-07-23"
       },
       "games": {
@@ -2825,7 +2825,7 @@
       }
     },
     "bsims": {
-      "avatar": "5fefab1ebdfe9fb4285b57426d51ac70.png",
+      "avatar": "c844e3d19e84132553b61ef50c1c90ee.png",
       "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -15319,11 +15319,11 @@
     },
     "SavageDragon": {
       "avatar": "465c14c640ea20d5a795995449be07d2.png",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-07-22"
+        "rank": 10,
+        "date": "2026-07-23"
       },
       "games": {
         "castle-fireworks": {
@@ -21559,6 +21559,27 @@
           "bestScore": 36895,
           "date": "2026-07-22",
           "rank": 6
+        }
+      }
+    },
+    "kacibubbles": {
+      "avatar": null,
+      "lastSeen": "2026-07-23",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-07-23"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 459,
+          "date": "2026-07-23",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 9846,
+          "date": "2026-07-23",
+          "rank": 8
         }
       }
     }
