@@ -16349,9 +16349,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 7059,
+          "bestScore": 7446,
           "date": "2026-07-23",
-          "rank": 2
+          "rank": 3
         },
         "jungle-cruise": {
           "bestScore": 47180,
@@ -17390,11 +17390,11 @@
     },
     "ScoobyRoo": {
       "avatar": "cbdc15d6f0ca797fe84600fb75a3c8cc.png",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-07-21"
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-07-23"
       },
       "games": {
         "haunted-mansion": {
@@ -17403,9 +17403,9 @@
           "rank": 9
         },
         "castle-fireworks": {
-          "bestScore": 2624,
-          "date": "2026-07-02",
-          "rank": 10
+          "bestScore": 4832,
+          "date": "2026-07-23",
+          "rank": 7
         },
         "pirates": {
           "bestScore": 236,
@@ -17413,9 +17413,9 @@
           "rank": 4
         },
         "jungle-cruise": {
-          "bestScore": 31465,
-          "date": "2026-07-12",
-          "rank": 8
+          "bestScore": 35645,
+          "date": "2026-07-23",
+          "rank": 7
         }
       }
     },
