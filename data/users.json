@@ -2825,7 +2825,7 @@
       }
     },
     "bsims": {
-      "avatar": "c844e3d19e84132553b61ef50c1c90ee.png",
+      "avatar": "135246ced17cb15b49dcd5862c7eab51.png",
       "lastSeen": "2026-07-24",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -4166,11 +4166,11 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "6d45512151e1bc392db44c9fc2a86244.png",
+      "avatar": "bd6e3ef0d07cdd53748c29604704addc.png",
       "lastSeen": "2026-07-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-24"
       },
       "games": {
@@ -20115,9 +20115,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 36638,
-          "date": "2026-07-18",
-          "rank": 6
+          "bestScore": 38695,
+          "date": "2026-07-24",
+          "rank": 5
         },
         "pirates": {
           "bestScore": 205,
@@ -21272,16 +21272,21 @@
     },
     "Tallygirl94": {
       "avatar": null,
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-24",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-07-21"
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-07-24"
       },
       "games": {
         "castle-fireworks": {
           "bestScore": 2045,
           "date": "2026-07-20",
+          "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 4565,
+          "date": "2026-07-24",
           "rank": 6
         }
       }
