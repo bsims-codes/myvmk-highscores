@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-23",
-  "userCount": 1110,
+  "userCount": 1112,
   "users": {
     "kazino": {
       "avatar": "9822e51900edc2118ea33e7704a414a5.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "57512bed7f90820fab3e235da9aa9758.png",
+      "avatar": "1b783d36e21a55f4a0c08a1b837b82d0.png",
       "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -381,11 +381,11 @@
     },
     "Kronkx": {
       "avatar": "12ea711a5d688f913e60d709f5f9da28.png",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-08"
+        "rank": 8,
+        "date": "2026-07-23"
       },
       "games": {
         "castle-fireworks": {
@@ -509,7 +509,7 @@
       "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-07-23"
       },
       "games": {
@@ -1158,11 +1158,11 @@
     },
     "waterfallglow": {
       "avatar": "16cd135c3e2e0b3a7d9475749e00eceb.png",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-07-22"
+        "rank": 4,
+        "date": "2026-07-23"
       },
       "games": {
         "haunted-mansion": {
@@ -1180,11 +1180,11 @@
     },
     "AmandaJeanne": {
       "avatar": "b6bfddf1c139df4da940eb953c715fc5.png",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-07-20"
+        "rank": 3,
+        "date": "2026-07-23"
       },
       "games": {
         "haunted-mansion": {
@@ -2737,11 +2737,11 @@
     },
     "Diamond-K": {
       "avatar": "e1f11234709cb77c1eaf823babfb36e8.png",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-21"
+        "rank": 6,
+        "date": "2026-07-23"
       },
       "games": {
         "pirates": {
@@ -3591,11 +3591,11 @@
     },
     "eeriee": {
       "avatar": "bb90c93b34d12896ab9ae37248a57be4.png",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-07-22"
+        "rank": 7,
+        "date": "2026-07-23"
       },
       "games": {
         "pirates": {
@@ -4166,7 +4166,7 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "b8db39b17c96ecdb974495c18b666150.png",
+      "avatar": "6d45512151e1bc392db44c9fc2a86244.png",
       "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -5068,12 +5068,12 @@
       }
     },
     "Lavenous": {
-      "avatar": "05b1409e9b1b63c75cb1e4c8dc24cd03.png",
-      "lastSeen": "2026-07-22",
+      "avatar": "467ed3fb0c612fa8ab6827b5c9c0282c.png",
+      "lastSeen": "2026-07-23",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-07-22"
+        "rank": 1,
+        "date": "2026-07-23"
       },
       "games": {
         "pirates": {
@@ -21580,6 +21580,38 @@
           "bestScore": 9846,
           "date": "2026-07-23",
           "rank": 8
+        }
+      }
+    },
+    "godessdoggie": {
+      "avatar": null,
+      "lastSeen": "2026-07-23",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-07-23"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 6,
+          "date": "2026-07-23",
+          "rank": 9
+        }
+      }
+    },
+    "meanbeans": {
+      "avatar": null,
+      "lastSeen": "2026-07-23",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 5,
+        "date": "2026-07-23"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 243,
+          "date": "2026-07-23",
+          "rank": 5
         }
       }
     }
