@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "scrapedAt": "2026-07-26T08:34:28.891Z",
+  "scrapedAt": "2026-07-26T10:47:16.270Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -284,23 +284,23 @@
           },
           {
             "rank": 7,
+            "username": "JustForFun",
+            "score": 52
+          },
+          {
+            "rank": 8,
             "username": "-Misty-",
             "score": 36
           },
           {
-            "rank": 8,
-            "username": "experiment624",
-            "score": 31
-          },
-          {
             "rank": 9,
-            "username": "Matty",
-            "score": 30
+            "username": "experiment624",
+            "score": 35
           },
           {
             "rank": 10,
-            "username": "Mikki",
-            "score": 28
+            "username": "Matty",
+            "score": 30
           }
         ]
       },
@@ -418,10 +418,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "231e59f5161d3f9db0cfe3c5cfa0e4ba.png",
+        "topAvatar": "32260bed94654cc42dc1cc0670e82062.png",
         "scores": [
           {
             "rank": 1,
+            "username": "JellyFishFriend",
+            "score": 42397
+          },
+          {
+            "rank": 2,
             "username": "Guest10151053",
             "score": 22805
           }
