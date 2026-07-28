@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-27",
-  "userCount": 1128,
+  "userCount": 1131,
   "users": {
     "kazino": {
       "avatar": "9c98ddec4ee4b5923ca1f6f43347fea4.png",
@@ -239,7 +239,7 @@
       }
     },
     "PuffyOldDragon": {
-      "avatar": "d9cb1ed920814083fbc654024c685058.png",
+      "avatar": "84f3da82965a9e7feb8834c05a47a887.png",
       "lastSeen": "2026-07-27",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -2004,15 +2004,15 @@
       "lastSeen": "2026-07-27",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-07-27"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 9210,
-          "date": "2026-05-29",
-          "rank": 4,
-          "allTimeRank": 30
+          "bestScore": 9269,
+          "date": "2026-07-27",
+          "rank": 2,
+          "allTimeRank": 29
         }
       }
     },
@@ -2825,7 +2825,7 @@
       }
     },
     "bsims": {
-      "avatar": "e098b176c386a90bd4acd2d027e9f7ce.png",
+      "avatar": "d0b166873ca1e91bb6bc1f0c670a1db0.png",
       "lastSeen": "2026-07-27",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -4358,11 +4358,11 @@
     },
     "Naiant": {
       "avatar": "5e6a94d56278c4c59de9963761e04104.png",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-07-26"
+        "rank": 2,
+        "date": "2026-07-27"
       },
       "games": {
         "haunted-mansion": {
@@ -6478,7 +6478,7 @@
           "bestScore": 9249,
           "date": "2026-02-13",
           "rank": 3,
-          "allTimeRank": 29
+          "allTimeRank": 30
         },
         "haunted-mansion": {
           "bestScore": 121,
@@ -8193,11 +8193,11 @@
     },
     "Wdwdreamer": {
       "avatar": null,
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-27",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-07-19"
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-07-27"
       },
       "games": {
         "jungle-cruise": {
@@ -8206,9 +8206,9 @@
           "rank": 6
         },
         "castle-fireworks": {
-          "bestScore": 2893,
-          "date": "2026-03-15",
-          "rank": 6
+          "bestScore": 3350,
+          "date": "2026-07-27",
+          "rank": 8
         },
         "haunted-mansion": {
           "bestScore": 86,
@@ -16625,11 +16625,11 @@
     },
     "Firebreath": {
       "avatar": null,
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-27",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
-        "date": "2026-07-13"
+        "rank": 4,
+        "date": "2026-07-27"
       },
       "games": {
         "castle-fireworks": {
@@ -21898,6 +21898,54 @@
           "bestScore": 1165,
           "date": "2026-07-27",
           "rank": 8
+        }
+      }
+    },
+    "Guest10069388": {
+      "avatar": null,
+      "lastSeen": "2026-07-27",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-07-27"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 465,
+          "date": "2026-07-27",
+          "rank": 10
+        }
+      }
+    },
+    "Munchykin": {
+      "avatar": null,
+      "lastSeen": "2026-07-27",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-07-27"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 39522,
+          "date": "2026-07-27",
+          "rank": 9
+        }
+      }
+    },
+    "Dancr4eva1109": {
+      "avatar": null,
+      "lastSeen": "2026-07-27",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-07-27"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 5395,
+          "date": "2026-07-27",
+          "rank": 9
         }
       }
     }
