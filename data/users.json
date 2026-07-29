@@ -96,11 +96,11 @@
       }
     },
     "Jewelsy": {
-      "avatar": "7ead28276cb19de9db90cc33af1fa93c.png",
+      "avatar": "0bff91697d406e07773c452288628a8a.png",
       "lastSeen": "2026-07-29",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-07-29"
       },
       "games": {
@@ -1307,7 +1307,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "bc054ac3b3485ecb63b1eff7b2d01a55.png",
+      "avatar": "8a5fd1f9ec4156105a72e0240bec6724.png",
       "lastSeen": "2026-07-29",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -3938,11 +3938,11 @@
     },
     "PrincessCutezada": {
       "avatar": "d93f212a23f9bb3fac9bbdcab0021268.png",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-29",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-07-27"
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-07-29"
       },
       "games": {
         "castle-fireworks": {
@@ -4363,11 +4363,11 @@
     },
     "Naiant": {
       "avatar": "5e6a94d56278c4c59de9963761e04104.png",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-07-28"
+        "rank": 10,
+        "date": "2026-07-29"
       },
       "games": {
         "haunted-mansion": {
@@ -6120,7 +6120,7 @@
       }
     },
     "EVOL": {
-      "avatar": "2ecda7f160f537d52f4d4a2a0894b92d.png",
+      "avatar": "4a9ec9071e4b05f039afb8410ddcf38e.png",
       "lastSeen": "2026-07-29",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -22068,6 +22068,11 @@
           "bestScore": 9612,
           "date": "2026-07-29",
           "rank": 2
+        },
+        "castle-fireworks": {
+          "bestScore": 354,
+          "date": "2026-07-29",
+          "rank": 10
         }
       }
     }
