@@ -1307,7 +1307,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "8a5fd1f9ec4156105a72e0240bec6724.png",
+      "avatar": "ea9430ce5783a2c413c6ff44c12682a3.png",
       "lastSeen": "2026-07-30",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -18650,11 +18650,11 @@
     },
     "lilspookycryptid": {
       "avatar": null,
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-30",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-07-04"
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-07-30"
       },
       "games": {
         "jungle-cruise": {
@@ -18671,6 +18671,11 @@
           "bestScore": 195,
           "date": "2026-06-14",
           "rank": 10
+        },
+        "haunted-mansion": {
+          "bestScore": 105,
+          "date": "2026-07-30",
+          "rank": 2
         }
       }
     },
