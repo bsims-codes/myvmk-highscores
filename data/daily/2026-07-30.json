@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "scrapedAt": "2026-07-30T19:42:12.119Z",
+  "scrapedAt": "2026-07-30T22:12:08.753Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -158,8 +158,29 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "031a5c98e93440a7b64e31039ff16bc9.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "ComputerDevil",
+            "score": 200
+          },
+          {
+            "rank": 2,
+            "username": "chaoticvinyl",
+            "score": 62
+          },
+          {
+            "rank": 3,
+            "username": "Kronkx",
+            "score": 6
+          },
+          {
+            "rank": 4,
+            "username": "LittleGold",
+            "score": 0
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "b2d92a6312728e89a30e36f8a2e641f8.png",
@@ -330,7 +351,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "93bdc375d136992c617d6f100237486c.png",
+        "topAvatar": "ecd93d875d3f1841a506f850bb7955e2.png",
         "scores": [
           {
             "rank": 1,
@@ -414,12 +435,12 @@
           },
           {
             "rank": 6,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 7,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {

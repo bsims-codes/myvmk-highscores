@@ -381,11 +381,11 @@
     },
     "Kronkx": {
       "avatar": "12ea711a5d688f913e60d709f5f9da28.png",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-30",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
-        "date": "2026-07-24"
+        "rank": 3,
+        "date": "2026-07-30"
       },
       "games": {
         "castle-fireworks": {
@@ -6120,7 +6120,7 @@
       }
     },
     "EVOL": {
-      "avatar": "93bdc375d136992c617d6f100237486c.png",
+      "avatar": "ecd93d875d3f1841a506f850bb7955e2.png",
       "lastSeen": "2026-07-30",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -20016,11 +20016,11 @@
     },
     "LittleGold": {
       "avatar": null,
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-30",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-07-21"
+        "rank": 4,
+        "date": "2026-07-30"
       },
       "games": {
         "pirates": {
@@ -20124,8 +20124,8 @@
       "avatar": "8582adaa30c144577c24303dddd8fb54.png",
       "lastSeen": "2026-07-30",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
+        "game": "pirates",
+        "rank": 2,
         "date": "2026-07-30"
       },
       "games": {
@@ -20440,12 +20440,12 @@
       }
     },
     "ComputerDevil": {
-      "avatar": null,
-      "lastSeen": "2026-07-21",
+      "avatar": "031a5c98e93440a7b64e31039ff16bc9.png",
+      "lastSeen": "2026-07-30",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-07-21"
+        "game": "pirates",
+        "rank": 1,
+        "date": "2026-07-30"
       },
       "games": {
         "castle-fireworks": {
@@ -20457,6 +20457,11 @@
           "bestScore": 68,
           "date": "2026-07-21",
           "rank": 8
+        },
+        "pirates": {
+          "bestScore": 200,
+          "date": "2026-07-30",
+          "rank": 1
         }
       }
     },
