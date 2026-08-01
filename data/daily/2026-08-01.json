@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "scrapedAt": "2026-08-01T13:41:40.292Z",
+  "scrapedAt": "2026-08-01T16:04:59.889Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,11 +14,16 @@
           },
           {
             "rank": 2,
-            "username": "JellyFishFriend",
-            "score": 6771
+            "username": "MissAnnaNovang",
+            "score": 7389
           },
           {
             "rank": 3,
+            "username": "JellyFishFriend",
+            "score": 7180
+          },
+          {
+            "rank": 4,
             "username": "Eliiott",
             "score": 5726
           }
@@ -384,12 +389,12 @@
           },
           {
             "rank": 7,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 8,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
@@ -408,15 +413,25 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "14199c351aa648416d55868b5702c647.png",
+        "topAvatar": "41af2c9e51c067bb2c3949c939dedfba.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Nayru",
+            "score": 57625
+          },
+          {
+            "rank": 2,
             "username": "BravaCentauri",
             "score": 43171
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 40579
+          },
+          {
+            "rank": 4,
             "username": "fanta",
             "score": 28606
           }
