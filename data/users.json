@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-01",
-  "userCount": 1149,
+  "userCount": 1150,
   "users": {
     "kazino": {
       "avatar": "9c98ddec4ee4b5923ca1f6f43347fea4.png",
@@ -1138,7 +1138,7 @@
       "lastSeen": "2026-08-01",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-08-01"
       },
       "games": {
@@ -2825,7 +2825,7 @@
       }
     },
     "bsims": {
-      "avatar": "3feb62a922583c34067191d0de62efc9.png",
+      "avatar": "67a831ac3ddef75d17af5b7059c8a8c1.png",
       "lastSeen": "2026-08-01",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -17780,11 +17780,11 @@
     },
     "Bootstrap": {
       "avatar": null,
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-08-01",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
-        "date": "2026-06-05"
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-08-01"
       },
       "games": {
         "jungle-cruise": {
@@ -17796,6 +17796,11 @@
           "bestScore": 208,
           "date": "2026-06-04",
           "rank": 4
+        },
+        "castle-fireworks": {
+          "bestScore": 2148,
+          "date": "2026-08-01",
+          "rank": 7
         }
       }
     },
@@ -21442,7 +21447,7 @@
       "lastSeen": "2026-08-01",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-08-01"
       },
       "games": {
@@ -22018,7 +22023,7 @@
       }
     },
     "CoachRita": {
-      "avatar": "b05784992c19823283777a123a8dc984.png",
+      "avatar": "69c9933f3ab7954591dd74715bcad885.png",
       "lastSeen": "2026-08-01",
       "lastAppearance": {
         "game": "pirates",
@@ -22294,6 +22299,22 @@
           "bestScore": 37630,
           "date": "2026-08-01",
           "rank": 10
+        }
+      }
+    },
+    "Goldenshadowrose": {
+      "avatar": null,
+      "lastSeen": "2026-08-01",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-08-01"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 3981,
+          "date": "2026-08-01",
+          "rank": 8
         }
       }
     }
