@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-02",
-  "userCount": 1151,
+  "userCount": 1152,
   "users": {
     "kazino": {
       "avatar": "9c98ddec4ee4b5923ca1f6f43347fea4.png",
@@ -986,7 +986,7 @@
       "lastSeen": "2026-08-02",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-08-02"
       },
       "games": {
@@ -1285,7 +1285,7 @@
       }
     },
     "Shadow_Rose": {
-      "avatar": "2bda0ac5a550d1fb0a4bd2d69a81b03d.png",
+      "avatar": "2f5b0416a65b46aaca38c04bc01904ea.png",
       "lastSeen": "2026-08-02",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1681,7 +1681,7 @@
       "lastSeen": "2026-08-02",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-08-02"
       },
       "games": {
@@ -2445,7 +2445,7 @@
       "lastSeen": "2026-08-02",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-08-02"
       },
       "games": {
@@ -22336,6 +22336,22 @@
           "bestScore": 640,
           "date": "2026-08-02",
           "rank": 7
+        }
+      }
+    },
+    "acesnoopy": {
+      "avatar": null,
+      "lastSeen": "2026-08-02",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 4,
+        "date": "2026-08-02"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 34275,
+          "date": "2026-08-02",
+          "rank": 4
         }
       }
     }
