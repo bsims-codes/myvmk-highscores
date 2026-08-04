@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-04",
-  "userCount": 1164,
+  "userCount": 1165,
   "users": {
     "kazino": {
       "avatar": "9c98ddec4ee4b5923ca1f6f43347fea4.png",
@@ -22579,6 +22579,27 @@
           "bestScore": 230,
           "date": "2026-08-04",
           "rank": 6
+        }
+      }
+    },
+    "bolognehead": {
+      "avatar": "685b9d995ecfba3b6fce0d9063428736.png",
+      "lastSeen": "2026-08-04",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 1,
+        "date": "2026-08-04"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 401,
+          "date": "2026-08-04",
+          "rank": 5
+        },
+        "jungle-cruise": {
+          "bestScore": 8494,
+          "date": "2026-08-04",
+          "rank": 1
         }
       }
     }
