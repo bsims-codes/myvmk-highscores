@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "scrapedAt": "2026-08-04T16:56:59.990Z",
+  "scrapedAt": "2026-08-04T19:44:50.680Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -29,6 +29,11 @@
           },
           {
             "rank": 5,
+            "username": "Jenisee",
+            "score": 655
+          },
+          {
+            "rank": 6,
             "username": "bolognehead",
             "score": 401
           }
@@ -232,12 +237,12 @@
           },
           {
             "rank": 9,
-            "username": "Bernardo_S_Rocks",
+            "username": "PrinceGeminii",
             "score": 200
           },
           {
             "rank": 10,
-            "username": "Tinkfaniam",
+            "username": "Bernardo_S_Rocks",
             "score": 200
           }
         ]
@@ -325,12 +330,12 @@
           },
           {
             "rank": 5,
-            "username": "magickate",
+            "username": "CristianoRonaldo",
             "score": 108
           },
           {
             "rank": 6,
-            "username": "CristianoRonaldo",
+            "username": "magickate",
             "score": 108
           },
           {
@@ -469,15 +474,30 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "c0c55e8a139a976e408317c59ec7b52c.png",
+        "topAvatar": "611faefa60b646b055c3f7375100339e.png",
         "scores": [
           {
             "rank": 1,
-            "username": "HoneyStar",
-            "score": 47386
+            "username": "HappyToughFish",
+            "score": 52066
           },
           {
             "rank": 2,
+            "username": "BlueSorcerer",
+            "score": 48503
+          },
+          {
+            "rank": 3,
+            "username": "HoneyStar",
+            "score": 48348
+          },
+          {
+            "rank": 4,
+            "username": "Jenisee",
+            "score": 37852
+          },
+          {
+            "rank": 5,
             "username": "bolognehead",
             "score": 8494
           }
