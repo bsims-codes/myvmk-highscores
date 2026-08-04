@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-03",
-  "userCount": 1159,
+  "userCount": 1161,
   "users": {
     "kazino": {
       "avatar": "9c98ddec4ee4b5923ca1f6f43347fea4.png",
@@ -321,8 +321,8 @@
       "avatar": "4289f047e1ad2ed657692382553272ee.png",
       "lastSeen": "2026-08-03",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 3,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-08-03"
       },
       "games": {
@@ -2004,7 +2004,7 @@
       "lastSeen": "2026-08-03",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-08-03"
       },
       "games": {
@@ -18673,7 +18673,7 @@
       "lastSeen": "2026-08-03",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 5,
         "date": "2026-08-03"
       },
       "games": {
@@ -22494,6 +22494,38 @@
           "bestScore": 35699,
           "date": "2026-08-03",
           "rank": 5
+        }
+      }
+    },
+    "sandycheeks": {
+      "avatar": null,
+      "lastSeen": "2026-08-03",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 2,
+        "date": "2026-08-03"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 231,
+          "date": "2026-08-03",
+          "rank": 2
+        }
+      }
+    },
+    "Michelliegrl": {
+      "avatar": null,
+      "lastSeen": "2026-08-03",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-08-03"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 83,
+          "date": "2026-08-03",
+          "rank": 3
         }
       }
     }
