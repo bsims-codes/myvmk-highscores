@@ -1,36 +1,41 @@
 {
   "date": "2026-08-05",
-  "scrapedAt": "2026-08-05T08:45:05.637Z",
+  "scrapedAt": "2026-08-05T11:25:04.221Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "071db564cf5ce211cb0e418357541d0c.png",
+        "topAvatar": "d36835b6900b484706bcc593e83c99df.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10440
+          },
+          {
+            "rank": 2,
             "username": "JellyFishFriend",
             "score": 6949
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 6856
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Eliiott",
             "score": 5578
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10151162",
             "score": 552
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "568520c46f567a55cf6b1dbb53c6dfb3.png",
+        "topAvatar": "d36835b6900b484706bcc593e83c99df.png",
         "scores": [
           {
             "rank": 1,
@@ -290,21 +295,26 @@
           },
           {
             "rank": 2,
+            "username": "JustForFun",
+            "score": 62
+          },
+          {
+            "rank": 3,
             "username": "PrinceGeminii",
             "score": 51
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "3Racha",
             "score": 49
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Winnie",
             "score": 37
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "-Hannah-",
             "score": 31
           }
