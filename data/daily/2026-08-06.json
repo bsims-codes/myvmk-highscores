@@ -1,26 +1,31 @@
 {
   "date": "2026-08-06",
-  "scrapedAt": "2026-08-06T08:46:26.544Z",
+  "scrapedAt": "2026-08-06T11:28:12.922Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "071db564cf5ce211cb0e418357541d0c.png",
+        "topAvatar": "ad44a3fbbf493acff7ca2c2800ab65cf.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10954
+          },
+          {
+            "rank": 2,
             "username": "JellyFishFriend",
             "score": 7739
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 6922
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Eliiott",
-            "score": 5082
+            "score": 5161
           }
         ]
       },
@@ -197,16 +202,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "b548c7e40ee0c8d082290ee51093097a.png",
+        "topAvatar": "00db92e6d76d08a3f1ec6fa6e947b9d5.png",
         "scores": [
           {
             "rank": 1,
-            "username": "hopealicious",
+            "username": "magickate",
             "score": 416
           },
           {
             "rank": 2,
-            "username": "magickate",
+            "username": "hopealicious",
             "score": 416
           },
           {
@@ -269,11 +274,26 @@
           },
           {
             "rank": 3,
+            "username": "JustForFun",
+            "score": 54
+          },
+          {
+            "rank": 4,
             "username": "PrinceGeminii",
             "score": 48
           },
           {
-            "rank": 4,
+            "rank": 5,
+            "username": "PrincessCutezada",
+            "score": 45
+          },
+          {
+            "rank": 6,
+            "username": "3Racha",
+            "score": 44
+          },
+          {
+            "rank": 7,
             "username": "AstroVioletRose",
             "score": 32
           }
