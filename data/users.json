@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-07",
-  "userCount": 1183,
+  "userCount": 1184,
   "users": {
     "kazino": {
       "avatar": "58fafbec62bdf51863bf90ef145a8033.png",
@@ -6144,7 +6144,7 @@
       "lastSeen": "2026-08-07",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-08-07"
       },
       "games": {
@@ -22928,6 +22928,22 @@
           "bestScore": 26411,
           "date": "2026-08-06",
           "rank": 3
+        }
+      }
+    },
+    "Guest10151192": {
+      "avatar": null,
+      "lastSeen": "2026-08-07",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 5,
+        "date": "2026-08-07"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 8,
+          "date": "2026-08-07",
+          "rank": 5
         }
       }
     }
