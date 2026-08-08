@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-08",
-  "userCount": 1190,
+  "userCount": 1191,
   "users": {
     "kazino": {
       "avatar": "c23a652344b55f76ee484b65ad986280.png",
@@ -65,7 +65,7 @@
       "lastSeen": "2026-08-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-08-08"
       },
       "games": {
@@ -1102,11 +1102,11 @@
     },
     "-Misty-": {
       "avatar": "b742b232798903d6e25aeb4eedc83a13.png",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-08-07"
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-08-08"
       },
       "games": {
         "haunted-mansion": {
@@ -4181,7 +4181,7 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "5eb4ef6124e19d8f8fa8b5ad99c3a26f.png",
+      "avatar": "1be8499e82376d05144044b1730cde5e.png",
       "lastSeen": "2026-08-08",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -15555,6 +15555,11 @@
           "bestScore": 102,
           "date": "2026-07-11",
           "rank": 5
+        },
+        "pirates": {
+          "bestScore": 157,
+          "date": "2026-08-08",
+          "rank": 6
         }
       }
     },
@@ -22887,20 +22892,25 @@
       "avatar": null,
       "lastSeen": "2026-08-08",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 8,
+        "game": "castle-fireworks",
+        "rank": 3,
         "date": "2026-08-08"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 31317,
-          "date": "2026-08-07",
-          "rank": 5
+          "bestScore": 31888,
+          "date": "2026-08-08",
+          "rank": 4
         },
         "castle-fireworks": {
-          "bestScore": 1900,
-          "date": "2026-08-07",
-          "rank": 6
+          "bestScore": 2100,
+          "date": "2026-08-08",
+          "rank": 3
+        },
+        "pirates": {
+          "bestScore": 220,
+          "date": "2026-08-08",
+          "rank": 4
         }
       }
     },
@@ -23062,9 +23072,25 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 5132,
+          "bestScore": 6201,
           "date": "2026-08-08",
-          "rank": 4
+          "rank": 5
+        }
+      }
+    },
+    "HOST_Maleficent": {
+      "avatar": null,
+      "lastSeen": "2026-08-08",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 8,
+        "date": "2026-08-08"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 28,
+          "date": "2026-08-08",
+          "rank": 8
         }
       }
     }
