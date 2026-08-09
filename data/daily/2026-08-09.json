@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "scrapedAt": "2026-08-09T07:04:49.868Z",
+  "scrapedAt": "2026-08-09T09:47:07.490Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -10,12 +10,17 @@
           {
             "rank": 1,
             "username": "Eliiott",
-            "score": 5391
+            "score": 5753
           },
           {
             "rank": 2,
             "username": "SillyNinjaPerson",
             "score": 1210
+          },
+          {
+            "rank": 3,
+            "username": "Guest10151218",
+            "score": 633
           }
         ]
       },
@@ -208,16 +213,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "b548c7e40ee0c8d082290ee51093097a.png",
+        "topAvatar": "00db92e6d76d08a3f1ec6fa6e947b9d5.png",
         "scores": [
           {
             "rank": 1,
-            "username": "hopealicious",
+            "username": "magickate",
             "score": 416
           },
           {
             "rank": 2,
-            "username": "magickate",
+            "username": "hopealicious",
             "score": 416
           },
           {
@@ -280,18 +285,18 @@
           },
           {
             "rank": 3,
-            "username": "scortatia",
-            "score": 65
+            "username": "Shadow_Rose",
+            "score": 98
           },
           {
             "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 64
+            "score": 77
           },
           {
             "rank": 5,
-            "username": "Shadow_Rose",
-            "score": 63
+            "username": "scortatia",
+            "score": 65
           },
           {
             "rank": 6,
@@ -365,12 +370,12 @@
           },
           {
             "rank": 9,
-            "username": "Rstar",
+            "username": "Mikki",
             "score": 72
           },
           {
             "rank": 10,
-            "username": "Mikki",
+            "username": "Rstar",
             "score": 72
           }
         ]
