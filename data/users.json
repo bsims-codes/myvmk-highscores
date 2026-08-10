@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-10",
-  "userCount": 1200,
+  "userCount": 1202,
   "users": {
     "kazino": {
       "avatar": "c23a652344b55f76ee484b65ad986280.png",
@@ -4186,7 +4186,7 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "295019ec6363aa3d95a31054bf962e9b.png",
+      "avatar": "d11c6ae037a1f37a4ccf76c2f6a94420.png",
       "lastSeen": "2026-08-10",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -16385,7 +16385,7 @@
       }
     },
     "JellyFishFriend": {
-      "avatar": "7e8ff025d18329b1940037f8c4c0db8d.png",
+      "avatar": "79849b548022945408e786e512bd2551.png",
       "lastSeen": "2026-08-10",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -22908,9 +22908,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 36654,
+          "bestScore": 38614,
           "date": "2026-08-10",
-          "rank": 4
+          "rank": 6
         },
         "castle-fireworks": {
           "bestScore": 2100,
@@ -23250,6 +23250,38 @@
           "bestScore": 623,
           "date": "2026-08-10",
           "rank": 7
+        }
+      }
+    },
+    "SnowCone": {
+      "avatar": null,
+      "lastSeen": "2026-08-10",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-08-10"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1123,
+          "date": "2026-08-10",
+          "rank": 8
+        }
+      }
+    },
+    "Guest10151230": {
+      "avatar": null,
+      "lastSeen": "2026-08-10",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-08-10"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 825,
+          "date": "2026-08-10",
+          "rank": 9
         }
       }
     }
