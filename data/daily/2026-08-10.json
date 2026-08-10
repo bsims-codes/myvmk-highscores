@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "scrapedAt": "2026-08-10T13:22:24.291Z",
+  "scrapedAt": "2026-08-10T16:03:26.409Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,11 +14,16 @@
           },
           {
             "rank": 2,
-            "username": "Eliiott",
-            "score": 5708
+            "username": "AtziriDayre",
+            "score": 6159
           },
           {
             "rank": 3,
+            "username": "Eliiott",
+            "score": 5866
+          },
+          {
+            "rank": 4,
             "username": "PowerGirl",
             "score": 3716
           }
@@ -272,12 +277,12 @@
           },
           {
             "rank": 6,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
@@ -335,16 +340,21 @@
           },
           {
             "rank": 7,
+            "username": "PrinceGeminii",
+            "score": 47
+          },
+          {
+            "rank": 8,
             "username": "3Racha",
             "score": 45
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Expect",
             "score": 43
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "PrincessCutezada",
             "score": 40
           }
@@ -370,12 +380,12 @@
           },
           {
             "rank": 4,
-            "username": "Magenta",
+            "username": "KristiDB",
             "score": 106
           },
           {
             "rank": 5,
-            "username": "KristiDB",
+            "username": "Magenta",
             "score": 106
           },
           {
@@ -464,10 +474,15 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "0b86714ffd816cc6096160221b8a0599.png",
+        "topAvatar": "16d9a07d29c770e75877432d2c6364ce.png",
         "scores": [
           {
             "rank": 1,
+            "username": "HappyToughFish",
+            "score": 50638
+          },
+          {
+            "rank": 2,
             "username": "CaitlinNoel",
             "score": 44370
           }
