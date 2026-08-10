@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-10",
-  "userCount": 1199,
+  "userCount": 1200,
   "users": {
     "kazino": {
       "avatar": "c23a652344b55f76ee484b65ad986280.png",
@@ -182,11 +182,11 @@
     },
     "MissAnnaNovang": {
       "avatar": "15b4cde9dbcdc03ae3a096742965abe5.png",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-10",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-08-08"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-08-10"
       },
       "games": {
         "castle-fireworks": {
@@ -1815,7 +1815,7 @@
       "lastSeen": "2026-08-10",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-08-10"
       },
       "games": {
@@ -4186,7 +4186,7 @@
       }
     },
     "HappyToughFish": {
-      "avatar": "16d9a07d29c770e75877432d2c6364ce.png",
+      "avatar": "295019ec6363aa3d95a31054bf962e9b.png",
       "lastSeen": "2026-08-10",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -22900,17 +22900,17 @@
     },
     "LakeLady": {
       "avatar": null,
-      "lastSeen": "2026-08-09",
+      "lastSeen": "2026-08-10",
       "lastAppearance": {
-        "game": "pirates",
+        "game": "jungle-cruise",
         "rank": 4,
-        "date": "2026-08-09"
+        "date": "2026-08-10"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 33864,
-          "date": "2026-08-08",
-          "rank": 8
+          "bestScore": 36654,
+          "date": "2026-08-10",
+          "rank": 4
         },
         "castle-fireworks": {
           "bestScore": 2100,
@@ -23234,6 +23234,22 @@
           "bestScore": 35628,
           "date": "2026-08-09",
           "rank": 6
+        }
+      }
+    },
+    "Guest10151188": {
+      "avatar": null,
+      "lastSeen": "2026-08-10",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-08-10"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 623,
+          "date": "2026-08-10",
+          "rank": 7
         }
       }
     }
