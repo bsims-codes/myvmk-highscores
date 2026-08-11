@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "scrapedAt": "2026-08-11T07:16:52.560Z",
+  "scrapedAt": "2026-08-11T10:04:17.053Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,11 +14,16 @@
           },
           {
             "rank": 2,
-            "username": "Eliiott",
-            "score": 4568
+            "username": "MissAnnaNovang",
+            "score": 7198
           },
           {
             "rank": 3,
+            "username": "Eliiott",
+            "score": 5024
+          },
+          {
+            "rank": 4,
             "username": "AtziriDayre",
             "score": 125
           }
@@ -306,7 +311,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "ce89368b807d01eaa2a41fe41c44eeab.png",
+        "topAvatar": "ad165e46daad583e8155e7b0fbaaea61.png",
         "scores": [
           {
             "rank": 1,
@@ -361,7 +366,7 @@
         ]
       },
       "yesterday": {
-        "topAvatar": "ce89368b807d01eaa2a41fe41c44eeab.png",
+        "topAvatar": "ad165e46daad583e8155e7b0fbaaea61.png",
         "scores": [
           {
             "rank": 1,
@@ -410,7 +415,7 @@
           },
           {
             "rank": 10,
-            "username": "Shadow_Rose",
+            "username": "JustForFun",
             "score": 65
           }
         ]
