@@ -1,19 +1,24 @@
 {
   "date": "2026-08-12",
-  "scrapedAt": "2026-08-12T10:12:51.978Z",
+  "scrapedAt": "2026-08-12T13:23:07.821Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "fe319415b1c06d71023d8f3502cc021f.png",
+        "topAvatar": "eb61bcb869a969a476fb71cf29a0b3bb.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 11390
+          },
+          {
+            "rank": 2,
             "username": "kazino",
             "score": 11322
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Eliiott",
             "score": 5256
           }
@@ -84,13 +89,13 @@
           },
           {
             "rank": 2,
-            "username": "VMKNeec",
-            "score": 11286
+            "username": "BRlTT",
+            "score": 11390
           },
           {
             "rank": 3,
-            "username": "BRlTT",
-            "score": 11282
+            "username": "VMKNeec",
+            "score": 11286
           },
           {
             "rank": 4,
@@ -320,38 +325,38 @@
           },
           {
             "rank": 4,
+            "username": "JustForFun",
+            "score": 69
+          },
+          {
+            "rank": 5,
             "username": "Mikki",
             "score": 62
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "username": "Bernardo_S_Rocks",
+            "score": 52
+          },
+          {
+            "rank": 7,
+            "username": "EVOL",
+            "score": 49
+          },
+          {
+            "rank": 8,
             "username": "waterfallglow",
             "score": 49
           },
           {
-            "rank": 6,
+            "rank": 9,
             "username": "Expect",
             "score": 48
           },
           {
-            "rank": 7,
+            "rank": 10,
             "username": "Monsta",
             "score": 47
-          },
-          {
-            "rank": 8,
-            "username": "scortatia",
-            "score": 46
-          },
-          {
-            "rank": 9,
-            "username": "3Racha",
-            "score": 34
-          },
-          {
-            "rank": 10,
-            "username": "AntPGN",
-            "score": 16
           }
         ]
       },
