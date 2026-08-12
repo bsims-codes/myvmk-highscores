@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "scrapedAt": "2026-08-12T07:41:02.616Z",
+  "scrapedAt": "2026-08-12T10:12:51.978Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -11,6 +11,11 @@
             "rank": 1,
             "username": "kazino",
             "score": 11322
+          },
+          {
+            "rank": 2,
+            "username": "Eliiott",
+            "score": 5256
           }
         ]
       },
@@ -137,32 +142,32 @@
           },
           {
             "rank": 2,
-            "username": "LittleGold",
-            "score": 200
-          },
-          {
-            "rank": 3,
-            "username": "ScoobyRoo",
-            "score": 200
-          },
-          {
-            "rank": 4,
             "username": "JustForFun",
             "score": 200
           },
           {
-            "rank": 5,
+            "rank": 3,
             "username": "Cloudyblue",
             "score": 200
           },
           {
-            "rank": 6,
+            "rank": 4,
             "username": "PrinceGeminii",
             "score": 200
           },
           {
-            "rank": 7,
+            "rank": 5,
             "username": "Bernardo_S_Rocks",
+            "score": 200
+          },
+          {
+            "rank": 6,
+            "username": "LittleGold",
+            "score": 200
+          },
+          {
+            "rank": 7,
+            "username": "ScoobyRoo",
             "score": 200
           },
           {
@@ -267,12 +272,12 @@
           },
           {
             "rank": 6,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
@@ -440,12 +445,12 @@
           },
           {
             "rank": 7,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 8,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
