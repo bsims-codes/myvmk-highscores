@@ -1,29 +1,39 @@
 {
   "date": "2026-08-13",
-  "scrapedAt": "2026-08-13T10:14:12.234Z",
+  "scrapedAt": "2026-08-13T13:24:56.210Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "b59faa307c993fb40abed55b7acfd721.png",
+        "topAvatar": "0e684099dd9c6e9d6ddb57d14a0ab6c3.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10863
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 6914
+          },
+          {
+            "rank": 3,
             "username": "AtziriDayre",
             "score": 6547
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "MagicChrome",
             "score": 5500
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "Eliiott",
-            "score": 5216
+            "score": 5359
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "WillaKingdomKeeper",
             "score": 4700
           }
@@ -252,22 +262,22 @@
           },
           {
             "rank": 4,
-            "username": "Katana",
-            "score": 377
-          },
-          {
-            "rank": 5,
             "username": "girlzilla",
             "score": 377
           },
           {
+            "rank": 5,
+            "username": "Katana",
+            "score": 377
+          },
+          {
             "rank": 6,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
@@ -315,8 +325,23 @@
           },
           {
             "rank": 5,
+            "username": "JustForFun",
+            "score": 63
+          },
+          {
+            "rank": 6,
+            "username": "3Racha",
+            "score": 51
+          },
+          {
+            "rank": 7,
             "username": "PrinceGeminii",
-            "score": 43
+            "score": 44
+          },
+          {
+            "rank": 8,
+            "username": "PrincessCutezada",
+            "score": 35
           }
         ]
       },
