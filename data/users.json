@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-13",
-  "userCount": 1212,
+  "userCount": 1213,
   "users": {
     "kazino": {
       "avatar": "2e0f42a135737e28256fe30895939197.png",
@@ -3676,11 +3676,11 @@
     },
     "Winnie": {
       "avatar": "1b74bf1fc1ec3d01d46dcce5d4b1ba7d.png",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-08-10"
+        "rank": 10,
+        "date": "2026-08-13"
       },
       "games": {
         "haunted-mansion": {
@@ -5919,11 +5919,11 @@
     },
     "Pepa": {
       "avatar": "497292e6a5dbd1fb533bf22196511173.png",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-08-13",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-07-16"
+        "rank": 9,
+        "date": "2026-08-13"
       },
       "games": {
         "castle-fireworks": {
@@ -23465,6 +23465,22 @@
       "games": {
         "castle-fireworks": {
           "bestScore": 5500,
+          "date": "2026-08-13",
+          "rank": 2
+        }
+      }
+    },
+    "Guest10151250": {
+      "avatar": null,
+      "lastSeen": "2026-08-13",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 2,
+        "date": "2026-08-13"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 2598,
           "date": "2026-08-13",
           "rank": 2
         }
