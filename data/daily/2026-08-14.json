@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "scrapedAt": "2026-08-14T13:19:27.949Z",
+  "scrapedAt": "2026-08-14T15:56:35.778Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,21 +14,26 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7741
+          },
+          {
+            "rank": 3,
             "username": "Eliiott",
             "score": 5590
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "MagicChrome",
             "score": 500
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Looney",
             "score": 42
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Marcus",
             "score": 0
           }
@@ -299,6 +304,21 @@
           },
           {
             "rank": 7,
+            "username": "BuckyBarnes",
+            "score": 57
+          },
+          {
+            "rank": 8,
+            "username": "SpookyBrightFairy",
+            "score": 53
+          },
+          {
+            "rank": 9,
+            "username": "BigFoxMol",
+            "score": 53
+          },
+          {
+            "rank": 10,
             "username": "3Racha",
             "score": 52
           }
@@ -354,7 +374,7 @@
           },
           {
             "rank": 10,
-            "username": "tea",
+            "username": "JustForFun",
             "score": 63
           }
         ]
@@ -418,12 +438,22 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "7af42d129c6c6a30a26c58c20c595c9e.png",
+        "topAvatar": "af2e7aa50eb17889369d4b095885b123.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BuckyBarnes",
+            "score": 48369
+          },
+          {
+            "rank": 2,
             "username": "CaitlinNoel",
             "score": 45229
+          },
+          {
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 40423
           }
         ]
       },
