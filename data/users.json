@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-14",
-  "userCount": 1221,
+  "userCount": 1222,
   "users": {
     "kazino": {
       "avatar": "5d4e44854e4733e78d368895fb2369cf.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-08-14",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 2,
         "date": "2026-08-14"
       },
       "games": {
@@ -1317,7 +1317,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "a0f5040ba29fc879aa87a3b96a4bbe31.png",
+      "avatar": "01ea1754a95b069b8652178dab91c685.png",
       "lastSeen": "2026-08-14",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1691,7 +1691,7 @@
       "lastSeen": "2026-08-14",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-08-14"
       },
       "games": {
@@ -23631,6 +23631,22 @@
           "bestScore": 42,
           "date": "2026-08-14",
           "rank": 3
+        }
+      }
+    },
+    "Tinkandpink": {
+      "avatar": null,
+      "lastSeen": "2026-08-14",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-08-14"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 59,
+          "date": "2026-08-14",
+          "rank": 6
         }
       }
     }
