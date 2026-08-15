@@ -1,34 +1,39 @@
 {
   "date": "2026-08-15",
-  "scrapedAt": "2026-08-15T09:31:15.903Z",
+  "scrapedAt": "2026-08-15T12:49:02.031Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "75077d2e2f93e00a34e0aefe3fb7b788.png",
+        "topAvatar": "1b783d36e21a55f4a0c08a1b837b82d0.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10629
+          },
+          {
+            "rank": 2,
             "username": "AtziriDayre",
             "score": 6533
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Eliiott",
             "score": 6301
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "PrincessCutezada",
             "score": 4076
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10151258",
             "score": 200
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "minikeeks",
             "score": 34
           }
@@ -310,13 +315,13 @@
           },
           {
             "rank": 3,
-            "username": "AstroVioletRose",
-            "score": 62
+            "username": "Shadow_Rose",
+            "score": 63
           },
           {
             "rank": 4,
-            "username": "Shadow_Rose",
-            "score": 58
+            "username": "AstroVioletRose",
+            "score": 62
           },
           {
             "rank": 5,
@@ -325,13 +330,28 @@
           },
           {
             "rank": 6,
-            "username": "Guest10151258",
-            "score": 19
+            "username": "JustForFun",
+            "score": 58
           },
           {
             "rank": 7,
-            "username": "fritzguy",
-            "score": 0
+            "username": "BRlTT",
+            "score": 53
+          },
+          {
+            "rank": 8,
+            "username": "EVOL",
+            "score": 52
+          },
+          {
+            "rank": 9,
+            "username": "AmandaJeanne",
+            "score": 33
+          },
+          {
+            "rank": 10,
+            "username": "Guest10151258",
+            "score": 19
           }
         ]
       },
@@ -425,12 +445,12 @@
           },
           {
             "rank": 7,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 8,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
@@ -455,6 +475,11 @@
             "rank": 1,
             "username": "CaitlinNoel",
             "score": 46602
+          },
+          {
+            "rank": 2,
+            "username": "LadyDee",
+            "score": 32666
           }
         ]
       },
