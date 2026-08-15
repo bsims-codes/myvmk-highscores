@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-15",
-  "userCount": 1229,
+  "userCount": 1231,
   "users": {
     "kazino": {
       "avatar": "5d4e44854e4733e78d368895fb2369cf.png",
@@ -1607,11 +1607,11 @@
       }
     },
     "scortatia": {
-      "avatar": "6643df0cb708f24d6b43416936d32214.png",
+      "avatar": "1050f58ea238db7ae51a1728bf3ffac9.png",
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 8,
+        "rank": 1,
         "date": "2026-08-15"
       },
       "games": {
@@ -1642,11 +1642,11 @@
       }
     },
     "Rstar": {
-      "avatar": "ad165e46daad583e8155e7b0fbaaea61.png",
+      "avatar": "6a1b5e6fd6dd08685a8d63a10ebca8d4.png",
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-08-15"
       },
       "games": {
@@ -1691,7 +1691,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-08-15"
       },
       "games": {
@@ -5698,7 +5698,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-08-15"
       },
       "games": {
@@ -21527,7 +21527,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-08-15"
       },
       "games": {
@@ -23764,6 +23764,38 @@
           "bestScore": 8617,
           "date": "2026-08-15",
           "rank": 4
+        }
+      }
+    },
+    "PuffyAceBaby": {
+      "avatar": null,
+      "lastSeen": "2026-08-15",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-08-15"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3658,
+          "date": "2026-08-15",
+          "rank": 6
+        }
+      }
+    },
+    "Guest10151263": {
+      "avatar": null,
+      "lastSeen": "2026-08-15",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-08-15"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 27565,
+          "date": "2026-08-15",
+          "rank": 5
         }
       }
     }
