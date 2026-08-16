@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-15",
-  "userCount": 1231,
+  "userCount": 1233,
   "users": {
     "kazino": {
       "avatar": "5d4e44854e4733e78d368895fb2369cf.png",
@@ -65,7 +65,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 2,
         "date": "2026-08-15"
       },
       "games": {
@@ -1388,7 +1388,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-08-15"
       },
       "games": {
@@ -2250,11 +2250,11 @@
     },
     "Bernardo_S_Rocks": {
       "avatar": "1c0923ef51869f0e9058fb82ae27f92c.png",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
-        "date": "2026-08-12"
+        "rank": 6,
+        "date": "2026-08-15"
       },
       "games": {
         "haunted-mansion": {
@@ -2460,7 +2460,7 @@
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-08-15"
       },
       "games": {
@@ -13205,7 +13205,7 @@
       }
     },
     "Mikki": {
-      "avatar": "a6cebf4399adf28e65bd1762f72f6ed1.png",
+      "avatar": "def5d544e20c86242b15e412a1b375df.png",
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -15569,11 +15569,11 @@
     },
     "rockin_rachael": {
       "avatar": "25f31ef935bf6a988e2b18da81d8f641.png",
-      "lastSeen": "2026-08-09",
+      "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-08-09"
+        "rank": 5,
+        "date": "2026-08-15"
       },
       "games": {
         "jungle-cruise": {
@@ -23796,6 +23796,38 @@
           "bestScore": 27565,
           "date": "2026-08-15",
           "rank": 5
+        }
+      }
+    },
+    "Guest10151267": {
+      "avatar": null,
+      "lastSeen": "2026-08-15",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-08-15"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 540,
+          "date": "2026-08-15",
+          "rank": 8
+        }
+      }
+    },
+    "Roseofthorns": {
+      "avatar": null,
+      "lastSeen": "2026-08-15",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-08-15"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 512,
+          "date": "2026-08-15",
+          "rank": 9
         }
       }
     }
