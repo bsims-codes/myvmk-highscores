@@ -1,10 +1,30 @@
 {
   "date": "2026-08-15",
-  "scrapedAt": "2026-08-16T03:52:44.711Z",
+  "scrapedAt": "2026-08-16T06:49:45.785Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
+        "topAvatar": "a8ef56dca7d338546dcc5e94686ebd5b.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Eliiott",
+            "score": 5314
+          },
+          {
+            "rank": 2,
+            "username": "SillyNinjaPerson",
+            "score": 1671
+          },
+          {
+            "rank": 3,
+            "username": "minikeeks",
+            "score": 56
+          }
+        ]
+      },
+      "yesterday": {
         "topAvatar": "385b3dc9e07457e644018ef75133974f.png",
         "scores": [
           {
@@ -56,61 +76,6 @@
             "rank": 10,
             "username": "Roseofthorns",
             "score": 512
-          }
-        ]
-      },
-      "yesterday": {
-        "topAvatar": "385b3dc9e07457e644018ef75133974f.png",
-        "scores": [
-          {
-            "rank": 1,
-            "username": "BRlTT",
-            "score": 10836
-          },
-          {
-            "rank": 2,
-            "username": "Jewelsy",
-            "score": 9688
-          },
-          {
-            "rank": 3,
-            "username": "MollyMolusk",
-            "score": 8319
-          },
-          {
-            "rank": 4,
-            "username": "MissAnnaNovang",
-            "score": 7741
-          },
-          {
-            "rank": 5,
-            "username": "AtziriDayre",
-            "score": 6514
-          },
-          {
-            "rank": 6,
-            "username": "Eliiott",
-            "score": 5590
-          },
-          {
-            "rank": 7,
-            "username": "chaoticvinyl",
-            "score": 4585
-          },
-          {
-            "rank": 8,
-            "username": "MagicChrome",
-            "score": 500
-          },
-          {
-            "rank": 9,
-            "username": "Looney",
-            "score": 42
-          },
-          {
-            "rank": 10,
-            "username": "Marcus",
-            "score": 0
           }
         ]
       },
@@ -173,7 +138,52 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "0034bd0512b88b1bc63fa140f7cb2f6c.png",
+        "topAvatar": "ff14f39cf022c7f3f4b8dcf2e6352495.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "tizzi",
+            "score": 338
+          },
+          {
+            "rank": 2,
+            "username": "magickate",
+            "score": 263
+          },
+          {
+            "rank": 3,
+            "username": "Erie",
+            "score": 245
+          },
+          {
+            "rank": 4,
+            "username": "CristianoRonaldo",
+            "score": 230
+          },
+          {
+            "rank": 5,
+            "username": "Lavenous",
+            "score": 219
+          },
+          {
+            "rank": 6,
+            "username": "TomSelleck",
+            "score": 197
+          },
+          {
+            "rank": 7,
+            "username": "JellyFishFriend",
+            "score": 134
+          },
+          {
+            "rank": 8,
+            "username": "Magenta",
+            "score": 6
+          }
+        ]
+      },
+      "yesterday": {
+        "topAvatar": "aa9747a38824b75c10aa30b874d66d88.png",
         "scores": [
           {
             "rank": 1,
@@ -227,43 +237,8 @@
           }
         ]
       },
-      "yesterday": {
-        "topAvatar": "46ef8ffbcdb3dabacc15dc80bcd6bd7b.png",
-        "scores": [
-          {
-            "rank": 1,
-            "username": "tizzi",
-            "score": 308
-          },
-          {
-            "rank": 2,
-            "username": "CristianoRonaldo",
-            "score": 278
-          },
-          {
-            "rank": 3,
-            "username": "Erie",
-            "score": 267
-          },
-          {
-            "rank": 4,
-            "username": "magickate",
-            "score": 256
-          },
-          {
-            "rank": 5,
-            "username": "JellyFishFriend",
-            "score": 114
-          },
-          {
-            "rank": 6,
-            "username": "Lavenous",
-            "score": 42
-          }
-        ]
-      },
       "highscores": {
-        "topAvatar": "0034bd0512b88b1bc63fa140f7cb2f6c.png",
+        "topAvatar": "aa9747a38824b75c10aa30b874d66d88.png",
         "scores": [
           {
             "rank": 1,
@@ -292,12 +267,12 @@
           },
           {
             "rank": 6,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
@@ -321,6 +296,31 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
+        "topAvatar": "def5d544e20c86242b15e412a1b375df.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Mikki",
+            "score": 55
+          },
+          {
+            "rank": 2,
+            "username": "Monsta",
+            "score": 55
+          },
+          {
+            "rank": 3,
+            "username": "Sandblasted_OctoNuggie",
+            "score": 53
+          },
+          {
+            "rank": 4,
+            "username": "Shadow_Rose",
+            "score": 46
+          }
+        ]
+      },
+      "yesterday": {
         "topAvatar": "01ea1754a95b069b8652178dab91c685.png",
         "scores": [
           {
@@ -375,61 +375,6 @@
           }
         ]
       },
-      "yesterday": {
-        "topAvatar": "def5d544e20c86242b15e412a1b375df.png",
-        "scores": [
-          {
-            "rank": 1,
-            "username": "Mikki",
-            "score": 110
-          },
-          {
-            "rank": 2,
-            "username": "Rstar",
-            "score": 107
-          },
-          {
-            "rank": 3,
-            "username": "Sandblasted_OctoNuggie",
-            "score": 85
-          },
-          {
-            "rank": 4,
-            "username": "Shadow_Rose",
-            "score": 78
-          },
-          {
-            "rank": 5,
-            "username": "AstroVioletRose",
-            "score": 75
-          },
-          {
-            "rank": 6,
-            "username": "Monsta",
-            "score": 75
-          },
-          {
-            "rank": 7,
-            "username": "mikgriz",
-            "score": 73
-          },
-          {
-            "rank": 8,
-            "username": "JustForFun",
-            "score": 71
-          },
-          {
-            "rank": 9,
-            "username": "EVOL",
-            "score": 59
-          },
-          {
-            "rank": 10,
-            "username": "Tinkandpink",
-            "score": 59
-          }
-        ]
-      },
       "highscores": {
         "topAvatar": "01ea1754a95b069b8652178dab91c685.png",
         "scores": [
@@ -465,12 +410,12 @@
           },
           {
             "rank": 7,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
             "rank": 8,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
@@ -489,6 +434,31 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
+        "topAvatar": "7af42d129c6c6a30a26c58c20c595c9e.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "CaitlinNoel",
+            "score": 40584
+          },
+          {
+            "rank": 2,
+            "username": "MadLittleFrog",
+            "score": 37062
+          },
+          {
+            "rank": 3,
+            "username": "SillyNinjaPerson",
+            "score": 36932
+          },
+          {
+            "rank": 4,
+            "username": "minikeeks",
+            "score": 35045
+          }
+        ]
+      },
+      "yesterday": {
         "topAvatar": "0b96200627efb215ebabe838571422fe.png",
         "scores": [
           {
@@ -540,41 +510,6 @@
             "rank": 10,
             "username": "JustForFun",
             "score": 3766
-          }
-        ]
-      },
-      "yesterday": {
-        "topAvatar": "dc7ad6252f725ad114171e82fec4d7b1.png",
-        "scores": [
-          {
-            "rank": 1,
-            "username": "HappyToughFish",
-            "score": 50196
-          },
-          {
-            "rank": 2,
-            "username": "BuckyBarnes",
-            "score": 48369
-          },
-          {
-            "rank": 3,
-            "username": "HoneyStar",
-            "score": 47522
-          },
-          {
-            "rank": 4,
-            "username": "BunnyBooBoo",
-            "score": 45445
-          },
-          {
-            "rank": 5,
-            "username": "CaitlinNoel",
-            "score": 45229
-          },
-          {
-            "rank": 6,
-            "username": "MissAnnaNovang",
-            "score": 40423
           }
         ]
       },
