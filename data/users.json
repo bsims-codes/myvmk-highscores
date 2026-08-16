@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-15",
-  "userCount": 1233,
+  "userCount": 1234,
   "users": {
     "kazino": {
       "avatar": "5d4e44854e4733e78d368895fb2369cf.png",
@@ -527,7 +527,7 @@
       }
     },
     "magickate": {
-      "avatar": "04aa758888c1b741bf93ea870f0d9fb0.png",
+      "avatar": "0034bd0512b88b1bc63fa140f7cb2f6c.png",
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
@@ -716,7 +716,7 @@
       }
     },
     "tizzi": {
-      "avatar": "fa60335130381cf1022d336d97bac3ff.png",
+      "avatar": "46ef8ffbcdb3dabacc15dc80bcd6bd7b.png",
       "lastSeen": "2026-08-15",
       "lastAppearance": {
         "game": "pirates",
@@ -23828,6 +23828,22 @@
           "bestScore": 512,
           "date": "2026-08-15",
           "rank": 9
+        }
+      }
+    },
+    "GroovyGreenDust": {
+      "avatar": null,
+      "lastSeen": "2026-08-15",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-08-15"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 604,
+          "date": "2026-08-15",
+          "rank": 8
         }
       }
     }
