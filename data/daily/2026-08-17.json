@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "scrapedAt": "2026-08-17T07:06:14.287Z",
+  "scrapedAt": "2026-08-17T09:49:19.208Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -11,6 +11,11 @@
             "rank": 1,
             "username": "JellyFishFriend",
             "score": 7120
+          },
+          {
+            "rank": 2,
+            "username": "Eliiott",
+            "score": 5367
           }
         ]
       },
@@ -285,16 +290,21 @@
           },
           {
             "rank": 3,
-            "username": "Shadow_Rose",
-            "score": 49
+            "username": "AstroVioletRose",
+            "score": 64
           },
           {
             "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 48
+            "score": 60
           },
           {
             "rank": 5,
+            "username": "Shadow_Rose",
+            "score": 54
+          },
+          {
+            "rank": 6,
             "username": "Rstar",
             "score": 42
           }
