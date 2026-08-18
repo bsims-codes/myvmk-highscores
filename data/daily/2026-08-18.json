@@ -1,19 +1,29 @@
 {
   "date": "2026-08-18",
-  "scrapedAt": "2026-08-18T09:38:59.286Z",
+  "scrapedAt": "2026-08-18T12:56:56.530Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "f835e8cfb40faabbc7d66c3306ca0461.png",
+        "topAvatar": "432f6ecacb40b35677e68539ee4af820.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10958
+          },
+          {
+            "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7264
+          },
+          {
+            "rank": 3,
             "username": "Eliiott",
             "score": 5933
           },
           {
-            "rank": 2,
+            "rank": 4,
             "username": "Markeh",
             "score": 3322
           }
@@ -269,13 +279,13 @@
           },
           {
             "rank": 4,
-            "username": "Mikki",
-            "score": 64
+            "username": "Shadow_Rose",
+            "score": 69
           },
           {
             "rank": 5,
-            "username": "Shadow_Rose",
-            "score": 62
+            "username": "Mikki",
+            "score": 64
           },
           {
             "rank": 6,
@@ -399,12 +409,12 @@
           },
           {
             "rank": 8,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
             "rank": 9,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
@@ -432,6 +442,11 @@
           },
           {
             "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 40278
+          },
+          {
+            "rank": 4,
             "username": "minikeeks",
             "score": 39159
           }
