@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-17",
-  "userCount": 1240,
+  "userCount": 1241,
   "users": {
     "kazino": {
       "avatar": "89c5ac16e0a3a042085cffe36aef272e.png",
@@ -2845,7 +2845,7 @@
       }
     },
     "bsims": {
-      "avatar": "8e40438b4908965d24bd917c1b5108d0.png",
+      "avatar": "91ac2e13a7bdb7b3e19fa4afab3792e3.png",
       "lastSeen": "2026-08-17",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -23950,6 +23950,22 @@
           "bestScore": 498,
           "date": "2026-08-16",
           "rank": 9
+        }
+      }
+    },
+    "optimus_finee": {
+      "avatar": null,
+      "lastSeen": "2026-08-17",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-08-17"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1683,
+          "date": "2026-08-17",
+          "rank": 8
         }
       }
     }
