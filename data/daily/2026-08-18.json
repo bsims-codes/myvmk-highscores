@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "scrapedAt": "2026-08-19T01:41:32.907Z",
+  "scrapedAt": "2026-08-19T03:51:12.012Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,21 +14,26 @@
           },
           {
             "rank": 2,
+            "username": "MollyMolusk",
+            "score": 9005
+          },
+          {
+            "rank": 3,
             "username": "MissAnnaNovang",
             "score": 7264
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "AtziriDayre",
             "score": 6077
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Eliiott",
             "score": 5933
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "Markeh",
             "score": 3322
           }
@@ -148,8 +153,29 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "d0fea1aa345cc31c1cf1f10684da9186.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "magickate",
+            "score": 259
+          },
+          {
+            "rank": 2,
+            "username": "CristianoRonaldo",
+            "score": 239
+          },
+          {
+            "rank": 3,
+            "username": "King",
+            "score": 192
+          },
+          {
+            "rank": 4,
+            "username": "Izabelle",
+            "score": 107
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "d0fea1aa345cc31c1cf1f10684da9186.png",
