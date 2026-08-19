@@ -1,21 +1,26 @@
 {
   "date": "2026-08-19",
-  "scrapedAt": "2026-08-19T09:39:28.748Z",
+  "scrapedAt": "2026-08-19T12:57:48.016Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "f835e8cfb40faabbc7d66c3306ca0461.png",
+        "topAvatar": "1b783d36e21a55f4a0c08a1b837b82d0.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 11182
+          },
+          {
+            "rank": 2,
             "username": "Eliiott",
             "score": 5642
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "432f6ecacb40b35677e68539ee4af820.png",
+        "topAvatar": "1b783d36e21a55f4a0c08a1b837b82d0.png",
         "scores": [
           {
             "rank": 1,
@@ -137,16 +142,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "a543459f1e10104e00da8459ae6fa8b9.png",
+        "topAvatar": "a0023f3fe21c51794079ec372d097f5c.png",
         "scores": [
           {
             "rank": 1,
-            "username": "magickate",
+            "username": "hopealicious",
             "score": 416
           },
           {
             "rank": 2,
-            "username": "hopealicious",
+            "username": "magickate",
             "score": 416
           },
           {
@@ -215,12 +220,12 @@
           {
             "rank": 4,
             "username": "Sandblasted_OctoNuggie",
-            "score": 62
+            "score": 63
           },
           {
             "rank": 5,
             "username": "Shadow_Rose",
-            "score": 56
+            "score": 59
           },
           {
             "rank": 6,
