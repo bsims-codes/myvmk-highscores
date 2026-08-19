@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "scrapedAt": "2026-08-19T12:57:48.016Z",
+  "scrapedAt": "2026-08-19T15:37:25.729Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -14,6 +14,11 @@
           },
           {
             "rank": 2,
+            "username": "MissAnnaNovang",
+            "score": 7489
+          },
+          {
+            "rank": 3,
             "username": "Eliiott",
             "score": 5642
           }
@@ -142,16 +147,16 @@
         ]
       },
       "highscores": {
-        "topAvatar": "a0023f3fe21c51794079ec372d097f5c.png",
+        "topAvatar": "a543459f1e10104e00da8459ae6fa8b9.png",
         "scores": [
           {
             "rank": 1,
-            "username": "hopealicious",
+            "username": "magickate",
             "score": 416
           },
           {
             "rank": 2,
-            "username": "magickate",
+            "username": "hopealicious",
             "score": 416
           },
           {
@@ -229,23 +234,28 @@
           },
           {
             "rank": 6,
+            "username": "PrincessCutezada",
+            "score": 49
+          },
+          {
+            "rank": 7,
+            "username": "PrinceGeminii",
+            "score": 46
+          },
+          {
+            "rank": 8,
             "username": "-Misty-",
             "score": 45
           },
           {
-            "rank": 7,
+            "rank": 9,
             "username": "Matty",
             "score": 40
           },
           {
-            "rank": 8,
-            "username": "3Racha",
-            "score": 30
-          },
-          {
-            "rank": 9,
-            "username": "Rigel",
-            "score": 0
+            "rank": 10,
+            "username": "Hyperspace",
+            "score": 38
           }
         ]
       },
@@ -368,7 +378,7 @@
           {
             "rank": 1,
             "username": "CaitlinNoel",
-            "score": 42201
+            "score": 45419
           }
         ]
       },
