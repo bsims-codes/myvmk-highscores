@@ -1,26 +1,31 @@
 {
   "date": "2026-08-20",
-  "scrapedAt": "2026-08-20T09:40:17.394Z",
+  "scrapedAt": "2026-08-20T12:59:59.133Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "f835e8cfb40faabbc7d66c3306ca0461.png",
+        "topAvatar": "6a748499a45693393d5cfd4eb4b85404.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Eliiott",
-            "score": 5042
+            "username": "BRlTT",
+            "score": 11044
           },
           {
             "rank": 2,
+            "username": "Eliiott",
+            "score": 5063
+          },
+          {
+            "rank": 3,
             "username": "Guest10151317",
             "score": 1387
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "02a65512bd0ae23fb793c1d30db5f127.png",
+        "topAvatar": "6a748499a45693393d5cfd4eb4b85404.png",
         "scores": [
           {
             "rank": 1,
@@ -251,6 +256,16 @@
             "rank": 4,
             "username": "3Racha",
             "score": 42
+          },
+          {
+            "rank": 5,
+            "username": "AstroVioletRose",
+            "score": 41
+          },
+          {
+            "rank": 6,
+            "username": "MissyKinz",
+            "score": 34
           }
         ]
       },
@@ -310,7 +325,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "ee1bd2c1f8b334d296fd61c5af4a7753.png",
+        "topAvatar": "738871e0e7da42c3bf92e84ab0d965f7.png",
         "scores": [
           {
             "rank": 1,
@@ -349,12 +364,12 @@
           },
           {
             "rank": 8,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
             "rank": 9,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
