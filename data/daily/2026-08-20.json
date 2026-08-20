@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "scrapedAt": "2026-08-20T18:48:59.255Z",
+  "scrapedAt": "2026-08-20T21:33:41.112Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -240,45 +240,50 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "bf8728433f56882db14e5d7dee20424f.png",
+        "topAvatar": "45f19f68a2a634858cd2dce9297d4ad7.png",
         "scores": [
           {
             "rank": 1,
+            "username": "princess_cat",
+            "score": 56
+          },
+          {
+            "rank": 2,
             "username": "Shadow_Rose",
             "score": 51
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "PrinceGeminii",
             "score": 48
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Sandblasted_OctoNuggie",
             "score": 45
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "MissyKinz",
             "score": 44
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "-Misty-",
             "score": 42
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "3Racha",
             "score": 42
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "AstroVioletRose",
             "score": 41
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "Matty",
             "score": 40
           }
@@ -379,12 +384,12 @@
           },
           {
             "rank": 8,
-            "username": "VMKNeec",
+            "username": "EVOL",
             "score": 136
           },
           {
             "rank": 9,
-            "username": "EVOL",
+            "username": "VMKNeec",
             "score": 136
           },
           {
