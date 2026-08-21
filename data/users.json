@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-21",
-  "userCount": 1250,
+  "userCount": 1251,
   "users": {
     "kazino": {
       "avatar": "f394da9ac4b4a9465ed13875ee1ad9c1.png",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "3f16db0868002c3c10f22cce98dd6b2d.png",
+      "avatar": "a2cba45f90efb916b1113728565ddf72.png",
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -3311,7 +3311,7 @@
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-08-21"
       },
       "games": {
@@ -5698,7 +5698,7 @@
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-08-21"
       },
       "games": {
@@ -7934,7 +7934,7 @@
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 2,
         "date": "2026-08-21"
       },
       "games": {
@@ -21532,7 +21532,7 @@
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-08-21"
       },
       "games": {
@@ -24145,6 +24145,22 @@
           "bestScore": 12,
           "date": "2026-08-20",
           "rank": 6
+        }
+      }
+    },
+    "SlavicPride": {
+      "avatar": null,
+      "lastSeen": "2026-08-21",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-08-21"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 5931,
+          "date": "2026-08-21",
+          "rank": 4
         }
       }
     }
