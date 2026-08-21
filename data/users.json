@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-20",
-  "userCount": 1248,
+  "userCount": 1249,
   "users": {
     "kazino": {
       "avatar": "f394da9ac4b4a9465ed13875ee1ad9c1.png",
@@ -510,11 +510,11 @@
       }
     },
     "Erie": {
-      "avatar": "1c72b3201afeb0c6caf17a25472faa02.png",
+      "avatar": "2333350e3389edcc3891b93662743685.png",
       "lastSeen": "2026-08-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-08-20"
       },
       "games": {
@@ -527,7 +527,7 @@
       }
     },
     "magickate": {
-      "avatar": "2e30ce64b9ace7fb9ad06516dc880f23.png",
+      "avatar": "da9ea8189b5c87ea37cc45f7443a682b.png",
       "lastSeen": "2026-08-20",
       "lastAppearance": {
         "game": "pirates",
@@ -566,7 +566,7 @@
           "bestScore": 370,
           "date": "2026-06-26",
           "rank": 1,
-          "allTimeRank": 50
+          "allTimeRank": 49
         },
         "haunted-mansion": {
           "bestScore": 108,
@@ -1111,11 +1111,11 @@
       }
     },
     "-Misty-": {
-      "avatar": "b5b18b21db0d3d21f7fabbef3d7b2c59.png",
+      "avatar": "96daf270a9ce9c7fd2a5dc2af3427735.png",
       "lastSeen": "2026-08-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-08-20"
       },
       "games": {
@@ -2228,11 +2228,11 @@
     },
     "sapphire": {
       "avatar": "a1bf8436b6e2cac7a9384b44f954b71c.png",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-20",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
-        "date": "2026-08-11"
+        "rank": 9,
+        "date": "2026-08-20"
       },
       "games": {
         "pirates": {
@@ -3598,7 +3598,7 @@
           "bestScore": 347,
           "date": "2026-05-12",
           "rank": 3,
-          "allTimeRank": 49
+          "allTimeRank": 50
         }
       }
     },
@@ -24108,6 +24108,22 @@
           "bestScore": 32654,
           "date": "2026-08-20",
           "rank": 3
+        }
+      }
+    },
+    "Guest10151324": {
+      "avatar": null,
+      "lastSeen": "2026-08-20",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 5,
+        "date": "2026-08-20"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 239,
+          "date": "2026-08-20",
+          "rank": 5
         }
       }
     }
