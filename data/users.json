@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-21",
-  "userCount": 1253,
+  "userCount": 1254,
   "users": {
     "kazino": {
       "avatar": "f394da9ac4b4a9465ed13875ee1ad9c1.png",
@@ -510,7 +510,7 @@
       }
     },
     "Erie": {
-      "avatar": "6c27880a29d722c34eb7c73953dfd60b.png",
+      "avatar": "7ea51b30002ffc551605387c982ece43.png",
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "pirates",
@@ -638,11 +638,11 @@
     },
     "EpicRose": {
       "avatar": "045862345b3622687d73182d7c95da88.png",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-07-18"
+        "rank": 8,
+        "date": "2026-08-21"
       },
       "games": {
         "pirates": {
@@ -2231,7 +2231,7 @@
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
+        "rank": 6,
         "date": "2026-08-21"
       },
       "games": {
@@ -2845,7 +2845,7 @@
       }
     },
     "bsims": {
-      "avatar": "0f30abc08415a152e766bd9fcb1ec68b.png",
+      "avatar": "68b38bf30adf166465e45fef9578a044.png",
       "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -23725,11 +23725,11 @@
     },
     "minikeeks": {
       "avatar": null,
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-21",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-08-19"
+        "rank": 7,
+        "date": "2026-08-21"
       },
       "games": {
         "castle-fireworks": {
@@ -24208,6 +24208,22 @@
           "bestScore": 24657,
           "date": "2026-08-21",
           "rank": 7
+        }
+      }
+    },
+    "GabriellaVanilla": {
+      "avatar": null,
+      "lastSeen": "2026-08-21",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 4,
+        "date": "2026-08-21"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 200,
+          "date": "2026-08-21",
+          "rank": 4
         }
       }
     }
