@@ -1,19 +1,34 @@
 {
   "date": "2026-08-22",
-  "scrapedAt": "2026-08-22T12:50:42.783Z",
+  "scrapedAt": "2026-08-22T15:27:24.676Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "28b640f95518268ff052851b76c94ac4.png",
+        "topAvatar": "a2cba45f90efb916b1113728565ddf72.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BRlTT",
+            "score": 10604
+          },
+          {
+            "rank": 2,
             "username": "JustForFun",
             "score": 9627
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 6902
+          },
+          {
+            "rank": 4,
+            "username": "AtziriDayre",
+            "score": 6452
+          },
+          {
+            "rank": 5,
             "username": "Eliiott",
             "score": 6253
           }
@@ -232,12 +247,12 @@
           },
           {
             "rank": 6,
-            "username": "Squicky",
+            "username": "SmokeyCloudyUnicorn",
             "score": 376
           },
           {
             "rank": 7,
-            "username": "SmokeyCloudyUnicorn",
+            "username": "Squicky",
             "score": 376
           },
           {
@@ -295,23 +310,23 @@
           },
           {
             "rank": 7,
+            "username": "EVOL",
+            "score": 71
+          },
+          {
+            "rank": 8,
             "username": "Sandblasted_OctoNuggie",
             "score": 65
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "JustForFun",
             "score": 64
           },
           {
-            "rank": 9,
-            "username": "MissyKinz",
-            "score": 58
-          },
-          {
             "rank": 10,
-            "username": "Shadow_Rose",
-            "score": 58
+            "username": "MissyKinz",
+            "score": 60
           }
         ]
       },
@@ -429,12 +444,22 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "72114e6252311fb27cc698015e6147fc.png",
+        "topAvatar": "8e9e70ed529639c55acb2c5cd827794a.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 40473
+          },
+          {
+            "rank": 2,
             "username": "minikeeks",
             "score": 36228
+          },
+          {
+            "rank": 3,
+            "username": "Princessmagic",
+            "score": 974
           }
         ]
       },
