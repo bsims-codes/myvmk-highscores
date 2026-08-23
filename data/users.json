@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-23",
-  "userCount": 1265,
+  "userCount": 1266,
   "users": {
     "kazino": {
       "avatar": "e1110d2f55e1970e7b3ca3536641aa4e.png",
@@ -1687,7 +1687,7 @@
       }
     },
     "HoneyStar": {
-      "avatar": "9c5987805c34e309d915cd3d0eacc25b.png",
+      "avatar": "2ca0792338a9bdc14815289cdb4ec322.png",
       "lastSeen": "2026-08-23",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -3649,11 +3649,11 @@
     },
     "BelleMarie": {
       "avatar": "ace0d05c1281ceee1395aeac1aae7b7c.png",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-08-12"
+        "rank": 9,
+        "date": "2026-08-23"
       },
       "games": {
         "haunted-mansion": {
@@ -8434,7 +8434,7 @@
       "lastSeen": "2026-08-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 9,
         "date": "2026-08-23"
       },
       "games": {
@@ -14297,11 +14297,11 @@
     },
     "BigFoxMol": {
       "avatar": "a973ee09d18c8ab2cb35fb8fed1ac773.png",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-08-22"
+        "rank": 4,
+        "date": "2026-08-23"
       },
       "games": {
         "jungle-cruise": {
@@ -15582,9 +15582,9 @@
           "rank": 2
         },
         "haunted-mansion": {
-          "bestScore": 102,
-          "date": "2026-07-11",
-          "rank": 5
+          "bestScore": 107,
+          "date": "2026-08-23",
+          "rank": 3
         },
         "pirates": {
           "bestScore": 161,
@@ -24370,9 +24370,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 2586,
+          "bestScore": 3896,
           "date": "2026-08-23",
-          "rank": 3
+          "rank": 5
         }
       }
     },
@@ -24405,6 +24405,22 @@
           "bestScore": 1980,
           "date": "2026-08-23",
           "rank": 6
+        }
+      }
+    },
+    "disneycrazed124": {
+      "avatar": null,
+      "lastSeen": "2026-08-23",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-08-23"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 348,
+          "date": "2026-08-23",
+          "rank": 9
         }
       }
     }
