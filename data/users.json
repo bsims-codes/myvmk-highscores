@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-22",
-  "userCount": 1260,
+  "userCount": 1262,
   "users": {
     "kazino": {
       "avatar": "e1110d2f55e1970e7b3ca3536641aa4e.png",
@@ -458,11 +458,11 @@
       }
     },
     "airham": {
-      "avatar": "96fb469a357b3624c52435f92ac42e22.png",
+      "avatar": "8472af4dd951805e6d3a0c3dd9a0414c.png",
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-08-22"
       },
       "games": {
@@ -692,7 +692,7 @@
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 2,
         "date": "2026-08-22"
       },
       "games": {
@@ -716,11 +716,11 @@
       }
     },
     "tizzi": {
-      "avatar": "8361ab6982698dc34dfe0c2bf2c37d99.png",
+      "avatar": "086e52a811f14598f8c30deb29398e24.png",
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-08-22"
       },
       "games": {
@@ -748,7 +748,7 @@
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
+        "rank": 3,
         "date": "2026-08-22"
       },
       "games": {
@@ -996,7 +996,7 @@
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-08-22"
       },
       "games": {
@@ -1299,7 +1299,7 @@
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 4,
         "date": "2026-08-22"
       },
       "games": {
@@ -2252,8 +2252,8 @@
       "avatar": "1c0923ef51869f0e9058fb82ae27f92c.png",
       "lastSeen": "2026-08-22",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 6,
+        "game": "haunted-mansion",
+        "rank": 5,
         "date": "2026-08-22"
       },
       "games": {
@@ -6314,11 +6314,11 @@
     },
     "BallroomDancer": {
       "avatar": null,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-22",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 10,
-        "date": "2026-08-13"
+        "game": "haunted-mansion",
+        "rank": 7,
+        "date": "2026-08-22"
       },
       "games": {
         "pirates": {
@@ -15568,11 +15568,11 @@
       }
     },
     "rockin_rachael": {
-      "avatar": "25f31ef935bf6a988e2b18da81d8f641.png",
+      "avatar": "c70b2338f646e013e5feca95098228c7.png",
       "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
+        "rank": 1,
         "date": "2026-08-22"
       },
       "games": {
@@ -15587,9 +15587,9 @@
           "rank": 5
         },
         "pirates": {
-          "bestScore": 157,
-          "date": "2026-08-08",
-          "rank": 6
+          "bestScore": 161,
+          "date": "2026-08-22",
+          "rank": 9
         }
       }
     },
@@ -15733,11 +15733,11 @@
     },
     "experiment624": {
       "avatar": "739a0427c358ea3eb2a19a984624befe.png",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-08-21"
+        "rank": 6,
+        "date": "2026-08-22"
       },
       "games": {
         "castle-fireworks": {
@@ -24325,6 +24325,38 @@
           "bestScore": 42944,
           "date": "2026-08-22",
           "rank": 9
+        }
+      }
+    },
+    "Jennasn": {
+      "avatar": "e81b8c4dec78a54dca306b82b8a8a554.png",
+      "lastSeen": "2026-08-22",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 1,
+        "date": "2026-08-22"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 4800,
+          "date": "2026-08-22",
+          "rank": 1
+        }
+      }
+    },
+    "Yumiyum": {
+      "avatar": null,
+      "lastSeen": "2026-08-22",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 2,
+        "date": "2026-08-22"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 640,
+          "date": "2026-08-22",
+          "rank": 2
         }
       }
     }
