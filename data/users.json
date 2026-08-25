@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-25",
-  "userCount": 1282,
+  "userCount": 1287,
   "users": {
     "kazino": {
       "avatar": "a99dcfd88fabf802caf73b402827ee0e.png",
@@ -790,11 +790,11 @@
     },
     "PrinceGeminii": {
       "avatar": "f9e4f9e7d4cf7e094171098001bdf687.png",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-25",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 9,
-        "date": "2026-08-24"
+        "game": "haunted-mansion",
+        "rank": 4,
+        "date": "2026-08-25"
       },
       "games": {
         "pirates": {
@@ -2845,7 +2845,7 @@
       }
     },
     "bsims": {
-      "avatar": "1901bee1685ab1fcdb1498e94c846d10.png",
+      "avatar": "ce753c107faca7f2eb85d759404f1793.png",
       "lastSeen": "2026-08-25",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -24742,6 +24742,96 @@
           "bestScore": 4995,
           "date": "2026-08-25",
           "rank": 5
+        }
+      }
+    },
+    "SleepingBeautyRae": {
+      "avatar": null,
+      "lastSeen": "2026-08-25",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-08-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2091,
+          "date": "2026-08-25",
+          "rank": 9
+        },
+        "pirates": {
+          "bestScore": 106,
+          "date": "2026-08-25",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 30607,
+          "date": "2026-08-25",
+          "rank": 5
+        }
+      }
+    },
+    "Guest10151384": {
+      "avatar": null,
+      "lastSeen": "2026-08-25",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-08-25"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 55,
+          "date": "2026-08-25",
+          "rank": 3
+        }
+      }
+    },
+    "Sabine": {
+      "avatar": null,
+      "lastSeen": "2026-08-25",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-08-25"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 44,
+          "date": "2026-08-25",
+          "rank": 9
+        }
+      }
+    },
+    "LavenderGoldenPanda": {
+      "avatar": null,
+      "lastSeen": "2026-08-25",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-08-25"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 20050,
+          "date": "2026-08-25",
+          "rank": 6
+        }
+      }
+    },
+    "Divamante": {
+      "avatar": null,
+      "lastSeen": "2026-08-25",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-08-25"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 998,
+          "date": "2026-08-25",
+          "rank": 10
         }
       }
     }
