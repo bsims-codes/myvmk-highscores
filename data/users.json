@@ -1691,7 +1691,7 @@
       "lastSeen": "2026-08-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-08-25"
       },
       "games": {
@@ -1817,11 +1817,11 @@
     },
     "BlueSorcerer": {
       "avatar": "502d16fa349aeb23882f565ff862c2e1.png",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 4,
-        "date": "2026-08-21"
+        "rank": 2,
+        "date": "2026-08-25"
       },
       "games": {
         "jungle-cruise": {
@@ -3536,11 +3536,11 @@
     },
     "Mirk": {
       "avatar": "f729c455685f1b9805464c3b368f6f67.png",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-08-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-07-11"
+        "rank": 3,
+        "date": "2026-08-25"
       },
       "games": {
         "haunted-mansion": {
@@ -4014,11 +4014,11 @@
     },
     "Matty": {
       "avatar": null,
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-08-22"
+        "rank": 5,
+        "date": "2026-08-25"
       },
       "games": {
         "haunted-mansion": {
@@ -24420,17 +24420,17 @@
     },
     "disneycrazed124": {
       "avatar": null,
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-25",
       "lastAppearance": {
-        "game": "pirates",
+        "game": "castle-fireworks",
         "rank": 8,
-        "date": "2026-08-24"
+        "date": "2026-08-25"
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 348,
-          "date": "2026-08-23",
-          "rank": 9
+          "bestScore": 1018,
+          "date": "2026-08-25",
+          "rank": 8
         },
         "pirates": {
           "bestScore": 210,
