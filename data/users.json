@@ -458,7 +458,7 @@
       }
     },
     "airham": {
-      "avatar": "5f100178e8dcdcb6cf8c99c06c4d55dd.png",
+      "avatar": "0efd7420e7e1b9a091d7c41cae234ae3.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -996,7 +996,7 @@
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-08-24"
       },
       "games": {
@@ -1295,11 +1295,11 @@
       }
     },
     "Shadow_Rose": {
-      "avatar": "a7bf290c3139b458dee191f9d897d914.png",
+      "avatar": "161317b7dca36e793dd9a673b0a2a44b.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-08-24"
       },
       "games": {
@@ -3224,11 +3224,11 @@
     },
     "protozoa": {
       "avatar": "41372e489dbdb35f2dcae6a611a4b9d3.png",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 10,
-        "date": "2026-08-15"
+        "rank": 5,
+        "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
@@ -7256,11 +7256,11 @@
     },
     "Izabelle": {
       "avatar": "88b1d5891d6e7e11a104da7e0889b13e.png",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "pirates",
         "rank": 4,
-        "date": "2026-08-19"
+        "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
@@ -7934,7 +7934,7 @@
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 3,
         "date": "2026-08-24"
       },
       "games": {
@@ -16411,11 +16411,11 @@
     },
     "JellyFishFriend": {
       "avatar": "98410d60e997e2561378dd43e8f18c2d.png",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 9,
-        "date": "2026-08-23"
+        "game": "pirates",
+        "rank": 7,
+        "date": "2026-08-24"
       },
       "games": {
         "castle-fireworks": {
@@ -17908,11 +17908,11 @@
     },
     "King": {
       "avatar": "c0a3a82f6625c220220737c3243b67e5.png",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
-        "date": "2026-08-19"
+        "rank": 6,
+        "date": "2026-08-24"
       },
       "games": {
         "jungle-cruise": {
@@ -20207,11 +20207,11 @@
     },
     "chaoticvinyl": {
       "avatar": "ae33d0d1ce2aa35ce3fe71fe6e05f7f0.png",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
-        "game": "haunted-mansion",
+        "game": "pirates",
         "rank": 9,
-        "date": "2026-08-23"
+        "date": "2026-08-24"
       },
       "games": {
         "jungle-cruise": {
@@ -24538,15 +24538,20 @@
       "avatar": null,
       "lastSeen": "2026-08-24",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
+        "game": "castle-fireworks",
+        "rank": 3,
         "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 0,
-          "date": null,
-          "rank": null
+          "bestScore": 1,
+          "date": "2026-08-24",
+          "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 895,
+          "date": "2026-08-24",
+          "rank": 3
         }
       }
     },
@@ -24641,11 +24646,11 @@
       }
     },
     "Guest10151373": {
-      "avatar": null,
+      "avatar": "01ce902ee74613dcfb9154d885847d81.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-08-24"
       },
       "games": {
@@ -24655,14 +24660,19 @@
           "rank": 8
         },
         "jungle-cruise": {
-          "bestScore": 18745,
+          "bestScore": 20914,
           "date": "2026-08-24",
-          "rank": 6
+          "rank": 1
         },
         "castle-fireworks": {
           "bestScore": 2091,
           "date": "2026-08-24",
           "rank": 9
+        },
+        "haunted-mansion": {
+          "bestScore": 7,
+          "date": "2026-08-24",
+          "rank": 4
         }
       }
     },
