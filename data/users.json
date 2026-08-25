@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-08-24",
-  "userCount": 1276,
+  "userCount": 1280,
   "users": {
     "kazino": {
-      "avatar": "fe319415b1c06d71023d8f3502cc021f.png",
+      "avatar": "a99dcfd88fabf802caf73b402827ee0e.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -32,7 +32,7 @@
       }
     },
     "BRlTT": {
-      "avatar": "a2cba45f90efb916b1113728565ddf72.png",
+      "avatar": "8401d308c3102f8b19cdf19676240ebb.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -458,7 +458,7 @@
       }
     },
     "airham": {
-      "avatar": "8472af4dd951805e6d3a0c3dd9a0414c.png",
+      "avatar": "5f100178e8dcdcb6cf8c99c06c4d55dd.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1062,11 +1062,11 @@
     },
     "Monsta": {
       "avatar": "2043d9752eb91189a0330f41f2aab76d.png",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-08-20"
+        "rank": 6,
+        "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
@@ -1190,11 +1190,11 @@
     },
     "AmandaJeanne": {
       "avatar": "b6bfddf1c139df4da940eb953c715fc5.png",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-08-21"
+        "rank": 10,
+        "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
@@ -1317,7 +1317,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "a214e4586e1bec70c5c4d310b34b11ea.png",
+      "avatar": "14d2f300a73b41f1faccff94101426af.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1429,11 +1429,11 @@
     },
     "Myth": {
       "avatar": "acd929200edd790c5a399dc70af8ce11.png",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
-        "game": "jungle-cruise",
+        "game": "pirates",
         "rank": 3,
-        "date": "2026-08-23"
+        "date": "2026-08-24"
       },
       "games": {
         "jungle-cruise": {
@@ -2845,7 +2845,7 @@
       }
     },
     "bsims": {
-      "avatar": "3177c43cdebf151a701e3f332f1f4d50.png",
+      "avatar": "1901bee1685ab1fcdb1498e94c846d10.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -8431,11 +8431,11 @@
     },
     "Glaze": {
       "avatar": "26739fcec8fe340a8870b6678b40c1fc.png",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 9,
-        "date": "2026-08-23"
+        "date": "2026-08-24"
       },
       "games": {
         "haunted-mansion": {
@@ -24616,6 +24616,80 @@
           "bestScore": 1379,
           "date": "2026-08-24",
           "rank": 8
+        }
+      }
+    },
+    "craicc": {
+      "avatar": null,
+      "lastSeen": "2026-08-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 2,
+        "date": "2026-08-24"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 205,
+          "date": "2026-08-24",
+          "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 44991,
+          "date": "2026-08-24",
+          "rank": 2
+        }
+      }
+    },
+    "Guest10151373": {
+      "avatar": null,
+      "lastSeen": "2026-08-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-08-24"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 106,
+          "date": "2026-08-24",
+          "rank": 8
+        },
+        "jungle-cruise": {
+          "bestScore": 18745,
+          "date": "2026-08-24",
+          "rank": 6
+        }
+      }
+    },
+    "Guest10151374": {
+      "avatar": null,
+      "lastSeen": "2026-08-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-08-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 20050,
+          "date": "2026-08-24",
+          "rank": 5
+        }
+      }
+    },
+    "TianaBeignetBabe": {
+      "avatar": null,
+      "lastSeen": "2026-08-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-08-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 2656,
+          "date": "2026-08-24",
+          "rank": 7
         }
       }
     }
