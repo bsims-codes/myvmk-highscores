@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-24",
-  "userCount": 1280,
+  "userCount": 1281,
   "users": {
     "kazino": {
       "avatar": "a99dcfd88fabf802caf73b402827ee0e.png",
@@ -510,7 +510,7 @@
       }
     },
     "Erie": {
-      "avatar": "501859291e883cbc5c5fa50215a522ac.png",
+      "avatar": "f7297b93674a6c6f7b84fc99f1b07d67.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
         "game": "pirates",
@@ -1111,11 +1111,11 @@
       }
     },
     "-Misty-": {
-      "avatar": "96daf270a9ce9c7fd2a5dc2af3427735.png",
+      "avatar": "d02fd915718b25f93668e641aba0f782.png",
       "lastSeen": "2026-08-24",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 7,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-08-24"
       },
       "games": {
@@ -24658,6 +24658,11 @@
           "bestScore": 18745,
           "date": "2026-08-24",
           "rank": 6
+        },
+        "castle-fireworks": {
+          "bestScore": 2091,
+          "date": "2026-08-24",
+          "rank": 9
         }
       }
     },
@@ -24690,6 +24695,22 @@
           "bestScore": 2656,
           "date": "2026-08-24",
           "rank": 7
+        }
+      }
+    },
+    "DezzyD": {
+      "avatar": null,
+      "lastSeen": "2026-08-24",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 9,
+        "date": "2026-08-24"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 6,
+          "date": "2026-08-24",
+          "rank": 9
         }
       }
     }
