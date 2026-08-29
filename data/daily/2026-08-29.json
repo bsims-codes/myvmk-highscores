@@ -1,14 +1,19 @@
 {
   "date": "2026-08-29",
-  "scrapedAt": "2026-08-29T09:54:52.234Z",
+  "scrapedAt": "2026-08-29T16:34:27.766Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "f835e8cfb40faabbc7d66c3306ca0461.png",
+        "topAvatar": "3a15a7d415a1ce69e32a8d0019234dfa.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7570
+          },
+          {
+            "rank": 2,
             "username": "Eliiott",
             "score": 5543
           }
@@ -300,28 +305,28 @@
           },
           {
             "rank": 6,
+            "username": "BRlTT",
+            "score": 55
+          },
+          {
+            "rank": 7,
             "username": "magickate",
             "score": 53
           },
           {
-            "rank": 7,
+            "rank": 8,
+            "username": "MagicalPixieDust",
+            "score": 49
+          },
+          {
+            "rank": 9,
             "username": "PrinceGeminii",
             "score": 48
           },
           {
-            "rank": 8,
-            "username": "lilspookycryptid",
-            "score": 36
-          },
-          {
-            "rank": 9,
-            "username": "experiment624",
-            "score": 34
-          },
-          {
             "rank": 10,
-            "username": "3Racha",
-            "score": 31
+            "username": "MissAnnaNovang",
+            "score": 47
           }
         ]
       },
@@ -445,6 +450,21 @@
             "rank": 1,
             "username": "Rstar",
             "score": 53183
+          },
+          {
+            "rank": 2,
+            "username": "HoneyStar",
+            "score": 48731
+          },
+          {
+            "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 46538
+          },
+          {
+            "rank": 4,
+            "username": "MissAnnaNovang",
+            "score": 38842
           }
         ]
       },
