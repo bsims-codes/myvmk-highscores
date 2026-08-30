@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-30",
-  "userCount": 1311,
+  "userCount": 1315,
   "users": {
     "kazino": {
       "avatar": "7e31d2a608b40b098a802879cf32200b.png",
@@ -1628,11 +1628,11 @@
       }
     },
     "scortatia": {
-      "avatar": "f07e30ff639cc695f2a28f2c223cceb5.png",
+      "avatar": "96d1d369b73c831aafef1cbcea138f32.png",
       "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 9,
+        "rank": 1,
         "date": "2026-08-30"
       },
       "games": {
@@ -3109,11 +3109,11 @@
     },
     "Earthling": {
       "avatar": null,
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 8,
-        "date": "2026-08-15"
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-08-30"
       },
       "games": {
         "pirates": {
@@ -3121,6 +3121,11 @@
           "date": "2026-05-02",
           "rank": 3,
           "allTimeRank": 50
+        },
+        "jungle-cruise": {
+          "bestScore": 48280,
+          "date": "2026-08-30",
+          "rank": 7
         }
       }
     },
@@ -3562,11 +3567,11 @@
     },
     "Mirk": {
       "avatar": "f729c455685f1b9805464c3b368f6f67.png",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 4,
-        "date": "2026-08-28"
+        "date": "2026-08-30"
       },
       "games": {
         "haunted-mansion": {
@@ -3576,9 +3581,9 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 48814,
-          "date": "2026-03-23",
-          "rank": 7,
+          "bestScore": 49047,
+          "date": "2026-08-30",
+          "rank": 4,
           "allTimeRank": 50
         },
         "pirates": {
@@ -4295,11 +4300,11 @@
     },
     "bunny": {
       "avatar": "082ee3a1d66de2c2980db608405b488a.png",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 9,
-        "date": "2026-07-04"
+        "game": "jungle-cruise",
+        "rank": 3,
+        "date": "2026-08-30"
       },
       "games": {
         "castle-fireworks": {
@@ -14343,11 +14348,11 @@
     },
     "BigFoxMol": {
       "avatar": "a973ee09d18c8ab2cb35fb8fed1ac773.png",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-08-24"
+        "rank": 7,
+        "date": "2026-08-30"
       },
       "games": {
         "jungle-cruise": {
@@ -14926,11 +14931,11 @@
     },
     "KaseyAmber": {
       "avatar": "8e116297dd931751a497db4e61d95b20.png",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 8,
-        "date": "2026-08-22"
+        "date": "2026-08-30"
       },
       "games": {
         "haunted-mansion": {
@@ -15434,12 +15439,12 @@
       }
     },
     "SavageDragon": {
-      "avatar": "465c14c640ea20d5a795995449be07d2.png",
-      "lastSeen": "2026-08-29",
+      "avatar": "6f5616f509b22884c9226395dbc1b4ed.png",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-08-29"
+        "rank": 1,
+        "date": "2026-08-30"
       },
       "games": {
         "castle-fireworks": {
@@ -16593,11 +16598,11 @@
     },
     "anjunajames": {
       "avatar": null,
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-07-23"
+        "rank": 9,
+        "date": "2026-08-30"
       },
       "games": {
         "jungle-cruise": {
@@ -16616,9 +16621,9 @@
           "rank": 10
         },
         "haunted-mansion": {
-          "bestScore": 84,
-          "date": "2026-06-29",
-          "rank": 3
+          "bestScore": 89,
+          "date": "2026-08-30",
+          "rank": 9
         }
       }
     },
@@ -20258,11 +20263,11 @@
     },
     "chaoticvinyl": {
       "avatar": "ae33d0d1ce2aa35ce3fe71fe6e05f7f0.png",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-08-28"
+        "rank": 10,
+        "date": "2026-08-30"
       },
       "games": {
         "jungle-cruise": {
@@ -25328,6 +25333,70 @@
           "bestScore": 46653,
           "date": "2026-08-30",
           "rank": 4
+        }
+      }
+    },
+    "CC_96": {
+      "avatar": null,
+      "lastSeen": "2026-08-30",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-08-30"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 2421,
+          "date": "2026-08-30",
+          "rank": 7
+        }
+      }
+    },
+    "OyoBoyo": {
+      "avatar": null,
+      "lastSeen": "2026-08-30",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-08-30"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1108,
+          "date": "2026-08-30",
+          "rank": 9
+        }
+      }
+    },
+    "LovelyLizzy": {
+      "avatar": null,
+      "lastSeen": "2026-08-30",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-08-30"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 46653,
+          "date": "2026-08-30",
+          "rank": 8
+        }
+      }
+    },
+    "MoonlightDream": {
+      "avatar": null,
+      "lastSeen": "2026-08-30",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-08-30"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 45143,
+          "date": "2026-08-30",
+          "rank": 10
         }
       }
     }
