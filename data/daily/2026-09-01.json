@@ -1,21 +1,36 @@
 {
   "date": "2026-09-01",
-  "scrapedAt": "2026-09-01T14:03:57.025Z",
+  "scrapedAt": "2026-09-01T18:17:57.772Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "a243befe2dea8ebb33c9f00bf74b77c7.png",
+        "topAvatar": "e62da4480d9df75953bbdd255c0966f7.png",
         "scores": [
           {
             "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7322
+          },
+          {
+            "rank": 2,
             "username": "Eliiott",
             "score": 6167
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "username": "Mirk",
+            "score": 5478
+          },
+          {
+            "rank": 4,
             "username": "WillaKingdomKeeper",
             "score": 4865
+          },
+          {
+            "rank": 5,
+            "username": "mandie_baby",
+            "score": 533
           }
         ]
       },
@@ -75,7 +90,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "894f1edde501081e4772f9b7ccf32640.png",
+        "topAvatar": "9d152a7423b18d0f631a3e604f246432.png",
         "scores": [
           {
             "rank": 1,
@@ -133,7 +148,7 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": "01d0d0d537444ec2674a8e760cc20b2d.png",
+        "topAvatar": "f47dd09f93f5bbc6152eea6f05f6d72f.png",
         "scores": [
           {
             "rank": 1,
@@ -405,7 +420,7 @@
           },
           {
             "rank": 10,
-            "username": "SavageDragon",
+            "username": "dizlindsey",
             "score": 114
           }
         ]
@@ -469,15 +484,45 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "1b1c7a1159a977fab9bf16c0309587db.png",
+        "topAvatar": "502d16fa349aeb23882f565ff862c2e1.png",
         "scores": [
           {
             "rank": 1,
+            "username": "BlueSorcerer",
+            "score": 49362
+          },
+          {
+            "rank": 2,
+            "username": "HoneyStar",
+            "score": 48704
+          },
+          {
+            "rank": 3,
+            "username": "JellyFishFriend",
+            "score": 45613
+          },
+          {
+            "rank": 4,
             "username": "CaitlinNoel",
             "score": 44698
           },
           {
-            "rank": 2,
+            "rank": 5,
+            "username": "Mirk",
+            "score": 44231
+          },
+          {
+            "rank": 6,
+            "username": "lilspookycryptid",
+            "score": 43312
+          },
+          {
+            "rank": 7,
+            "username": "AceBlane",
+            "score": 40033
+          },
+          {
+            "rank": 8,
             "username": "Princessmagic",
             "score": 15319
           }
