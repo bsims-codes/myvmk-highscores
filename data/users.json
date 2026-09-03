@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-03",
-  "userCount": 1321,
+  "userCount": 1322,
   "users": {
     "kazino": {
       "avatar": "6108a0ec9ffcc18044c9dd9f0b0595e0.png",
@@ -100,7 +100,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-09-03"
       },
       "games": {
@@ -1012,7 +1012,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 7,
         "date": "2026-09-03"
       },
       "games": {
@@ -1320,7 +1320,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 5,
         "date": "2026-09-03"
       },
       "games": {
@@ -3040,12 +3040,12 @@
       }
     },
     "cauliflower": {
-      "avatar": "65ebf4719740d3101f04f00d1cadbdcb.png",
-      "lastSeen": "2026-08-23",
+      "avatar": "93c77f86f5aacace648ce173149e25a3.png",
+      "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-08-23"
+        "rank": 1,
+        "date": "2026-09-03"
       },
       "games": {
         "jungle-cruise": {
@@ -3693,7 +3693,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-09-03"
       },
       "games": {
@@ -3709,9 +3709,9 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 48199,
-          "date": "2026-09-02",
-          "rank": 5
+          "bestScore": 48589,
+          "date": "2026-09-03",
+          "rank": 3
         }
       }
     },
@@ -4009,11 +4009,11 @@
     },
     "PrincessCutezada": {
       "avatar": "fab10c4a956b48504f2065dd2a157f07.png",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
-        "date": "2026-08-31"
+        "rank": 6,
+        "date": "2026-09-03"
       },
       "games": {
         "castle-fireworks": {
@@ -6746,8 +6746,8 @@
       "avatar": "ecddea32c72fcf4ed95a94b8a17fe6c4.png",
       "lastSeen": "2026-09-03",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 9,
+        "game": "castle-fireworks",
+        "rank": 5,
         "date": "2026-09-03"
       },
       "games": {
@@ -12632,9 +12632,9 @@
           "allTimeRank": 18
         },
         "jungle-cruise": {
-          "bestScore": 42060,
-          "date": "2026-04-08",
-          "rank": 9
+          "bestScore": 43127,
+          "date": "2026-09-03",
+          "rank": 7
         },
         "castle-fireworks": {
           "bestScore": 4715,
@@ -20065,7 +20065,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 4,
         "date": "2026-09-03"
       },
       "games": {
@@ -24258,11 +24258,11 @@
     },
     "SlavicPride": {
       "avatar": "b3aa21047981d7b1321d0d8ce0a8834e.png",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
-        "date": "2026-08-31"
+        "rank": 7,
+        "date": "2026-09-03"
       },
       "games": {
         "castle-fireworks": {
@@ -24726,7 +24726,7 @@
       "lastSeen": "2026-09-03",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 6,
         "date": "2026-09-03"
       },
       "games": {
@@ -25528,6 +25528,22 @@
         "jungle-cruise": {
           "bestScore": 41490,
           "date": "2026-09-02",
+          "rank": 10
+        }
+      }
+    },
+    "mijaro": {
+      "avatar": null,
+      "lastSeen": "2026-09-03",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-09-03"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 32723,
+          "date": "2026-09-03",
           "rank": 10
         }
       }
