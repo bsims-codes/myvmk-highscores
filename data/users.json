@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-09-08",
-  "userCount": 1340,
+  "userCount": 1341,
   "users": {
     "kazino": {
-      "avatar": "6ad9852603f603b89c5302c20f597301.png",
+      "avatar": "343d39e6a41515e022604526259c3504.png",
       "lastSeen": "2026-09-08",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -96,11 +96,11 @@
       }
     },
     "Jewelsy": {
-      "avatar": "f144491bed94d771fc72422c1907ddbe.png",
+      "avatar": "c8c89067f29a891e086b9f8766f18484.png",
       "lastSeen": "2026-09-08",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 1,
         "date": "2026-09-08"
       },
       "games": {
@@ -1628,11 +1628,11 @@
       }
     },
     "scortatia": {
-      "avatar": "6643df0cb708f24d6b43416936d32214.png",
+      "avatar": "aae29e8604f707b77e2801ab7f2ef659.png",
       "lastSeen": "2026-09-08",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 2,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-09-08"
       },
       "games": {
@@ -2595,11 +2595,11 @@
     },
     "BuckyBarnes": {
       "avatar": "cf177c2a26db344081dc1250ddc93c22.png",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-09-08",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 7,
-        "date": "2026-08-24"
+        "date": "2026-09-08"
       },
       "games": {
         "haunted-mansion": {
@@ -3041,11 +3041,11 @@
     },
     "cauliflower": {
       "avatar": "93c77f86f5aacace648ce173149e25a3.png",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-09-07"
+        "rank": 3,
+        "date": "2026-09-08"
       },
       "games": {
         "jungle-cruise": {
@@ -25888,6 +25888,22 @@
           "bestScore": 280,
           "date": "2026-09-07",
           "rank": 2
+        }
+      }
+    },
+    "Dasheroo": {
+      "avatar": null,
+      "lastSeen": "2026-09-08",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-09-08"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 29945,
+          "date": "2026-09-08",
+          "rank": 10
         }
       }
     }
