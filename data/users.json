@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-09",
-  "userCount": 1345,
+  "userCount": 1346,
   "users": {
     "kazino": {
       "avatar": "df68a3c4e73e003a1d117487a26cf5ae.png",
@@ -736,7 +736,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-09-09"
       },
       "games": {
@@ -1338,7 +1338,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "fc3fcdcd74906af1f1b85231f1055f62.png",
+      "avatar": "041c74d52523fdabf774d403a9887693.png",
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1663,7 +1663,7 @@
       }
     },
     "Rstar": {
-      "avatar": "33be89d12a30ae7010976b50f1480299.png",
+      "avatar": "0970ad611b50282e1608f39ced8c7bac.png",
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -2764,7 +2764,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
+        "rank": 3,
         "date": "2026-09-09"
       },
       "games": {
@@ -2876,7 +2876,7 @@
       }
     },
     "bsims": {
-      "avatar": "e5e779ff6f32ecb248f213fc7ac47728.png",
+      "avatar": "5bf52585772d5c8a7f2cc744b928e8a6.png",
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "jungle-cruise",
@@ -5769,7 +5769,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-09-09"
       },
       "games": {
@@ -21644,7 +21644,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-09-09"
       },
       "games": {
@@ -25903,17 +25903,22 @@
     },
     "Dasheroo": {
       "avatar": null,
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-09-08"
+        "game": "castle-fireworks",
+        "rank": 4,
+        "date": "2026-09-09"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 29945,
           "date": "2026-09-08",
           "rank": 10
+        },
+        "castle-fireworks": {
+          "bestScore": 5578,
+          "date": "2026-09-09",
+          "rank": 4
         }
       }
     },
@@ -25983,6 +25988,22 @@
           "bestScore": 16652,
           "date": "2026-09-09",
           "rank": 6
+        }
+      }
+    },
+    "Krista": {
+      "avatar": null,
+      "lastSeen": "2026-09-09",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 7,
+        "date": "2026-09-09"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 1022,
+          "date": "2026-09-09",
+          "rank": 7
         }
       }
     }
