@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "scrapedAt": "2026-09-09T16:22:32.084Z",
+  "scrapedAt": "2026-09-09T20:47:49.918Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -19,18 +19,23 @@
           },
           {
             "rank": 3,
+            "username": "lilspookycryptid",
+            "score": 4963
+          },
+          {
+            "rank": 4,
             "username": "Rstar",
             "score": 4026
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10151560",
             "score": 0
           }
         ]
       },
       "yesterday": {
-        "topAvatar": "cb4d8d96cc6ebbd2de724b4f3b8f9b15.png",
+        "topAvatar": "66c420b4d45c4b576da018ec7c409e35.png",
         "scores": [
           {
             "rank": 1,
@@ -437,33 +442,48 @@
           },
           {
             "rank": 2,
+            "username": "MiLadyMoon",
+            "score": 51498
+          },
+          {
+            "rank": 3,
+            "username": "cauliflower",
+            "score": 50613
+          },
+          {
+            "rank": 4,
             "username": "Mikki",
             "score": 50421
           },
           {
-            "rank": 3,
+            "rank": 5,
             "username": "BelleMarie",
             "score": 50395
           },
           {
-            "rank": 4,
+            "rank": 6,
             "username": "BlueSorcerer",
             "score": 47674
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "username": "Mirk",
+            "score": 45678
+          },
+          {
+            "rank": 8,
             "username": "Figgly",
             "score": 41013
           },
           {
-            "rank": 6,
-            "username": "SirBogzy",
-            "score": 16652
+            "rank": 9,
+            "username": "RoseBonbon",
+            "score": 38645
           },
           {
-            "rank": 7,
-            "username": "Guest10151560",
-            "score": 0
+            "rank": 10,
+            "username": "SirBogzy",
+            "score": 16652
           }
         ]
       },
