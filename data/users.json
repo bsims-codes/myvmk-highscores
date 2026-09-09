@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-09-09",
-  "userCount": 1344,
+  "userCount": 1345,
   "users": {
     "kazino": {
-      "avatar": "3a534fb4cf327279928653038551ae8e.png",
+      "avatar": "df68a3c4e73e003a1d117487a26cf5ae.png",
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -32,11 +32,11 @@
       }
     },
     "BRlTT": {
-      "avatar": "808cb720b5cedd0803decb12ac8e7f1d.png",
+      "avatar": "a65d0433b807bccd37e5af9227ad11a7.png",
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-09-09"
       },
       "games": {
@@ -185,7 +185,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-09-09"
       },
       "games": {
@@ -1009,11 +1009,11 @@
     },
     "Sandblasted_OctoNuggie": {
       "avatar": "1a3df3075ab3e9817b41b8a6cf342521.png",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-09-08"
+        "rank": 10,
+        "date": "2026-09-09"
       },
       "games": {
         "haunted-mansion": {
@@ -1843,11 +1843,11 @@
     },
     "BlueSorcerer": {
       "avatar": "502d16fa349aeb23882f565ff862c2e1.png",
-      "lastSeen": "2026-09-06",
+      "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 4,
-        "date": "2026-09-06"
+        "date": "2026-09-09"
       },
       "games": {
         "jungle-cruise": {
@@ -3703,7 +3703,7 @@
       "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-09-09"
       },
       "games": {
@@ -7466,11 +7466,11 @@
     },
     "Bernardo-S-Rocks": {
       "avatar": null,
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-09-09",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 10,
-        "date": "2026-05-19"
+        "date": "2026-09-09"
       },
       "games": {
         "pirates": {
@@ -25967,6 +25967,22 @@
           "bestScore": 41,
           "date": "2026-09-09",
           "rank": 10
+        }
+      }
+    },
+    "SirBogzy": {
+      "avatar": null,
+      "lastSeen": "2026-09-09",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-09-09"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 16652,
+          "date": "2026-09-09",
+          "rank": 6
         }
       }
     }
