@@ -1166,11 +1166,11 @@
     },
     "dizlindsey": {
       "avatar": "df92e51c14a590e2d6d9b03c1b7cf1d7.png",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-09-01"
+        "rank": 2,
+        "date": "2026-09-10"
       },
       "games": {
         "haunted-mansion": {
@@ -1851,7 +1851,7 @@
       "lastSeen": "2026-09-10",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-09-10"
       },
       "games": {
@@ -2170,11 +2170,11 @@
     },
     "Redsox": {
       "avatar": null,
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-09-10",
       "lastAppearance": {
-        "game": "haunted-mansion",
+        "game": "jungle-cruise",
         "rank": 5,
-        "date": "2026-07-16"
+        "date": "2026-09-10"
       },
       "games": {
         "pirates": {
@@ -2187,6 +2187,11 @@
           "bestScore": 127,
           "date": "2026-07-09",
           "rank": 3
+        },
+        "jungle-cruise": {
+          "bestScore": 48463,
+          "date": "2026-09-10",
+          "rank": 5
         }
       }
     },
