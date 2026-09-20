@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-20",
-  "userCount": 1374,
+  "userCount": 1375,
   "users": {
     "kazino": {
       "avatar": "702b0ef35d60743986e6220d80f1e38c.png",
@@ -394,7 +394,7 @@
       "lastSeen": "2026-09-20",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-09-20"
       },
       "games": {
@@ -10698,7 +10698,7 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 48958,
+          "bestScore": 49889,
           "date": "2026-09-20",
           "rank": 3
         }
@@ -15022,11 +15022,11 @@
     },
     "KaseyAmber": {
       "avatar": "8e116297dd931751a497db4e61d95b20.png",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 10,
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       "games": {
         "haunted-mansion": {
@@ -15534,7 +15534,7 @@
       "lastSeen": "2026-09-20",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 5,
         "date": "2026-09-20"
       },
       "games": {
@@ -26290,17 +26290,22 @@
     },
     "heywheresperi": {
       "avatar": "ee77e0fabfe83861bd9d030574c2c702.png",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-20",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 1,
-        "date": "2026-09-14"
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-09-20"
       },
       "games": {
         "pirates": {
           "bestScore": 310,
           "date": "2026-09-14",
           "rank": 1
+        },
+        "jungle-cruise": {
+          "bestScore": 31280,
+          "date": "2026-09-20",
+          "rank": 10
         }
       }
     },
@@ -26567,6 +26572,22 @@
         "jungle-cruise": {
           "bestScore": 38074,
           "date": "2026-09-19",
+          "rank": 8
+        }
+      }
+    },
+    "LavenderMoonIceberg": {
+      "avatar": null,
+      "lastSeen": "2026-09-20",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-09-20"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 316,
+          "date": "2026-09-20",
           "rank": 8
         }
       }
