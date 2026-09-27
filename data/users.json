@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2026-09-27",
-  "userCount": 1386,
+  "userCount": 1389,
   "users": {
     "kazino": {
-      "avatar": "77221d8329397f703a298245e806ac39.png",
+      "avatar": "0f3087d7c98f4509ed057f3e111cb4b8.png",
       "lastSeen": "2026-09-27",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -41,7 +41,7 @@
       "lastSeen": "2026-09-27",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 1,
         "date": "2026-09-27"
       },
       "games": {
@@ -1157,8 +1157,8 @@
       "avatar": "e191d77c4e51d5a5db89843f985e0109.png",
       "lastSeen": "2026-09-27",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 4,
+        "game": "jungle-cruise",
+        "rank": 1,
         "date": "2026-09-27"
       },
       "games": {
@@ -26954,6 +26954,54 @@
           "bestScore": 261,
           "date": "2026-09-26",
           "rank": 6
+        }
+      }
+    },
+    "allison": {
+      "avatar": null,
+      "lastSeen": "2026-09-27",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 8,
+        "date": "2026-09-27"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 7564,
+          "date": "2026-09-27",
+          "rank": 8
+        }
+      }
+    },
+    "Sorasmemory": {
+      "avatar": null,
+      "lastSeen": "2026-09-27",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-09-27"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 51,
+          "date": "2026-09-27",
+          "rank": 5
+        }
+      }
+    },
+    "Tcall": {
+      "avatar": null,
+      "lastSeen": "2026-09-27",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 9,
+        "date": "2026-09-27"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 45,
+          "date": "2026-09-27",
+          "rank": 9
         }
       }
     }
