@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-08",
-  "userCount": 1427,
+  "userCount": 1429,
   "users": {
     "kazino": {
       "avatar": "db6306213a50618e604a41f8c2326ded.png",
@@ -37,11 +37,11 @@
       }
     },
     "BRlTT": {
-      "avatar": "c2418ed4f76ea4b0dbc0256f970b5400.png",
+      "avatar": "10d7b776231a0fbd672c63c3d01cc61d.png",
       "lastSeen": "2026-10-08",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 1,
         "date": "2026-10-08"
       },
       "games": {
@@ -1391,7 +1391,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "576a357f514690fa81446f9a912b1e8d.png",
+      "avatar": "d7e27749efcc2a85397f5256c27f1550.png",
       "lastSeen": "2026-10-08",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -1906,11 +1906,11 @@
     },
     "BlueSorcerer": {
       "avatar": "5b8b032c78a36e9435f11eadea4c8133.png",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 3,
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       },
       "games": {
         "jungle-cruise": {
@@ -4142,11 +4142,11 @@
     },
     "PrincessCutezada": {
       "avatar": "d4809397b3908c886efd041cccbb5c3c.png",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-10-07"
+        "rank": 10,
+        "date": "2026-10-08"
       },
       "games": {
         "castle-fireworks": {
@@ -7726,11 +7726,11 @@
     },
     "AirBiscuits": {
       "avatar": "4efe5d381e985a3fa2bc427a3f984a88.png",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-10-08",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-09-24"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-10-08"
       },
       "games": {
         "jungle-cruise": {
@@ -12864,9 +12864,9 @@
           "rank": 4
         },
         "castle-fireworks": {
-          "bestScore": 6620,
-          "date": "2026-10-07",
-          "rank": 10
+          "bestScore": 6920,
+          "date": "2026-10-08",
+          "rank": 2
         }
       }
     },
@@ -15899,11 +15899,11 @@
     },
     "rockin_rachael": {
       "avatar": "c70b2338f646e013e5feca95098228c7.png",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-10-07"
+        "game": "jungle-cruise",
+        "rank": 7,
+        "date": "2026-10-08"
       },
       "games": {
         "jungle-cruise": {
@@ -26359,11 +26359,11 @@
     },
     "Mooncense": {
       "avatar": null,
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-10-07"
+        "rank": 2,
+        "date": "2026-10-08"
       },
       "games": {
         "castle-fireworks": {
@@ -26372,9 +26372,9 @@
           "rank": 8
         },
         "jungle-cruise": {
-          "bestScore": 48438,
-          "date": "2026-09-10",
-          "rank": 4
+          "bestScore": 48896,
+          "date": "2026-10-08",
+          "rank": 2
         }
       }
     },
@@ -27470,9 +27470,9 @@
           "rank": 8
         },
         "castle-fireworks": {
-          "bestScore": 3544,
-          "date": "2026-10-05",
-          "rank": 7
+          "bestScore": 4105,
+          "date": "2026-10-08",
+          "rank": 5
         },
         "haunted-mansion": {
           "bestScore": 78,
@@ -27745,6 +27745,38 @@
           "bestScore": 50162,
           "date": "2026-10-08",
           "rank": 1
+        }
+      }
+    },
+    "Guest10151830": {
+      "avatar": null,
+      "lastSeen": "2026-10-08",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-10-08"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 66,
+          "date": "2026-10-08",
+          "rank": 6
+        }
+      }
+    },
+    "Guest10151828": {
+      "avatar": null,
+      "lastSeen": "2026-10-08",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-10-08"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 37781,
+          "date": "2026-10-08",
+          "rank": 9
         }
       }
     }
