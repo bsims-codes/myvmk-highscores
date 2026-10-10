@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-10",
-  "userCount": 1435,
+  "userCount": 1436,
   "users": {
     "kazino": {
       "avatar": "db6306213a50618e604a41f8c2326ded.png",
@@ -828,11 +828,11 @@
     },
     "PrinceGeminii": {
       "avatar": "49d5bf59f7d677c3f722e3b43f75ff73.png",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 6,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       "games": {
         "pirates": {
@@ -1039,7 +1039,7 @@
       "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-10-10"
       },
       "games": {
@@ -2850,7 +2850,7 @@
       "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-10-10"
       },
       "games": {
@@ -4193,11 +4193,11 @@
     },
     "Matty": {
       "avatar": null,
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
-        "date": "2026-10-09"
+        "rank": 10,
+        "date": "2026-10-10"
       },
       "games": {
         "haunted-mansion": {
@@ -5309,7 +5309,7 @@
       "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-10-10"
       },
       "games": {
@@ -6368,12 +6368,12 @@
       }
     },
     "EVOL": {
-      "avatar": "45946cc79f71eddbc6aedf18151e5b1c.png",
-      "lastSeen": "2026-10-09",
+      "avatar": "761bea80ce52db1087572375c61da9e9.png",
+      "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-10-09"
+        "rank": 1,
+        "date": "2026-10-10"
       },
       "games": {
         "haunted-mansion": {
@@ -27713,11 +27713,11 @@
     },
     "bellespixiedust": {
       "avatar": null,
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-10",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
-        "date": "2026-10-07"
+        "rank": 4,
+        "date": "2026-10-10"
       },
       "games": {
         "castle-fireworks": {
@@ -27904,6 +27904,22 @@
           "bestScore": 29901,
           "date": "2026-10-10",
           "rank": 3
+        }
+      }
+    },
+    "miszpink_": {
+      "avatar": null,
+      "lastSeen": "2026-10-10",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-10-10"
+      },
+      "games": {
+        "haunted-mansion": {
+          "bestScore": 76,
+          "date": "2026-10-10",
+          "rank": 2
         }
       }
     }
