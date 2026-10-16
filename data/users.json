@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-16",
-  "userCount": 1462,
+  "userCount": 1464,
   "users": {
     "kazino": {
       "avatar": "db6306213a50618e604a41f8c2326ded.png",
@@ -2068,7 +2068,7 @@
       "lastSeen": "2026-10-16",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-10-16"
       },
       "games": {
@@ -13523,7 +13523,7 @@
       "lastSeen": "2026-10-16",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-10-16"
       },
       "games": {
@@ -15666,11 +15666,11 @@
     },
     "Ashley-Pink": {
       "avatar": null,
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-10-16",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 7,
-        "date": "2026-05-08"
+        "rank": 5,
+        "date": "2026-10-16"
       },
       "games": {
         "castle-fireworks": {
@@ -28360,6 +28360,38 @@
       }
     },
     "FireflyZee": {
+      "avatar": null,
+      "lastSeen": "2026-10-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-10-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 978,
+          "date": "2026-10-16",
+          "rank": 10
+        }
+      }
+    },
+    "Bernie": {
+      "avatar": null,
+      "lastSeen": "2026-10-16",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-10-16"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 6393,
+          "date": "2026-10-16",
+          "rank": 9
+        }
+      }
+    },
+    "discovery_cove": {
       "avatar": null,
       "lastSeen": "2026-10-16",
       "lastAppearance": {
