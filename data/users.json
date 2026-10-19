@@ -186,11 +186,11 @@
       }
     },
     "MissAnnaNovang": {
-      "avatar": "43368203ec519ecf0fa284ea1f5d3aef.png",
+      "avatar": "8a9db1708cbad4d2386e5e7a0cc037c8.png",
       "lastSeen": "2026-10-19",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
+        "rank": 1,
         "date": "2026-10-19"
       },
       "games": {
@@ -1080,11 +1080,11 @@
     },
     "MissyKinz": {
       "avatar": "60b70911b1126d06645fde6d00acecb8.png",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
-        "date": "2026-10-18"
+        "rank": 7,
+        "date": "2026-10-19"
       },
       "games": {
         "haunted-mansion": {
@@ -1253,11 +1253,11 @@
     },
     "AmandaJeanne": {
       "avatar": "b6bfddf1c139df4da940eb953c715fc5.png",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-10-17"
+        "rank": 10,
+        "date": "2026-10-19"
       },
       "games": {
         "haunted-mansion": {
@@ -2686,11 +2686,11 @@
     },
     "BuckyBarnes": {
       "avatar": "cf177c2a26db344081dc1250ddc93c22.png",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 8,
-        "date": "2026-10-15"
+        "game": "haunted-mansion",
+        "rank": 2,
+        "date": "2026-10-19"
       },
       "games": {
         "haunted-mansion": {
@@ -2849,8 +2849,8 @@
       "avatar": "14effae43b01112d254fc2c7b0b2314b.png",
       "lastSeen": "2026-10-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 5,
+        "game": "castle-fireworks",
+        "rank": 2,
         "date": "2026-10-19"
       },
       "games": {
@@ -28645,9 +28645,9 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 27391,
+          "bestScore": 29820,
           "date": "2026-10-19",
-          "rank": 2
+          "rank": 5
         }
       }
     }
