@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-18",
-  "userCount": 1474,
+  "userCount": 1476,
   "users": {
     "kazino": {
       "avatar": "db6306213a50618e604a41f8c2326ded.png",
@@ -910,9 +910,9 @@
           "allTimeRank": 8
         },
         "haunted-mansion": {
-          "bestScore": 93,
-          "date": "2026-10-02",
-          "rank": 5
+          "bestScore": 106,
+          "date": "2026-10-18",
+          "rank": 7
         },
         "castle-fireworks": {
           "bestScore": 7212,
@@ -1221,11 +1221,11 @@
     },
     "waterfallglow": {
       "avatar": "9f9d9f1533c547aa45211b0a96263481.png",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-10-15"
+        "rank": 4,
+        "date": "2026-10-18"
       },
       "games": {
         "haunted-mansion": {
@@ -1412,9 +1412,9 @@
           "allTimeRank": 50
         },
         "jungle-cruise": {
-          "bestScore": 49667,
-          "date": "2026-10-03",
-          "rank": 1,
+          "bestScore": 49690,
+          "date": "2026-10-18",
+          "rank": 2,
           "allTimeRank": 50
         },
         "pirates": {
@@ -2067,8 +2067,8 @@
       "avatar": "5cf23f20f2c30bd526a9aa2937825382.png",
       "lastSeen": "2026-10-18",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 4,
+        "game": "castle-fireworks",
+        "rank": 3,
         "date": "2026-10-18"
       },
       "games": {
@@ -2188,7 +2188,7 @@
       "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-10-18"
       },
       "games": {
@@ -4141,11 +4141,11 @@
       }
     },
     "PrincessCutezada": {
-      "avatar": "c888dd94d93cfbae16e14c95bf6e3e53.png",
+      "avatar": "72ce3a2b908b7e7eae17378826354b49.png",
       "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 1,
         "date": "2026-10-18"
       },
       "games": {
@@ -4196,7 +4196,7 @@
       "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
+        "rank": 3,
         "date": "2026-10-18"
       },
       "games": {
@@ -7023,7 +7023,7 @@
       "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-10-18"
       },
       "games": {
@@ -23402,11 +23402,11 @@
     },
     "LakeLady": {
       "avatar": "fd6d2479a9eca2cf379337186ce1bd57.png",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 2,
-        "date": "2026-10-17"
+        "rank": 8,
+        "date": "2026-10-18"
       },
       "games": {
         "jungle-cruise": {
@@ -25084,8 +25084,8 @@
       "avatar": "22d5f548e7516a42b765c09b5439ad05.png",
       "lastSeen": "2026-10-18",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 4,
+        "game": "haunted-mansion",
+        "rank": 2,
         "date": "2026-10-18"
       },
       "games": {
@@ -26911,11 +26911,11 @@
     },
     "Piratepixie": {
       "avatar": null,
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-10-18",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 10,
-        "date": "2026-09-24"
+        "rank": 7,
+        "date": "2026-10-18"
       },
       "games": {
         "jungle-cruise": {
@@ -28574,6 +28574,38 @@
           "bestScore": 5133,
           "date": "2026-10-18",
           "rank": 5
+        }
+      }
+    },
+    "ratboi": {
+      "avatar": null,
+      "lastSeen": "2026-10-18",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 6,
+        "date": "2026-10-18"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 33746,
+          "date": "2026-10-18",
+          "rank": 6
+        }
+      }
+    },
+    "naenae26": {
+      "avatar": null,
+      "lastSeen": "2026-10-18",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-10-18"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 16487,
+          "date": "2026-10-18",
+          "rank": 8
         }
       }
     }
