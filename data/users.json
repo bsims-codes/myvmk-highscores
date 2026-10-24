@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-24",
-  "userCount": 1494,
+  "userCount": 1498,
   "users": {
     "kazino": {
       "avatar": "7b7fec85a950c69cd397bc3cce6926bf.png",
@@ -18695,14 +18695,14 @@
       "lastSeen": "2026-10-24",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-10-24"
       },
       "games": {
         "haunted-mansion": {
-          "bestScore": 79,
+          "bestScore": 112,
           "date": "2026-10-24",
-          "rank": 3
+          "rank": 2
         },
         "jungle-cruise": {
           "bestScore": 52137,
@@ -28328,17 +28328,22 @@
     },
     "unitedmagic": {
       "avatar": null,
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-24",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-10-17"
+        "game": "castle-fireworks",
+        "rank": 9,
+        "date": "2026-10-24"
       },
       "games": {
         "jungle-cruise": {
           "bestScore": 41917,
           "date": "2026-10-16",
           "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 1219,
+          "date": "2026-10-24",
+          "rank": 9
         }
       }
     },
@@ -28975,6 +28980,80 @@
           "bestScore": 39616,
           "date": "2026-10-24",
           "rank": 3
+        }
+      }
+    },
+    "FrostPrincess": {
+      "avatar": null,
+      "lastSeen": "2026-10-24",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 6,
+        "date": "2026-10-24"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3125,
+          "date": "2026-10-24",
+          "rank": 7
+        },
+        "haunted-mansion": {
+          "bestScore": 68,
+          "date": "2026-10-24",
+          "rank": 6
+        }
+      }
+    },
+    "BestCookieCrazy": {
+      "avatar": null,
+      "lastSeen": "2026-10-24",
+      "lastAppearance": {
+        "game": "haunted-mansion",
+        "rank": 5,
+        "date": "2026-10-24"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 3038,
+          "date": "2026-10-24",
+          "rank": 8
+        },
+        "haunted-mansion": {
+          "bestScore": 74,
+          "date": "2026-10-24",
+          "rank": 5
+        }
+      }
+    },
+    "Drahh": {
+      "avatar": null,
+      "lastSeen": "2026-10-24",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 10,
+        "date": "2026-10-24"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 379,
+          "date": "2026-10-24",
+          "rank": 10
+        }
+      }
+    },
+    "AceStarPrincess": {
+      "avatar": null,
+      "lastSeen": "2026-10-24",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 10,
+        "date": "2026-10-24"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 24677,
+          "date": "2026-10-24",
+          "rank": 10
         }
       }
     }
