@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-25",
-  "userCount": 1500,
+  "userCount": 1501,
   "users": {
     "kazino": {
       "avatar": "7b7fec85a950c69cd397bc3cce6926bf.png",
@@ -334,11 +334,11 @@
     },
     "aldisneyfans": {
       "avatar": "d2c7aea5777967a8b2357344ef91f64c.png",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 7,
-        "date": "2026-10-23"
+        "date": "2026-10-25"
       },
       "games": {
         "castle-fireworks": {
@@ -2855,7 +2855,7 @@
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 5,
         "date": "2026-10-25"
       },
       "games": {
@@ -3137,11 +3137,11 @@
     },
     "cauliflower": {
       "avatar": "a9dd814fe09f61860dd52b67bddcfbc1.png",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 1,
-        "date": "2026-10-24"
+        "rank": 7,
+        "date": "2026-10-25"
       },
       "games": {
         "jungle-cruise": {
@@ -20398,7 +20398,7 @@
       }
     },
     "Eliiott": {
-      "avatar": "bae65716ec2503346832395a8e65f29a.png",
+      "avatar": "4eb1bc1ff4bd8b3a7e24394889ef38cd.png",
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "castle-fireworks",
@@ -28842,7 +28842,7 @@
       }
     },
     "Emzay": {
-      "avatar": "c6ac33d45096ed099f71901f7844f231.png",
+      "avatar": "7d9d94c7ca88808e5e2716cdf5e7a191.png",
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "pirates",
@@ -28862,6 +28862,11 @@
         },
         "haunted-mansion": {
           "bestScore": 35,
+          "date": "2026-10-25",
+          "rank": 8
+        },
+        "castle-fireworks": {
+          "bestScore": 2235,
           "date": "2026-10-25",
           "rank": 8
         }
@@ -29102,6 +29107,27 @@
           "bestScore": 2451,
           "date": "2026-10-25",
           "rank": 3
+        }
+      }
+    },
+    "K8ski": {
+      "avatar": null,
+      "lastSeen": "2026-10-25",
+      "lastAppearance": {
+        "game": "castle-fireworks",
+        "rank": 6,
+        "date": "2026-10-25"
+      },
+      "games": {
+        "castle-fireworks": {
+          "bestScore": 5236,
+          "date": "2026-10-25",
+          "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 34317,
+          "date": "2026-10-25",
+          "rank": 6
         }
       }
     }
