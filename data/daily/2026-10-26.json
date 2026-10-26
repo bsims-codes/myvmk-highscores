@@ -1,15 +1,26 @@
 {
   "date": "2026-10-26",
-  "scrapedAt": "2026-10-26T12:39:56.658Z",
+  "scrapedAt": "2026-10-26T20:22:57.763Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "ddea519771a3b46812301a4d1bf7abb6.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "MissAnnaNovang",
+            "score": 7002
+          },
+          {
+            "rank": 2,
+            "username": "PrincessCutezada",
+            "score": 4427
+          }
+        ]
       },
       "yesterday": {
-        "topAvatar": "01045184952e8b69774d8e673636600d.png",
+        "topAvatar": "05bcb6f01f7367fd74f89264b4f0c845.png",
         "scores": [
           {
             "rank": 1,
@@ -64,7 +75,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "01045184952e8b69774d8e673636600d.png",
+        "topAvatar": "05bcb6f01f7367fd74f89264b4f0c845.png",
         "scores": [
           {
             "rank": 1,
@@ -126,7 +137,7 @@
         "scores": []
       },
       "yesterday": {
-        "topAvatar": "1dac0947cf53f8a63c4863331c45dc66.png",
+        "topAvatar": "8a35ff077c711d5f374a09f9995f9e4f.png",
         "scores": [
           {
             "rank": 1,
@@ -219,8 +230,34 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "7c0555b9508038a0b2adb8716f3d9bea.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Rstar",
+            "score": 65
+          },
+          {
+            "rank": 2,
+            "username": "FlyingShinyGirl",
+            "score": 57
+          },
+          {
+            "rank": 3,
+            "username": "MissAnnaNovang",
+            "score": 54
+          },
+          {
+            "rank": 4,
+            "username": "PrincessCutezada",
+            "score": 51
+          },
+          {
+            "rank": 5,
+            "username": "Matty",
+            "score": 43
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "295908f53d5cc09098f89fb4740cea79.png",
@@ -247,22 +284,22 @@
           },
           {
             "rank": 5,
-            "username": "JustForFun",
-            "score": 54
-          },
-          {
-            "rank": 6,
             "username": "livycakes",
             "score": 54
           },
           {
+            "rank": 6,
+            "username": "JustForFun",
+            "score": 54
+          },
+          {
             "rank": 7,
-            "username": "MissyKinz",
+            "username": "LakeLady",
             "score": 53
           },
           {
             "rank": 8,
-            "username": "LakeLady",
+            "username": "MissyKinz",
             "score": 53
           },
           {
@@ -297,12 +334,12 @@
           },
           {
             "rank": 4,
-            "username": "scortatia",
+            "username": "Shadow_Rose",
             "score": 145
           },
           {
             "rank": 5,
-            "username": "Shadow_Rose",
+            "username": "scortatia",
             "score": 145
           },
           {
@@ -336,8 +373,29 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "4eb1bc1ff4bd8b3a7e24394889ef38cd.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Eliiott",
+            "score": 58841
+          },
+          {
+            "rank": 2,
+            "username": "cauliflower",
+            "score": 51846
+          },
+          {
+            "rank": 3,
+            "username": "BlueSorcerer",
+            "score": 49236
+          },
+          {
+            "rank": 4,
+            "username": "Adroit_Antics",
+            "score": 43103
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "4eb1bc1ff4bd8b3a7e24394889ef38cd.png",
