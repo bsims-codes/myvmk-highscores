@@ -526,11 +526,11 @@
       }
     },
     "Erie": {
-      "avatar": "7ea51b30002ffc551605387c982ece43.png",
+      "avatar": "1dac0947cf53f8a63c4863331c45dc66.png",
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-10-25"
       },
       "games": {
@@ -896,11 +896,11 @@
     },
     "Tggrhny": {
       "avatar": "58bcfa32b102435c17f6515e3547e50e.png",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 3,
-        "date": "2026-10-19"
+        "rank": 2,
+        "date": "2026-10-25"
       },
       "games": {
         "pirates": {
@@ -1391,7 +1391,7 @@
       }
     },
     "AstroVioletRose": {
-      "avatar": "b18290bdf4607df16a7870e83bff35bb.png",
+      "avatar": "b551006dba62f39d3cbc97b5a2a7b300.png",
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -2103,7 +2103,7 @@
       "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 6,
         "date": "2026-10-25"
       },
       "games": {
@@ -2797,11 +2797,11 @@
     },
     "SmileyKileyCat": {
       "avatar": "7427f032c66966a5f0fe7cf677640b01.png",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "pirates",
         "rank": 4,
-        "date": "2026-10-04"
+        "date": "2026-10-25"
       },
       "games": {
         "pirates": {
@@ -4149,8 +4149,8 @@
       "avatar": "72ce3a2b908b7e7eae17378826354b49.png",
       "lastSeen": "2026-10-25",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 10,
+        "game": "haunted-mansion",
+        "rank": 9,
         "date": "2026-10-25"
       },
       "games": {
@@ -4583,11 +4583,11 @@
     },
     "Naiant": {
       "avatar": "6355c4c2a31c7311b7970c0245c81322.png",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
-        "date": "2026-10-24"
+        "rank": 3,
+        "date": "2026-10-25"
       },
       "games": {
         "haunted-mansion": {
@@ -7478,17 +7478,22 @@
     },
     "PrincessEmilyLizzie": {
       "avatar": null,
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-10-06"
+        "game": "jungle-cruise",
+        "rank": 9,
+        "date": "2026-10-25"
       },
       "games": {
         "haunted-mansion": {
           "bestScore": 109,
           "date": "2026-02-07",
           "rank": 6
+        },
+        "jungle-cruise": {
+          "bestScore": 33189,
+          "date": "2026-10-25",
+          "rank": 9
         }
       }
     },
@@ -15220,11 +15225,11 @@
     },
     "KaseyAmber": {
       "avatar": "8e116297dd931751a497db4e61d95b20.png",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "castle-fireworks",
         "rank": 7,
-        "date": "2026-10-22"
+        "date": "2026-10-25"
       },
       "games": {
         "haunted-mansion": {
@@ -27468,11 +27473,11 @@
     },
     "Cheyasaur": {
       "avatar": null,
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 6,
-        "date": "2026-10-24"
+        "rank": 3,
+        "date": "2026-10-25"
       },
       "games": {
         "pirates": {
@@ -28616,22 +28621,27 @@
     },
     "ratboi": {
       "avatar": null,
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-25",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 10,
-        "date": "2026-10-23"
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-10-25"
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 33746,
-          "date": "2026-10-18",
-          "rank": 6
+          "bestScore": 39431,
+          "date": "2026-10-25",
+          "rank": 5
         },
         "haunted-mansion": {
           "bestScore": 56,
           "date": "2026-10-22",
           "rank": 10
+        },
+        "pirates": {
+          "bestScore": 59,
+          "date": "2026-10-25",
+          "rank": 6
         }
       }
     },
@@ -28697,9 +28707,9 @@
           "rank": 2
         },
         "pirates": {
-          "bestScore": 114,
-          "date": "2026-10-24",
-          "rank": 7
+          "bestScore": 165,
+          "date": "2026-10-25",
+          "rank": 5
         }
       }
     },
