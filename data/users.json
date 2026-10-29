@@ -4586,7 +4586,7 @@
       "lastSeen": "2026-10-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 10,
+        "rank": 7,
         "date": "2026-10-29"
       },
       "games": {
@@ -25108,11 +25108,11 @@
     },
     "livycakes": {
       "avatar": "67725cb022325c6637aaa8b2ea46c05d.png",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-29",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-10-26"
+        "rank": 8,
+        "date": "2026-10-29"
       },
       "games": {
         "castle-fireworks": {
@@ -29276,6 +29276,11 @@
           "bestScore": 39574,
           "date": "2026-10-28",
           "rank": 6
+        },
+        "haunted-mansion": {
+          "bestScore": 40,
+          "date": "2026-10-29",
+          "rank": 10
         }
       }
     },
@@ -29289,9 +29294,14 @@
       },
       "games": {
         "jungle-cruise": {
-          "bestScore": 33137,
-          "date": "2026-10-28",
+          "bestScore": 35720,
+          "date": "2026-10-29",
           "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 1539,
+          "date": "2026-10-29",
+          "rank": 4
         }
       }
     },
