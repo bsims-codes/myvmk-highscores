@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-10-30",
-  "userCount": 1517,
+  "userCount": 1518,
   "users": {
     "kazino": {
       "avatar": "7b7fec85a950c69cd397bc3cce6926bf.png",
@@ -165,11 +165,11 @@
     },
     "bellemeansbeauty": {
       "avatar": "cff1d344b2a9efc242b484f4ff85aa0e.png",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
-        "date": "2026-10-22"
+        "rank": 3,
+        "date": "2026-10-30"
       },
       "games": {
         "castle-fireworks": {
@@ -3137,11 +3137,11 @@
     },
     "cauliflower": {
       "avatar": "a9dd814fe09f61860dd52b67bddcfbc1.png",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "jungle-cruise",
         "rank": 2,
-        "date": "2026-10-27"
+        "date": "2026-10-30"
       },
       "games": {
         "jungle-cruise": {
@@ -19706,11 +19706,11 @@
     },
     "BornFromTheOcean": {
       "avatar": null,
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
-        "date": "2026-10-21"
+        "rank": 6,
+        "date": "2026-10-30"
       },
       "games": {
         "castle-fireworks": {
@@ -27604,11 +27604,11 @@
       }
     },
     "zinni": {
-      "avatar": null,
+      "avatar": "321bd1dc66ee3bf1cf77d5d290d37540.png",
       "lastSeen": "2026-10-30",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 2,
+        "game": "haunted-mansion",
+        "rank": 1,
         "date": "2026-10-30"
       },
       "games": {
@@ -27626,6 +27626,11 @@
           "bestScore": 1017,
           "date": "2026-10-22",
           "rank": 7
+        },
+        "haunted-mansion": {
+          "bestScore": 106,
+          "date": "2026-10-30",
+          "rank": 1
         }
       }
     },
@@ -28334,11 +28339,11 @@
     },
     "unitedmagic": {
       "avatar": null,
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
-        "date": "2026-10-29"
+        "rank": 9,
+        "date": "2026-10-30"
       },
       "games": {
         "jungle-cruise": {
@@ -28347,9 +28352,9 @@
           "rank": 5
         },
         "castle-fireworks": {
-          "bestScore": 2395,
-          "date": "2026-10-29",
-          "rank": 8
+          "bestScore": 2630,
+          "date": "2026-10-30",
+          "rank": 9
         }
       }
     },
@@ -29429,6 +29434,22 @@
           "bestScore": 526,
           "date": "2026-10-30",
           "rank": 8
+        }
+      }
+    },
+    "LoudBubbleDuck": {
+      "avatar": null,
+      "lastSeen": "2026-10-30",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 5,
+        "date": "2026-10-30"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 46601,
+          "date": "2026-10-30",
+          "rank": 5
         }
       }
     }
