@@ -1083,7 +1083,7 @@
       "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-10-30"
       },
       "games": {
@@ -1118,7 +1118,7 @@
       "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 4,
+        "rank": 3,
         "date": "2026-10-30"
       },
       "games": {
@@ -29127,11 +29127,11 @@
     },
     "K8ski": {
       "avatar": null,
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 9,
-        "date": "2026-10-29"
+        "rank": 4,
+        "date": "2026-10-30"
       },
       "games": {
         "castle-fireworks": {
@@ -29286,11 +29286,11 @@
     },
     "Emmaray_": {
       "avatar": null,
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 3,
-        "date": "2026-10-29"
+        "rank": 8,
+        "date": "2026-10-30"
       },
       "games": {
         "jungle-cruise": {
@@ -29363,9 +29363,9 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 3092,
+          "bestScore": 3691,
           "date": "2026-10-30",
-          "rank": 9
+          "rank": 6
         },
         "haunted-mansion": {
           "bestScore": 79,
@@ -29424,6 +29424,11 @@
           "bestScore": 16263,
           "date": "2026-10-30",
           "rank": 5
+        },
+        "castle-fireworks": {
+          "bestScore": 526,
+          "date": "2026-10-30",
+          "rank": 8
         }
       }
     }
