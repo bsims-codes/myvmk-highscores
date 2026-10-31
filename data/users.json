@@ -105,7 +105,7 @@
       "lastSeen": "2026-10-31",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 3,
+        "rank": 2,
         "date": "2026-10-31"
       },
       "games": {
@@ -603,12 +603,12 @@
       }
     },
     "TaterTotCasserole": {
-      "avatar": "3de1ab53efde10f66f2579a8bff1e4b4.png",
-      "lastSeen": "2026-10-25",
+      "avatar": "6db56015d287bbd3ac4ffc46f7d5b431.png",
+      "lastSeen": "2026-10-31",
       "lastAppearance": {
-        "game": "haunted-mansion",
-        "rank": 5,
-        "date": "2026-10-25"
+        "game": "pirates",
+        "rank": 1,
+        "date": "2026-10-31"
       },
       "games": {
         "pirates": {
@@ -1362,7 +1362,7 @@
       "lastSeen": "2026-10-31",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-10-31"
       },
       "games": {
@@ -3505,11 +3505,11 @@
     },
     "Asheroni": {
       "avatar": "3d4cfc0ee2d46bba7f4457fb3e2f0d4f.png",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-10-31",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 5,
-        "date": "2026-09-14"
+        "rank": 6,
+        "date": "2026-10-31"
       },
       "games": {
         "castle-fireworks": {
@@ -18278,11 +18278,11 @@
     },
     "King": {
       "avatar": "b6f45da5dc843d6846355c4a79715ac0.png",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-31",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 2,
-        "date": "2026-10-22"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-10-31"
       },
       "games": {
         "jungle-cruise": {
@@ -28718,9 +28718,9 @@
           "rank": 3
         },
         "haunted-mansion": {
-          "bestScore": 101,
+          "bestScore": 114,
           "date": "2026-10-31",
-          "rank": 9
+          "rank": 7
         }
       }
     },
@@ -29501,7 +29501,7 @@
       },
       "games": {
         "castle-fireworks": {
-          "bestScore": 4821,
+          "bestScore": 5944,
           "date": "2026-10-31",
           "rank": 8
         },
