@@ -105,7 +105,7 @@
       "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 5,
+        "rank": 3,
         "date": "2026-11-04"
       },
       "games": {
@@ -195,7 +195,7 @@
       "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 7,
+        "rank": 4,
         "date": "2026-11-04"
       },
       "games": {
@@ -1735,7 +1735,7 @@
       "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 8,
+        "rank": 7,
         "date": "2026-11-04"
       },
       "games": {
@@ -1910,11 +1910,11 @@
       }
     },
     "BlueSorcerer": {
-      "avatar": "502d16fa349aeb23882f565ff862c2e1.png",
+      "avatar": "cc330642a4eb5c4e165fb3549d037b5a.png",
       "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "jungle-cruise",
-        "rank": 2,
+        "rank": 1,
         "date": "2026-11-04"
       },
       "games": {
@@ -7062,11 +7062,11 @@
     },
     "Wavves": {
       "avatar": "aa8837f317c3318a689ef2c93e5c5544.png",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-11-04",
       "lastAppearance": {
-        "game": "pirates",
-        "rank": 1,
-        "date": "2026-10-12"
+        "game": "haunted-mansion",
+        "rank": 8,
+        "date": "2026-11-04"
       },
       "games": {
         "haunted-mansion": {
@@ -26163,11 +26163,11 @@
     },
     "samanthagiselle": {
       "avatar": null,
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-11-04",
       "lastAppearance": {
-        "game": "pirates",
+        "game": "jungle-cruise",
         "rank": 4,
-        "date": "2026-10-18"
+        "date": "2026-11-04"
       },
       "games": {
         "pirates": {
@@ -29376,11 +29376,11 @@
     },
     "lilshoppinggirl": {
       "avatar": null,
-      "lastSeen": "2026-11-03",
+      "lastSeen": "2026-11-04",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 6,
-        "date": "2026-11-03"
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-11-04"
       },
       "games": {
         "castle-fireworks": {
@@ -29423,11 +29423,11 @@
     },
     "philliegirl": {
       "avatar": null,
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "haunted-mansion",
         "rank": 5,
-        "date": "2026-10-30"
+        "date": "2026-11-04"
       },
       "games": {
         "haunted-mansion": {
@@ -29511,7 +29511,7 @@
       "lastSeen": "2026-11-04",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 10,
+        "rank": 6,
         "date": "2026-11-04"
       },
       "games": {
@@ -29524,6 +29524,11 @@
           "bestScore": 42546,
           "date": "2026-10-31",
           "rank": 10
+        },
+        "haunted-mansion": {
+          "bestScore": 52,
+          "date": "2026-11-04",
+          "rank": 9
         }
       }
     },
