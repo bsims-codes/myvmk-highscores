@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-11-19",
-  "userCount": 1579,
+  "userCount": 1580,
   "users": {
     "kazino": {
       "avatar": "97dea0d669a7d8a4d519f83c97f0a4c4.png",
@@ -194,8 +194,8 @@
       "avatar": "167d7d76188212885b1efdbb2a1d1179.png",
       "lastSeen": "2026-11-19",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 4,
+        "game": "haunted-mansion",
+        "rank": 2,
         "date": "2026-11-19"
       },
       "games": {
@@ -2867,11 +2867,11 @@
     },
     "AtziriDayre": {
       "avatar": "98c60d0c08e5b9b0970ada2e4e01ab2c.png",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-19",
       "lastAppearance": {
-        "game": "castle-fireworks",
-        "rank": 5,
-        "date": "2026-11-17"
+        "game": "haunted-mansion",
+        "rank": 3,
+        "date": "2026-11-19"
       },
       "games": {
         "jungle-cruise": {
@@ -4603,11 +4603,11 @@
     },
     "Naiant": {
       "avatar": "6495af0e46cb201d3bc35b4dacb906b3.png",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-11-18"
+        "rank": 8,
+        "date": "2026-11-19"
       },
       "games": {
         "haunted-mansion": {
@@ -13578,7 +13578,7 @@
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-11-19"
       },
       "games": {
@@ -23477,7 +23477,7 @@
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 6,
+        "rank": 5,
         "date": "2026-11-19"
       },
       "games": {
@@ -28761,11 +28761,11 @@
       }
     },
     "Adroit_Antics": {
-      "avatar": "d4605ff52e6231a2d50de29505338a18.png",
+      "avatar": "a9b2cdd3204318af477dbb59ae9bf307.png",
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 1,
         "date": "2026-11-19"
       },
       "games": {
@@ -29578,7 +29578,7 @@
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "castle-fireworks",
-        "rank": 8,
+        "rank": 2,
         "date": "2026-11-19"
       },
       "games": {
@@ -30470,8 +30470,8 @@
       "avatar": null,
       "lastSeen": "2026-11-19",
       "lastAppearance": {
-        "game": "jungle-cruise",
-        "rank": 10,
+        "game": "castle-fireworks",
+        "rank": 4,
         "date": "2026-11-19"
       },
       "games": {
@@ -30675,6 +30675,22 @@
           "bestScore": 1972,
           "date": "2026-11-18",
           "rank": 5
+        }
+      }
+    },
+    "gonzo_the_terrible": {
+      "avatar": null,
+      "lastSeen": "2026-11-19",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-11-19"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 25083,
+          "date": "2026-11-19",
+          "rank": 8
         }
       }
     }
