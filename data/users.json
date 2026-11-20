@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-11-19",
-  "userCount": 1580,
+  "userCount": 1581,
   "users": {
     "kazino": {
       "avatar": "97dea0d669a7d8a4d519f83c97f0a4c4.png",
@@ -23477,7 +23477,7 @@
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 5,
+        "rank": 4,
         "date": "2026-11-19"
       },
       "games": {
@@ -28397,11 +28397,11 @@
     },
     "unitedmagic": {
       "avatar": null,
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-11-18"
+        "rank": 8,
+        "date": "2026-11-19"
       },
       "games": {
         "jungle-cruise": {
@@ -28761,7 +28761,7 @@
       }
     },
     "Adroit_Antics": {
-      "avatar": "a9b2cdd3204318af477dbb59ae9bf307.png",
+      "avatar": "b84d0078ede9ecc5c32de617093c10e6.png",
       "lastSeen": "2026-11-19",
       "lastAppearance": {
         "game": "haunted-mansion",
@@ -30689,6 +30689,22 @@
       "games": {
         "jungle-cruise": {
           "bestScore": 25083,
+          "date": "2026-11-19",
+          "rank": 8
+        }
+      }
+    },
+    "Complexx": {
+      "avatar": null,
+      "lastSeen": "2026-11-19",
+      "lastAppearance": {
+        "game": "jungle-cruise",
+        "rank": 8,
+        "date": "2026-11-19"
+      },
+      "games": {
+        "jungle-cruise": {
+          "bestScore": 33572,
           "date": "2026-11-19",
           "rank": 8
         }

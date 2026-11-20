@@ -1,29 +1,34 @@
 {
   "date": "2026-11-19",
-  "scrapedAt": "2026-11-19T20:21:13.376Z",
+  "scrapedAt": "2026-11-20T02:10:08.999Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
       "today": {
-        "topAvatar": "95b848f87bcdd5fc01abb89b607ee04e.png",
+        "topAvatar": "9bd0408884675467e9a4d1c3ee612978.png",
         "scores": [
           {
             "rank": 1,
+            "username": "VMKNeec",
+            "score": 10974
+          },
+          {
+            "rank": 2,
             "username": "Eliiott",
             "score": 10616
           },
           {
-            "rank": 2,
+            "rank": 3,
             "username": "Merlin-G",
             "score": 6556
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "KLUVVV",
             "score": 5839
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "bluedreamxx",
             "score": 303
           }
@@ -271,7 +276,7 @@
     "haunted-mansion": {
       "name": "Haunted Mansion",
       "today": {
-        "topAvatar": "a9b2cdd3204318af477dbb59ae9bf307.png",
+        "topAvatar": "b84d0078ede9ecc5c32de617093c10e6.png",
         "scores": [
           {
             "rank": 1,
@@ -285,17 +290,17 @@
           },
           {
             "rank": 3,
-            "username": "AtziriDayre",
-            "score": 100
-          },
-          {
-            "rank": 4,
             "username": "PrincessCutezada",
             "score": 100
           },
           {
-            "rank": 5,
+            "rank": 4,
             "username": "LakeLady",
+            "score": 100
+          },
+          {
+            "rank": 5,
+            "username": "AtziriDayre",
             "score": 100
           },
           {
@@ -310,17 +315,17 @@
           },
           {
             "rank": 8,
+            "username": "unitedmagic",
+            "score": 53
+          },
+          {
+            "rank": 9,
             "username": "Naiant",
             "score": 47
           },
           {
-            "rank": 9,
-            "username": "PrinceGeminii",
-            "score": 44
-          },
-          {
             "rank": 10,
-            "username": "scortatia",
+            "username": "PrinceGeminii",
             "score": 44
           }
         ]
@@ -469,7 +474,7 @@
           {
             "rank": 6,
             "username": "Adroit_Antics",
-            "score": 44744
+            "score": 46034
           },
           {
             "rank": 7,
@@ -478,6 +483,11 @@
           },
           {
             "rank": 8,
+            "username": "Complexx",
+            "score": 33572
+          },
+          {
+            "rank": 9,
             "username": "gonzo_the_terrible",
             "score": 25083
           }
