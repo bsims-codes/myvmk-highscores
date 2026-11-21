@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "scrapedAt": "2026-11-21T10:50:10.702Z",
+  "scrapedAt": "2026-11-21T18:58:36.248Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -15,7 +15,7 @@
           {
             "rank": 2,
             "username": "AtziriDayre",
-            "score": 6523
+            "score": 7594
           },
           {
             "rank": 3,
@@ -26,6 +26,11 @@
             "rank": 4,
             "username": "Guest10152294",
             "score": 325
+          },
+          {
+            "rank": 5,
+            "username": "Guest10152296",
+            "score": 90
           }
         ]
       },
@@ -295,23 +300,43 @@
           },
           {
             "rank": 3,
-            "username": "Wavves",
-            "score": 43
+            "username": "unitedmagic",
+            "score": 59
           },
           {
             "rank": 4,
-            "username": "MagicMinnieMare",
-            "score": 39
+            "username": "Expect",
+            "score": 58
           },
           {
             "rank": 5,
             "username": "PrincessCutezada",
-            "score": 36
+            "score": 57
           },
           {
             "rank": 6,
-            "username": "Guest10152295",
-            "score": 23
+            "username": "JustForFun",
+            "score": 46
+          },
+          {
+            "rank": 7,
+            "username": "SpookyBrightFairy",
+            "score": 46
+          },
+          {
+            "rank": 8,
+            "username": "Wavves",
+            "score": 43
+          },
+          {
+            "rank": 9,
+            "username": "AmandaJeanne",
+            "score": 43
+          },
+          {
+            "rank": 10,
+            "username": "MagicMinnieMare",
+            "score": 39
           }
         ]
       },
@@ -429,25 +454,30 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "85b273f6f0fc6b8864571f0b2f648fc4.png",
+        "topAvatar": "95b848f87bcdd5fc01abb89b607ee04e.png",
         "scores": [
           {
             "rank": 1,
+            "username": "Eliiott",
+            "score": 51128
+          },
+          {
+            "rank": 2,
             "username": "Wavves",
             "score": 50389
           },
           {
-            "rank": 2,
-            "username": "Eliiott",
-            "score": 50257
+            "rank": 3,
+            "username": "JustForFun",
+            "score": 50197
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "Merlin-G",
             "score": 39492
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "Guest10152294",
             "score": 39178
           }
