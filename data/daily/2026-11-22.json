@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "scrapedAt": "2026-11-22T10:58:21.109Z",
+  "scrapedAt": "2026-11-22T19:20:35.857Z",
   "games": {
     "castle-fireworks": {
       "name": "Castle Fireworks Remixed",
@@ -133,8 +133,29 @@
     "pirates": {
       "name": "Pirates of the Caribbean",
       "today": {
-        "topAvatar": null,
-        "scores": []
+        "topAvatar": "bbd43b6bc39becd0619c48a8bbb5d4a4.png",
+        "scores": [
+          {
+            "rank": 1,
+            "username": "Erie",
+            "score": 261
+          },
+          {
+            "rank": 2,
+            "username": "Dancing",
+            "score": 255
+          },
+          {
+            "rank": 3,
+            "username": "Exporian",
+            "score": 205
+          },
+          {
+            "rank": 4,
+            "username": "lordmya19",
+            "score": 180
+          }
+        ]
       },
       "yesterday": {
         "topAvatar": "f1c269b4013de9516fe91ea8ac54e638.png",
@@ -192,7 +213,7 @@
         ]
       },
       "highscores": {
-        "topAvatar": "cf7d4a3b2626d4f15a98f1a0d6d3c161.png",
+        "topAvatar": "bbd43b6bc39becd0619c48a8bbb5d4a4.png",
         "scores": [
           {
             "rank": 1,
@@ -274,11 +295,16 @@
           },
           {
             "rank": 5,
+            "username": "kazino",
+            "score": 33
+          },
+          {
+            "rank": 6,
             "username": "Matty",
             "score": 31
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "experiment624",
             "score": 29
           }
@@ -334,7 +360,7 @@
           },
           {
             "rank": 10,
-            "username": "Expect",
+            "username": "SpookyBrightFairy",
             "score": 58
           }
         ]
@@ -379,12 +405,12 @@
           },
           {
             "rank": 8,
-            "username": "Mikki",
+            "username": "LittleGold",
             "score": 142
           },
           {
             "rank": 9,
-            "username": "LittleGold",
+            "username": "Mikki",
             "score": 142
           },
           {
@@ -398,17 +424,17 @@
     "jungle-cruise": {
       "name": "Jungle Cruise",
       "today": {
-        "topAvatar": "f5c2e8469f0325a6de9a5e8289d115f9.png",
+        "topAvatar": "95b848f87bcdd5fc01abb89b607ee04e.png",
         "scores": [
           {
             "rank": 1,
-            "username": "Wavves",
-            "score": 50359
+            "username": "Eliiott",
+            "score": 51039
           },
           {
             "rank": 2,
-            "username": "Eliiott",
-            "score": 50214
+            "username": "Wavves",
+            "score": 50359
           },
           {
             "rank": 3,

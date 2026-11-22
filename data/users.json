@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-11-22",
-  "userCount": 1586,
+  "userCount": 1588,
   "users": {
     "kazino": {
       "avatar": "97dea0d669a7d8a4d519f83c97f0a4c4.png",
@@ -531,7 +531,7 @@
       }
     },
     "Erie": {
-      "avatar": "cf7d4a3b2626d4f15a98f1a0d6d3c161.png",
+      "avatar": "bbd43b6bc39becd0619c48a8bbb5d4a4.png",
       "lastSeen": "2026-11-22",
       "lastAppearance": {
         "game": "pirates",
@@ -4133,11 +4133,11 @@
     },
     "SpookyBrightFairy": {
       "avatar": null,
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 7,
-        "date": "2026-11-21"
+        "rank": 10,
+        "date": "2026-11-22"
       },
       "games": {
         "haunted-mansion": {
@@ -20571,7 +20571,7 @@
       "lastSeen": "2026-11-22",
       "lastAppearance": {
         "game": "haunted-mansion",
-        "rank": 9,
+        "rank": 8,
         "date": "2026-11-22"
       },
       "games": {
@@ -30344,7 +30344,7 @@
       "lastSeen": "2026-11-22",
       "lastAppearance": {
         "game": "pirates",
-        "rank": 7,
+        "rank": 2,
         "date": "2026-11-22"
       },
       "games": {
@@ -30802,6 +30802,38 @@
           "bestScore": 362,
           "date": "2026-11-22",
           "rank": 2
+        }
+      }
+    },
+    "Exporian": {
+      "avatar": null,
+      "lastSeen": "2026-11-22",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 3,
+        "date": "2026-11-22"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 205,
+          "date": "2026-11-22",
+          "rank": 3
+        }
+      }
+    },
+    "lordmya19": {
+      "avatar": null,
+      "lastSeen": "2026-11-22",
+      "lastAppearance": {
+        "game": "pirates",
+        "rank": 4,
+        "date": "2026-11-22"
+      },
+      "games": {
+        "pirates": {
+          "bestScore": 180,
+          "date": "2026-11-22",
+          "rank": 4
         }
       }
     }
